@@ -4,7 +4,7 @@ Hello there!
 
 These are EasyLists for the excellent ad-blocking Pi-Hole! This repo contains 2 lists: EasyList and EasyPrivacy in text format (.txt). The lists are pre-parsed so you do not have to make a parsing script and parse them yourself. All you have to do is add them to your blocklists.
 
-How to add?
+How to add? Read below.
 
 NOTE: Use the RAW link for the lists
 
