@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 Note that this is a RAW link as it starts with raw.githubusercontent
 
 5.Then go down a line by hitting enter on your keyboard and paste the URL of EasyPrivacy:
-https://raw.githubusercontent.com/Pannine/easylists-for-pihole/master/easyprivacy.txt
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
 Also note that this is also a RAW link.
 
 6.Press either Save and Update and wait a bit or press Save. IMPORTANT: If you only press
