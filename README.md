@@ -15,7 +15,7 @@ NOTE: Use the RAW link for the lists
 3.Scroll down until you see a box that says 'Enter one URL per line to add new ad lists'
 
 4.Paste the URL of EasyList:
-https://raw.githubusercontent.com/Pannine/easylists-for-pihole/master/easylist.txt
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 Note that this is a RAW link as it starts with raw.githubusercontent
 
 5.Then go down a line by hitting enter on your keyboard and paste the URL of EasyPrivacy:
