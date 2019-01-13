@@ -27,7 +27,6 @@ Save then you will have to SSH into your Pi or open a terminal on your Pi and ru
 pihole -g
 Then it will pull the lists in and use them.
 
-I will update the lists from time to time.
+!Update - This repo will not be updated further
 
 Enjoy!!!
-
