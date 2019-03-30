@@ -1969,6 +1969,7 @@ analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
+analytics.pinpoll.com
 analytics.plex.tv
 analytics.posttv.com
 analytics.prezly.com
@@ -6956,6 +6957,7 @@ d2gfi8ctn6kki7.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
+d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pxb4n3f9klsc.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
@@ -7811,6 +7813,7 @@ dmeserv.newsinc.com
 dmitted.info
 dmlesitesesistemas.com.br
 dmlevents.com
+dmp.marketgid.com
 dmpbmzbmtr8c40a.jonesnewsletter.com
 dmtrack.xiu.com
 dmtracking.1688.com
@@ -9898,6 +9901,7 @@ flash-ore-update.win
 flashblocks.io
 flashdigitals.com
 flashinku.com
+flashobmen.ru
 flashstats.libsyn.com
 flaviamorlachetti.com
 flavy.fastcomet.site
@@ -12509,6 +12513,7 @@ immonieruchomosci.pl
 imobil-atual-cadas.esy.es
 imonitor.dhgate.com
 imoveisdepiedade.com.br
+imp-media-lab.thenewslens.com
 imp.ad-plus.cn
 imp.appledaily.com
 imp.go.sohu.com
@@ -13693,6 +13698,7 @@ jualsabunberas.com
 jualterpal.com
 jualumni-bd.org
 jubaoke.cn
+jubba.se
 jubilanto.us
 judgeclaims.com
 judijenkins.me
@@ -14950,7 +14956,6 @@ liquidestate.org
 lira-apartmani.com
 liranzeligman.com
 lireek.com
-liron-lib.com
 lisansustu.info
 lish.com.mx
 lisik.pl
@@ -15155,6 +15160,7 @@ log.pinterest.com
 log.prezi.com
 log.r7.com
 log.ren.tv
+log.seekda.com
 log.snapdeal.com
 log.suchen.de
 log.superweb.ws
@@ -16313,6 +16319,7 @@ metrics.el-mundo.net
 metrics.extremetech.com
 metrics.feedroom.com
 metrics.loomia.com
+metrics.n-tv.de
 metrics.scribblelive.com
 metrics.seenon.com
 metrics.sonymusicd2c.com
@@ -18619,6 +18626,7 @@ owaportal.anafabrin.com.br
 oweborangemmssms.000webhostapp.com
 owincoin.com
 owis.loeshotels.net
+owmobmen.ru
 ownfqb3qqhcpapfbe5ia.alfacomercial.com.br
 owona.net
 owuwokosegbe.5gbfree.com
@@ -18956,6 +18964,7 @@ pavypal.com.updateinformationsupport-privacypolicy.loginpage-scauninhc67sagbgy23
 pawotronik.de
 pawstravelandsafaris.com
 paxful-logins.com
+paxful.co.in
 paxvu1.usa.cc
 pay-btc2phone1-refund.000webhostapp.com
 pay-click.rumahweb.org
@@ -21015,6 +21024,7 @@ rentqro.com
 rentskinow.jp
 rentumajiklere.com
 repair-service.com.ua
+repairshoppr.com
 repelmedia.com
 replying3651-americanexpress.com
 repmaeist.usa.cc
@@ -23188,7 +23198,6 @@ simplepleasuresadultstore.com
 simplequiltmaking.com
 simplesmobilidade.com
 simplethings.org
-simplifylifetime.com
 simply-high.co.uk
 simplybuy.biz
 simplycommoncents.com
@@ -23935,6 +23944,7 @@ stat.kbs.co.kr
 stat.ku6.com
 stat.lenta.ru
 stat.matichon.co.th
+stat.mixi.media
 stat.mtv3.fi
 stat.novinky.cz
 stat.nyheter24.se
@@ -24246,7 +24256,6 @@ stoneb.cn
 stonedroplcc.win
 stonefachaleta.com
 stoneprice.ru
-stoneville.bfb.asn.au
 stopagingnews.com
 stopiphone.top
 stoplacrise.biz
@@ -25245,7 +25254,6 @@ thebestdallasbusinesses.org
 thebestpizzadough.com
 thebillinginc.com
 thebluesman.net
-thebombadils.com
 theborderhounds.com
 thebusinessgroup.info
 thecafeasia.co.uk
@@ -25776,6 +25784,7 @@ track.digitalriver.com
 track.dzloans.com
 track.e7r.com.br
 track.engagesciences.com
+track.express.de
 track.ft.com
 track.fxstreet.com
 track.g-bot.net
@@ -25918,6 +25927,7 @@ tracking.cmjump.com.au
 tracking.conduit.com
 tracking.conversion-lab.it
 tracking.conversionlab.it
+tracking.customerly.io
 tracking.ddd.de
 tracking.dealerwebwatcher.com
 tracking.dsmmadvantage.com
@@ -26094,6 +26104,7 @@ trayamentps.com
 trbireysel-ziraatbank-mobilsube.com
 trbireysel-ziraatbank-mobilsubem.com
 trbireysel-ziraatbank-mobilsubesi.com
+trc.pushnami.com
 trck.bdi-services.de
 trck.dlpo.jp
 trck.meinprospekt.de
@@ -26413,7 +26424,6 @@ uldeteggoc.com
 ulearn.co.id
 ulenulen.000webhostapp.com
 ulhldehvcaq9qnbjheszvsfje.science
-ulmwp.org
 ulovky20.tk
 ultimate-brandy.com
 ultimategrey.pw
@@ -27798,7 +27808,6 @@ webprotectionpro.com
 webpurchaseverification-accountwebappid.com
 webradioomegadesobral.com.br
 webrealfast.ru
-webredir.vip.gandi.net
 websalelife.ru
 webscr.cgi-bin.payzen.securesession.net
 websecure.eu
@@ -27851,6 +27860,7 @@ weflywheel90.info
 wefrvfd.igg.biz
 wegwarte.eu
 wehrmachtluftwaffe3213.ru
+weidenerkammerchor.de
 weightloss-ez.com
 weiisfarg.000webhostapp.com
 weilsfarg.000webhostapp.com
@@ -27969,6 +27979,7 @@ werniks.ru
 wertspao.menod3stddn1h.com
 wes-lon.com
 wesre4554tterunionfrancislouis.000webhostapp.com
+westchange.top
 westcoastuniversity-edu.com
 westcountry.ru
 westcriacoes.com.br
@@ -28192,6 +28203,7 @@ wlk76ku8p9.canind.co
 wllfarrgoobaann.000webhostapp.com
 wlotuspro.com
 wm5u.com
+wmglobus.com
 wmglobus.net
 wmmusic.co.uk
 wmtech.website
@@ -28717,6 +28729,7 @@ xemphimhayhd.ga
 xendor.usa.cc
 xenomc.com
 xepkgjkelw.pw
+xeqils.com
 xewokii.com
 xfacebook.vip
 xfacesbook.com
@@ -29162,6 +29175,7 @@ yyjgift.com
 yysscc.com
 yz-sl.cn
 yz3nlqybdzvxqay.science
+yzcizice.uk
 yzn4n91crlxzolm88aceto.download
 yzunited.com
 yzwle.com
@@ -29211,6 +29225,7 @@ zara.vouchers.fashion-promotions.com
 zara11.com
 zarboh-online.com
 zarinakhan.net
+zariya.hu
 zarpp.xyz
 zartashakona.com
 zashgroup.net
@@ -29398,6 +29413,7 @@ zonasegura.bnenlinea.net
 zonasegura1-bn.peruzonasegura.ml
 zonasegura1.bnenlinea.net
 zonasegurabcp.viaobcp.net
+zonasegurasbeta.com
 zonaseguravia1bn.com
 zonaseguravia2bcp.com
 zonaseguraviabcp.enmatissperu.com
