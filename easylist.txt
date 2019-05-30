@@ -6640,6 +6640,7 @@ d2b2x1ywompm1b.cloudfront.net
 d2b560qq58menv.cloudfront.net
 d2b65ihpmocv7w.cloudfront.net
 d2bgg7rjywcwsy.cloudfront.net
+d2c4ylitp1qu24.cloudfront.net
 d2cgumzzqhgmdu.cloudfront.net
 d2cxkkxhecdzsq.cloudfront.net
 d2d2lbvq8xirbs.cloudfront.net
@@ -21937,7 +21938,6 @@ services-updateaccountinformation.com
 services.apple-security.eaveige.ilfsacademy.org
 services.apple-security.khk0l3vf3.ilfsacademy.org
 services.avoidunlimitedaccount.com
-services.brid.tv
 services.notification.cspayment.info
 services.runescape.com-qds.top
 services.runescape.com-qi.top
@@ -26172,7 +26172,6 @@ waschbankcraft.org
 wasgamuwa.co
 watajreda.com
 watchrag.com
-waterandleaves.com
 waterbugsanity.org
 watercircle.net
 watercut.com.my
