@@ -15,21 +15,23 @@ NOTE: Use the RAW link for the lists
 3.Scroll down until you see a box that says 'Enter one URL per line to add new ad lists'
 
 4.Paste the URL of EasyList:
+```
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
+```
 Note that this is a RAW link as it starts with raw.githubusercontent
 
 5.Then go down a line by hitting enter on your keyboard and paste the URL of EasyPrivacy:
+```
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
+```
 Also note that this is also a RAW link.
 
 6.Press either Save and Update and wait a bit or press Save. IMPORTANT: If you only press
 Save then you will have to SSH into your Pi or open a terminal on your Pi and run the command:
+```
 pihole -g
+```
 Then it will pull the lists in and use them.
-
-Update:
-Happy new year!
-I aim to update this once a week (hopefully)
 
 Please post any issues in the issues page on GitHub.
 
