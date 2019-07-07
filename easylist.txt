@@ -621,7 +621,6 @@ a.gifs.com
 a.heavy-r.com
 a.i-sgcm.com
 a.impressionigrafiche.it
-a.kickass.to
 a.killergram-girls.com
 a.larcolaio.it
 a.livesportmedia.eu
@@ -1023,6 +1022,7 @@ ad.digitimes.com.tw
 ad.directmirror.com
 ad.download.cnet.com
 ad.duga.jp
+ad.edugram.com
 ad.eporner.com
 ad.evozi.com
 ad.flux.com
@@ -3102,10 +3102,12 @@ azureaburra.one
 b-triple-t.com
 b-wallet.eu
 b.babylon.com
+b.boyfriendtv.com
 b.fl1xfl1x.dynv6.net
 b.l-a-c.cn
 b.livesport.eu
 b.nt002.cn
+b.pornoxo.com
 b.szwzcf.com
 b.xcafe.com
 b00ryv9r20.de
@@ -26606,7 +26608,6 @@ wllfarrgoobaann.000webhostapp.com
 wlotuspro.com
 wlpinnaclesports.eacdn.com
 wm5u.com
-wmglobus.com
 wmglobus.net
 wmmusic.co.uk
 wnac7dnv3rug9dzvj.gdn

@@ -6069,6 +6069,7 @@ collect2.sas.com
 collection.acromas.com
 collection.theaa.com
 collectivedesigns.net
+collector*.xhamster.com
 collector-*.tvsquared.com
 collector-cdn.github.com
 collector-medium.lightstep.com
@@ -6090,8 +6091,6 @@ collector.sspinc.io
 collector.statowl.com
 collector.tescocompare.com
 collector.trendmd.com
-collector.xhamster.com
-collector1.xhamster.com
 collectorsway.com
 colleenoakley.com
 collegesavngsiowa.com
@@ -16378,6 +16377,7 @@ metrics.apartments.com
 metrics.api.drift.com
 metrics.aviasales.ru
 metrics.aws.sitepoint.com
+metrics.bangbros.com
 metrics.brightcove.com
 metrics.cbn.com
 metrics.cbslocal.com
@@ -19713,6 +19713,7 @@ pixel.tuko.co.ke
 pixel.usrsync.com
 pixel.vmm-satellite2.com
 pixel.wp.com
+pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
 pixel.zumby.io
@@ -19762,9 +19763,7 @@ platnosc.kurierzyplatnosci.online
 platnosc.oplackuriera.online
 plattform.deruwia.de
 plawdcs.net
-play.estream.nu
 play.estream.to
-play.estream.xyz
 play.mix.kinostuff.com
 play.vidzi.tv
 playgas.com.br
@@ -20847,6 +20846,7 @@ rebisihut.com
 rebolyschool.iso.karelia.ru
 rebootmywealth.com
 rebotstat.com
+rec.quartic.pl
 rec.udn.com
 recadastrovotorantim.com
 recallhealing.co.il
@@ -23758,6 +23758,7 @@ sp.poughkeepsiejournal.com
 sp.press-citizen.com
 sp.pressconnects.com
 sp.publicopiniononline.com
+sp.pushsquare.com
 sp.redding.com
 sp.reporternews.com
 sp.rgj.com
@@ -25855,6 +25856,7 @@ track.addevent.com
 track.adintend.com
 track.atom-data.io
 track.bannedcelebs.com
+track.bazonline.ch
 track.bernerzeitung.ch
 track.bluecompany.cl
 track.briskfile.com
@@ -25897,7 +25899,6 @@ track.omgpl.com
 track.parse.ly
 track.prezna.com
 track.pricespider.com
-track.promptfile.com
 track.propelplus.com
 track.pushbullet.com
 track.qcri.org
@@ -28304,7 +28305,6 @@ wlk76ku8p9.canind.co
 wllfarrgoobaann.000webhostapp.com
 wlotuspro.com
 wm5u.com
-wmglobus.com
 wmglobus.net
 wmmusic.co.uk
 wmtech.website
