@@ -33,6 +33,6 @@ pihole -g
 ```
 Then the lists will be downloaded and applied.
 
+I am also planning to make an auto downloader/updater script so lists will always be up to date.
+
 Please post any issues in the issues page on GitHub.
-
-
