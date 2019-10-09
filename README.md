@@ -31,8 +31,8 @@ Save then you will have to SSH into your Pi or open a terminal on your Pi and ru
 ```
 pihole -g
 ```
-Then it will pull the lists in and use them.
+Then the lists will be downloaded and applied.
 
 Please post any issues in the issues page on GitHub.
 
-Enjoy!!!
+
