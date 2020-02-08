@@ -1127,6 +1127,7 @@ adseriwf.beget.tech
 adserver.ads.com.ph
 adsmidlands.000webhostapp.com
 adsports.in
+adtm.chip.de
 adultandteenchallengetexas.org
 adv.drtuber.com
 advance-group-2017.tk
@@ -3703,6 +3704,7 @@ beacon.gutefrage.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
 beacon.indieclicktv.com
+beacon.itmedia.jp
 beacon.livefyre.com
 beacon.lycos.com
 beacon.netflix.com
@@ -3710,6 +3712,7 @@ beacon.nrholding.net
 beacon.nuskin.com
 beacon.riskified.com
 beacon.rum.dynapis.com
+beacon.searchspring.io
 beacon.securestudies.com
 beacon.shazam.com
 beacon.sina.com.cn
@@ -7810,7 +7813,6 @@ dmvidyapeeth.org
 dmzjs.net
 dn34cbtcv9mef.cloudfront.net
 dna.uol.com.br
-dna8twue3dlxq.cloudfront.net
 dncorg.com
 dndchile.cl
 dnliren.com
@@ -12568,7 +12570,6 @@ imonitor.dhgate.com
 imoveisdepiedade.com.br
 imp-media-lab.thenewslens.com
 imp.ad-plus.cn
-imp.appledaily.com
 imp.go.sohu.com
 imp.optaim.com
 imp0ts-gouv-fr-fr.com
@@ -15928,6 +15929,7 @@ marislogistics.000webhostapp.com
 marissaspaced.com
 mariumconsulting.com
 mark-l-metz.com
+mark.isbank.com.tr
 markasmac.com
 markdisaservice.com
 market.facebook.copycatcashsystem.com
@@ -16346,7 +16348,6 @@ metric*.rediff.com
 metric-agent.i10c.net
 metric.inetcore.com
 metric.nwsource.com
-metrics-api.dimensions.ai
 metrics-api.librato.com
 metrics.apartments.com
 metrics.api.drift.com
@@ -18554,6 +18555,7 @@ orangefacture.maitrepx.beget.tech
 orangeinternet.info
 orangorangbodoh.com
 orbanisazionbabon.gq
+orbidder.otto.de
 orbitrative.com
 orbusc.com
 orcfyeyr.beget.tech
@@ -18774,6 +18776,7 @@ pagesecurecheck2017.cf
 pagesecuritys-update.com
 pagesecuritys-updates.com
 pagesfbnotification.cf
+pagesocket.glam.com
 pagessfbmnc.000webhostapp.com
 pageunblckssystem.co.nf
 pageviadropline-documentshareclienthtmlinformationredirection.droppages.com
@@ -19672,6 +19675,7 @@ pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
 pixel.zumby.io
+pixel6.wp.pl
 pixels.livingsocial.com
 pixeluae.ae
 pixie-beauty.com
@@ -20790,6 +20794,7 @@ rebisihut.com
 rebolyschool.iso.karelia.ru
 rebootmywealth.com
 rebotstat.com
+rec-pl.quartic.pl
 rec.udn.com
 recadastrovotorantim.com
 recallhealing.co.il
@@ -24817,6 +24822,7 @@ tag.triboomedia.it
 tagansky-dom-prava.ru
 tagdareharam6.tk
 tagger.opecloud.com
+tagm.tchibo.de
 tags.cdn.circlesix.co
 tags.master-perf-tools.com
 tags.msnbc.com
@@ -25823,6 +25829,7 @@ track.yfret.com
 track.yieldsoftware.com
 track.youniversalmedia.com
 track.zomato.com
+track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
 tracker-api.my.com
@@ -25868,6 +25875,7 @@ tracker.stileo.it
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tiu.ru
+tracker.unbxdapi.com
 tracker.uprinting.com
 tracker.winload.de
 tracker.wordstream.com
