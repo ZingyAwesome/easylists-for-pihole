@@ -1959,6 +1959,7 @@ analytics.mindjolt.com
 analytics.mlstatic.com
 analytics.mouthshut.com
 analytics.moviepilot.de
+analytics.myfidevs.io
 analytics.myfinance.com
 analytics.newscred.com
 analytics.ngfiles.com
@@ -2015,6 +2016,7 @@ analytics.themarketiq.com
 analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
+analytics.tiktok.com
 analytics.tio.ch
 analytics.tout.com
 analytics.tradedoubler.com
@@ -2944,6 +2946,7 @@ atatcross.com
 atatikolo.com
 atax.gamermetrics.com
 atax.teamxbox.com
+atconnect.npo.nl
 atefab.pingfiles.fr
 aten-onoff.top
 atencionalusuario.com
@@ -3289,6 +3292,7 @@ backup-recovery33.xyz
 backup-recovery34.xyz
 backup-recovery35.xyz
 backup-recovery36.xyz
+bacon.section.io
 bacucredicoop.com
 badaonz.com
 badekhanpur.com
@@ -5137,6 +5141,7 @@ cdn-analytics.ladmedia.fr
 cdn-ssl-hosting.com
 cdn1.mysearchresults.com
 cdn1.pebx.pl
+cdn5.nextinpact.com
 cdnbigdata.azureedge.net
 cdnstats.tube8.com
 cdnverify.net
@@ -5914,6 +5919,7 @@ cmisaludocupacional.com
 cmn5uuql6bhafukwc05r.viomil.ro
 cmoooada.istanbul
 cmp.arnnet.com.au
+cmp.channelpartner.de
 cmp.cio.com.au
 cmp.cmo.com.au
 cmp.computerworld.com.au
@@ -5924,6 +5930,7 @@ cmp.dreamlab.pl
 cmp.greenbot.com
 cmp.macworld.co.uk
 cmp.macworld.com
+cmp.osano.com
 cmp.pcworld.co.nz
 cmp.pcworld.com
 cmp.pcworld.idg.com.au
@@ -6043,6 +6050,7 @@ collector-*.tvsquared.com
 collector-api.99designs.com
 collector-cdn.github.com
 collector-medium.lightstep.com
+collector-px0py5pczn.octopart.com
 collector.automote.co.nz
 collector.fiverr.com
 collector.githubapp.com
@@ -6343,6 +6351,8 @@ connectsecureauth.000webhostapp.com
 conquer.wybconsultores.cl
 conquistatucumbre.com.ar
 conradcycles.me
+consent.api.osano.com
+consent.inm.ie
 conservational-book.000webhostapp.com
 considered.fdns.uk
 consolone.it
@@ -6948,7 +6958,7 @@ d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
-d1z2jf7jlzjs58.cloudfront.net
+d20kffh39acpue.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d234h234l.000webhostapp.com
@@ -7541,6 +7551,7 @@ dezavan.ir
 dezclark.com
 dezorgkantelaar.nl
 dfanalytics.dealerfire.com
+dfapvmql-q.global.ssl.fastly.net
 dfasghsd.zecotilss.bid
 dfclamp.com
 dfd45f45gg6h687876k8j7h867.000webhostapp.com
@@ -7989,6 +8000,7 @@ downloadthesefile.com
 downtownturkeytravel.com
 doyouhaveacellphone.com
 dp.dpessoal.com
+dp.shoprunner.com
 dpboxspace.com-ref48932409389434.teckolobsters.co.uk
 dpboxxx.com
 dpe033w.nl
@@ -8281,6 +8293,7 @@ e2i.com.br
 e2parts.com
 e3yt5.at-band-camp.net
 e45-cvb.cashixirbozdur.com
+e77lmzbqou0n-a.akamaihd.net
 e818.com.cn
 ea.auchantelecom.fr
 ea.aujourdhui.com
@@ -8430,6 +8443,7 @@ ecollection.upgd-tec4n.com
 ecollections.anexcdelventhal.com
 ecomanyattahousing.com
 ecomediasmusicales.com.ar
+ecomm.events
 ecommercesalessystem.com
 econocom-sharepoint.com
 economik.com.ve
@@ -8472,6 +8486,7 @@ edited-movieslist.in.net
 editeddsdflogin.usa.cc
 editionsadlib.com
 edmcollections.com
+edmi.nextinpact.com
 edraniecarrentals.co.zw
 edrugsstore.com
 edscomp.ru
@@ -8841,6 +8856,7 @@ eosclassic.network
 eoscountdown.network
 eosgas.io
 eoxzjk.com
+ep00.epimg.net
 epaceclientsv3-orange.com
 epafnrnntudlnzg.usa.cc
 epapersdaily.com
@@ -9162,6 +9178,7 @@ events.jora.com
 events.jotform.com
 events.medio.com
 events.ocdn.eu
+events.practo.com
 events.privy.com
 events.realgravity.com
 events.reddit.com
@@ -10336,6 +10353,7 @@ furoka4y.beget.tech
 furoka8h.beget.tech
 furtbaechler.ch
 furtuosoadvogados.com.br
+fuse.forbes.com
 fuse.loosepattern.com
 fusion.bonniertidskrifter.se
 fusion.tokencrowdsale.online
@@ -10935,6 +10953,7 @@ go-harrml.tk
 go-zeropp-go.ga
 go.jxvector.com
 go.optifuze.com
+go.techtarget.com
 go00gles.000webhostapp.com
 goabeachescorts.com
 goatsmilk.gq
@@ -12581,6 +12600,7 @@ imp-media-lab.thenewslens.com
 imp.ad-plus.cn
 imp.go.sohu.com
 imp.optaim.com
+imp.pvnsolutions.com
 imp0ts-gouv-fr-fr.com
 impayee-octrelais.com
 imperialmedia.co.tz
@@ -12992,6 +13012,7 @@ investoclub.com
 invictaonlini.com.br
 invistaconstrutora.com.br
 invitation-new-drive-share-clear.bottlerockethq.com
+invite.leanlab.co
 invitejs.trustpilot.com
 invoice-best.com
 invoice-subscriptionconfirmation.com
@@ -13743,7 +13764,6 @@ jsxqhr.com
 jsyhxx.com
 jsys.analogpoint.com
 jtecab.se
-jteras.com
 jtmvuwvzlyjmyia.usa.cc
 jtoutfitters.com
 jtpk8.com
@@ -14023,6 +14043,7 @@ keepingbusinesslocal.com
 keetnedidn.com
 kefthymioudevelopment.com
 kegulkso.pw
+keighleynews-gb.keighleynews.co.uk
 keimolankaiku.fi
 keithsanders.com
 kekhk.com
@@ -14858,7 +14879,6 @@ libton.org
 licensing.bitmovin.com
 liceulagromontanvaleni.ro
 liceulogoga.ro
-licinlicin.com.my
 licy.com.br
 lidaergroup.com
 liderkirici.com
@@ -15358,6 +15378,7 @@ logstat.caixin.com
 logwoodonline.com
 logx.mtime.cn
 logx.mtime.com
+logx.optimizely.com
 logz.ikimfm.my
 loitran.ml
 lojabalu.com
@@ -15400,6 +15421,7 @@ loosho.com.br
 lootloo.net23.net
 lord16.com
 lordhave.net
+lore.circulate.com
 lorel.fr
 lorenzobachman.ca
 lorineblattner.com
@@ -15436,6 +15458,7 @@ lowekeyana.co
 loxodo-analytics.ext.nile.works
 loymjk0z-site.btempurl.com
 lp.sa-baba.co.il
+lp.searchmulty.com
 lpcloudsvr302.com
 lpdxwwi0-site.itempurl.com
 lplo1ghs-site.1tempurl.com
@@ -15512,6 +15535,7 @@ lucasweb.com.br
 luceatcounseling.com
 lucepropertiesofrockport.com
 luchielle.com
+lucid.mjhassoc.com
 lucid.trslack.com
 lucillerodg.club
 lucinhajoias.com
@@ -16111,7 +16135,7 @@ mcalert4s.com
 mcalighting.com
 mcandrewjewellery.com.au
 mcbassessoria.com.br
-mcdp-sadc1.outbrain.com
+mcdp-*.outbrain.com
 mcesg.com
 mcika.mbcelebrancy.com.au
 mcivor.gen.nz
@@ -16356,6 +16380,7 @@ metodologianui.uni5.net
 metric*.rediff.com
 metric-agent.i10c.net
 metric.inetcore.com
+metric.ipv6test.net
 metric.nwsource.com
 metrics-api.librato.com
 metrics.apartments.com
@@ -16638,6 +16663,7 @@ mmedia.pl
 mmexe.com
 mmi.bemobile.ua
 mmm-global.gq
+mmm.carbuyer.co.uk
 mmm.theweek.co.uk
 mmobitech.com
 mmonius4spz75qszqq0s.littlematchagirl.com.au
@@ -16652,6 +16678,7 @@ mms.coachmag.co.uk
 mms.deadspin.com
 mms.expertreviews.co.uk
 mms.gizmodo.com
+mms.gocomics.com
 mms.gulflive.com
 mms.jalopnik.com
 mms.jezebel.com
@@ -16887,7 +16914,6 @@ mormont.gamer-network.net
 morningdiaries.com
 moroccomills.com
 morpheus.com.tr
-mortenhvid.dk
 mortezare.ir
 mortimerdesign.ie
 morzindgikay.com
@@ -17009,6 +17035,7 @@ mtmoriahcogic.org
 mtnet.ro
 mtquiz.blufysh.com
 mtr2000.net
+mtrcs.samba.tv
 mtrytj.download
 mts-ws.rueducommerce.fr
 mtsnu-miftahululum.sch.id
@@ -17845,6 +17872,7 @@ ninahosts.com
 nincneeroinkc.com
 nincom.nl
 ninja-pattaya.com
+ninja.akamaized.net
 ninja.onap.io
 ninjacashmachine.com
 ninjafy.com
@@ -18698,6 +18726,7 @@ p-heng.com
 p-log.ykimg.com
 p.adbrn.com
 p.aty.sohu.com
+p.eyebuydirect-cmr.net
 p.gazeta.pl
 p.milliyet.com.tr
 p.pagesjaunes.fr
@@ -18785,6 +18814,7 @@ pages-support.000webhostapp.com
 pagesecurecheck2017.cf
 pagesecuritys-update.com
 pagesecuritys-updates.com
+pagesense-collect.zoho.com
 pagesfbnotification.cf
 pagesocket.glam.com
 pagessfbmnc.000webhostapp.com
@@ -20083,7 +20113,6 @@ prinstoneds.com
 printcalendars.com.au
 printerco.net
 printerplastics.com
-printhyd.com
 printingpune.in
 printquote.co.za
 prints.win
@@ -20543,6 +20572,7 @@ quiltedbloomfabricsandsewing.visionpush.com
 quiltsforcomfort.org
 quinnsparby.com
 quiromasajemaricarmen.com
+quiz.stroeermediabrands.de
 qujnukg.info
 quocho7t.beget.tech
 quod3pr0bjk0lszjgik2.littlematchagirl.com.au
@@ -20808,7 +20838,6 @@ rebotstat.com
 rec-pl.quartic.pl
 rec.udn.com
 recadastrovotorantim.com
-recallhealing.co.il
 recargadupla.com
 receivepayments-interac.com
 rechnung.safenet21.top
@@ -21119,6 +21148,7 @@ resolvedari.com
 resolvedlittlered.com
 resourcecamp.myjino.ru
 resourcesubmitter.com
+responder.wt.heise.de
 response.pure360.com
 responsegenie.com
 respro.softhofhosting.com
@@ -21303,6 +21333,7 @@ rmsocceracademy.com
 rn.hkfklflkggnow.com
 rnb51.com
 rnconsultoriaeprojetos.com.br
+rndntpmgnj-a.akamaihd.net
 rnhbhnlmpvvdt.com
 rnqdlprwd.pw
 rnsarl-cg.com
@@ -21511,6 +21542,7 @@ ruigena.com
 ruivabretof.com
 rujva.co.uk
 rukn-aljamal.com
+rum.conde.io
 rum.marquardmedia.hu
 rum.nccgroup-webperf.com
 rumahhufazh.or.id
@@ -21839,7 +21871,6 @@ safetycenntre2018.000webhostapp.com
 safetyfb2018.000webhostapp.com
 safetygroup.com.ec
 safetyking.ae
-safetyking.com.my
 safetyscan.biz
 safetyscan.co
 safetyscan.info
@@ -22781,6 +22812,7 @@ sgikjkjftfg.webstarterz.com
 sgmnt.ticketswap.com
 sgmoneycollections.com
 sgpes.trt11.jus.br
+sgphctileh-a.akamaihd.net
 sgqcvfjvr.onet.pl
 sguoikjkgh.webstarterz.com
 sgx3.cloudhost.id
@@ -22930,6 +22962,7 @@ shophanghot.net
 shopiancarter.net
 shopiastore.com
 shopismes.info
+shopmetric.rediff.com
 shopmoreapplicat.myjino.ru
 shoppfordeals.com
 shoppingcardscode.win
@@ -22977,6 +23010,7 @@ shubhbhawna.com
 shutdown.cgffood.vn
 shzrsy.net
 shzwnsarin.com
+siambiznews.com
 siamfingerscan.com
 siamwininganddining.com
 sicbweb.com
@@ -24055,6 +24089,7 @@ stats.digg.com
 stats.digital-natives.de
 stats.dnaindia.com
 stats.edicy.com
+stats.extremetech.com
 stats.eyeviewdigital.com
 stats.fd.nl
 stats.fittkaumaass.de
@@ -24745,6 +24780,8 @@ t-complextestosterone.info
 t-staging.powerreviews.com
 t.9gag.com
 t.a3cloud.net
+t.adlpo.com
+t.allmodern.com
 t.appsflyer.com
 t.beopinion.com
 t.bimvid.com
@@ -24764,6 +24801,7 @@ t.flux.com
 t.freelancer.com
 t.hypers.com.cn
 t.indeed.com
+t.jossandmain.com
 t.kck.st
 t.kelkoogroup.net
 t.leady.com
@@ -24786,6 +24824,7 @@ t.sgc.io
 t.sharethis.com
 t.smile.eu
 t.upajs.co
+t.wayfair.ca
 t.wayfair.co.uk
 t.wayfair.com
 t.wayfair.de
@@ -24830,6 +24869,7 @@ tag.aticdn.net
 tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
+tag.goldenbees.fr
 tag.leadplace.fr
 tag.myplay.com
 tag.rightmessage.com
@@ -24838,6 +24878,7 @@ tag.sonymusic.com
 tag.triboomedia.it
 tagansky-dom-prava.ru
 tagdareharam6.tk
+tagger.ope.scmp.com
 tagger.opecloud.com
 taglocker.target.com
 tagm.tchibo.de
@@ -25253,6 +25294,7 @@ theaccountsechelpa.co.uk
 theaceexports.com
 theaffirnityseafood.com
 thearcticoiler.com
+theargus-gb.theargus.co.uk
 theaylesbeareinn.co.uk
 theazforum.com
 thebarnweddingphotographer.com
@@ -25551,6 +25593,8 @@ tmhouserent.trade
 tmjitzfa9sh5s6j4iaz4.littlematchagirl.com.au
 tmlloyd.com
 tms-st.cdn.ngenix.net
+tms.eharmony.ca
+tms.eharmony.co.uk
 tmtoys.com.vn
 tnla.thenewslens.com
 tnlconstruction.com
@@ -25756,7 +25800,6 @@ tr.snapchat.com
 tr.webantenna.info
 tr.werkenntwen.de
 tr1.mailperformance.com
-tra.scds.pmdstatic.net
 trabalheondequiser.com.br
 traccoon.intellectsoft.net
 tracehagan.com
@@ -25803,6 +25846,7 @@ track.mopo.de
 track.mycliplister.com
 track.netzero.net
 track.ning.com
+track.noddus.com
 track.omg2.com
 track.omgpl.com
 track.pnicnik.live
@@ -25952,6 +25996,7 @@ tracking.lengow.com
 tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
+tracking.menamarketplace.com
 tracking.military.com
 tracking.mindshare.de
 tracking.mobile.de
@@ -26129,6 +26174,7 @@ trk.flazio.com
 trk.freepik.com
 trk.m.libero.it
 trk.sele.co
+trk.techtarget.com
 trk.vindicosuite.com
 trk132.benchurl.com
 trlmpo.com
@@ -26374,6 +26420,7 @@ ugyenacademy.edu.bt
 uhjpawkokhyypinol.pw
 uhlandstrasse.de
 uhqweueqovu4jq5qk3qu.mbservicesyorkshire.co.uk
+uhytajrtpo-a.akamaihd.net
 uhzgftmjan6avtcvkrhu.littlematchagirl.com.au
 uiaolsmnydtrsa.co
 uicivvoeglxnbthvevxs.com
@@ -26464,7 +26511,6 @@ uniclasscliente.tk
 unicombud.kiev.ua
 unicomerp.com
 unicomnetwork.com.fj
-unid.go.com
 unidasfarma.com.br
 unifiedpurpose.org
 uniformhub.net
@@ -26788,6 +26834,7 @@ users-help-centre.000webhostapp.com
 users-info-confirm.com
 users-logined.loan
 users-support-de.ga
+users.techtarget.com
 usersegment.wpdigital.net
 usersessionadctivetokenguartedgrantedversionrenewbrowser0319.oxmomrzatami.com
 userwebassistance.000webhostapp.com
@@ -28805,6 +28852,7 @@ xn--etherem-y24c.com
 xn--ethrdelta-iib.com
 xn--fiqs8s1vdh24ati0a.com
 xn--fuson-1sa.org
+xn--localbitcins-vcd.com
 xn--localitcoins-bh4f.net
 xn--medim-9d2b.com
 xn--mercadobtcon-zfbd.com
@@ -29208,6 +29256,7 @@ zal-inkasso.net
 zalanmanbuege.com
 zalkrjkruyzh.com
 zam.horizonbeverage.org
+zam.nextinpact.com
 zamanlar2.com
 zamaramusic.es
 zamitech.com
