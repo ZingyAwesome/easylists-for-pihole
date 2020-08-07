@@ -8,6 +8,10 @@ How to add? Read below.
 
 NOTE: Use the RAW link for the lists.
 
+
+----
+Old instructions | PiHole below 5.0
+
 1. Log in to the Pi-Hole Admin page.
 
 2. Go to Settings > Block Lists
@@ -33,6 +37,32 @@ pihole -g
 ```
 The lists will be applied to your Pi-Hole.
 
-I am also planning to make an auto downloader/updater script so lists will always be up to date.
+
+----
+New Instructions | PiHole 5.0 and above
+
+As of PiHole 5.0, the steps to add new lists have changed.
+
+1. Log in to the Pi-Hole Admin page.
+
+2. Go to Group Management > Adlists
+
+3. Paste the URL of EasyList in the address box, you can optionally add a description in the comment box such as "Easylist".
+```
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
+```
+Click add.
+
+5. Paste the URL of EasyPrivacy in the address box, you can optionally add a description in the comment box such as "Easyprivacy":
+```
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
+```
+Click add.
+
+6. Go to Tools > Update Gravity and click the update button.
+
+----
+
+I am also planning to make an auto downloader/updater script so lists will always be up to date. (As of PiHole 5.0, lists are now stored in a database making this harder. Hopefully I will have it ready soon!)
 
 Please post any issues in the issues page on GitHub.
