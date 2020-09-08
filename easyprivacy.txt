@@ -632,9 +632,9 @@ a0218249.xsph.ru
 a0liasoleadersrfectearchcustohihingnepelectione.com
 a1sec.com.au
 a1trafficticketdefense.com
-a2-eng.spankbang.com
 a2132959.0lx.net
 a2btrans.pl
+a2x-eng.spankbang.com
 a2yglass.com.my
 a2zeeholidays.com
 a3designs.com.au
@@ -1873,6 +1873,7 @@ analytics-cms.whitebeard.me
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
 analytics-scripts.cablelabs.com
+analytics-sg.tiktok.com
 analytics-static.ugc.bazaarvoice.com
 analytics.163.com
 analytics.30m.com
@@ -1941,6 +1942,7 @@ analytics.inform.com
 analytics.iraiser.eu
 analytics.islamicfinder.org
 analytics.jabong.com
+analytics.jst.ai
 analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
@@ -2031,6 +2033,7 @@ analytics.us.archive.org
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vendemore.com
+analytics.video.meredithcorp.io
 analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
@@ -3257,6 +3260,7 @@ b-triple-t.com
 b-wallet.eu
 b.bedop.com
 b.fl1xfl1x.dynv6.net
+b.gemini.yahoo.com
 b.imwx.com
 b.l-a-c.cn
 b.myspace.com
@@ -4568,6 +4572,7 @@ brooksmadonald.com
 brown-paper-packages-sa.com
 browscience.com
 browser-updater.yandex.net
+browser.sentry-cdn.com
 brsantandervangohbr.com
 brucecrafts.com
 bruceelliottfashions.com
@@ -5844,6 +5849,7 @@ clicks.dealer.com
 clicks.hurriyet.com.tr
 clicks.traffictrader.net
 clicktale.pantherssl.com
+clicktime.symantec.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-center-account-update-security-service.a1049rfjewigf.tresquarteres.cat
@@ -7006,6 +7012,7 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2r7bmv6l6bnd1.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
@@ -7398,6 +7405,7 @@ delhaizegruop.com
 delhiportafine.com
 delhitrollywheels.com
 delights.pk
+deliver.oztam.com.au
 deliver.ptgncdn.com
 deliverkart.com
 delivery2u.com.my
@@ -9276,6 +9284,7 @@ exclusive-collections.com
 exclusiveholidayresorts.com
 exclusivobraatendimento.com
 exd4.destinia.com.au
+execution-ci360.rai.it
 executivebillard.com
 executivedocss.website
 executiveimagenutrition.com
@@ -10685,8 +10694,11 @@ gentlemanbanker.net
 gentlemanfound.net
 gentlemantrouble.net
 gentleshoe.com
+geo-eu.snigelweb.com
+geo-us.snigelweb.com
 geo.6play.fr
 geo.battle.net
+geo.emol.cl
 geo.ertya.com
 geo.gorillanation.com
 geo.homepage-web.com
@@ -11633,7 +11645,6 @@ havventoken.com
 havventoken.net
 hawaiianbodywork.com.au
 hawen.io
-hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 hayagriva.co.in
 hayanbit.com
 hayantar.am
@@ -13101,6 +13112,7 @@ ip2c.landscape.co.jp
 ipapi.tmbi.com
 ipbazaar.ca
 ipc-outdoor.com
+ipcheck.blogsys.jp
 ipekyoluaraz.com
 ipesa.galetto.com.ar
 ipforverif.com
@@ -14551,7 +14563,6 @@ l-assurance-maladie-gouv-public.fr-particuliers.playgolfbali.com
 l.m.naver.com
 l.ooyala.com
 l.player.ooyala.com
-l.popin.cc
 l.sharethis.com
 l0gin-area.ml
 l0ohpwfz-site.atempurl.com
@@ -14784,6 +14795,7 @@ leaflet-map-generator.com
 league-brute-force.tk
 leahram.daimlercruiz.ml
 leanerqa.com
+leanproconsulting.com.br
 learn2blean.com
 learnerjourney.com.au
 learnhers.net
@@ -15282,6 +15294,7 @@ log.circle.com.ng
 log.cizion.com
 log.codemarketing.cloud
 log.ecgh.dk
+log.etoday.co.kr
 log.f-tra.com
 log.flight.qunar.com
 log.go.com
@@ -15310,6 +15323,7 @@ log.superweb.ws
 log.suumo.jp
 log.sv.pandora.tv
 log.tagtic.cn
+log.targetpush.co.kr
 log.ttbc-hcm.gov.vn
 log.wat.tv
 log.webnovel.com
@@ -16231,6 +16245,7 @@ mdtemmanouil.gr
 mdwyerle.myhostpoint.ch
 mearrs.com
 measure.ameblo.jp
+measure.refinery89.com
 mebankonline.com
 mebel-astoria.in.ua
 mebel-eko.com
@@ -16755,6 +16770,7 @@ mms.silive.com
 mms.splinternews.com
 mms.syracuse.com
 mms.theroot.com
+mms.wwe.com
 mmsbeauty.com
 mmtccchhhhh.000webhostapp.com
 mnagedstrstore.storeinfoapps3.homeidppservdubspeed.com
@@ -16926,6 +16942,7 @@ moneymakingnews.xyz
 moneytreebillingllc.com
 monidopo.bee.pl
 moniquerer23.com
+monitor.ebay.com
 monjuticlub.com
 monolithindia.com
 monsieuradz.zapto.org
@@ -17992,6 +18009,7 @@ node82.btc-giveaway.info
 nodepositwebdesign.com
 nodika.info
 noeldansleparc.com
+noflake-aggregator-http.narvar.com
 nohidepors.com
 noithatadong.net
 noithatecohomes.com
@@ -18794,7 +18812,6 @@ p.travelsmarter.net
 p.yotpo.com
 p0stepay-it.com
 p0stepay-p0ste-it-start-lista-m0vimenti-accedi-utent001928.25u.com
-p2-eng.spankbang.com
 p2nindonesia.com
 p388851.mittwaldserver.info
 p3b.or.id
@@ -19642,6 +19659,7 @@ phyldixon.com
 physiocare.pk
 pi-chin-cha.webcindario.com
 pi.feedsportal.com
+pi.ispot.tv
 pi.technik3d.com
 pianotravel.com
 piaplo.group
@@ -19753,6 +19771,7 @@ pixel.fanbridge.com
 pixel.glimr.io
 pixel.homebook.pl
 pixel.honestjohn.co.uk
+pixel.ionos.fr
 pixel.naij.com
 pixel.newscgp.com
 pixel.newscred.com
@@ -19760,7 +19779,6 @@ pixel.newsdiscover.com.au
 pixel.pcworld.com
 pixel.propublica.org
 pixel.prosieben.de
-pixel.reddit.com
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel.solvemedia.com
@@ -20462,6 +20480,7 @@ putunlogstashdma.net
 puzzlesgaming.com
 pv.hd.sohu.com
 pv.ltn.com.tw
+pv.pjtsu.com
 pv.sohu.com
 pv.udn.com
 pv.xcar.com.cn
@@ -21609,6 +21628,8 @@ ruigena.com
 ruivabretof.com
 rujva.co.uk
 rukn-aljamal.com
+rum.azion.com
+rum.azioncdn.net
 rum.conde.io
 rum.kobo.com
 rum.marquardmedia.hu
@@ -21639,6 +21660,7 @@ rv.modanisa.com
 rva.outbrain.com
 rvfwqsekd.com
 rvkcpqz.com
+rvv.emol.com
 rvweigh.com
 rvwsculpture.com
 rvwvzw.com
@@ -23810,6 +23832,7 @@ sp.mycentraljersey.com
 sp.naplesnews.com
 sp.naver.com
 sp.newarkadvocate.com
+sp.news-journalonline.com
 sp.news-press.com
 sp.newsleader.com
 sp.northjersey.com
@@ -24109,6 +24132,7 @@ stat.tiara.kakao.com
 stat.tildacdn.com
 stat.tvigle.ru
 stat.uuu9.com
+stat.valica.it
 stat.web-regie.com
 stat.webevolutis.com
 stat.ws.126.net
@@ -24126,6 +24150,7 @@ statisense.com
 statistic.qzone.qq.com
 statistic.takungpao.com
 statistics.crowdynews.com
+statistics.fppressa.ru
 statistics.jfmedier.dk
 statistics.klicktel.de
 statistics.raiffeisen.ch
@@ -24206,6 +24231,7 @@ stats.oui.sncf
 stats.ozwebsites.biz
 stats.pandora.com
 stats.paste2.org
+stats.phoenix-widget.com
 stats.piaggio.com
 stats.polldaddy.com
 stats.proff.no
@@ -24224,6 +24250,7 @@ stats.slideshare.net
 stats.smartclip.net
 stats.someecards.com
 stats.splinder.com
+stats.stylight.it
 stats.tazeros.com
 stats.technopia.it
 stats.teledyski.info
@@ -24262,6 +24289,7 @@ stats3.unrulymedia.com
 statsapi.screen9.com
 statsd.zmags.com
 statsdev.treesd.com
+statsmp2.emol.com
 statstracker.celebrity-gossip.net
 statt-collect.herokuapp.com
 statystyki.panelek.com
@@ -24977,6 +25005,7 @@ tags.master-perf-tools.com
 tags.msnbc.com
 tags.newscgp.com
 tags.op-palvelut.fi
+tags.refinery89.com
 tagx.nytimes.com
 taherimay.com
 tainguyensaefood.com
@@ -25044,6 +25073,7 @@ tarati.se
 targer.co.za
 target.mirtesen.ru
 target.mixi.media
+target.nejm.org
 target.smi2.net
 target.smi2.ru
 target.ukr.net
@@ -25894,6 +25924,7 @@ tr.cloud-media.fr
 tr.connatix.com
 tr.discuss.com.hk
 tr.interlake.net
+tr.marsflag.com
 tr.n2.hk
 tr.price.com.hk
 tr.snapchat.com
@@ -26097,7 +26128,6 @@ tracking.mycapture.com
 tracking.netvigie.com
 tracking.netzathleten-media.de
 tracking.nextdoor.com
-tracking.notizie.it
 tracking.novem.pl
 tracking.oe24.at
 tracking.olx-st.com
@@ -26333,10 +26363,15 @@ tsvpn367.ru
 tswgqcseq.com
 tta-property.fi
 ttanger.000webhostapp.com
+ttauri.bikeperfect.com
 ttauri.creativebloq.com
 ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.loudersound.com
+ttauri.musicradar.com
+ttauri.nexttv.com
+ttauri.space.com
+ttauri.t3.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 ttauri.whathifi.com
@@ -26458,6 +26493,10 @@ u0477674.cp.regruhosting.ru
 u0482802.cp.regruhosting.ru
 u0c6swthha.arorazphotoworld.com
 u4.aktivwebsitedesign.com
+u44.pnc.com
+u45.pnc.com
+u46.pnc.com
+u47.pnc.com
 u4vf9amd0irgpu3rfq.stream
 u532344488.hostingerapp.com
 u6091953.ct.sendgrid.net
@@ -26821,6 +26860,7 @@ urnsforpets.net
 uroc.info
 urpchelp55.xyz
 urpindia.in
+urs.metacritic.com
 urtechfriend.com
 urtracker.q-sis.de
 urvasiodissi.com
@@ -27377,6 +27417,7 @@ viewlocation.link
 viewmatchprofiles.com
 viewmymatchpics.com
 viewphoto.io
+views.cancan.ro
 viewsfile.com
 viewssheetssxxxc.com
 viewthisimagecle.myjino.ru
