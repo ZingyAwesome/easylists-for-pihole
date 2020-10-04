@@ -550,7 +550,6 @@
 90900.com
 90905.000webhostapp.com
 90s.co.nz
-91.196.216.64
 910457-deu-prob-sicherheit-account.vorkehrung-sicherheitssystem.ml
 911.sos-empleados.net
 911718.net
@@ -634,7 +633,6 @@ a1sec.com.au
 a1trafficticketdefense.com
 a2132959.0lx.net
 a2btrans.pl
-a2x-eng.spankbang.com
 a2yglass.com.my
 a2zeeholidays.com
 a3designs.com.au
@@ -1008,6 +1006,8 @@ acuraonline.co.nz
 acusticjjw.pl
 ad-beacon-v01.uliza.jp
 ad-blockeds.com
+ad-log.dable.io
+ad.daum.net
 ad.words-google.com
 ad0be.review
 ad7.bigmir.net
@@ -1163,6 +1163,7 @@ aedaenotmtuthotndsorraisepa.com
 aeep.com.au
 aegis.anyhome.co.kr
 aegis.secure-orders.net
+aem-collector.daumkakao.io
 aeonwarehousing.com
 aerakis.com
 aerfal.ga
@@ -1914,7 +1915,6 @@ analytics.cynapse.com
 analytics.datahc.com
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
-analytics.dol.gr
 analytics.dvidshub.net
 analytics.ecosia.org
 analytics.edgekey.net
@@ -1941,12 +1941,12 @@ analytics.infobae.com
 analytics.inform.com
 analytics.iraiser.eu
 analytics.islamicfinder.org
-analytics.jabong.com
 analytics.jst.ai
 analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
 analytics.ladmedia.fr
+analytics.linktr.ee
 analytics.live.com
 analytics.liveact.cri-mw.jp
 analytics.livestream.com
@@ -2049,7 +2049,6 @@ analytics.ziftsolutions.com
 analytics00.meride.tv
 analytics2.socialblade.com
 analyticsengine.s3.amazonaws.com
-analyticsv2.dol.gr
 analyticworks.ca
 analyze.full-marke.com
 analyzer.fc2.com
@@ -3199,6 +3198,7 @@ awe.usa.shedbd.org
 aweisser.cl
 aweiwewewui.com
 awejwuewye.org
+awesome.section.io
 awilcodrlling.com
 awpos.com
 aws2.support
@@ -4742,7 +4742,6 @@ c.live.com
 c.mgid.com
 c.perlentaucher.de
 c.setterlistjob.biz
-c.t-online.de
 c.wen.ru
 c.wort-suche.com
 c.x.oanda.com
@@ -5849,7 +5848,6 @@ clicks.dealer.com
 clicks.hurriyet.com.tr
 clicks.traffictrader.net
 clicktale.pantherssl.com
-clicktime.symantec.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-center-account-update-security-service.a1049rfjewigf.tresquarteres.cat
@@ -5913,6 +5911,7 @@ cloud.pdf.sukunstays.com
 cloud02.conquistasc.com
 cloud954.org
 cloudcreations.in
+clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
 cloudfrontage.com
 cloudintelligentbd.com
@@ -6072,7 +6071,6 @@ colfermonzasrl.it
 colinabpce.com
 colinjwhite.com
 collect..miui.com
-collect.adback.co
 collect.igodigital.com
 collect.rewardstyle.com
 collect.state.centrum24.pl
@@ -6435,6 +6433,7 @@ contadores.miarroba.es
 contapessoajuridica.com
 contatoatendimento.com
 contatocliente-sac.com.br
+contents-tracking.beop.io
 conti-tochitochi.jp
 continertal-pe.win
 continue-now.id
@@ -6823,6 +6822,7 @@ cspage2018.000webhostapp.com
 cspage2018go.000webhostapp.com
 csr.onet.pl
 csszsz.hu
+cstats.sankakucomplex.com
 cstectrain.infotec-carestreamdental.com
 ct.needlive.com
 ct.pinterest.com
@@ -6996,6 +6996,7 @@ d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
+d1yu67rmchodpo.cloudfront.net
 d20kffh39acpue.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
@@ -7079,7 +7080,6 @@ dafnpgrvujrsmjkbkdd.com
 daft.ie.login4xbf.gdn
 daftarsituspoker.net
 daganganpepak.id
-dagda.vilynx.com
 daguogroup.com
 daibio.com
 daihatsuarmadapurwokerto.com
@@ -7297,6 +7297,7 @@ dcrgroup.net
 dcvaad06ad-system.esy.es
 dcxbmm.com
 dd-seo.cn
+dd.nytimes.com
 dd6zx4ibq538k.cloudfront.net
 ddasdeadmsilatmaiui.arlamooz.net
 ddcmczmw4qynrqak6.gdn
@@ -8378,7 +8379,6 @@ ea.pixmania.fi
 ea.pixmania.ie
 ea.pixmania.it
 ea.pixmania.nl
-ea.pixmania.pl
 ea.pixmania.se
 ea.placedestendances.com
 ea.rentacar.fr
@@ -9191,6 +9191,7 @@ event-analytics.yesware.com
 event-api.contactatonce.co.uk
 event-api.contactatonce.com.au
 event-api.contactatonce.com
+event-api.reverb.com
 event-coin-claim.000webhostapp.com
 event-collector.udsrv.com
 event-listener.air.tv
@@ -9211,7 +9212,6 @@ eventosbacus.com
 events-coin-clem.000webhostapp.com
 events-egiftsent.000webhostapp.com
 events.air.tv
-events.antenna.is
 events.apester.com
 events.avantisvideo.com
 events.brightline.tv
@@ -9224,6 +9224,7 @@ events.ingatlan.com
 events.izooto.com
 events.jora.com
 events.jotform.com
+events.matterport.com
 events.medio.com
 events.ocdn.eu
 events.practo.com
@@ -9231,7 +9232,6 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
-events.secureserver.net
 events.sk.ht
 events.tubecup.org
 events.turbosquid.com
@@ -10022,6 +10022,7 @@ fkj8.com
 fkjxzzc.com
 fknkdd12.com
 fkovkvdmupunethwtg.com
+fkrkkmxsqeb5bj9r.s3.amazonaws.com
 flafinanziaria.it
 flairforcare.co.uk
 flash-ore-update.win
@@ -10470,12 +10471,23 @@ g0rj1om33t.ru
 g1hmcmp.com
 g1qv3lmzi5jtp2szkqem.viomil.ro
 g1thub.com
+g2178927685.co
+g2377012020.co
+g2575096355.co
+g2773180690.co
+g2971265025.co
 g2insights-cdn.azureedge.net
 g2pivmz5jm.w0sjkfrwzz.chproperties.com
 g2rburn.com
+g3169349360.co
+g3367433695.co
 g33kl1f3.com
+g3565518030.co
+g3763602365.co
+g3961686700.co
 g3i9prnb.myutilitydomain.com
 g3prints.com
+g4159771035.co
 g48ky2.tvcjp.gq
 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
 g4p.redtram.com
@@ -10707,8 +10719,8 @@ geo.mezr.com
 geo.mtvnn.com
 geo.nbcsports.com
 geo.ngtv.io
-geo.play.it
 geo.q5media.net
+geo.thehindu.com
 geo.xcel.io
 geo.yahoo.com
 geobar.ziffdavisinternational.com
@@ -10983,7 +10995,6 @@ globlaelectronic.com
 globocomm.org
 globofesta.agropecuariacaxambu.com.br
 gloda.org.za
-glogger.inspcloud.com
 glok12.ru
 glondis.cn
 gloomy.ml
@@ -14555,6 +14566,7 @@ kwenzatrading.co.za
 kycrystalwater.com
 kyliebates.com
 kylik79.beget.tech
+kyson.kakao.com
 kyznyavavilon.esy.es
 kzhqzx.com
 kzvuc.biz
@@ -14562,6 +14574,7 @@ l-assurance-maladie-gouv-public.fr-particuliers.playgolfbali.com
 l.m.naver.com
 l.ooyala.com
 l.player.ooyala.com
+l.popin.cc
 l.sharethis.com
 l0gin-area.ml
 l0ohpwfz-site.atempurl.com
@@ -15441,7 +15454,6 @@ logs-api.shoprunner.com
 logs-qos.tf1.fr
 logs.51cto.com
 logs.dashlane.com
-logs.datadoghq.com
 logs.datadoghq.eu
 logs.gaana.com
 logs.ggweb.nl
@@ -16475,14 +16487,13 @@ metrics.extremetech.com
 metrics.n-tv.de
 metrics.readme.io
 metrics.scribblelive.com
-metrics.seenon.com
 metrics.sonymusicd2c.com
 metrics.ted.com
 metrics.toptenreviews.com
 metrics.uol.com.br
 metrics.washingtonpost.com
 metrics.wikinvest.com
-metrigo.zalan.do
+metrix.emagister.com
 metrixlablw.customers.luna.net
 metroenterpriseusa.com
 metropolemotors.com
@@ -18616,6 +18627,7 @@ ookatthat.tokofawaid.co.id
 ooooooofffiiivveccceemmmmmaaaaaa.000webhostapp.com
 ooooooooooooofliceeeeeeeee.000webhostapp.com
 oopiqwueqwejnsa.com
+oops.redditmedia.com
 oovelearning.co.nz
 oparatoeur5574.operator360mobile.com
 opaterdmsnydl.co
@@ -20133,6 +20145,7 @@ praxis-csm.de
 prayangroup.com
 prayogispl.in
 prciousere.com
+prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 precallege.com
 precisiongraphics.us
@@ -20476,6 +20489,7 @@ puritymalawi.mw
 purloined-restraint.000webhostapp.com
 purpleoak.co.in
 purplesteel.com
+purr.nytimes.com
 pushtera.com
 pussyhunters.ru
 pustulate-twine.000webhostapp.com
@@ -21195,6 +21209,7 @@ reporting.handll.net
 reporting.singlefeed.com
 reporting.theonion.com
 reportinstagram.com
+reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
 reportwebmaster.000webhostapp.com
 reportyouraccountissues.000webhostapp.com
@@ -21408,6 +21423,7 @@ rlbyc.saqibsiddiqui.com
 rlerd4fdiyhinpol5nyl.littlematchagirl.com.au
 rlhoukbuilder.com
 rlinks.one.in
+rlog.popin.cc
 rloywqyxv.pw
 rluna.cl
 rlxl.com
@@ -21699,7 +21715,6 @@ s.qhupdate.com
 s.renren.com
 s.sniphub.com
 s.yam.com
-s.youtube.com
 s0c572u6iu4x3b05rdso.alfacomercial.com.br
 s0e3nwd7mhf45sghuds3.businessrulesanalysis.com
 s1w.co
@@ -23538,6 +23553,7 @@ smellyfeet.gq
 smeqatalyst.com
 smestudio.com.uy
 smetrics.att.com
+smetrics.centurylink.com
 smetrics.delta.com
 smewatchmagazine.com
 smhfwsmwtvlqvgu.pw
@@ -23731,7 +23747,6 @@ sos-car.pl
 sosbrokkvefr.pw
 sosh7.edugov.kz
 sosial-bloking.000webhostapp.com
-soso.mymederback.com
 sosoxnzocpioua7qogte.littlematchagirl.com.au
 sosoxnzocpioua7qogte.maherstcottage.com.au
 sosplombiers-8eme.fr
@@ -23835,7 +23850,6 @@ sp.mycentraljersey.com
 sp.naplesnews.com
 sp.naver.com
 sp.newarkadvocate.com
-sp.news-journalonline.com
 sp.news-press.com
 sp.newsleader.com
 sp.northjersey.com
@@ -24900,6 +24914,7 @@ t.adlpo.com
 t.allmodern.com
 t.appsflyer.com
 t.av.st
+t.beop.io
 t.beopinion.com
 t.bimvid.com
 t.birchlane.com
@@ -24985,6 +25000,7 @@ tadaku.bid
 tadn6u725ltkwavglq.download
 taekwondoplymouth.co.uk
 taekwondotdf.com.ar
+tag-manager.playbuzz.com
 tag.aticdn.net
 tag.aumago.com
 tag.boulanger.fr
@@ -25971,6 +25987,7 @@ track.hubspot.com
 track.juno.com
 track.kyoads.com
 track.leady.cz
+track.lexico.com
 track.mailerlite.com
 track.mopo.de
 track.mycliplister.com
@@ -26029,12 +26046,14 @@ tracker-mac.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.anandtech.com
+tracker.arc.io
 tracker.azet.sk
 tracker.beezup.com
 tracker.bestshopping.com
 tracker.bt.uol.com.br
 tracker.calameo.com
 tracker.cauly.co.kr
+tracker.cdnbye.com
 tracker.cds-tracking.com
 tracker.cpapath.com
 tracker.data-vp.com
@@ -26103,7 +26122,6 @@ tracking.g2crowd.com
 tracking.gameforge.de
 tracking.ggg-ia.com
 tracking.godatafeed.com
-tracking.goodgamestudios.com
 tracking.gruppo.mps.it
 tracking.ha.rueducommerce.fr
 tracking.hannoversche.de
@@ -27675,6 +27693,7 @@ vopogakakud.eu
 voravan.com
 voresoxs.com
 vorkehrung-sicherheitssystem.cf
+vortex.hulu.com
 vosbdxgjpswjw.com
 vostroagencies.us
 votlage-divider-bias.ml
@@ -27960,7 +27979,6 @@ webfile-document.homoeopathy.gr
 webgisdlhprovsumbar.net
 webgtrerfhghgh.000webhostapp.com
 webhalkbank.com
-webhit.aftenposten.no
 webhit.snd.no
 webhostforseo.com
 webindexxg.temp.swtest.ru
