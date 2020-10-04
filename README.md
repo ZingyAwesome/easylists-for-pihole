@@ -2,7 +2,7 @@
 
 Hello there!
 
-Here you can find EasyLists for the excellent ad-blocking Pi-Hole! This repo contains 2 lists: EasyList and EasyPrivacy in text format (.txt). The lists are pre-parsed and ready to use. All you have to do is add them to your blocklists.
+Here you can find EasyLists for the excellent ad-blocking Pi-Hole! This repo contains 6 lists: EasyList and EasyPrivacy. There are also some country specific lists you can use. The lists are pre-parsed and ready to use. All you have to do is add them to your blocklists.
 
 How to add? Read below.
 
@@ -18,7 +18,7 @@ Old instructions | PiHole below 5.0
 
 3. Scroll down until you see a box that says 'Enter one URL per line to add new ad lists'
 
-4. Paste the URL of EasyList:
+4. Paste the URL of EasyList (or a country specific list):
 ```
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 ```
@@ -47,7 +47,7 @@ As of PiHole 5.0, the steps to add new lists have changed.
 
 2. Go to Group Management > Adlists
 
-3. Paste the URL of EasyList in the address box, you can optionally add a description in the comment box such as "Easylist".
+3. Paste the URL of EasyList (or a country specific list) in the address box, you can optionally add a description in the comment box such as "Easylist".
 ```
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 ```
