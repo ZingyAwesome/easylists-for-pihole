@@ -6077,6 +6077,7 @@ collect.state.centrum24.pl
 collect.tianya.cn
 collect.usefathom.com
 collectivedesigns.net
+collector-.px-client.net
 collector-.tvsquared.com
 collector-api.99designs.com
 collector-cdn.github.com
@@ -7194,6 +7195,7 @@ data.minute.ly
 data.queryly.com
 data.reactandshare.com
 data.studybreakmedia.com
+data.woosmap.com
 data.younow.com
 datacabin.net
 dataconnectinfotrends.com
@@ -8302,6 +8304,7 @@ dymlo6ffhj97l.cloudfront.net
 dynadiscount.com
 dynamichomeinspections.net
 dytt8.org
+dyv1bugovvq1g.cloudfront.net
 dz-cima.nifatech.com
 dzbk.dhxctzx.com
 dzenastrology.com
@@ -8835,6 +8838,7 @@ enertech.co.nz
 enewwholesale.com
 enfieldindependent-gb.enfieldindependent.co.uk
 engage-cdn.schibsted.media
+engagefront.meteomedia.com
 engagefront.theweathernetwork.com
 engdirectdirec.com
 engepool.com.br
@@ -9213,6 +9217,7 @@ events-coin-clem.000webhostapp.com
 events-egiftsent.000webhostapp.com
 events.air.tv
 events.apester.com
+events.attentivemobile.com
 events.avantisvideo.com
 events.brightline.tv
 events.chaordicsystems.com
@@ -13491,7 +13496,6 @@ jcdsystem.com
 jcfcashandcarry.com
 jchen5072.000webhostapp.com
 jcist.000webhostapp.com
-jcm.jd.com
 jcng23.000webhostapp.com
 jcoqtmtrzhedkv1p9bi9.littlematchagirl.com.au
 jcvkefehmphcch.net
@@ -15327,6 +15331,7 @@ log.optimizely.com
 log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
+log.popin.cc
 log.prezi.com
 log.ren.tv
 log.seekda.com
@@ -15744,6 +15749,7 @@ m2m.com.pe
 m3isolution.com
 m77s.cn
 ma-caf-allocataires-services-en-ligne.paoksjdllmlmpr.com
+ma.redhat.com
 ma.register.it
 maadimedical.com
 maaknitting.com
@@ -19796,6 +19802,7 @@ pixel.propublica.org
 pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
+pixel.safe-installation.com
 pixel.solvemedia.com
 pixel.spotify.com
 pixel.sprinklr.com
@@ -24046,6 +24053,7 @@ sso.anbtr.com
 ssolo.ir
 ssp.hinet.net
 ssp.rambler.ru
+ssr.streamrail.net
 ssrlot.lotoquebec.com
 ssssd4rrr.szfuchen.com
 sstamlyn.gq
@@ -26395,6 +26403,7 @@ ttauri.space.com
 ttauri.t3.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
+ttauri.toptenreviews.com
 ttauri.whathifi.com
 ttb.lpcloudsvr302.com
 ttdetect.staticimgfarm.com
