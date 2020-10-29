@@ -2020,6 +2020,7 @@ analytics.thenewslens.com
 analytics.thetab.com
 analytics.tiktok.com
 analytics.tio.ch
+analytics.tooso.ai
 analytics.tout.com
 analytics.tradedoubler.com
 analytics.traderlink.com
@@ -4742,6 +4743,7 @@ c.live.com
 c.mgid.com
 c.perlentaucher.de
 c.setterlistjob.biz
+c.sibnet.ru
 c.wen.ru
 c.wort-suche.com
 c.x.oanda.com
@@ -6075,7 +6077,6 @@ collect.igodigital.com
 collect.rewardstyle.com
 collect.state.centrum24.pl
 collect.tianya.cn
-collect.usefathom.com
 collectivedesigns.net
 collector-.px-client.net
 collector-.tvsquared.com
@@ -6086,6 +6087,7 @@ collector-px0py5pczn.octopart.com
 collector.automote.co.nz
 collector.clareity.net
 collector.fiverr.com
+collector.getyourguide.com
 collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
@@ -10495,6 +10497,7 @@ g3i9prnb.myutilitydomain.com
 g3prints.com
 g4159771035.co
 g4357855370.co
+g4555939705.co
 g48ky2.tvcjp.gq
 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
 g4p.redtram.com
@@ -15461,7 +15464,6 @@ logs-api.shoprunner.com
 logs-qos.tf1.fr
 logs.51cto.com
 logs.dashlane.com
-logs.datadoghq.eu
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
@@ -16246,6 +16248,7 @@ mcr-consulting.co.uk
 mcreativedesign.com.br
 mcro2018.online
 mcrservicesl.ga
+mcs-va.tiktokv.com
 mcs.delvenetworks.com
 mcscipurwakarta.ga
 mcsv.ga
@@ -21723,6 +21726,7 @@ s.infogram.com
 s.qhupdate.com
 s.renren.com
 s.sniphub.com
+s.srvsynd.com
 s.yam.com
 s0c572u6iu4x3b05rdso.alfacomercial.com.br
 s0e3nwd7mhf45sghuds3.businessrulesanalysis.com
@@ -25286,6 +25290,7 @@ telegraph.api.hbo.com
 teleikjewr.cn15669.tmweb.ru
 telekom-onlines.webs.com
 telekomtonline-updateaccount.rhcloud.com
+telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
@@ -26053,6 +26058,7 @@ tracker-api.my.com
 tracker-cronchs.com
 tracker-id.cdiscount.com
 tracker-mac.com
+tracker.520call.me
 tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.anandtech.com
@@ -26139,6 +26145,7 @@ tracking.hannoversche.de
 tracking.hi-pi.com
 tracking.hrs.de
 tracking.hsn.com
+tracking.html5games.com
 tracking.jotform.com
 tracking.kdata.fr
 tracking.keywee.co
@@ -27430,6 +27437,7 @@ videosevangelicos.com
 videospokesmanpro.com
 videostat-new.index.hu
 videostat.index.hu
+videostats.kakao.com
 videoterbaru2-2015.3eeweb.com
 videotracker.washingtonpost.com
 vidimakde.gq
@@ -28518,6 +28526,7 @@ wssgmstats.vibbo.com
 wsstats.coches.net
 wstat.wibiya.com
 wstats.e-wok.tv
+wstats.gameblog.fr
 wsws.asia
 wsxhost.net
 wsxyx.com
