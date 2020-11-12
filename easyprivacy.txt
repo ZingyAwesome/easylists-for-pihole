@@ -6998,6 +6998,7 @@ d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
+d1wirc5qsdb1y5.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
 d20kffh39acpue.cloudfront.net
@@ -8238,6 +8239,7 @@ duinearme.com
 duiskzl.websoft.kz
 duketofrob.com
 dumatoursafaris.co.tz
+dumpster.cam4.com
 dunhillmild-payment07.com
 duniagaya.id
 dunkelbergerz.cf
@@ -9207,6 +9209,7 @@ event.api.drift.com
 event.dkb.de
 event.getblue.io
 event.riolabz.com
+event.syndigo.cloud
 eventapi.libring.com
 eventclergy.com
 eventgarenaaovfreeheroforyou.000webhostapp.com
@@ -10499,7 +10502,9 @@ g3prints.com
 g4159771035.co
 g4357855370.co
 g4555939705.co
+g4754024040.co
 g48ky2.tvcjp.gq
+g4952108375.co
 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
 g4p.redtram.com
 g4va.kdcad.com
@@ -10743,6 +10748,7 @@ geogeniusindia.com
 geogospeltroupe.com
 geoip-lookup.vice.com
 geoip.al.com
+geoip.ativo.com
 geoip.boredpanda.com
 geoip.cleveland.com
 geoip.gulflive.com
@@ -12944,6 +12950,7 @@ insidewestnile.com
 insight.fonecta.fi
 insightart.info
 insightconsultingservices.com.au
+insights.cdt.ch
 insights.sitesearch360.com
 insightthk.com
 insioneerhdtomtedouaebmcairenre.com
@@ -19449,6 +19456,7 @@ pcbangv.com
 pccbrandsites.com
 pcccvinhvinhtien.com
 pccleanersolutions.com
+pcgamer-gb.pcgamer.com
 pchomegeek.com
 pcil.blufysh.com
 pclick.europe.yahoo.com
@@ -19871,6 +19879,7 @@ platnosc.oplackuriera.online
 plattform.deruwia.de
 plawdcs.net
 play.mix.kinostuff.com
+player-telemetry.vimeo.com
 playgas.com.br
 playkey.ga
 playstationgame.tk
@@ -24877,6 +24886,7 @@ synanthrose.com
 sync.adap.tv
 sync.rambler.ru
 sync.shinobi.jp
+sync.taboola.com
 syncordisconsulting.com
 synergcysd.com
 synergycapital.jp
@@ -25035,7 +25045,6 @@ tagansky-dom-prava.ru
 tagdareharam6.tk
 tagger.ope.scmp.com
 tagger.opecloud.com
-taglocker.target.com
 tagm.tchibo.de
 tags.cdn.circlesix.co
 tags.master-perf-tools.com
@@ -26135,6 +26144,7 @@ tracking.dsmmadvantage.com
 tracking.ecookie.fr
 tracking.ehavior.net
 tracking.emsmobile.de
+tracking.epicgames.com
 tracking.eurosport.com
 tracking.fanbridge.com
 tracking.feedperfect.com
@@ -26206,6 +26216,7 @@ tracking.trovaprezzi.it
 tracking.ukwm.co.uk
 tracking.unitednaturals.com
 tracking.unrealengine.com
+tracking.venturify.at
 tracking.vid4u.org
 tracking.waterfrontmedia.com
 tracking.webtradecenter.com
@@ -26408,6 +26419,7 @@ tta-property.fi
 ttanger.000webhostapp.com
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
+ttauri.guitarworld.com
 ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.loudersound.com
@@ -26552,6 +26564,7 @@ u8akdd5e9r5upa.stream
 u8jxhglt2csdqqo.stream
 u8uaecfqepkrumjxtizzcg.download
 u9988.rently.com
+ua.indianexpress.com
 uairvwwpsck.pw
 uantonio.pl
 uaseqxra.com
@@ -29310,6 +29323,7 @@ ylxkyfywa.pw
 ymailadminhome.com
 ymaratyolhk.com
 ymkiihjju.com
+ymprove.web.de
 yn4uq0h5f9vfpg.science
 yncme.insec.org.np
 ynovarsignos.com
