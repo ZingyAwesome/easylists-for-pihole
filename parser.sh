@@ -1,11 +1,15 @@
 #!/usr/bin/env bash
 
 # Cleanup
-rm ./*.raw.txt 2> /dev/null
+rm -rf output
+rm -rf temp
+mkdir output
+mkdir temp
 
-while read -r inputUrl targetFile; do
+while read -r inputUrl targetFilename; do
+  targetFile="./output/${targetFilename}"
   echo Parsing "${inputUrl}" into "${targetFile}"
-  rawFile="${targetFile}.raw.txt"
+  rawFile="./temp/${targetFilename}.raw.txt"
 
   # Allowing multiple input URLs to the same target
   curl -s -L "${inputUrl}" >> "${rawFile}"
@@ -14,4 +18,4 @@ while read -r inputUrl targetFile; do
 done < input.txt
 
 # Cleanup
-rm ./*.raw.txt 2> /dev/null
+rm -rf temp
