@@ -10,8 +10,8 @@ while read -r inputUrl targetFile; do
   # Allowing multiple input URLs to the same target
   curl -s -L "${inputUrl}" >> "${rawFile}"
 
-  sort -u "${rawFile}" | grep '^||.*\^\$.*' | sed 's/[\*|^]//g' | sed 's/\$.*//g' | grep -v "\/" > "${targetFile}"
+  sort -u "${rawFile}" | grep '^||.*\^' | sed 's/[\*|^]//g' | sed 's/\$.*//g' | grep -v "\/" > "${targetFile}"
 done < input.txt
 
 # Cleanup
-rm ./*.raw.txt 2> /dev/null
+#rm ./*.raw.txt 2> /dev/null
