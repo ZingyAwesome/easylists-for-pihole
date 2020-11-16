@@ -1,4 +1,3 @@
 /.idea/
 /lsp/
-/*.unsorted.txt
-/*.sorted.txt
+/*.raw.txt
