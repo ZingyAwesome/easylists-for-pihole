@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_ads
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt  easylist.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt  easyprivacy.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt  easyprivacy.txt
+https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt  easyisrael.txt
