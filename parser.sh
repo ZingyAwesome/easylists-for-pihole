@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Cleanup
 rm ./*.raw.txt 2> /dev/null
