@@ -1,0 +1,22 @@
+name: Parser CI
+
+on:
+  pull_request:
+    branches:
+      - master
+  push:
+    tags:
+      - '*.*.*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2.3.4
+
+    - name: Parse
+      run: |
+        ./parser.sh
+      shell: bash
