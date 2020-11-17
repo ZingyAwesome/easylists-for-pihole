@@ -1,6 +1,4 @@
-const mockWriteFile = jest.fn((targetFilePath, filteredDomains) => {
-    console.log(targetFilePath, filteredDomains);
-});
+const mockWriteFile = jest.fn();
 jest.mock("~resources/input", function() {
     return {
         getInput: () => ({
