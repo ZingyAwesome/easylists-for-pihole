@@ -1,4 +1,5 @@
 const mockWriteFile = jest.fn();
+
 jest.mock("~resources/input", function() {
     return {
         getInput: () => ({
@@ -19,34 +20,42 @@ jest.mock("fs", function() {
         }
     };
 });
+jest.mock("path", function() {
+    return {
+        join: (rootPath, ...paths) => {
+            return paths.join("/");
+        }
+    };
+});
 
-import { filter, parse } from "~src/parser";
+import type { Stats } from "~src/parser";
+import { filterDomains, parse } from "~src/parser";
 
 describe("Test parser", () => {
-    describe("Test filter", () => {
+    describe("Test filterDomains", () => {
         it("Should opt-in only domains with no '/'", () => {
             const content: string = [
                 "||a.b.c.d^",
                 "||a.b.c.e/ad^"
             ].join("\n");
-            const result: string = filter(content);
-            expect(result).toEqual(["a.b.c.d"].join("\n"));
+            const result: string[] = filterDomains(content);
+            expect(result).toEqual(["a.b.c.d"]);
         });
         it("Should return domains sorted and unique", () => {
             const content: string = [
                 "||l.m.n.o^",
                 "||a.b.c.d^"
             ].join("\n");
-            const result: string = filter(content);
-            expect(result).toEqual(["a.b.c.d", "l.m.n.o"].join("\n"));
+            const result: string[] = filterDomains(content);
+            expect(result).toEqual(["a.b.c.d", "l.m.n.o"]);
         });
         it("Should return domains without comments", () => {
             const content: string = [
                 "||a.b.c.d^$comment1",
                 "||a.b.c.d^$comment2"
             ].join("\n");
-            const result: string = filter(content);
-            expect(result).toEqual(["a.b.c.d"].join("\n"));
+            const result: string[] = filterDomains(content);
+            expect(result).toEqual(["a.b.c.d"]);
         });
     });
 
@@ -58,15 +67,34 @@ describe("Test parser", () => {
             jest.restoreAllMocks();
         });
         it("Should handle all inputs", async () => {
-            await parse();
+            const stats: Stats = await parse();
             expect(mockWriteFile).toBeCalledTimes(2);
-            expect(mockWriteFile.mock.calls[0][1]).toEqual([
-                "a.b.c.url1",
-                "a.b.c.url2",
-                "x.y.z.url1",
-                "x.y.z.url2"
-            ].join("\n"));
+            expect(mockWriteFile.mock.calls[0]).toEqual([
+                "../generated/target1.txt",
+                [
+                    "a.b.c.url1",
+                    "a.b.c.url2",
+                    "x.y.z.url1",
+                    "x.y.z.url2"
+                ].join("\n"),
+                "utf-8"
+            ]);
+            expect(mockWriteFile.mock.calls[1]).toEqual([
+                "../generated/target2.txt",
+                [
+                    "a.b.c.url3",
+                    "a.b.c.url4",
+                    "x.y.z.url3",
+                    "x.y.z.url4"
+                ].join("\n"),
+                "utf-8"
+            ]);
+            expect(stats).toEqual({
+                url1: 2,
+                url2: 2,
+                url3: 2,
+                url4: 2
+            });
         });
     });
 });
-

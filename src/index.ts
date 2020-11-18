@@ -1,5 +1,5 @@
 import { parse } from "~src/parser";
 
 parse()
-    .then(() => console.log("Done"))
+    .then(console.log)
     .catch(console.error);
