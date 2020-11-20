@@ -1,4 +1,7 @@
+node_modules/**
 /.idea/
+*.iml
+/coverage/
 /lsp/
 /*.raw.txt
 /temp/
