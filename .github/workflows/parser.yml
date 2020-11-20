@@ -27,12 +27,12 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: easylist-for-pi-hole
-        path: output/
+        path: generated/
 
     - uses: EndBug/add-and-commit@v5.2.0
       if: ${{ github.event_name == 'push' }}
       with:
-        add: output
+        add: generated
         message: 'Easylist generated files'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
