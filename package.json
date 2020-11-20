@@ -4,7 +4,7 @@
   "description": "Parsing easylist into Pi-hole importable files",
   "main": "index.js",
   "scripts": {
-    "build": "npm run eslint && npm run type-check && npm run test && npm run parse",
+    "build": "npm run eslint && npm run type-check && npm run test",
     "preparse": "rimraf generated & mkdir generated",
     "parse": "node -r ts-node/register -r tsconfig-paths/register src/index.ts",
     "eslint": "eslint src/ test/ resources/",
