@@ -1,15 +1,10 @@
 name: Nightly
 
 on:
-  pull_request:
-    branches:
-      - master
-  push:
-    branches:
-      - master
-
+  schedule:
+    - cron:  '0 0 * * *'
 jobs:
-  build:
+  nightly:
     runs-on: ubuntu-latest
 
     strategy:
