@@ -31,14 +31,12 @@ jobs:
           CI: true
 
       - name: Save artifacts
-        if: ${{ github.event_name == 'push' }}
         uses: actions/upload-artifact@v2
         with:
           name: easylist-for-pi-hole
           path: generated/
 
       - uses: EndBug/add-and-commit@v5.2.0
-        if: ${{ github.event_name == 'push' }}
         with:
           add: generated
           message: 'Easylist generated files'
