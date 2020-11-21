@@ -25,7 +25,7 @@ const fetchAllDomainsForSingleTarget = async (targetFile: string, inputUrls: str
 
 export const filterDomains = (content: string): string[] => {
     const matches: Set<string> = new Set<string>();
-    const regex = /^\|\|([^\\/\\^]+)\^\$?.*/gm;
+    const regex = /^\|\|([^$\n\\/]+)\^\$?.*/gm;
     let m;
     while ((m = regex.exec(content)) !== null) {
         if (m.index === regex.lastIndex) {
