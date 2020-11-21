@@ -26,7 +26,7 @@ jobs:
           CI: true
 
       - name: Run parser
-        run: npm run build
+        run: npm run parse
         env:
           CI: true
 
