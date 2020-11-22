@@ -35,11 +35,12 @@ jobs:
           path: generated/
 
       ## FIX: https://github.com/github-actions-x/commit/issues/16
+      ## https://github.com/rlespinasse/git-commit-data-action
       - name: Expose git commit data
-        uses: rlespinasse/git-commit-data-action@v1.x ## https://github.com/rlespinasse/git-commit-data-action
+        uses: rlespinasse/git-commit-data-action@v1.x
       - name: Set git author
         run: git config user.email "${{ env.GIT_COMMIT_AUTHOR_EMAIL }}" && git config user.name "${{ env.GIT_COMMIT_AUTHOR_NAME }}"
-        ## /FIX
+      ## /FIX
 
       - name: Push generated files into branch
         uses: github-actions-x/commit@v2.7
