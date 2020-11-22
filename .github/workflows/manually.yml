@@ -35,17 +35,9 @@ jobs:
           path: generated/
 
       - name: Push generated files into branch
-        uses: EndBug/add-and-commit@v5.2.0
+        uses: github-actions-x/commit@v2.7
         with:
-          add: 'generated'
-          message: 'Easylist generated files'
-          branch: 'generated'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create pull request
-        uses: vsoch/pull-request-action@1.0.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_PREFIX: 'generated'
-          PULL_REQUEST_BRANCH: 'master'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: master
+          commit-message: 'Easylist generated files'
+          rebase: 'true'
