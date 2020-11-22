@@ -49,6 +49,7 @@ jobs:
           push-branch: generated
           commit-message: 'Easylist generated files'
           files: generated/
+          force-add: 'true'
           rebase: 'true'
 
       - name: Open Pull request
