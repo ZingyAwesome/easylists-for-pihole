@@ -55,4 +55,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_PREFIX: "generated"
+          PULL_REQUEST_FROM_BRANCH: "generated"
           PULL_REQUEST_BRANCH: "master"
