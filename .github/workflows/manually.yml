@@ -50,7 +50,6 @@ jobs:
           commit-message: 'Easylist generated files'
           files: generated/
           force-add: 'true'
-          rebase: 'true'
 
       - name: Open Pull request
         uses: vsoch/pull-request-action@1.0.12
