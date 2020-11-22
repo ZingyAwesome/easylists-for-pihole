@@ -49,6 +49,7 @@ jobs:
           push-branch: generated
           commit-message: 'Easylist generated files'
           files: generated/
+          rebase: 'true'
 
       - name: Open Pull request
         uses: vsoch/pull-request-action@1.0.12
