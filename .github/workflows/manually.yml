@@ -46,6 +46,13 @@ jobs:
         uses: github-actions-x/commit@v2.7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: master
+          push-branch: generated
           commit-message: 'Easylist generated files'
           files: generated/
+
+      - name: Open Pull request
+        uses: vsoch/pull-request-action@1.0.12
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_PREFIX: "generated"
+          PULL_REQUEST_BRANCH: "master"
