@@ -38,5 +38,6 @@ jobs:
         with:
           add: generated
           message: 'Easylist generated files'
+          pull_strategy: '--rebase'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
