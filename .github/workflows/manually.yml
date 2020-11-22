@@ -40,4 +40,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: master
           commit-message: 'Easylist generated files'
-          rebase: 'true'
+          files: generated/
