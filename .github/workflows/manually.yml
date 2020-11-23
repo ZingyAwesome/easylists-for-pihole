@@ -50,17 +50,19 @@ jobs:
         run: git config user.email "${{ env.GIT_COMMIT_AUTHOR_EMAIL }}" && git config user.name "${{ env.GIT_COMMIT_AUTHOR_NAME }}"
       ## /FIX
 
-      - name: commit generated files
+      - name: Commit generated files
         run: |
           git add generated/* || true
           git commit -m 'Easylist generated files' || true
 
       - name: Check if changed from master
-        run: git diff --quiet HEAD master -- generated --exit-code || echo "CHANGED=true" >> $GITHUB_ENV
+        run: |
+          git diff --quiet HEAD master -- generated --exit-code || echo "CHANGED=true" >> $GITHUB_ENV
+          echo Changed: ${{ env.CHANGED }}
         env:
           CI: true
 
-      - name: push generated files
+      - name: Push generated files
         if: ${{ env.CHANGED }} == 'true'
         run: |
           git push --set-upstream origin generated --force
