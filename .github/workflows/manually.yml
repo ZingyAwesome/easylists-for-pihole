@@ -25,7 +25,7 @@ jobs:
 
       - name: Create working branch and remove generated files
         run: |
-          git branch -d generated
+          git branch -D generated || true
           git checkout -b generated
           git rm generated/*
         env:
