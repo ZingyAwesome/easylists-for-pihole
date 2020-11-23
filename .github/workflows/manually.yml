@@ -43,15 +43,16 @@ jobs:
       ## /FIX
 
       - name: Push generated files into branch
-        uses: github-actions-x/commit@v2.7
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        uses: stefanzweifel/git-auto-commit-action@4.7.2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: generated
-          commit-message: 'Easylist generated files'
-          files: generated/
-          force-add: 'true'
+          commit_message: 'Easylist generated files'
+          branch: generated
+          file_pattern: generated/*
+          push_options: '--force'
 
       - name: Open Pull request
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
         uses: vsoch/pull-request-action@1.0.12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
