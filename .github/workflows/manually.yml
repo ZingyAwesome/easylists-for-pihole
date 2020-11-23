@@ -46,7 +46,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4.7.2
         with:
           commit_message: 'Easylist generated files'
-          branch: generated
+          branch: generated-files
           file_pattern: generated/*
           push_options: '--force'
 
@@ -55,6 +55,6 @@ jobs:
         uses: vsoch/pull-request-action@1.0.12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_PREFIX: "generated"
-          PULL_REQUEST_FROM_BRANCH: "generated"
+          BRANCH_PREFIX: "generated-files"
+          PULL_REQUEST_FROM_BRANCH: "generated-files"
           PULL_REQUEST_BRANCH: "master"
