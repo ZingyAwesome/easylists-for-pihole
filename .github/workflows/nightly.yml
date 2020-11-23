@@ -20,8 +20,16 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: Dependencies Install
+      - name: Install dependencies
         run: npm ci
+        env:
+          CI: true
+
+      - name: Create working branch and remove generated files
+        run: |
+          git branch -D generated || true
+          git checkout -b generated
+          git rm generated/*
         env:
           CI: true
 
@@ -36,9 +44,49 @@ jobs:
           name: easylist-for-pi-hole
           path: generated/
 
-      - uses: EndBug/add-and-commit@v5.2.0
-        with:
-          add: generated
-          message: 'Easylist generated files'
+      ## FIX: https://github.com/github-actions-x/commit/issues/16
+      ## https://github.com/rlespinasse/git-commit-data-action
+      - name: Expose git commit data
+        uses: rlespinasse/git-commit-data-action@1.0.1
+      - name: Set git author
+        run: git config user.email "${{ env.GIT_COMMIT_AUTHOR_EMAIL }}" && git config user.name "${{ env.GIT_COMMIT_AUTHOR_NAME }}"
+      ## /FIX
+
+      - name: Check if changed from master
+        run: git diff --quiet HEAD master -- generated || echo "CHANGED=true" >> $GITHUB_ENV
+        env:
+          CI: true
+
+      - name: Commit and push generated files
+        if: ${{ env.CHANGED }} == 'true'
+        run: |
+          git add generated/*
+          git commit -m 'Easylist generated files'
+          git push --set-upstream origin generated --force
+        env:
+          CI: true
+
+      - name: Open Pull Request
+        if: ${{ env.CHANGED }} == 'true'
+        uses: vsoch/pull-request-action@1.0.12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_PREFIX: 'generated'
+          PULL_REQUEST_FROM_BRANCH: 'generated'
+          PULL_REQUEST_BRANCH: 'master'
+
+      - name: Find Pull Request
+        if: ${{ env.CHANGED }} == 'true'
+        uses: juliangruber/find-pull-request-action@v1
+        id: find-pull-request
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          branch: generated
+
+      - name: Merge Pull Request
+        if: ${{ env.CHANGED }} == 'true'
+        uses: juliangruber/merge-pull-request-action@v1.0.0
+        with:
+          number: ${{ steps.find-pull-request.outputs.number }}
+          method: squash
+          github-token: ${{ secrets.GITHUB_TOKEN }}
