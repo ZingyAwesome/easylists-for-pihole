@@ -101,6 +101,8 @@
 99stats.com
 99sushe.com
 9nl.eu
+a-calc.com
+a-calc.de
 a-cast.jp
 a-counter.com.ua
 a-counter.kiev.ua
@@ -785,6 +787,7 @@ audiencia.r7.com
 audiencies.ccma.cat
 audiens.com
 audienzz.ch
+audio.sex
 audioarctic.com
 audit.303br.net
 audit.macworld.co.uk
@@ -1024,7 +1027,12 @@ bisko.mall.tv
 bit.ehow.com
 bitclub.network
 bitclubnetwork.com
+bitcoin-cashcard.com
+bitcoin-cashcard.de
+bitcoin-cashcard.eu
 bitcoin-pay.eu
+bitcoin-pocket.de
+bitcoin-pocket.eu
 bitdash-reporting.appspot.com
 bitgravity.com
 bizible.com
@@ -1610,6 +1618,7 @@ computing.co.uk
 conditioncrush.com
 conductrics.com
 conduze.com
+confesschairs.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
 config.parsely.com
@@ -2211,6 +2220,7 @@ dominocounter.net
 dominos.co.uk
 domodomain.com
 donreach.com
+dontbeevils.de
 dorsetecho-gb.dorsetecho.co.uk
 dot-stat.radikal.ru
 dot.wp.pl
@@ -2485,6 +2495,10 @@ etahub.com
 eth-pocket.com
 eth-pocket.de
 eth-pocket.eu
+ethereum-cashcard.com
+ethereum-cashcard.de
+ethereum-cashcard.eu
+ethereum-pocket.com
 ethereum-pocket.de
 ethereum-pocket.eu
 ethn.io
@@ -7242,6 +7256,8 @@ truenat.bid
 truepush.com
 trugaze.io
 truoptik.com
+trustiseverything.de
+trustmeiamapro.de
 trx.smdatalabs.com
 try.abtasty.com
 trysera.com
