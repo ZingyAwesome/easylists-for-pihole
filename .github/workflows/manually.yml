@@ -23,13 +23,16 @@ jobs:
         env:
           CI: true
 
-      - name: Run parser
-        run: npm run parse
+      - name: Create working branch and remove generated files
+        run: |
+          git branch -d generated
+          git checkout -b generated
+          git rm generated/*
         env:
           CI: true
 
-      - name: git status
-        run: git status
+      - name: Run parser
+        run: npm run parse
         env:
           CI: true
 
@@ -47,13 +50,13 @@ jobs:
         run: git config user.email "${{ env.GIT_COMMIT_AUTHOR_EMAIL }}" && git config user.name "${{ env.GIT_COMMIT_AUTHOR_NAME }}"
       ## /FIX
 
-      - name: Push generated files into branch
-        uses: stefanzweifel/git-auto-commit-action@v4.7.2
-        with:
-          commit_message: 'Easylist generated files'
-          branch: 'generated-files'
-          file_pattern: 'generated/*'
-          push_options: '--force'
+      - name: Add new generated files
+        run: |
+          git add generated/*
+          git commit -m 'Easylist generated files'
+          git push --force
+        env:
+          CI: true
 
       - name: Open Pull request
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
