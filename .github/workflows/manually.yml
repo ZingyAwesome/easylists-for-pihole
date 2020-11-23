@@ -79,7 +79,7 @@ jobs:
         id: find-pull-request
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          branch: my-branch-name
+          branch: generated
 
       - name: Merge Pull Request
         if: ${{ env.CHANGED }} == 'true'
