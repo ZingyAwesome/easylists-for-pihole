@@ -65,6 +65,7 @@ jobs:
           CI: true
 
       - name: Open Pull request
+        id: pull_request
         if: ${{ env.CHANGED }} == 'true'
         uses: vsoch/pull-request-action@1.0.12
         env:
@@ -72,3 +73,13 @@ jobs:
           BRANCH_PREFIX: 'generated'
           PULL_REQUEST_FROM_BRANCH: 'generated'
           PULL_REQUEST_BRANCH: 'master'
+
+      - name: Merge Pull Request
+        if: ${{ env.CHANGED }} == 'true'
+        uses: juliangruber/merge-pull-request-action@v1.0.0
+        with:
+          number: ${pull_request_number_output}
+          method: squash
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          pull_request_number_output: ${{ steps.pull_request.outputs.pull_request_number }}
