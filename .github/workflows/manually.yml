@@ -51,6 +51,7 @@ jobs:
           push_options: '--force'
 
       - name: Open Pull request
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
         uses: vsoch/pull-request-action@1.0.12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
