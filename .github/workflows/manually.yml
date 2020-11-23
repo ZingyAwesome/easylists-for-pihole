@@ -74,6 +74,17 @@ jobs:
           PULL_REQUEST_FROM_BRANCH: 'generated'
           PULL_REQUEST_BRANCH: 'master'
 
+      - name: Test outputs
+        env:
+          pull_request_number_output: ${{ steps.pull_request.outputs.pull_request_number }}
+          pull_request_url_output: ${{ steps.pull_request.outputs.pull_request_url }}
+        run: |
+          echo "Pull request number from output: ${pull_request_number_output}"
+          echo "Pull request url from output: ${pull_request_url_output}"
+          echo "Pull request number from environment: ${PULL_REQUEST_NUMBER}"
+          echo "Pull request url from environment: ${PULL_REQUEST_URL}"
+          echo "Another way to specify from output ${{ steps.pull_request.outputs.pull_request_number }}"
+
       - name: Merge Pull Request
         if: ${{ env.CHANGED }} == 'true'
         uses: juliangruber/merge-pull-request-action@v1.0.0
