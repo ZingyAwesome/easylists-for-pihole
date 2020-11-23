@@ -54,7 +54,7 @@ jobs:
         run: |
           git add generated/*
           git commit -m 'Easylist generated files'
-          git push --set-upstream origin generated
+          git push --set-upstream origin generated --force
         env:
           CI: true
 
