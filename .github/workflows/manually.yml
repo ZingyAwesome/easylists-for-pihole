@@ -28,6 +28,11 @@ jobs:
         env:
           CI: true
 
+      - name: git status
+        run: git status
+        env:
+          CI: true
+
       - name: Save artifacts
         uses: actions/upload-artifact@v2
         with:
@@ -46,8 +51,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4.7.2
         with:
           commit_message: 'Easylist generated files'
-          branch: generated-files
-          file_pattern: generated/*
+          branch: 'generated-files'
+          file_pattern: 'generated/*'
           push_options: '--force'
 
       - name: Open Pull request
@@ -55,6 +60,6 @@ jobs:
         uses: vsoch/pull-request-action@1.0.12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_PREFIX: "generated-files"
-          PULL_REQUEST_FROM_BRANCH: "generated-files"
-          PULL_REQUEST_BRANCH: "master"
+          BRANCH_PREFIX: 'generated-files'
+          PULL_REQUEST_FROM_BRANCH: 'generated-files'
+          PULL_REQUEST_BRANCH: 'master'
