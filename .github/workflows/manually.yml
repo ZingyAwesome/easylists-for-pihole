@@ -59,10 +59,9 @@ jobs:
           CI: true
 
       - name: Open Pull request
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
         uses: vsoch/pull-request-action@1.0.12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_PREFIX: 'generated-files'
-          PULL_REQUEST_FROM_BRANCH: 'generated-files'
+          BRANCH_PREFIX: 'generated'
+          PULL_REQUEST_FROM_BRANCH: 'generated'
           PULL_REQUEST_BRANCH: 'master'
