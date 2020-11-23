@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: Dependencies Install
+      - name: Install dependencies
         run: npm ci
         env:
           CI: true
@@ -55,7 +55,7 @@ jobs:
         env:
           CI: true
 
-      - name: Add new generated files
+      - name: Commit and push generated files
         if: ${{ env.CHANGED }} == 'true'
         run: |
           git add generated/*
@@ -64,8 +64,7 @@ jobs:
         env:
           CI: true
 
-      - name: Open Pull request
-        id: pull_request
+      - name: Open Pull Request
         if: ${{ env.CHANGED }} == 'true'
         uses: vsoch/pull-request-action@1.0.12
         env:
@@ -74,23 +73,18 @@ jobs:
           PULL_REQUEST_FROM_BRANCH: 'generated'
           PULL_REQUEST_BRANCH: 'master'
 
-      - name: Test outputs
-        env:
-          pull_request_number_output: ${{ steps.pull_request.outputs.pull_request_number }}
-          pull_request_url_output: ${{ steps.pull_request.outputs.pull_request_url }}
-        run: |
-          echo "Pull request number from output: ${pull_request_number_output}"
-          echo "Pull request url from output: ${pull_request_url_output}"
-          echo "Pull request number from environment: ${PULL_REQUEST_NUMBER}"
-          echo "Pull request url from environment: ${PULL_REQUEST_URL}"
-          echo "Another way to specify from output ${{ steps.pull_request.outputs.pull_request_number }}"
+      - name: Find Pull Request
+        if: ${{ env.CHANGED }} == 'true'
+        uses: juliangruber/find-pull-request-action@v1
+        id: find-pull-request
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          branch: my-branch-name
 
       - name: Merge Pull Request
         if: ${{ env.CHANGED }} == 'true'
         uses: juliangruber/merge-pull-request-action@v1.0.0
         with:
-          number: ${pull_request_number_output}
+          number: ${{ steps.find-pull-request.outputs.number }}
           method: squash
           github-token: ${{ secrets.GITHUB_TOKEN }}
-        env:
-          pull_request_number_output: ${{ steps.pull_request.outputs.pull_request_number }}
