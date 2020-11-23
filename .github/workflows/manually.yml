@@ -50,7 +50,13 @@ jobs:
         run: git config user.email "${{ env.GIT_COMMIT_AUTHOR_EMAIL }}" && git config user.name "${{ env.GIT_COMMIT_AUTHOR_NAME }}"
       ## /FIX
 
+      - name: Check if changed from master
+        run: git diff --quiet HEAD master -- generated || echo "CHANGED=true" >> $GITHUB_ENV
+        env:
+          CI: true
+
       - name: Add new generated files
+        if: ${{ env.CHANGED == "true" }}
         run: |
           git add generated/*
           git commit -m 'Easylist generated files'
@@ -59,6 +65,7 @@ jobs:
           CI: true
 
       - name: Open Pull request
+        if: ${{ env.CHANGED == "true" }}
         uses: vsoch/pull-request-action@1.0.12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
