@@ -56,7 +56,7 @@ jobs:
           CI: true
 
       - name: Add new generated files
-        if: ${{ env.CHANGED == "true" }}
+        if: ${{ env.CHANGED }} == 'true'
         run: |
           git add generated/*
           git commit -m 'Easylist generated files'
@@ -65,7 +65,7 @@ jobs:
           CI: true
 
       - name: Open Pull request
-        if: ${{ env.CHANGED == "true" }}
+        if: ${{ env.CHANGED }} == 'true'
         uses: vsoch/pull-request-action@1.0.12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
