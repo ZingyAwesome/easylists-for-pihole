@@ -36,6 +36,11 @@ jobs:
         env:
           CI: true
 
+      - name: Test parsed lists
+        run: npm run test-generated
+        env:
+          CI: true
+
       - name: Save artifacts
         uses: actions/upload-artifact@v2
         with:

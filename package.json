@@ -10,7 +10,8 @@
     "eslint": "eslint src/ test/ resources/",
     "eslint:fix": "npm run eslint -- --fix",
     "prettier": "prettier --write *.json .eslintrc.json .prettierrc tsconfig.json webpack.config.js",
-    "test": "jest --coverage",
+    "test": "jest --coverage ./test/",
+    "test-generated": "jest --coverage ./test-generated/",
     "type-check": "tsc --build tsconfig.json"
   },
   "repository": {

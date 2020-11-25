@@ -41,6 +41,14 @@ describe("Test parser", () => {
             const result: string[] = filterDomains(content);
             expect(result).toEqual(["a.b.c.d"]);
         });
+        it("Should opt-in only domains with no '*'", () => {
+            const content: string = [
+                "||a.b.c.d^",
+                "||a*.b.c.e^"
+            ].join("\n");
+            const result: string[] = filterDomains(content);
+            expect(result).toEqual(["a.b.c.d"]);
+        });
         it("Should return domains sorted and unique", () => {
             const content: string = [
                 "||l.m.n.o^",
