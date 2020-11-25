@@ -34,3 +34,9 @@ jobs:
       run: npm run build
       env:
         CI: true
+
+    - name: Codecov
+      uses: codecov/codecov-action@v1.0.15
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }}
+        fail_ci_if_error: true
