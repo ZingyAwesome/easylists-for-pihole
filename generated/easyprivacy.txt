@@ -6260,6 +6260,7 @@ stats.gifs.com
 stats.grafikart.fr
 stats.harpercollins.com
 stats.heyoya.com
+stats.hfet.org
 stats.highwire.com
 stats.ibtimes.co.in
 stats.ibtimes.co.uk
