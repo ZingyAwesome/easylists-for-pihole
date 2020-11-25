@@ -100,6 +100,7 @@ berlinocacioepepemagazine.com
 berlinomagazine.com
 biancavillaoggi.it
 biellaoggi.it
+bit.ly
 blogspot.com
 bollicinevip.com
 book.terravision.eu
@@ -139,7 +140,6 @@ cataniavip.it
 catanzaro7.net
 cb01.run
 cdn.adultsadv.com
-cdn.da.*.ovh
 centropagina.it
 chefperpassione.it
 chepreparo.it
@@ -159,6 +159,7 @@ cloudfront.net
 clubdoria46.it
 comefareorto.it
 comolive.it
+computer-acquisti.com
 concorsi-letterari.it
 condominioitalia.biz
 confinelive.it
@@ -172,6 +173,7 @@ corriere.ca
 corriere.it
 corriereal.info
 corrieredellacalabria.it
+corriereirpinia.it
 corriereobjects.it
 corrierepievese.it
 corriereromagna.it
@@ -298,6 +300,7 @@ gommeblog.it
 gonews.it
 greenretail.it
 grossetonotizie.com
+grossetosport.com
 guardaserie.cam
 guardaserie.video
 guugol.it
@@ -334,6 +337,7 @@ ilgiornaledisalerno.it
 ilgiornaleoff.ilgiornale.it
 ilmartino.it
 ilmetapontino.it
+ilmoderatore.it
 ilmomento.org
 ilmonito.it
 ilombardia.it
@@ -357,6 +361,7 @@ imperoland.it
 inaffiliago.it
 industriaitaliana.it
 info.manpower.it
+infoagrigento.it
 infonewsvietri.it
 infoperte.it
 informa-press.it
@@ -384,6 +389,7 @@ juventus.com
 juzaphoto.com
 kataweb.it
 key4biz.it
+kongnews.it
 la-notizia.net
 labtv.net
 ladiscussione.com
@@ -411,6 +417,7 @@ latinaquotidiano.it
 latitudeslife.com
 lavocedellevalli.it
 lavocedellisola.it
+lavocedelquartiere.it
 lavocedeltrentino.it
 lavocedibolzano.it
 lazioingol.it
@@ -565,6 +572,7 @@ piacenzaonline.info
 piazzasalento.it
 picenonews24.it
 piemonteoggi.it
+pimpmytrip.it
 pirchio.com
 pisa24.info
 pisachannel.tv
@@ -695,8 +703,10 @@ scambiobanner.net-parade.it
 scambiobanner.org
 scambiobanner.tv
 scambiositi.com
+scrivolibero.it
 scubaportal.it
 sda.quinews.net
+secolo-trentino.com
 secure.emp-online.it
 segretodonna.com
 seolabadv.it
@@ -718,6 +728,7 @@ soluzionibio.it
 sora24.it
 spicciolo.com
 sportando.basketball
+sportcasertano.it
 sportchannel214.it
 sportface.it
 sportmagazinetrentino.it
@@ -823,6 +834,7 @@ trsp.tv
 tse-tse.it
 turismoitalianews.it
 turistadimestiere.com
+tusciaup.com
 tusciaweb.eu
 tuttasalute.net
 tuttobasket.net
@@ -834,6 +846,7 @@ tvoggisalerno.it
 tvsei.it
 tvsette.net
 uberti.eu
+ubud.it
 udineseblog.it
 umbriajournal.com
 umbrianotizieweb.it
@@ -873,6 +886,7 @@ vitaquotidiana.com
 vitatrentina.it
 viterbopost.it
 vivafm.it
+vivienna.it
 vocetempo.it
 volleyball.it
 vos.it

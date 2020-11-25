@@ -43,6 +43,7 @@
 24smi.net
 2ch.hk
 2cnt.net
+2fuc4clr7gvcn.cloudfront.net
 2giga.download
 2ip.ua
 2iui01.com
@@ -115,6 +116,7 @@ a.o2u.jp
 a.tovarro.com
 a013.com
 a4b-tracking.com
+a4st.club
 a8.net
 a8ht.hipp.fr
 a8ww.net
@@ -180,7 +182,6 @@ activemeter.com
 activeprospects.com
 activetracker.activehotels.com
 activities.niagara.comedycentral.com
-activity.*.miui.com
 activity.frequency.com
 actnx.com
 actonservice.com
@@ -316,7 +317,6 @@ aeros08.tk
 aevents.izooto.com
 af-z.jp
 afairweb.com
-aff*.kolektiva.net
 affclkr.com
 affilae.com
 affilate.hh.ru
@@ -451,7 +451,6 @@ analytic.imlive.com
 analytic.rocks
 analytic.xingcloud.com
 analyticcdn.globalmailer.com
-analytics-beacon-*.amazonaws.com
 analytics-cdiscount.com
 analytics-cms.whitebeard.me
 analytics-egain.com
@@ -736,7 +735,6 @@ ascend.ai
 aserve.directorym.com
 asianimage-gb.asianimage.co.uk
 ask.com
-assoc-amazon.*
 assoctrac.com
 astat.nikkei.com
 asteriresearch.com
@@ -1017,7 +1015,7 @@ bigreal.org
 bigstats.net
 bigtracker.com
 bikepasture.com
-bild.de^*-linktracking
+bild.de
 bildirt.com
 binarybusiness.de
 bing.com
@@ -1091,6 +1089,7 @@ bmst.pw
 bn.adultempire.com
 bnqt.com
 bnr.alza.cz
+bnster.com
 bntech.io
 boerse.de
 boilingbeetle.com
@@ -1103,6 +1102,7 @@ booking.com
 boomerang.com.au
 boomerang.dell.com
 boomtrain.com
+borderbrush.com
 borehamwoodtimes-gb.borehamwoodtimes.co.uk
 boss.bankofamerica.com
 bosspush.com
@@ -1153,6 +1153,7 @@ bs.yandex.ru
 bstn-14-ma.com
 bt.mediaimpact.de
 btbuckets.com
+btloader.com
 btn.clickability.com
 btrace.qq.com
 btrace.video.qq.com
@@ -1561,15 +1562,11 @@ coletor.terra.com
 coll1onf.com
 coll2onf.com
 collarity.com
-collect.*.miui.com
 collect.igodigital.com
 collect.rewardstyle.com
 collect.state.centrum24.pl
 collect.tianya.cn
 collecting.click
-collector-*.elb.amazonaws.com
-collector-*.px-client.net
-collector-*.tvsquared.com
 collector-api.99designs.com
 collector-cdn.github.com
 collector-medium.lightstep.com
@@ -2036,7 +2033,6 @@ data.younow.com
 data2.gosquared.com
 databrain.com
 datacaciques.com
-datacollect*.abtasty.com
 datacomm.ch
 datacoral.com
 datacoral.io
@@ -2173,6 +2169,7 @@ distralytics.com
 distribeo.com
 distributiontomatoes.com
 districtm.io
+disturbedquiet.com
 divehope.com
 divolution.com
 divxden.com
@@ -2198,6 +2195,7 @@ dmdi.pl
 dmp.marketgid.com
 dmpcdn.el-mundo.net
 dmpcounter.com
+dmpprof.com
 dmpxs.com
 dmtracker.com
 dmtracking.1688.com
@@ -2445,6 +2443,7 @@ engine212.com
 engine64.com
 enhance.com
 enlightenment.secureshoppingbasket.com
+enormousearth.com
 enquisite.com
 ens.luzernerzeitung.ch
 ens.nzz.ch
@@ -3006,6 +3005,7 @@ getsmartcontent.com
 getsmartlook.com
 getstatistics.se
 getsupernova.com
+getviously.com
 gez.io
 gezaehlt.de
 gft2.de
@@ -3238,7 +3238,6 @@ hitgraph.jp
 hitmaster.de
 hitmatic.com
 hitmir.ru
-hits-*.iubenda.com
 hits.antena3.com
 hits.dealer.com
 hits.e.cl
@@ -3264,6 +3263,7 @@ hivps.xyz
 hlserve.com
 hm.baidu.com
 hmstats.com
+hobbi.xyz
 hobsons.co.uk
 hocgeese.com
 holder.com.ua
@@ -3866,8 +3866,6 @@ localytics.com
 location.bloomberg.com
 lockview.cn
 locotrack.net
-log*.ku6.com
-log-*.previewnetworks.com
 log.51cto.com
 log.aimtell.com
 log.artipbox.net
@@ -3921,7 +3919,6 @@ logcounter.com
 logdy.com
 logentries.com
 logg.kiwi.com
-logger-*.dailymotion.com
 logger.co.kr
 logger.kataweb.it
 logger.nerdwallet.com
@@ -4100,7 +4097,6 @@ mbww.com
 mc.webvisor.com
 mc.webvisor.org
 mc.yandex.ru
-mcdp-*.outbrain.com
 mcloudglobal.com
 mcs-va.tiktokv.com
 mcs.delvenetworks.com
@@ -4156,11 +4152,10 @@ messengernewspapers-gb.messengernewspapers.co.uk
 met.vgwort.de
 metabroadcast.com
 metacafe.com
-metaffiliation.com^*
+metaffiliation.com
 metalyzer.com
 meteorsolutions.com
 metering.pagesuite.com
-metric*.rediff.com
 metric.inetcore.com
 metric.nwsource.com
 metricool.com
@@ -4186,12 +4181,12 @@ metrics.toptenreviews.com
 metrics.uol.com.br
 metrics.washingtonpost.com
 metrics.wikinvest.com
+metrics0.com
 metricsdirect.com
 metrigo.com
 metriweb.be
 metrix.emagister.com
 metrixlablw.customers.luna.net
-metro-trending-*.amazonaws.com
 mezzobit.com
 mfadsrvr.com
 mfio.cf
@@ -4218,7 +4213,6 @@ mine.torrent.pw
 minemytraffic.com
 minerad.com
 mineralt.io
-minero-proxy-*.sh
 minero.cc
 minero.pw
 minescripts.info
@@ -4688,6 +4682,7 @@ openxcdn.net
 ophan.theguardian.com
 opps.taboola.com
 oproi.com
+opstag.com
 optify.net
 optimahub.com
 optimierung-der-website.de
@@ -4849,6 +4844,7 @@ performtracking.com
 perimeterx.net
 perion.com
 perk0mean.com
+perljs.com
 permutive.app
 permutive.com
 perr.h-cdn.com
@@ -4977,6 +4973,7 @@ pizzaandads.com
 pjatr.com
 pjtra.com
 placemypixel.com
+placidperson.com
 pladform.ru
 plantdigestion.com
 platform.communicatorcorp.com
@@ -5049,6 +5046,7 @@ pr0gram.org
 prchecker.info
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
+prd-collector-auth.playbuzz.com
 precisioncounter.com
 predicta.net
 predictivedna.com
@@ -5070,6 +5068,7 @@ proac.nationwide.com
 proactive.base.de
 processor.asccommunications.com
 proclivitysystems.com
+producecopy.com
 production-mcs.lvp.llnw.net
 production.airswap.io
 production.mcs.delve.cust.lldns.net
@@ -5077,6 +5076,7 @@ productsup.com
 proext.com
 profilesnitch.com
 profiling.avandor.com
+profitrumour.com
 profitshare.ro
 profusesupport.com
 programmatic.cz
@@ -5336,6 +5336,7 @@ referrer.disqus.com
 referrer.org
 refersion.com
 refinedads.com
+regularplants.com
 reinvigorate.net
 reitingas.lt
 reitingi.lv
@@ -5553,6 +5554,7 @@ sa135.kiro7.com
 sa135.macworld.co.uk
 sa135.wsbtv.com
 sabavision.com
+sablesong.com
 sadv.dadapro.com
 safe-click.net
 sageanalyst.net
@@ -5594,6 +5596,7 @@ sc.cc.com
 scaledb.com
 scaleway.ovh
 scarabresearch.com
+scaredsnake.com
 schoolyeargo.com
 sciencerevenue.com
 scientificshirt.com
@@ -5869,7 +5872,7 @@ socdm.com
 social-sb.com
 socialhoney.co
 socialprofitmachine.com
-socialreader.com^*?event=email_open
+socialreader.com
 socialtrack.co
 socialtrack.net
 sociaplus.com
@@ -6108,7 +6111,6 @@ stargate-planet.de
 stas.outbrain.com
 stat-track.com
 stat-well.com
-stat.*.v-56.com
 stat.1688.com
 stat.4u.pl
 stat.acca.it
@@ -6209,7 +6211,6 @@ statm.the-adult-company.com
 statowl.com
 statpipe.ru
 statravel.com
-stats-*.p2pnow.ru
 stats-dc1.frz.io
 stats-factory.digitregroup.io
 stats-messages.gifs.com
@@ -6341,7 +6342,6 @@ stats01.20min.ch
 stats02.topix.com
 stats1.tune.pk
 stats1x1.kapaza.be
-stats2.*.fdnames.com
 stats2.algo.at
 stats2.com
 stats2.tune.pk
@@ -6567,6 +6567,7 @@ tagm.tchibo.de
 tagmanager.cn
 tagmngrs.com
 tags.cdn.circlesix.co
+tags.creativille.co.uk
 tags.master-perf-tools.com
 tags.msnbc.com
 tags.news.com.au
@@ -6599,7 +6600,6 @@ target.smi2.net
 target.smi2.ru
 target.ukr.net
 targetfuel.com
-targeting.*.arcpublishing.com
 targeting.perso.aws.arc.pub
 targeting.voxus.tv
 targetix.net
@@ -6650,6 +6650,7 @@ telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
+telemetry.tableausoftware.com
 telemetry.tradingview.com
 telize.com
 teljari.is
@@ -6870,6 +6871,7 @@ track.derbund.ch
 track.dictionary.com
 track.digitalriver.com
 track.e7r.com.br
+track.eadv.it
 track.engagesciences.com
 track.express.de
 track.fxstreet.com
@@ -6999,9 +7001,7 @@ trackerstatistik.init-ag.de
 trackertest.org
 trackfeed.com
 trackicollect.ibase.fr
-tracking*.euroads.fi
 tracking-opi.fonpit.de
-tracking.*.miui.com
 tracking.3ds.com
 tracking.adalyser.com
 tracking.adweb.co.kr
@@ -7218,7 +7218,6 @@ trilogyed.com
 triptease.io
 triptease.net
 triver.jp
-trk*.vidible.tv
 trk.absuite.com.br
 trk.adbutter.net
 trk.bhs4.com
@@ -7586,7 +7585,6 @@ vry9.destinia.com
 vs.target.com
 vstats.digitaltrends.com
 vtf2f.banque-casino.fr
-vtnlog-*.elb.amazonaws.com
 vtracker.net
 vtracy.de
 vtrtl.de
@@ -7793,7 +7791,7 @@ womanear.com
 womtp.com
 wonder-ma.com
 wonderpush.com
-woolik.com^*^tracker
+woolik.com
 woopra-ns.com
 woopra.com
 wootric.com

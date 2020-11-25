@@ -114,7 +114,6 @@ amateurpin.com
 amateurseite.com
 amazon-adsystem.com
 amazon.de
-amazon.de^*
 amerika-forum.de
 amunx.de
 andite.tk
@@ -182,7 +181,6 @@ buywords.de
 bwads24.com
 c-points.de
 cambabestube.com
-cas.*.criteo.com
 cas.criteo.com
 casecenter.net
 cashdorado.de
@@ -477,7 +475,6 @@ marketing.gamesload.de
 maxi-ad.de
 maxiad.de
 mdlbs.motor-talk.de
-media*.s24.com
 media-guides.de
 media.alphaload.com
 media.onlinewelten.com
@@ -579,7 +576,7 @@ partner.zooplus.de
 partnerprogramm.e-wie-einfach.de
 partners.eatsmarter.de
 partners.webmasterplan.com
-partnervermittlung.elitepartner.de^*^emnad_id
+partnervermittlung.elitepartner.de
 payclick.it
 pc-magazin.de
 pc-max.de
@@ -726,7 +723,6 @@ sportalplus.com
 spotxchange.com
 spox.com
 sprachnudel.de
-sprachnudel.de^*?*
 spreeblick.com
 spyoff.com
 stadt-bremerhaven.de
@@ -738,9 +734,7 @@ stroeerdigitalmedia.de
 stroeerdigitalpublishing.de
 stroeerdp.de
 stuttgarter-nachrichten.de
-suche.t-online.de^*^name=amazon
-suche.t-online.de^*^name=billiger
-suche.t-online.de^*^name=pageplace
+suche.t-online.de
 suedkurier.de
 suedtirol1.it
 suedtiroltv.it
@@ -827,9 +821,8 @@ vxcash.net
 w-m-w.net
 w.online-verlag-freiburg.de
 w3hoster.de
-waiwidgets-*.amazonaws.com
 wallstreet-online.de
-watchever.de^*^ifw^*^ifh
+watchever.de
 web20-traffic-system.de
 webnews.de
 websc.org
@@ -865,7 +858,6 @@ wortfilter.de
 wowmopguide.de
 wpseo.de
 ww4.cad.de
-ww4.cad.de^*.php?*
 wwm24.de
 www.connect.de
 www.dialo.de

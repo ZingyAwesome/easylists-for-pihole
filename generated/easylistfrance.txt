@@ -1380,8 +1380,6 @@ blendernetworks.com
 blhjbepkhmuunbjxmidaq.com
 blionicking.pro
 block.mediavenus.biz
-block.s*block.com
-block.s*vesta.com
 blockadz.com
 blogbang.com
 blogoman-24.com
@@ -1691,9 +1689,7 @@ clickcdn.co
 clickdevmod.com
 clickdomnew.com
 clickenabler.com
-clickioadv*.com
 clickioadv.com
-clickiocdn*.com
 clickiocdn.com
 clickioglobal.com
 clickmena.com
@@ -3100,7 +3096,6 @@ getfree-vpn.com
 getgamers.eu
 gethide.com
 getlinksinaseconds.com
-getmyads*.com
 getpdaiddaily.com
 getpublica.com
 getsl.me
@@ -4253,7 +4248,6 @@ miner.pr0gramm.com
 minerad.com
 minercry.pt
 minergate.com
-minero-proxy-*.sh
 minero.cc
 minero.pw
 minescripts.info
@@ -4308,7 +4302,6 @@ mobiflys.com
 mobifoth.com
 mobile-10.com
 mobileadspopup.com
-mobileoffers-*-download.com
 mobilup.com
 mobisla.com
 mobligo.com
@@ -4449,8 +4442,6 @@ myxpass.com
 myxpass.net
 myxpub.com
 mzyfkfj.com
-n*adserv.com
-n*adserv.xyz
 n1.webedia.fr
 n1g459ky7y.com
 n6mnw8jaldqe.com
@@ -4843,7 +4834,6 @@ partners.neteventsmedia.be
 partners.pmu.fr
 partners.tremorhub.com
 partnerz.biz
-party-*.now.sh
 paruvendu.fr
 pasoherb.gq
 passeportsante.net
@@ -5226,7 +5216,6 @@ pubagence.com
 pubagence.net
 pubinteractive.ca
 publi.forum.ad
-public.libertyvf.*
 publicideas.com
 publike.fr
 publy.net
@@ -5941,7 +5930,6 @@ statdynamic.com
 static-cnt.bid
 static-dscn.net
 static-od.com
-static.*.netdna-cdn.com
 static.6cloud.fr
 static.akacdn.ru
 static.mntzm.com
@@ -6304,7 +6292,6 @@ tqeobp89axcn.com
 tqff3qkzsq.com
 tqfulmf.com
 tr553.com
-track-*.link
 track.bloglog.com
 track.mdsmatch.com
 track136.com
@@ -6659,14 +6646,12 @@ vzaar.com
 vzhjnorkudcxbiy.com
 w4qnw4uw.cricket
 w6lkr4s8wu.com
-wac.*.deltacdn.net
 wac.a164.taucdn.net
 wachipho.net
 wadcubkey.com
 wads.ozap.com
 wads.plurielles.fr
 wadstabgum.cam
-waframedia*.com
 wagandsly.site
 wagbinbad.club
 waistcoataskeddone.com
@@ -7009,7 +6994,6 @@ yume.com
 yunbofangbt.com
 yupidd.com
 yupsittoms.work
-yx-ads*.com
 yy3dhmfd.top
 yy9s51b2u05z.com
 yydtbpms8tf4.com
@@ -7045,7 +7029,6 @@ zeliteral.info
 zenad.net
 zereessa.com
 zeropub.net
-zeroredirect*.com
 zeroredirect1.com
 zert.ovh
 zeybjsxy.com
@@ -7071,7 +7054,6 @@ zo7gihmry2.com
 zoacaups.net
 zoagremo.net
 zoapsith.com
-zone.*.netdna-cdn.com
 zone911pub.com
 zononi.com
 zoocauvo.net

@@ -53,7 +53,6 @@ ashleyrnadison.com
 azadv.co.il
 azureedge.net
 bakkels.com
-banners*.bizportal.co.il
 banners.bizportal.co.il
 banners.news1.co.il
 bargainpricedude.com
@@ -76,8 +75,6 @@ browsiprod.com
 bsdigital.co.il
 bsdygital.co.il
 bulgarine.com
-campaign.*.co.il
-campaigns.*.co.il
 cdn.mdigital.co.il
 cdnic.site
 cellebrate.mobi
@@ -104,7 +101,6 @@ datesspace.net
 dateszone.net
 datetonight.xyz
 datingfantasies11.com
-dcampaigns.*.co.il
 depresis.com
 desktoptrack.com
 dfskgmrepts.com
