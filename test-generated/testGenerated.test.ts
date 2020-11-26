@@ -1,7 +1,8 @@
 import * as fs from "fs";
 import * as path from "path";
 
-const REGEXP = /.*\*.*/;
+const ASTERISK_REGEXP = /.*\*.*/;
+const YNET_REGEXP = /www\.ynet\.co\.il/;
 
 const fsPromises = fs.promises;
 
@@ -14,11 +15,14 @@ describe("Test Generated files", () => {
         const promises = files.map(async (filename: string) => {
             const fileContent = await fsPromises.readFile(path.join(generatedPath, filename), { encoding: "utf-8" });
             const any: Promise<void>[] = fileContent.split("\n").map(async (line) => {
-                const match = REGEXP.exec(line);
-                if (match) {
-                    console.log(line);
-                }
-                expect(match).toBeFalsy();
+
+                // Check for asterisk in line
+                const asteriskMatch = ASTERISK_REGEXP.exec(line);
+                expect(asteriskMatch).toBeFalsy();
+
+                // Test 'ynet' (false negative bug)
+                const ynetMatch = YNET_REGEXP.exec(line);
+                expect(ynetMatch).toBeFalsy();
             });
             await Promise.all(any);
         });
