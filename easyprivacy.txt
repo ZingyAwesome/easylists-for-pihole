@@ -235,6 +235,7 @@
 2dehands-verificatie.be
 2df455.petprince-vn.com
 2e22e99ot9oofkkkf.000webhostapp.com
+2fuc4clr7gvcn.cloudfront.net
 2giga.download
 2m398bu923-rv-read.com
 2mbmrdgm42.melpn4fc5q.madpendesign.com.au
@@ -20179,6 +20180,7 @@ prayogispl.in
 prciousere.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
+prd-collector-auth.playbuzz.com
 precallege.com
 precisiongraphics.us
 preconhsa.com
@@ -21708,7 +21710,6 @@ rustampalwan.com
 rusunny.ru
 rutacolegial.com
 ruzi-hana.co.jp
-rv.modanisa.com
 rva.outbrain.com
 rvfwqsekd.com
 rvkcpqz.com
@@ -24261,6 +24262,7 @@ stats.gifs.com
 stats.grafikart.fr
 stats.harpercollins.com
 stats.heyoya.com
+stats.hfet.org
 stats.highwire.com
 stats.ibtimes.co.in
 stats.ibtimes.co.uk
@@ -25059,6 +25061,7 @@ tagger.ope.scmp.com
 tagger.opecloud.com
 tagm.tchibo.de
 tags.cdn.circlesix.co
+tags.creativille.co.uk
 tags.master-perf-tools.com
 tags.msnbc.com
 tags.newscgp.com
@@ -25319,6 +25322,7 @@ telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
+telemetry.tableausoftware.com
 telemetry.tradingview.com
 telephonie-voip.info
 telesaldo.com
@@ -26020,6 +26024,7 @@ track.derbund.ch
 track.dictionary.com
 track.digitalriver.com
 track.e7r.com.br
+track.eadv.it
 track.engagesciences.com
 track.express.de
 track.fxstreet.com
