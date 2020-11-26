@@ -1,4 +1,4 @@
-# EasyLists for Pi-Hole
+# EasyLists for Pi-Hole [WIP - Will be ready soon]
 [![PR Actions Status](https://github.com/yoavain/easylists-for-pihole/workflows/Code%20CI/badge.svg)](https://github.com/yoavain/easylists-for-pihole/actions)
 [![Nightly Actions Status](https://github.com/yoavain/easylists-for-pihole/workflows/Nightly/badge.svg)](https://github.com/yoavain/easylists-for-pihole/actions)
 ![types](https://img.shields.io/npm/types/typescript.svg)
