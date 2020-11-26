@@ -3,14 +3,14 @@ const mockWriteFile = jest.fn();
 jest.mock("~resources/input", function() {
     return {
         getInput: () => ({
-            target1: ["url1", "url2"],
-            target2: ["url3", "url4"]
+            target1: ["urlA", "urlB"],
+            target2: ["urlC", "urlD"]
         })
     };
 });
 jest.mock("got", () => ({
     get: (url) => ({
-        text: () => [`||a.b.c.${url}^`, `||x.y.z.${url}^$comment`].join("\n")
+        text: () => [`||aaa.bb.cc.${url}^`, `||xxx.yy.zz.${url}^$`].join("\n")
     })
 }));
 jest.mock("fs", function() {
@@ -33,37 +33,47 @@ import { filterDomains, parse } from "~src/parser";
 
 describe("Test parser", () => {
     describe("Test filterDomains", () => {
-        it("Should opt-in only domains with no '/'", () => {
+        it("Should opt-in only domains with leading '||'", () => {
             const content: string = [
-                "||a.b.c.d^",
-                "||a.b.c.e/ad^"
+                "||aaa.bb.cc.dd^",
+                "aaa.bb.cc.ee^"
             ].join("\n");
             const result: string[] = filterDomains(content);
-            expect(result).toEqual(["a.b.c.d"]);
+            expect(result).toEqual(["aaa.bb.cc.dd"]);
+        });
+        it("Should opt-in only domains with trailing '/'", () => {
+            const content: string = [
+                "||aaa.bb.cc.dd^",
+                "||aaa.bb.cc.ee/ad^"
+            ].join("\n");
+            const result: string[] = filterDomains(content);
+            expect(result).toEqual(["aaa.bb.cc.dd"]);
         });
         it("Should opt-in only domains with no '*'", () => {
             const content: string = [
-                "||a.b.c.d^",
-                "||a*.b.c.e^"
+                "||aaa.bb.cc.dd^",
+                "||aaa*.bb.cc.ee^"
             ].join("\n");
             const result: string[] = filterDomains(content);
-            expect(result).toEqual(["a.b.c.d"]);
+            expect(result).toEqual(["aaa.bb.cc.dd"]);
         });
         it("Should return domains sorted and unique", () => {
             const content: string = [
-                "||l.m.n.o^",
-                "||a.b.c.d^"
+                "||lll.mm.nn.oo^",
+                "||aaa.bb.cc.dd^",
+                "||lll.mm.nn.oo^"
             ].join("\n");
             const result: string[] = filterDomains(content);
-            expect(result).toEqual(["a.b.c.d", "l.m.n.o"]);
+            expect(result).toEqual(["aaa.bb.cc.dd", "lll.mm.nn.oo"]);
         });
-        it("Should return domains without comments", () => {
+        it("Should return domains without type options", () => {
             const content: string = [
-                "||a.b.c.d^$comment1",
-                "||a.b.c.d^$comment2"
+                "||aaa.bb.cc.dd^",
+                "||aaa.bb.cc.ee^$",
+                "||aaa.bb.cc.ff^$type"
             ].join("\n");
             const result: string[] = filterDomains(content);
-            expect(result).toEqual(["a.b.c.d"]);
+            expect(result).toEqual(["aaa.bb.cc.dd", "aaa.bb.cc.ee"]);
         });
     });
 
@@ -76,32 +86,32 @@ describe("Test parser", () => {
         });
         it("Should handle all inputs", async () => {
             const stats: Stats = await parse();
-            expect(mockWriteFile).toBeCalledTimes(2);
-            expect(mockWriteFile.mock.calls[0]).toEqual([
+            expect(mockWriteFile).toBeCalledTimes(6); // 2 generated + 4 raw
+            expect(mockWriteFile.mock.calls[4]).toEqual([
                 "../generated/target1.txt",
                 [
-                    "a.b.c.url1",
-                    "a.b.c.url2",
-                    "x.y.z.url1",
-                    "x.y.z.url2"
+                    "aaa.bb.cc.urlA",
+                    "aaa.bb.cc.urlB",
+                    "xxx.yy.zz.urlA",
+                    "xxx.yy.zz.urlB"
                 ].join("\n"),
                 "utf-8"
             ]);
-            expect(mockWriteFile.mock.calls[1]).toEqual([
+            expect(mockWriteFile.mock.calls[5]).toEqual([
                 "../generated/target2.txt",
                 [
-                    "a.b.c.url3",
-                    "a.b.c.url4",
-                    "x.y.z.url3",
-                    "x.y.z.url4"
+                    "aaa.bb.cc.urlC",
+                    "aaa.bb.cc.urlD",
+                    "xxx.yy.zz.urlC",
+                    "xxx.yy.zz.urlD"
                 ].join("\n"),
                 "utf-8"
             ]);
             expect(stats).toEqual({
-                url1: 2,
-                url2: 2,
-                url3: 2,
-                url4: 2
+                urlA: 2,
+                urlB: 2,
+                urlC: 2,
+                urlD: 2
             });
         });
     });

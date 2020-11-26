@@ -5,3 +5,4 @@ node_modules/**
 /lsp/
 /*.raw.txt
 /temp/
+/raw/

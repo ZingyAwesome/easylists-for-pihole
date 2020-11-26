@@ -14,8 +14,10 @@ const getUniqueLinesSorted = (input: string | string[]): string[] => {
 };
 
 const fetchAllDomainsForSingleTarget = async (targetFile: string, inputUrls: string[], stats?: Stats): Promise<string> => {
-    const domains: string[] = await Promise.all(inputUrls.map(async (inputUrl: string): Promise<string> => {
+    const domains: string[] = await Promise.all(inputUrls.map(async (inputUrl: string, index:number): Promise<string> => {
         const text: string = await got.get(inputUrl).text();
+        const rawFilePath: string = path.join(__dirname, "..", "raw", `${targetFile}-input${index}.txt`);
+        await fsPromises.writeFile(rawFilePath, text, { encoding: "utf8" });
         const filteredDomains: string[] = filterDomains(text);
         stats[inputUrl] = filteredDomains.length;
         return filteredDomains.join("\n");
@@ -25,7 +27,7 @@ const fetchAllDomainsForSingleTarget = async (targetFile: string, inputUrls: str
 
 export const filterDomains = (content: string): string[] => {
     const matches: Set<string> = new Set<string>();
-    const regex = /^\|\|([^$\n\\*\\/]+)\^\$?.*/gm;
+    const regex = /^\|\|([a-zA-Z0-9][a-zA-Z0-9-]{1,61}[a-zA-Z0-9](?:\.[a-zA-Z]{2,})+)\^\$?$/gm;
     let m;
     while ((m = regex.exec(content)) !== null) {
         if (m.index === regex.lastIndex) {
