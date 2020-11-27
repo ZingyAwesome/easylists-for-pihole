@@ -5,7 +5,7 @@
 ![commit](https://img.shields.io/github/last-commit/yoavain/easylists-for-pihole.svg)
 [![Known Vulnerabilities](https://snyk.io//test/github/yoavain/easylists-for-pihole/badge.svg?targetFile=package.json)](https://snyk.io//test/github/yoavain/easylists-for-pihole?targetFile=package.json)
 [![codecov](https://codecov.io/gh/yoavain/easylists-for-pihole/branch/master/graph/badge.svg)](https://codecov.io/gh/yoavain/easylists-for-pihole)
-![renovate](https://badges.renovateapi.com/github/yoavain/easylists-for-pihole)
+[![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yoavain.easylists-for-pihole)
 
 Hello there!
