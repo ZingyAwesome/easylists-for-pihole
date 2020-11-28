@@ -1723,6 +1723,7 @@ sync.shinobi.jp
 sync.taboola.com
 systemmonitoring.badgeville.com
 t-ak.hulu.com
+t-pan.triodos.com
 t-staging.powerreviews.com
 tag-manager.playbuzz.com
 tag.aticdn.net
@@ -2170,6 +2171,7 @@ wla.vivaldi.com
 worcesternews-gb.worcesternews.co.uk
 wordc.ga
 wph2.destinia.us
+wren.condenastdigital.com
 wssgmstats.vibbo.com
 wsstats.coches.net
 wstat.wibiya.com
