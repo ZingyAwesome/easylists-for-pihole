@@ -2000,6 +2000,7 @@ tracking.rtl.de
 tracking.searchmarketing.com
 tracking.shopstyle.com
 tracking.shoptogether.buy.com
+tracking.smartmeapp.com
 tracking.softwareprojects.com
 tracking.sokrati.com
 tracking.statravel.de
@@ -2088,6 +2089,7 @@ urc.taboolasyndication.com
 urs.metacritic.com
 useg.nextdigital.com.hk
 user-metrics.onthemarket.com
+userexperience.thehut.net
 userfly.com
 usersegment.wpdigital.net
 utrack.hexun.com
@@ -2150,6 +2152,7 @@ weblog.livesport.eu
 weblog.strawberrynet.com
 weblog2.eseoul.go.kr
 weblogger-dynamic-lb.playdom.com
+webpixel.smartmeapp.com
 webservices.websitepros.com
 webstat.kuwo.cn
 webstats.sapo.pt
