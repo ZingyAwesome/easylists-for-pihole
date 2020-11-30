@@ -33,23 +33,25 @@ NOTE: Use the RAW link for the lists.
 
 As of PiHole 5.0, the steps to add new lists have changed.
 
-1. Log in to the Pi-Hole Admin page.
+1. Log in to the Pi-Hole Admin page
 
 2. Go to Group Management > Adlists
 
-3. Paste the URL of EasyList (or a country specific list) in the address box, you can optionally add a description in the comment box such as "Easylist".
+3. Paste the URL of EasyList (or a country specific list) in the address box, you can optionally add a description in the comment box such as "Easylist"
 ```
 https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/generated/easylist.txt
 ```
-Click add.
+Click ***Add***
+
+![](https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/docs/add-adlist.PNG)
 
 5. Paste the URL of EasyPrivacy in the address box, you can optionally add a description in the comment box such as "Easyprivacy":
 ```
 https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/generated/easyprivacy.txt
 ```
-Click add.
+Click ***Add***
 
-6. Go to Tools > Update Gravity and click the update button.
+6. Go to Tools > Update Gravity and click the update button
 
 </p>
 </details>
@@ -59,7 +61,7 @@ Click add.
 <summary>Old instructions | PiHole below 5.0</summary>
 <p>
 
-1. Log in to the Pi-Hole Admin page.
+1. Log in to the Pi-Hole Admin page
 
 2. Go to Settings > Block Lists
 
@@ -75,7 +77,7 @@ https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/generated/
 https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/generated/easyprivacy.txt
 ```
 
-6. Press either Save and Update and wait (or press Save).
+6. Press either ***Save and Update*** and wait (or press ***Save***)
 
 IMPORTANT: If you only press
 Save then you will have to SSH into your Pi or open a terminal on your Pi and run the command:
