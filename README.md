@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/generated/
 ```
 Click ***Add***
 
-![](https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/docs/add-adlist.PNG)
+![](https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/docs/add-adlist.png)
 
 5. Paste the URL of EasyPrivacy in the address box, you can optionally add a description in the comment box such as "Easyprivacy":
 ```
@@ -53,6 +53,7 @@ Click ***Add***
 
 6. Go to Tools > Update Gravity and click the update button
 
+![](https://raw.githubusercontent.com/yoavain/easylists-for-pihole/master/docs/update-gravity.png)
 </p>
 </details>
 
