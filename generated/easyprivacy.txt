@@ -1385,7 +1385,6 @@ prstats.postrelease.com
 ptracker.nurturehq.com
 ptsc.shoplocal.com
 pub.sheknows.com
-purr.nytimes.com
 pvstat.china.cn
 pvtag.yahoo.co.jp
 pvx.xcar.com.cn
