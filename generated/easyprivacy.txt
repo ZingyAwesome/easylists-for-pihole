@@ -885,6 +885,7 @@ g4754024040.co
 g4952108375.co
 g4p.redtram.com
 g5150192710.co
+g5348277045.co
 ga-beacon.appspot.com
 gak.webtoons.com
 gamesradar-gb.gamesradar.com
@@ -1213,6 +1214,7 @@ mms.syracuse.com
 mms.theroot.com
 mms.wwe.com
 monitor.ebay.com
+mors22.com
 mqs.ioam.de
 ms-apps.haaretz.com
 mtag.mman.kr
@@ -1380,6 +1382,7 @@ production-mcs.lvp.llnw.net
 production.airswap.io
 production.mcs.delve.cust.lldns.net
 profiling.avandor.com
+propeller-tracking.com
 prophet.heise.de
 proxypage.msn.com
 prstats.postrelease.com
