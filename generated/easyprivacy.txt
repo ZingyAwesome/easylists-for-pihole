@@ -245,6 +245,7 @@ api.nobeta.com.br
 api.wipmania.com
 apple.www.letv.com
 argos.citruserve.com
+as01.overbuff.com
 aserve.directorym.com
 asianimage-gb.asianimage.co.uk
 astat.nikkei.com
@@ -1236,12 +1237,14 @@ nexttime.ovh
 nil.naver.com
 ninja.akamaized.net
 ninja.onap.io
+nj1r.valorbuff.com
 nmtracking.netflix.com
 noa0.compteczam.fr
 noflake-aggregator-http.narvar.com
 nol.yahoo.com
 northwichguardian-gb.northwichguardian.co.uk
 nova.dice.net
+nvea.valorbuff.com
 nws.naltis.com
 nxakpj4ac8gkd53.info
 oal2.destinia.co.uk
@@ -2102,6 +2105,7 @@ usersegment.wpdigital.net
 utrack.hexun.com
 uts.auction.co.kr
 uue2.destinia.ir
+uuqz.overbuff.com
 vatrack.hinet.net
 verifier.live
 veta.naver.com
