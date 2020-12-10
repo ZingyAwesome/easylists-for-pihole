@@ -30,7 +30,7 @@
     "node": ">=12"
   },
   "dependencies": {
-    "got": "11.8.0"
+    "got": "11.8.1"
   },
   "devDependencies": {
     "@types/jest": "26.0.18",
