@@ -856,6 +856,7 @@ firebaselogging.googleapis.com
 flashstats.libsyn.com
 fog.pixual.co
 footprint.anetwork.ir
+fourier.taobao.com
 fourmtagservices.appspot.com
 fpa-events.arstechnica.com
 freepressseries-gb.freepressseries.co.uk
@@ -940,6 +941,7 @@ geolocation.forbes.com
 geoservice.curse.com
 gets.faz.net
 gjr5.yoigo.com
+gk3o.trackdota.com
 glasgowtimes-gb.glasgowtimes.co.uk
 glassmoni.researchgate.net
 glbdns.microsoft.com
@@ -1021,6 +1023,7 @@ javascriptcounter.appspot.com
 jelly.mdhv.io
 jppolid-track.trackprod.integration.jppol.dk
 js-agent.newrelic.com
+k9v7.dotabuff.com
 kalstats.kaltura.com
 kbn.korben.info
 keighleynews-gb.keighleynews.co.uk
@@ -1219,6 +1222,7 @@ mms.wwe.com
 monitor.ebay.com
 mors22.com
 mqs.ioam.de
+mqzy.dotabuff.com
 ms-apps.haaretz.com
 mtag.mman.kr
 mtc.nhk.or.jp
@@ -1238,6 +1242,7 @@ nil.naver.com
 ninja.akamaized.net
 ninja.onap.io
 nj1r.valorbuff.com
+nkeq.speedrun.com
 nmtracking.netflix.com
 noa0.compteczam.fr
 noflake-aggregator-http.narvar.com
@@ -1374,6 +1379,7 @@ pos.baidu.com
 postpixel.vindicosuite.com
 powercount.jswelt.de
 powersearch.us.com
+pqoz.trackdota.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
