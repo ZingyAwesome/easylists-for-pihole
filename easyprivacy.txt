@@ -1870,6 +1870,7 @@ analyse.weather.com.cn
 analysis.shinobi.jp
 analysthelp.com
 analytic.imlive.com
+analytic20.detik.com
 analyticcdn.globalmailer.com
 analytics-beacon-.amazonaws.com
 analytics-cms.whitebeard.me
@@ -2253,6 +2254,7 @@ aphcajk.com
 aphien.id
 aphrodite.railsplayground.net
 aphrofem.com
+api-location-prd.pelcro.com
 api.appsouth.net
 api.nobeta.com.br
 api.truuapp.com
@@ -2788,6 +2790,7 @@ as.mirapodo.de
 as.mytoys.de
 as.payback.it
 as.yomonda.de
+as01.overbuff.com
 asaasa.pk
 asadtekgroup.com
 asalesguyonlinetraining.com
@@ -6004,6 +6007,7 @@ cnri.es
 cns-ssaintander.com
 cnstats.cdev.eu
 cnt.3dmy.net
+cnt.iceporn.com
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.nicemix.com
@@ -6721,6 +6725,7 @@ creative-ex.ru
 creativekids.org.in
 creativelifevents.com
 creatives.co.in
+creatives.sunmedia.tv
 creativesparkz.co.in
 creativitygap.com
 creator.zmags.com
@@ -7035,6 +7040,7 @@ d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d32hwlnfiv2gyn.cloudfront.net
 d343246.u-telcom.net
 d34ko97cxuv4p7.cloudfront.net
+d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d38dc3e7.ngrok.io
@@ -7211,6 +7217,7 @@ data.younow.com
 datacabin.net
 dataconnectinfotrends.com
 datadog-service.mvfglobal.com
+datalayer.p7s1.io
 datalogin-upportacc.com
 dataloginupportacconline.com
 dataprufen.com
@@ -10193,6 +10200,7 @@ found-iphone.me
 four-u.com
 four999.webredirect.org
 fourgonsrivesud.com
+fourier.taobao.com
 fourmtagservices.appspot.com
 foxicoadventures.esy.es
 foxionserl.com
@@ -10516,6 +10524,7 @@ g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
 g4p.redtram.com
 g4va.kdcad.com
 g5150192710.co
+g5348277045.co
 g6fitness.com
 g6tk.com
 g9voihkevb.bradul.creatory.org
@@ -10959,6 +10968,7 @@ gjooge.com
 gjr5.yoigo.com
 gjtikylryey.000webhostapp.com
 gjysjl.com
+gk3o.trackdota.com
 gk4aiims.000webhostapp.com
 gkcy003.com
 gkiklasisjakartautara.or.id
@@ -13970,6 +13980,7 @@ k3yw0r6.com
 k5btvbpr2a.a2zeeholidays.com
 k5dwwsm3u5kd2kjkm42l.viomil.ro
 k918053m.beget.tech
+k9v7.dotabuff.com
 kaabbaba.co.vu
 kaakli16.beget.tech
 kaartbeheerdocument.nl
@@ -15301,7 +15312,6 @@ localtcoins.net
 localupline.fr
 locatelli.us
 locateyouricloud.com
-location.bloomberg.com
 location.fashionises.com
 locations-map.com
 lock-vkcom-hd6dhdajda67dsfsdf45g.pe.hu
@@ -17029,6 +17039,7 @@ mormont.gamer-network.net
 morningdiaries.com
 moroccomills.com
 morpheus.com.tr
+mors22.com
 mortezare.ir
 mortimerdesign.ie
 morzindgikay.com
@@ -17097,6 +17108,7 @@ mqbdledibcehvaflxwgs.ahdaaf.org
 mqhkngmw.tk
 mqs.ioam.de
 mqwdaq.com
+mqzy.dotabuff.com
 mrappolt.de
 mrdroppizza.top
 mrhosting.us
@@ -18008,9 +18020,11 @@ nivanspromoters.com
 niveahie.beget.tech
 niveaumes.fr
 niyiijaola.com
+nj1r.valorbuff.com
 nje1.cn
 njpuke.com
 njyabihc.com
+nkeq.speedrun.com
 nkmosevac.ba
 nkxicfqchl.pw
 nl-ventures.com
@@ -18242,6 +18256,7 @@ nv-1acc.online
 nv-acc.online
 nv-acc1.online
 nvcolsonfab.ca
+nvea.valorbuff.com
 nvgbtqxkowap.pw
 nvlegal.co.za
 nvlenergie.fr
@@ -20152,6 +20167,7 @@ pprivate.suncappert.com
 ppverifi.xyz
 pqaqnngeoyqejj.com
 pqoweb.com
+pqoz.trackdota.com
 pqwaker.altervista.org
 pr.blogflux.com
 pr25511.com
@@ -20366,6 +20382,7 @@ proof-of-payment-iphone.com
 proofgenerator.bid
 proofs6conf-net.webs.com
 propague.online
+propeller-tracking.com
 properties.northviewcreative.com
 propertikoting.com
 propertologie.com
@@ -20524,7 +20541,6 @@ puritymalawi.mw
 purloined-restraint.000webhostapp.com
 purpleoak.co.in
 purplesteel.com
-purr.nytimes.com
 pushtera.com
 pussyhunters.ru
 pustulate-twine.000webhostapp.com
@@ -24277,6 +24293,7 @@ stats.media.onet.pl
 stats.miarroba.info
 stats.mituyu.com
 stats.mos.ru
+stats.nctm.org
 stats.nebula.fi
 stats.netbopdev.co.uk
 stats.nimiq-network.com
@@ -24949,6 +24966,7 @@ szpk.pl
 szzlzn.com
 t-ak.hulu.com
 t-complextestosterone.info
+t-pan.triodos.com
 t-staging.powerreviews.com
 t.9gag.com
 t.a3cloud.net
@@ -26057,6 +26075,7 @@ track.social.com
 track.sohu.com
 track.sprinklecontent.com
 track.strife.com
+track.sunmedia.tv
 track.tcppu.com
 track.td3x.com
 track.tesiteca.it
@@ -26188,6 +26207,7 @@ tracking.lengow.com
 tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
+tracking.magnetmail.net
 tracking.menamarketplace.com
 tracking.military.com
 tracking.mindshare.de
@@ -26218,6 +26238,7 @@ tracking.s24.com
 tracking.searchmarketing.com
 tracking.shopstyle.com
 tracking.shoptogether.buy.com
+tracking.smartmeapp.com
 tracking.softwareprojects.com
 tracking.sokrati.com
 tracking.sport1.de
@@ -27038,6 +27059,7 @@ user57366.vs.speednames.com
 user57384.vs.speednames.com
 user57403.vs.speednames.com
 useraccountvalidation-apple.com
+userexperience.thehut.net
 userfly.com
 useronlinelimited.org
 userrlive.xyz
@@ -27089,6 +27111,7 @@ utzpkru.411.com1.ru
 uucxyfhvcoeyueknxs.click
 uue2.destinia.ir
 uuqffecx2gk3gopwrocvz6ba.stream
+uuqz.overbuff.com
 uuu822.com
 uuw0l8repa3b.stream
 uuwflbmjmi.eu
@@ -28065,6 +28088,7 @@ webontwikkeling.co.za
 weborg466-001-site1.htempurl.com
 webpage-secureverify.com
 webphone.bellaliant.net
+webpixel.smartmeapp.com
 webprotectionpro.com
 webpurchaseverification-accountwebappid.com
 webradioomegadesobral.com.br
@@ -28541,6 +28565,7 @@ wpzljhndz4xp4vogict6.bid
 wqeipgmnvservices.co.uk
 wqmdsdtwiwusoxq.pw
 wqxvsxppjivs.pw
+wren.condenastdigital.com
 wrisadfh.com
 writanwords.com
 writec.ca
