@@ -10,7 +10,8 @@ NOTE: Use the RAW link for the lists.
 
 
 ----
-Old instructions | PiHole below 5.0
+<details>
+<summary>Old instructions | PiHole below 5.0</summary>
 
 1. Log in to the Pi-Hole Admin page.
 
@@ -36,10 +37,11 @@ Save then you will have to SSH into your Pi or open a terminal on your Pi and ru
 pihole -g
 ```
 The lists will be applied to your Pi-Hole.
-
+</details>
 
 ----
-New Instructions | PiHole 5.0 and above
+<details>
+<summary>New Instructions | PiHole 5.0 and above</summary>
 
 As of PiHole 5.0, the steps to add new lists have changed.
 
@@ -60,7 +62,7 @@ https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.
 Click add.
 
 6. Go to Tools > Update Gravity and click the update button.
-
+</details>
 ----
 
 I am also planning to make an auto downloader/updater script so lists will always be up to date. (As of PiHole 5.0, lists are now stored in a database making this harder. Hopefully I will have it ready soon!)
