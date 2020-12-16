@@ -807,6 +807,7 @@ eventlogger.soundcloud.com
 events.air.tv
 events.apester.com
 events.attentivemobile.com
+events.audiate.me
 events.avantisvideo.com
 events.brightline.tv
 events.chaordicsystems.com
@@ -1123,6 +1124,7 @@ logs.dashlane.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
+logs.naukri.com
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
@@ -1356,6 +1358,7 @@ pixel.pcworld.com
 pixel.propublica.org
 pixel.prosieben.de
 pixel.roymorgan.com
+pixel.smartmedia.tj
 pixel.solvemedia.com
 pixel.spotify.com
 pixel.sprinklr.com
@@ -1785,7 +1788,6 @@ tdf1.easyvoyage.de
 tdf1.laredoute.fr
 ted.dailymail.co.uk
 ted.metro.co.uk
-telegraph.api.hbo.com
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
