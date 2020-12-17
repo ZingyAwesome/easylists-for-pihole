@@ -3720,6 +3720,7 @@ beacon.aimtell.com
 beacon.ehow.com
 beacon.errorception.com
 beacon.examiner.com
+beacon.flow.io
 beacon.gcion.com
 beacon.gu-web.net
 beacon.gutefrage.net
@@ -9239,6 +9240,7 @@ events-egiftsent.000webhostapp.com
 events.air.tv
 events.apester.com
 events.attentivemobile.com
+events.audiate.me
 events.avantisvideo.com
 events.brightline.tv
 events.chaordicsystems.com
@@ -10526,6 +10528,7 @@ g4p.redtram.com
 g4va.kdcad.com
 g5150192710.co
 g5348277045.co
+g5546361380.co
 g6fitness.com
 g6tk.com
 g9voihkevb.bradul.creatory.org
@@ -13019,6 +13022,7 @@ insuranceandbeauty.info
 int-found-online.bizpartner.biz
 intabulations.org
 intahealthycare.com
+intake-analytics.wikimedia.org
 integratedadebsons.com
 integrativeoncologydatabase.com
 integretes.ga
@@ -15494,6 +15498,7 @@ logs.dashlane.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
+logs.naukri.com
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
@@ -19844,6 +19849,7 @@ pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel.safe-installation.com
+pixel.smartmedia.tj
 pixel.solvemedia.com
 pixel.spotify.com
 pixel.sprinklr.com
