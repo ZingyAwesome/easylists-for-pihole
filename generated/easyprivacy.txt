@@ -372,6 +372,7 @@ bzclk.baidu.com
 c0011.boursorama.com
 c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
+cahf4eed.mooo.com
 campaignseries-gb.campaignseries.co.uk
 capture.condenastdigital.com
 capture.crutchfield.com
@@ -976,6 +977,7 @@ hide.ovh
 hillingdontimes-gb.hillingdontimes.co.uk
 hit.interia.pl
 hit.meta.ua
+hit.mybestpro.com
 hit.skrz.cz
 hits.dealer.com
 hits.eluniversal.com.mx
