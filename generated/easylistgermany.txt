@@ -1,7 +1,5 @@
 adbl.spieletipps.de
-adn.meinsol.de
 assets.oomz.de
-ate.spritmonitor.de
 banner.immowelt.de
 bildwl.mobile.de
 branchenbuch.pixelio.de
@@ -24,6 +22,7 @@ netwayer.de
 network.bildderfrau.de
 network.gofeminin.de
 network2.aufeminin.com
+partner.fondsdiscount.de
 partner.maxxim.de
 partner.simplytel.de
 partner.teufel.de

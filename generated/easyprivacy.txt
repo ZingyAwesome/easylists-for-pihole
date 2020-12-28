@@ -142,6 +142,7 @@ analytics.localytics.com
 analytics.logsss.com
 analytics.mailmunch.co
 analytics.matchbin.com
+analytics.mbga.jp
 analytics.meaww.com
 analytics.meituan.net
 analytics.midwesternmac.com
