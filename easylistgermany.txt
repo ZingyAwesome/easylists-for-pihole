@@ -977,7 +977,6 @@ ad.bwise.ch
 ad.dslr-forum.de
 ad.games.ch
 ad.jaumo.com
-ad.main-netz.de
 ad.putenbrust.net
 ad.words-google.com
 ad0be.review
@@ -1049,7 +1048,6 @@ admisoft.com
 admission.lampangvc.ac.th
 admixdj.com
 admpagesystem.com
-adn.meinsol.de
 adnanezc.beget.tech
 adnanlightdecor.com
 adobe-online-duka-1919.000webhostapp.com
@@ -2674,7 +2672,6 @@ atasteofafrika.co.uk
 atasteoftheworld.com
 atatcross.com
 atatikolo.com
-ate.spritmonitor.de
 atefab.pingfiles.fr
 aten-onoff.top
 atencionalusuario.com
@@ -4118,7 +4115,6 @@ brahmamugurtham.com
 brainerdsigns.net
 brainfocus-students.com
 brambletyelodge.com.au
-branchenbuch.pixelio.de
 branchesponteland.co.uk
 brand4india.com
 brandmeacademy.com
@@ -5798,7 +5794,6 @@ congtynguyenbinh.com.vn
 connct.secure.wellsfargo.com.aaru486.com.au
 connect-go.000webhostapp.com
 connect.market
-connect.quoka.de
 connect.secure.service.insurances.click
 connect.secure.service.redirects.website
 connect.secure.vdr35.com
@@ -17532,6 +17527,7 @@ particuliers.niveaumes.com
 particuliers.secure.ingdirect.fr.espace.client.reinomusical.com
 particulliers.secure.lcl.fr.outil.uautfrom.outil.serveurdocies.com
 partner.dasoertliche-marketing.de
+partner.fondsdiscount.de
 partner.maxxim.de
 partner.simplytel.de
 partner.teufel.de
