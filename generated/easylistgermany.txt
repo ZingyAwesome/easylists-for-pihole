@@ -4,7 +4,6 @@ banner.immowelt.de
 bildwl.mobile.de
 ced.sascdn.com
 couponcustomer.cpstatic.ch
-ext.platinnetz.de
 fastad.beepworld.de
 gan.wavecdn.net
 green.ingame.de
@@ -24,7 +23,6 @@ partner.fondsdiscount.de
 partner.maxxim.de
 partner.simplytel.de
 partner.teufel.de
-partners.eatsmarter.de
 promotion.mmxlive.com
 promotionmaterial.betacash.com
 servote.de
