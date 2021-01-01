@@ -6,8 +6,6 @@ ced.sascdn.com
 couponcustomer.cpstatic.ch
 fastad.beepworld.de
 gan.wavecdn.net
-green.ingame.de
-heisebanner.geizhals.at
 kalaydo.fnp.de
 kinoprogramm.bild.de
 kka.agitos.de
