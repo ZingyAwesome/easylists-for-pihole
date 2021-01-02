@@ -1115,6 +1115,7 @@ log.optimizely.com
 log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
+log.plinga.de
 log.popin.cc
 log.prezi.com
 log.ren.tv
