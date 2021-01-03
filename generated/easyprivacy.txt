@@ -1053,6 +1053,7 @@ kalstats.kaltura.com
 kbn.korben.info
 keighleynews-gb.keighleynews.co.uk
 keyword.daumdn.com
+keywords.complex.com
 kidderminstershuttle-gb.kidderminstershuttle.co.uk
 kiks.auto.ru
 kinesisproxy.hearstlabs.com
