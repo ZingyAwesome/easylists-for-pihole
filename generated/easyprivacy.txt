@@ -248,7 +248,6 @@ api.wipmania.com
 apple.www.letv.com
 argos.citruserve.com
 artfin.club
-as01.overbuff.com
 aserve.directorym.com
 asianimage-gb.asianimage.co.uk
 astat.nikkei.com
@@ -647,6 +646,7 @@ d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
+d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
@@ -792,6 +792,11 @@ estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
 etacontent.com
 etui.fs.ml.com
+eu1l.dotabuff.com
+eu1l.overbuff.com
+eu1l.speedrun.com
+eu1l.trackdota.com
+eu1l.valorbuff.com
 eulerian.belambra.be
 eulerian.belambra.fr
 eulerian.brandalley.fr
@@ -960,7 +965,6 @@ geolocation.forbes.com
 geoservice.curse.com
 gets.faz.net
 gjr5.yoigo.com
-gk3o.trackdota.com
 glasgowtimes-gb.glasgowtimes.co.uk
 glassmoni.researchgate.net
 glbdns.microsoft.com
@@ -1044,11 +1048,11 @@ irqs.ioam.de
 isgprivacy.cbsi.com
 itracking.fccinteractive.com
 iwa.iplsc.com
+jac.yahoosandbox.com
 javascriptcounter.appspot.com
 jelly.mdhv.io
 jppolid-track.trackprod.integration.jppol.dk
 js-agent.newrelic.com
-k9v7.dotabuff.com
 kalstats.kaltura.com
 kbn.korben.info
 keighleynews-gb.keighleynews.co.uk
@@ -1258,7 +1262,6 @@ monitor.ebay.com
 morozhko.club
 mors22.com
 mqs.ioam.de
-mqzy.dotabuff.com
 ms-apps.haaretz.com
 mtag.mman.kr
 mtc.nhk.or.jp
@@ -1278,15 +1281,12 @@ nexttime.ovh
 nil.naver.com
 ninja.akamaized.net
 ninja.onap.io
-nj1r.valorbuff.com
-nkeq.speedrun.com
 nmtracking.netflix.com
 noa0.compteczam.fr
 noflake-aggregator-http.narvar.com
 nol.yahoo.com
 northwichguardian-gb.northwichguardian.co.uk
 nova.dice.net
-nvea.valorbuff.com
 nws.naltis.com
 nxakpj4ac8gkd53.info
 oal2.destinia.co.uk
@@ -1331,6 +1331,7 @@ partners.badongo.com
 partners.mysavings.com
 pbox.photobox.de
 pcgamer-gb.pcgamer.com
+pci3oo5mg4mn-a.akamaihd.net
 pclick.europe.yahoo.com
 pclick.internal.yahoo.com
 pclick.yahoo.com
@@ -1418,7 +1419,6 @@ pos.baidu.com
 postpixel.vindicosuite.com
 powercount.jswelt.de
 powersearch.us.com
-pqoz.trackdota.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
@@ -1828,6 +1828,7 @@ tdf1.easyvoyage.de
 tdf1.laredoute.fr
 ted.dailymail.co.uk
 ted.metro.co.uk
+telemetry.api.wmcdp.io
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
@@ -2157,7 +2158,6 @@ usersegment.wpdigital.net
 utrack.hexun.com
 uts.auction.co.kr
 uue2.destinia.ir
-uuqz.overbuff.com
 vatrack.hinet.net
 verifier.live
 veta.naver.com
