@@ -646,6 +646,7 @@ d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
+d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
@@ -707,6 +708,7 @@ dbex-tracker-v2.driveback.ru
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dccss.banggood.com
+dcf.espn.com
 dd6zx4ibq538k.cloudfront.net
 de-mi-nis-ner.info
 de-mi-nis-ner2.info
@@ -1832,6 +1834,7 @@ tdf1.easyvoyage.de
 tdf1.laredoute.fr
 ted.dailymail.co.uk
 ted.metro.co.uk
+telemetrics.klaviyo.com
 telemetry.api.wmcdp.io
 telemetry.jivosite.com
 telemetry.reembed.com
