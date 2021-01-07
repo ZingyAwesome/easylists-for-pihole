@@ -742,7 +742,6 @@ dnn506yrbagrg.cloudfront.net
 docileyellow.club
 dorsetecho-gb.dorsetecho.co.uk
 dot-stat.radikal.ru
-dot.wp.pl
 doug1izaerwt3.cloudfront.net
 droitwichadvertiser-gb.droitwichadvertiser.co.uk
 ds-aksb-a.akamaihd.net
@@ -1271,6 +1270,7 @@ mqs.ioam.de
 ms-apps.haaretz.com
 mtag.mman.kr
 mtc.nhk.or.jp
+mtrcs.samba.tv
 mts-ws.rueducommerce.fr
 muatui.com
 mva1.maeva.com
