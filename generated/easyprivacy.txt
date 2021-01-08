@@ -469,6 +469,7 @@ cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
 cnstats.cdev.eu
 cnt.iceporn.com
+cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.nicemix.com
