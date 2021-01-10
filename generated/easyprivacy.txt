@@ -372,12 +372,14 @@ bucksfreepress-gb.bucksfreepress.co.uk
 buf.lemonde.fr
 burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 burytimes-gb.burytimes.co.uk
+bvr.ast.snva.jp
 bzclk.baidu.com
 c0011.boursorama.com
 c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
 cahf4eed.mooo.com
 campaignseries-gb.campaignseries.co.uk
+capi.connatix.com
 capture.condenastdigital.com
 capture.crutchfield.com
 carl.pubsvs.com
@@ -521,6 +523,7 @@ contadores.miarroba.es
 contents-tracking.beop.io
 conversions.genieventures.co.uk
 convsgmp.taboola.com
+cookie.sync.usonar.jp
 cookies.livepartners.com
 cookies.reedbusiness.nl
 cookietracker.cloudapp.net
@@ -1505,6 +1508,7 @@ rss.tmgrup.com.tr
 rta.dailymail.co.uk
 rta2.metro.co.uk
 rtb.connatix.com
+rtg-endpoint.global.ssl.fastly.net
 rtn.thestar.com
 rtt.campanja.com
 rum.azion.com
@@ -1795,6 +1799,7 @@ tag.aticdn.net
 tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
+tag.cribnotes.jp
 tag.goldenbees.fr
 tag.leadplace.fr
 tag.myplay.com
@@ -2119,6 +2124,7 @@ trk.vindicosuite.com
 trowel.twitch.tv
 tru.webelapp.com
 trueffect.underarmour.com
+trusted-web-seal.cybertrust.ne.jp
 trx.smdatalabs.com
 trx3.famousfix.com
 tsj0.madeindesign.com
