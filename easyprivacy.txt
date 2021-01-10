@@ -512,6 +512,7 @@
 7mart2500.com
 7mx.eider.com
 7pay.net
+7q1z79gxsi.global.ssl.fastly.net
 7speed.info
 7thundersentertainment.com
 7your.ga
@@ -637,7 +638,6 @@ a2btrans.pl
 a2yglass.com.my
 a2zeeholidays.com
 a3designs.com.au
-a3xo-eng.spankbang.com
 a43a56f8.000webhostapp.com
 a4uatro.com.br
 a55barin.000webhostapp.com
@@ -2793,7 +2793,6 @@ as.mirapodo.de
 as.mytoys.de
 as.payback.it
 as.yomonda.de
-as01.overbuff.com
 asaasa.pk
 asadtekgroup.com
 asalesguyonlinetraining.com
@@ -4730,6 +4729,8 @@ buzzwall.digital-forerunners.com
 bvbdeplde.pw
 bvbvcfc.000webhostapp.com
 bvgfyghj.gq
+bvr.ast.snva.jp
+bvr.snva.jp
 bvvagos.pt
 bvxjvwrlbxfqptvm.eu
 bw1q.ccisisl.top
@@ -6018,6 +6019,7 @@ cns-ssaintander.com
 cnstats.cdev.eu
 cnt.3dmy.net
 cnt.iceporn.com
+cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.nicemix.com
@@ -6478,6 +6480,7 @@ convoiurgencesapprobationsde.it
 convsgmp.taboola.com
 conxibit.com
 conyapa.com
+cookie.sync.usonar.jp
 cookieatatime.ca
 cookiebyte.in
 cookies.livepartners.com
@@ -7037,7 +7040,9 @@ d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
+d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
+d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
@@ -7066,6 +7071,7 @@ d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3darkzone.com
 d3iouejux1os58.cloudfront.net
+d3j1weegxvu8ns.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
 d3l3lkinz3f56t.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
@@ -7321,6 +7327,7 @@ dccallers.org
 dccil.org
 dccsolution.com
 dccss.banggood.com
+dcf.espn.com
 dcfds-realson-tagum.000webhostapp.com
 dcfmmlauksthovz.com
 dck5h19edcevky0gdmkq.mbservicesyorkshire.co.uk
@@ -8033,7 +8040,6 @@ dorukosafe009.altervista.org
 dostatka-proverenno.ml
 dostmeraa.co.vu
 dot-stat.radikal.ru
-dot.wp.pl
 dota2-shop.biz
 dothansurgerycenter.com
 double-blind-observ.000webhostapp.com
@@ -9182,6 +9188,11 @@ etxlzx.net
 eu-maps.info
 eu-myappleidservices.com
 eu.groupondata.com
+eu1l.dotabuff.com
+eu1l.overbuff.com
+eu1l.speedrun.com
+eu1l.trackdota.com
+eu1l.valorbuff.com
 euangestiissese.com
 eubuild.com
 euclideinvestments.com
@@ -9241,6 +9252,7 @@ event.dkb.de
 event.getblue.io
 event.riolabz.com
 event.syndigo.cloud
+event.webcollage.net
 eventapi.libring.com
 eventclergy.com
 eventgarenaaovfreeheroforyou.000webhostapp.com
@@ -10988,7 +11000,6 @@ gjooge.com
 gjr5.yoigo.com
 gjtikylryey.000webhostapp.com
 gjysjl.com
-gk3o.trackdota.com
 gk4aiims.000webhostapp.com
 gkcy003.com
 gkiklasisjakartautara.or.id
@@ -12993,6 +13004,7 @@ insidewestnile.com
 insight.fonecta.fi
 insightart.info
 insightconsultingservices.com.au
+insights.algolia.io
 insights.cdt.ch
 insights.sitesearch360.com
 insightthk.com
@@ -13418,6 +13430,7 @@ j872867.myjino.ru
 jaaeza.com
 jaba56yu.alarmandburglarsystems.com.au
 jablip.ga
+jac.yahoosandbox.com
 jacafloristry.co.uk
 jackieszarka.com
 jackkolse.com
@@ -13996,6 +14009,7 @@ jyhaijiao.com
 jymactroltd.com
 jytdjdj.co.uk
 k-idtech.com
+k.kolplay.com
 k.rueducommerce.fr
 k.streamrail.com
 k1capital.net.au
@@ -14006,7 +14020,6 @@ k3yw0r6.com
 k5btvbpr2a.a2zeeholidays.com
 k5dwwsm3u5kd2kjkm42l.viomil.ro
 k918053m.beget.tech
-k9v7.dotabuff.com
 kaabbaba.co.vu
 kaakli16.beget.tech
 kaartbeheerdocument.nl
@@ -14246,6 +14259,7 @@ keysbeachbungalows.com
 keysclipper.net
 keywestjobs.co.uk
 keyword.daumdn.com
+keywords.complex.com
 kf3nqetgl3p3qlvnl4ze.ru
 kfz-ross.de
 kge91.com
@@ -15391,6 +15405,7 @@ log.optimizely.com
 log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
+log.plinga.de
 log.popin.cc
 log.prezi.com
 log.ren.tv
@@ -17143,7 +17158,6 @@ mqbdledibcehvaflxwgs.ahdaaf.org
 mqhkngmw.tk
 mqs.ioam.de
 mqwdaq.com
-mqzy.dotabuff.com
 mrappolt.de
 mrdroppizza.top
 mrhosting.us
@@ -17198,6 +17212,7 @@ mtmoriahcogic.org
 mtnet.ro
 mtquiz.blufysh.com
 mtr2000.net
+mtrcs.samba.tv
 mtrytj.download
 mts-ws.rueducommerce.fr
 mtsnu-miftahululum.sch.id
@@ -18056,11 +18071,9 @@ nivanspromoters.com
 niveahie.beget.tech
 niveaumes.fr
 niyiijaola.com
-nj1r.valorbuff.com
 nje1.cn
 njpuke.com
 njyabihc.com
-nkeq.speedrun.com
 nkmosevac.ba
 nkxicfqchl.pw
 nl-ventures.com
@@ -18292,7 +18305,6 @@ nv-1acc.online
 nv-acc.online
 nv-acc1.online
 nvcolsonfab.ca
-nvea.valorbuff.com
 nvgbtqxkowap.pw
 nvlegal.co.za
 nvlenergie.fr
@@ -19518,6 +19530,7 @@ pcccvinhvinhtien.com
 pccleanersolutions.com
 pcgamer-gb.pcgamer.com
 pchomegeek.com
+pci3oo5mg4mn-a.akamaihd.net
 pcil.blufysh.com
 pclick.europe.yahoo.com
 pclick.internal.yahoo.com
@@ -20205,7 +20218,6 @@ pprivate.suncappert.com
 ppverifi.xyz
 pqaqnngeoyqejj.com
 pqoweb.com
-pqoz.trackdota.com
 pqwaker.altervista.org
 pr.blogflux.com
 pr25511.com
@@ -20778,7 +20790,6 @@ r-card-service.at.id176148.top
 r-malic-artist.com
 r-sec1.com
 r.bbci.co.uk
-r.mail.ru
 r.msn.com
 r.my.com
 r.sax.sina.com.cn
@@ -20892,6 +20903,7 @@ rangerfn13.000webhostapp.com
 ranjau88.heliohost.org
 rankainteriors.co.in
 rankinchemicaltech.com
+ranking.apis.sankei-digital.co.jp
 ransomware-alert.secure-server-alert.info
 raosgroups.com
 raovat4u.com
@@ -21005,6 +21017,7 @@ realestatecurve.com
 realestateidealsolutions.com
 realimob.com
 reallacharite.com
+realm.hearst3pcc.com
 realpropertyrighttime.com
 realsuccessng.com
 realsun.com
@@ -21711,6 +21724,7 @@ rta.dailymail.co.uk
 rta2.metro.co.uk
 rtb.connatix.com
 rtbatlanta.com
+rtg-endpoint.global.ssl.fastly.net
 rtg.instantmixcup.com
 rthergtyjutrhhgrthgrfd.000webhostapp.com
 rtiesnaauqqq.pw
@@ -23860,6 +23874,7 @@ sourcelemon.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
+sourcepoint.dexerto.com
 sourcepoint.vice.com
 southendstandard-gb.southendstandard.co.uk
 southernchampion.com
@@ -25108,6 +25123,7 @@ tag.aticdn.net
 tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
+tag.cribnotes.jp
 tag.goldenbees.fr
 tag.leadplace.fr
 tag.myplay.com
@@ -25379,6 +25395,8 @@ telefonosalmayor.com.ve
 teleikjewr.cn15669.tmweb.ru
 telekom-onlines.webs.com
 telekomtonline-updateaccount.rhcloud.com
+telemetrics.klaviyo.com
+telemetry.api.wmcdp.io
 telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
@@ -25858,6 +25876,7 @@ tns.simba.taobao.com
 to-kessel.ga
 to-netel.tk
 to-nnetel-to.tk
+to.getnitropack.com
 toastinis.com
 toavenetaal.com
 tobyfrost.000webhostapp.com
@@ -26051,6 +26070,7 @@ tr.interlake.net
 tr.marsflag.com
 tr.n2.hk
 tr.price.com.hk
+tr.reco.combz.jp
 tr.snapchat.com
 tr.webantenna.info
 tr.werkenntwen.de
@@ -26466,6 +26486,7 @@ truehandles.com
 truejeans.in
 truhealthprod.com
 trushilac.xyz
+trusted-web-seal.cybertrust.ne.jp
 trusteddrugeshop.ru
 trustedgol.net
 trusteeehyd6.net
@@ -27158,7 +27179,6 @@ utzpkru.411.com1.ru
 uucxyfhvcoeyueknxs.click
 uue2.destinia.ir
 uuqffecx2gk3gopwrocvz6ba.stream
-uuqz.overbuff.com
 uuu822.com
 uuw0l8repa3b.stream
 uuwflbmjmi.eu
