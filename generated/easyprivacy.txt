@@ -373,13 +373,13 @@ buf.lemonde.fr
 burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 burytimes-gb.burytimes.co.uk
 bvr.ast.snva.jp
+bvr.snva.jp
 bzclk.baidu.com
 c0011.boursorama.com
 c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
 cahf4eed.mooo.com
 campaignseries-gb.campaignseries.co.uk
-capi.connatix.com
 capture.condenastdigital.com
 capture.crutchfield.com
 carl.pubsvs.com
@@ -1576,6 +1576,7 @@ soodatmish.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
+sourcepoint.dexerto.com
 sourcepoint.vice.com
 southendstandard-gb.southendstandard.co.uk
 southwalesargus-gb.southwalesargus.co.uk
