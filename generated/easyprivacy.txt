@@ -319,6 +319,7 @@ beacon.tingyun.com
 beacon.toyota.co.jp
 beacon.viewlift.com
 beacon.walmart.com
+beacon.watch.impress.co.jp
 beacon.www.theguardian.com
 beacon2.indieclick.com
 beacons.brandads.net
@@ -722,6 +723,7 @@ deepknow.egoid.me
 dejavu.mercadolivre.com.br
 deliver.oztam.com.au
 deliver.ptgncdn.com
+delivery.satr.jp
 desa.fkapi.net
 desb.fkapi.net
 desr.fkapi.net
@@ -1059,6 +1061,7 @@ iwa.iplsc.com
 jac.yahoosandbox.com
 javascriptcounter.appspot.com
 jelly.mdhv.io
+jen.jiji.com
 jppolid-track.trackprod.integration.jppol.dk
 js-agent.newrelic.com
 kalstats.kaltura.com
