@@ -1818,6 +1818,7 @@ tags.cdn.circlesix.co
 tags.creativille.co.uk
 tags.msnbc.com
 tags.newscgp.com
+tagtracking.vibescm.com
 tagx.nytimes.com
 tantrumall.club
 target.mirtesen.ru
@@ -2075,6 +2076,7 @@ tracking.rightmessage.com
 tracking.rtl.de
 tracking.scenepass.com
 tracking.searchmarketing.com
+tracking.sezzle.com
 tracking.shopstyle.com
 tracking.shoptogether.buy.com
 tracking.smartmeapp.com
