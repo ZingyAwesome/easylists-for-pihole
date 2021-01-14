@@ -3748,6 +3748,7 @@ beacon.tingyun.com
 beacon.toyota.co.jp
 beacon.viewlift.com
 beacon.walmart.com
+beacon.watch.impress.co.jp
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beacon2.indieclick.com
@@ -7327,7 +7328,6 @@ dccallers.org
 dccil.org
 dccsolution.com
 dccss.banggood.com
-dcf.espn.com
 dcfds-realson-tagum.000webhostapp.com
 dcfmmlauksthovz.com
 dck5h19edcevky0gdmkq.mbservicesyorkshire.co.uk
@@ -7452,6 +7452,7 @@ delights.pk
 deliver.oztam.com.au
 deliver.ptgncdn.com
 deliverkart.com
+delivery.satr.jp
 delivery2u.com.my
 deliveryflightpath.com
 deloniyke.cz
@@ -12972,7 +12973,6 @@ ingdierctomal.com
 ingdirrection.com
 ingenieriacyf.cl
 ingenieriaglp.cl
-ingest.sentry.io
 ingles.natal.br
 ingomi.com
 ingredient.gq
@@ -13609,6 +13609,7 @@ jelbanaoubdi.net
 jelekong.co.id
 jelly.mdhv.io
 jemcoatings.com
+jen.jiji.com
 jenaecherry.com
 jenbourjg.5gbfree.com
 jenniferdechant89.000webhostapp.com
@@ -16569,6 +16570,7 @@ metrics.ctvdigital.net
 metrics.ee.co.uk
 metrics.el-mundo.net
 metrics.extremetech.com
+metrics.getvitals.io
 metrics.n-tv.de
 metrics.readme.io
 metrics.scribblelive.com
@@ -18911,6 +18913,7 @@ p.adbrn.com
 p.aty.sohu.com
 p.eyebuydirect-cmr.net
 p.gazeta.pl
+p.kolplay.com
 p.milliyet.com.tr
 p.pagesjaunes.fr
 p.tencentmind.com
@@ -20219,6 +20222,7 @@ ppverifi.xyz
 pqaqnngeoyqejj.com
 pqoweb.com
 pqwaker.altervista.org
+pr.ameba.jp
 pr.blogflux.com
 pr25511.com
 prabanjas.in
@@ -25124,6 +25128,7 @@ tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
 tag.cribnotes.jp
+tag.elevaate.io
 tag.goldenbees.fr
 tag.leadplace.fr
 tag.myplay.com
@@ -25144,6 +25149,7 @@ tags.msnbc.com
 tags.newscgp.com
 tags.op-palvelut.fi
 tags.refinery89.com
+tagtracking.vibescm.com
 tagx.nytimes.com
 taherimay.com
 tainguyensaefood.com
@@ -26301,6 +26307,7 @@ tracking.rtl.de
 tracking.s24.com
 tracking.scenepass.com
 tracking.searchmarketing.com
+tracking.sezzle.com
 tracking.shopstyle.com
 tracking.shoptogether.buy.com
 tracking.smartmeapp.com
