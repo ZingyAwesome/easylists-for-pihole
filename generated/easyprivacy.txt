@@ -1219,6 +1219,7 @@ metrics.cnn.com
 metrics.ctvdigital.net
 metrics.ee.co.uk
 metrics.extremetech.com
+metrics.getvitals.io
 metrics.readme.io
 metrics.scribblelive.com
 metrics.ted.com
@@ -1804,6 +1805,7 @@ tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
 tag.cribnotes.jp
+tag.elevaate.io
 tag.goldenbees.fr
 tag.leadplace.fr
 tag.myplay.com

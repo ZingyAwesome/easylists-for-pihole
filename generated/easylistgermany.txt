@@ -1,7 +1,6 @@
 adbl.spieletipps.de
 assets.oomz.de
 banner.immowelt.de
-bildwl.mobile.de
 ced.sascdn.com
 couponcustomer.cpstatic.ch
 fastad.beepworld.de
