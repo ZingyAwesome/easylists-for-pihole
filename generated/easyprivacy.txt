@@ -712,7 +712,6 @@ dbex-tracker-v2.driveback.ru
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dccss.banggood.com
-dcf.espn.com
 dd6zx4ibq538k.cloudfront.net
 de-mi-nis-ner.info
 de-mi-nis-ner2.info
@@ -1038,7 +1037,6 @@ imx.comedycentral.com
 infinityid.condenastdigital.com
 informer.yandex.ru
 informers.sinoptik.ua
-ingest.sentry.io
 inquiries.redhat.com
 insight.fonecta.fi
 insights.algolia.io
