@@ -498,6 +498,7 @@ collector.getyourguide.com
 collector.githubapp.com
 collector.ksax.com
 collector.mazeberry.com
+collector.ozeex.com
 collector.prod.expedia.com
 collector.rn.de
 collector.roistat.com
