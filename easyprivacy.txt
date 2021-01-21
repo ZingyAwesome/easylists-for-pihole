@@ -1953,6 +1953,7 @@ analytics.ladmedia.fr
 analytics.linktr.ee
 analytics.live.com
 analytics.liveact.cri-mw.jp
+analytics.livehindustan.com
 analytics.livestream.com
 analytics.localytics.com
 analytics.logsss.com
@@ -6116,6 +6117,7 @@ collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
 collector.mazeberry.com
+collector.ozeex.com
 collector.prod.expedia.com
 collector.rn.de
 collector.roistat.com
