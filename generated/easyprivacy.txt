@@ -137,6 +137,7 @@ analytics.kapost.com
 analytics.ladmedia.fr
 analytics.linktr.ee
 analytics.live.com
+analytics.livehindustan.com
 analytics.livestream.com
 analytics.localytics.com
 analytics.logsss.com
