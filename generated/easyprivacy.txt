@@ -336,6 +336,7 @@ bench.uc.cn
 bento.agoda.com
 berateveng.ru
 besti.ga
+bfp.capitalone.com
 bglog.bitauto.com
 bhu9.bankia.es
 bicesteradvertiser-gb.bicesteradvertiser.net
@@ -1353,6 +1354,7 @@ pdc.dmleonyc.com
 pebed.dm.gg
 penarthtimes-gb.penarthtimes.co.uk
 perf.dugout.com
+perf.mouser.com
 performanceplay.co.kr
 performances.bestofmedia.com
 perso.aws.arc.pub
@@ -1820,6 +1822,7 @@ tagm.tchibo.de
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
+tags.globo.com
 tags.msnbc.com
 tags.newscgp.com
 tagtracking.vibescm.com
