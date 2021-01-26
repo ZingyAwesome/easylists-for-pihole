@@ -1386,6 +1386,7 @@ pix.nbcuni.com
 pix.telekom.de
 pixel-a.basis.net
 pixel-static.spotify.com
+pixel.ampry.com
 pixel.anyclip.com
 pixel.bild.de
 pixel.blivenyc.com
