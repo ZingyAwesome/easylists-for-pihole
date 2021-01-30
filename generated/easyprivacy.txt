@@ -1086,6 +1086,7 @@ laas.americanexpress.com
 lancashiretelegraph-gb.lancashiretelegraph.co.uk
 laurel.macrovision.com
 laurel.rovicorp.com
+lciapi.ninthdecimal.com
 lcs.livedoor.net
 leadtracking.plumvoice.com
 ledburyreporter-gb.ledburyreporter.co.uk
