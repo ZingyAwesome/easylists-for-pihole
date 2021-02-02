@@ -64,6 +64,7 @@ a02342.lancashiretelegraph.co.uk
 a02342.ledburyreporter.co.uk
 a02342.leighjournal.co.uk
 a02342.ludlowadvertiser.co.uk
+a02342.maldonandburnhamstandard.co.uk
 a02342.malverngazette.co.uk
 a02342.messengernewspapers.co.uk
 a02342.milfordmercury.co.uk
@@ -295,7 +296,6 @@ analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.smallpdf.com
 analytics.snidigital.com
-analytics.socialblade.com
 analytics.solidbau.at
 analytics.sonymusic.com
 analytics.sportybet.com
@@ -342,7 +342,6 @@ analytics.yomedia.vn
 analytics.zhihu.com
 analytics.ziftsolutions.com
 analytics00.meride.tv
-analytics2.socialblade.com
 anon-stats.eff.org
 anti-bot.baidu.com
 aorta.clickagy.com
@@ -480,6 +479,7 @@ cb-mms.carbuyer.co.uk
 cbs.wondershare.com
 ccexperimentsstatic.oracleoutsourcing.com
 cdn-analytics.ladmedia.fr
+cdn.usefathom.com
 cdn1.pebx.pl
 cellstats.mako.co.il
 cem.hotelsapi.io
@@ -572,6 +572,7 @@ coletor.terra.com
 collect.igodigital.com
 collect.rewardstyle.com
 collect.tianya.cn
+collect.usefathom.com
 collector-cdn.github.com
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
@@ -692,6 +693,7 @@ ct5m.citadium.com
 ctr-iwb.nmg.de
 ctr-opc.nmg.de
 cts.vresp.com
+cupid.socialblade.com
 curated.fieldtest.cc
 cws.conviva.com
 cyrstalventure.club
@@ -1083,6 +1085,7 @@ iconstab.club
 icu.getstorybox.com
 iedc.fitbit.com
 igrid.org
+imgprx.livejournal.net
 imgstat.baidu.com
 imgtrack.domainmarket.com
 imonitor.dhgate.com
@@ -1635,6 +1638,7 @@ sstats.mora.jp
 sstats.oui.sncf
 stadig.ifeng.com
 stan.xing.com
+starman.fathomdns.com
 stas.outbrain.com
 stat.acca.it
 stat.alibaba.com
