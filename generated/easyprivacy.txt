@@ -944,6 +944,7 @@ execution-ci360.rai.it
 expbl2ro.xbox.com
 expdb2.msn.com
 experience.contextly.com
+f-emc.ngsp.gov.vn
 f1tbit.com
 f7ds.liberation.fr
 fast.forbes.com
@@ -1273,6 +1274,7 @@ metrics.extremetech.com
 metrics.getvitals.io
 metrics.readme.io
 metrics.scribblelive.com
+metrics.slite.com
 metrics.ted.com
 metrics.toptenreviews.com
 metrics.uol.com.br
