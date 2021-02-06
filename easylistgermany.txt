@@ -1,5 +1,6 @@
 ad.71i.de
 ad.bwise.ch
+ad.dl.dewezet.de
 ad.dslr-forum.de
 ad.games.ch
 ad.jaumo.com
@@ -12,9 +13,7 @@ ced.sascdn.com
 couponcustomer.cpstatic.ch
 fastad.beepworld.de
 gan.wavecdn.net
-im.banner.t-online.de
 kalaydo.fnp.de
-kinoprogramm.bild.de
 kka.agitos.de
 kka.idg.de
 mafia-banner.myftp.org
@@ -33,8 +32,6 @@ partner.teufel.de
 promotion.mmxlive.com
 promotionmaterial.betacash.com
 servote.de
-trackfox.com
-trackfox2.com
 waiwidgets-.amazonaws.com
 wbbanner.mrn-news.de
 widgets.goldankauf123.de
