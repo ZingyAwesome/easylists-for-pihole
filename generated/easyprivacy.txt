@@ -744,6 +744,7 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2p3zdq8vjvnxd.cloudfront.net
 d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
@@ -1622,6 +1623,7 @@ sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
 sourcepoint.dexerto.com
+sourcepoint.theguardian.com
 sourcepoint.vice.com
 sp-mms.weather.com
 spanids.dictionary.com
@@ -2284,6 +2286,7 @@ wstat.wibiya.com
 wstats.gameblog.fr
 wtk.db.com
 xfn6.monaco.edu
+xstats.evoload.io
 xtrack.capetown.gov.za
 xy33.smallable.com
 yast.rutube.ru
