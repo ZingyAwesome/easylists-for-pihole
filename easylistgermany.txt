@@ -19,8 +19,8 @@ kka.idg.de
 mafia-banner.myftp.org
 media.alphaload.com
 netwayer.de
-network.gofeminin.de
 network2.aufeminin.com
+network.gofeminin.de
 ox.comventure.de
 ox.gassi-tv.de
 partner.dasoertliche-marketing.de
@@ -29,8 +29,8 @@ partner.maxxim.de
 partner.schalke04.de
 partner.simplytel.de
 partner.teufel.de
-promotion.mmxlive.com
 promotionmaterial.betacash.com
+promotion.mmxlive.com
 servote.de
 waiwidgets-.amazonaws.com
 wbbanner.mrn-news.de
