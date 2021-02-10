@@ -852,6 +852,7 @@ d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
+d2j1fszo1axgmp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
@@ -973,6 +974,7 @@ dsg.interia.pl
 ds.haaretz.co.il
 d.shareaholic.com
 d.skk.moe
+d.sourcepoint.capitalfm.com
 dt1pxsve3tgas.cloudfront.net
 dt.nrjmobile.fr
 du4rq1xqh3i1k.cloudfront.net
@@ -1221,6 +1223,7 @@ gc.newsweek.com
 gcpdata.telegraph.co.uk
 gdm1.toner.fr
 gekko.spiceworks.com
+gemius.mgr.consensu.org
 geobar.ziffdavisinternational.com
 geo.battle.net
 geobeacon.ign.com
@@ -1516,6 +1519,7 @@ l.popin.cc
 l.sharethis.com
 lslmetrics.djlmgdigital.com
 lt.tritondigital.com
+l.typesquare.com
 lucid.mjhassoc.com
 lunametrics.wpengine.netdna-cdn.com
 magnify360-cdn.s3.amazonaws.com
