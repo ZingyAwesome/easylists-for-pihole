@@ -264,6 +264,7 @@ analytics.jst.ai
 analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
+analytics.kraken.com
 analytics.ladmedia.fr
 analytics.linktr.ee
 analytics.liveact.cri-mw.jp
