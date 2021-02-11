@@ -741,6 +741,7 @@ d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
+d2j1fszo1axgmp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
@@ -1009,6 +1010,7 @@ gay-hotvideo.net
 gcpdata.telegraph.co.uk
 gdm1.toner.fr
 gekko.spiceworks.com
+gemius.mgr.consensu.org
 geo.battle.net
 geo.emol.cl
 geo.ertya.com
