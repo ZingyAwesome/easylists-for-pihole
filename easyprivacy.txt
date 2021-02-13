@@ -1079,11 +1079,6 @@ et.nytimes.com
 et.twyn.com
 etui.fs.ml.com
 et.unclejeans.com
-eu1l.dotabuff.com
-eu1l.overbuff.com
-eu1l.speedrun.com
-eu1l.trackdota.com
-eu1l.valorbuff.com
 eu.groupondata.com
 eulerian.belambra.be
 eulerian.belambra.fr
@@ -2640,6 +2635,7 @@ tracking.adalyser.com
 tracking.aegpresents.com
 tracking.aita.gov.vn
 tracking.alarabiya.net
+tracking.americaneagle.com
 tracking.ancestry.com
 trackingapi.cloudapp.net
 tracking.base.de
