@@ -1338,7 +1338,6 @@ iedc.fitbit.com
 igrid.org
 i.imedia.cz
 im.aol.de
-imgprx.livejournal.net
 imgstat.baidu.com
 imgtrack.domainmarket.com
 immassets.s3.amazonaws.com
