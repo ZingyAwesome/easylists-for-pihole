@@ -1003,6 +1003,7 @@ g6140614385.co
 g6338698720.co
 g6536783055.co
 g6734867390.co
+g6932951725.co
 ga-beacon.appspot.com
 gak.webtoons.com
 gamesradar-gb.gamesradar.com
@@ -1757,6 +1758,7 @@ stats.media.onet.pl
 stats.miarroba.info
 stats.mituyu.com
 stats.mos.ru
+stats.muasamcong.gov.vn
 stats.nctm.org
 stats.nebula.fi
 stats.netbopdev.co.uk
