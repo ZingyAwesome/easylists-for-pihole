@@ -121,7 +121,10 @@ a02342.witneygazette.co.uk
 a02342.worcesternews.co.uk
 a02342.yeovilexpress.co.uk
 a02342.yourlocalguardian.co.uk
+a03674778d27211eabe260a5fac8573f-298900439.eu-central-1.elb.amazonaws.com
 a.20minutes.fr
+a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
+a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 a8ht.hipp.fr
 aa.avvo.com
 aax-eu-dub.amazon.com
@@ -155,8 +158,10 @@ adtm.chip.de
 advancedtracker.appspot.com
 adv.drtuber.com
 adv-sv-stat.focus.cn
+aea50b96a4dca11ea83360ac4ee80f26-253968598.eu-central-1.elb.amazonaws.com
 aem-collector.daumkakao.io
 aevents.izooto.com
+afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 affilate.hh.ru
 affiliate.iamplify.com
 affiliate.resellerclub.com
@@ -1394,6 +1399,7 @@ kiks.auto.ru
 kinesisproxy.hearstlabs.com
 kitchen.juicer.cc
 k.kolplay.com
+klaviyo.map.fastly.net
 kropka.onet.pl
 k.rueducommerce.fr
 k.streamrail.com
@@ -2463,6 +2469,7 @@ t.cinemablend.com
 tck.bangbros.com
 t.clic2buy.com
 t.dailymail.co.uk
+tdep.mijnonlineloket.nl
 tdep.vacansoleil.fr
 tdf1.admyjob.com
 tdf1.easyviaggio.com
