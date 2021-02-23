@@ -1782,6 +1782,7 @@ pixel.glimr.io
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.ionos.fr
+pixel.mintigo.com
 pixel.naij.com
 pixel.newscgp.com
 pixel.newscred.com
