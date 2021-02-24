@@ -122,8 +122,10 @@ a02342.worcesternews.co.uk
 a02342.yeovilexpress.co.uk
 a02342.yourlocalguardian.co.uk
 a03674778d27211eabe260a5fac8573f-298900439.eu-central-1.elb.amazonaws.com
+a177429ff0a2d11eab4120a5a92844d8-605541764.eu-central-1.elb.amazonaws.com
 a.20minutes.fr
 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
+a51404801860511eabe260a5fac8573f-308402611.eu-central-1.elb.amazonaws.com
 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 a8ht.hipp.fr
 aa.avvo.com
@@ -393,6 +395,8 @@ aorta.clickagy.com
 ape-tagit.timeinc.net
 api.nobeta.com.br
 api.wipmania.com
+apollo.plein.be
+app1.maatwerkonline.nl
 appanalysis.banggood.com
 apple.www.letv.com
 argos.citruserve.com
@@ -448,6 +452,7 @@ b-aws.aol.com
 b.bedop.com
 bc.marfeelcache.com
 bc.qunar.com
+bc.semwerkt.nl
 bdwblog.eastmoney.com
 beacon-1.newrelic.com
 beacon2.indieclick.com
@@ -561,6 +566,7 @@ cc.swiftype.com
 cct2.o2online.de
 cc.zeit.de
 cdn1.pebx.pl
+cdn3.lacoquepersonnalisee.fr
 cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
 cdnstats.tube8.com
@@ -648,6 +654,7 @@ cmp.tech426.com
 cmp.techadvisor.co.uk
 cmp.techconnect.com
 cmp.techhive.com
+cms.fyndable.online
 cmstool.youku.com
 cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
@@ -977,6 +984,7 @@ dot-stat.radikal.ru
 doug1izaerwt3.cloudfront.net
 dpm.bluray-disc.de
 dp.shoprunner.com
+ds2.independer.nl
 ds-aksb-a.akamaihd.net
 dsg.interia.pl
 ds.haaretz.co.il
@@ -984,6 +992,7 @@ d.shareaholic.com
 d.skk.moe
 d.sourcepoint.capitalfm.com
 dt1pxsve3tgas.cloudfront.net
+dtch.brunel.nl
 dt.nrjmobile.fr
 du4rq1xqh3i1k.cloudfront.net
 dumpster.cam4.com
@@ -1076,6 +1085,7 @@ entryhit.wp.pl
 ep00.epimg.net
 eproof.drudgereport.com
 epro.sogou.com
+erp2.pvc-strokengordijn.nl
 errors.snackly.co
 error.videonow.ru
 es.puritan.com
@@ -1183,6 +1193,7 @@ fs-client-logger.herokuapp.com
 fsm.lapresse.ca
 f.staticlp.com
 fsz1.francoisesaget.com
+ftp.chromeburner.com
 funn.graphiq.com
 fuse.forbes.com
 fusion.bonniertidskrifter.se
@@ -1327,6 +1338,8 @@ hits.zdnet.co.kr
 hitweb2.chosun.com
 hollydeal.club
 hop.clickbank.net
+host10.hotelissima.fr
+host11.vrgh-arena.nl
 hpr.outbrain.com
 hrum.hotelsapi.io
 hspbotdetection.azurewebsites.net
@@ -1727,6 +1740,11 @@ p.aty.sohu.com
 pb.i.sogou.com
 pb.m.naver.com
 pbox.photobox.de
+pc4.boxers.be
+pc4.shirts.nl
+pc4.sokken.be
+pc4.sokken.nl
+pc4.zwembroeken.nl
 pcgamer-gb.pcgamer.com
 pci3oo5mg4mn-a.akamaihd.net
 pclick.europe.yahoo.com
@@ -1964,6 +1982,7 @@ rum.nccgroup-webperf.com
 rva.outbrain.com
 rvkcpqz.com
 rvv.emol.com
+s2.combifit.be
 s.360.cn
 s3-tracking.synthasite.net.s3.amazonaws.com
 sa135.kiro7.com
@@ -2382,6 +2401,7 @@ st.linkfire.com
 str1kee.com
 sts.eccmp.com
 st.tmgrup.com.tr
+style.onvz.nl
 su.addthis.com
 subpixel.4players.de
 sugar.gameforge.com
@@ -2895,6 +2915,7 @@ t.wayfair.de
 twch.20min.ch
 tw.i.hulu.com
 t.wizaly.com
+two.tracedock.com
 u44.pnc.com
 u45.pnc.com
 u46.pnc.com
