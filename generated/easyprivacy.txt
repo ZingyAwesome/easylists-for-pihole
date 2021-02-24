@@ -349,6 +349,8 @@ aorta.clickagy.com
 ape-tagit.timeinc.net
 api.nobeta.com.br
 api.wipmania.com
+apollo.plein.be
+app1.maatwerkonline.nl
 appanalysis.banggood.com
 apple.www.letv.com
 argos.citruserve.com
@@ -483,6 +485,7 @@ ccexperimentsstatic.oracleoutsourcing.com
 cdn-analytics.ladmedia.fr
 cdn.usefathom.com
 cdn1.pebx.pl
+cdn3.lacoquepersonnalisee.fr
 cellstats.mako.co.il
 cem.hotelsapi.io
 cfcn.allocine.net
@@ -553,6 +556,7 @@ cmp.pcworld.idg.com.au
 cmp.techadvisor.co.uk
 cmp.techconnect.com
 cmp.techhive.com
+cms.fyndable.online
 cmstool.youku.com
 cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
@@ -755,6 +759,7 @@ d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
+d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
@@ -836,8 +841,10 @@ docileyellow.club
 dot-stat.radikal.ru
 doug1izaerwt3.cloudfront.net
 ds-aksb-a.akamaihd.net
+ds2.independer.nl
 dsg.interia.pl
 dt1pxsve3tgas.cloudfront.net
+dtch.brunel.nl
 du4rq1xqh3i1k.cloudfront.net
 dup.baidustatic.com
 duu8lzqdm8tsz.cloudfront.net
@@ -969,6 +976,7 @@ fresh.techdirt.com
 fs-client-logger.herokuapp.com
 fsm.lapresse.ca
 fsz1.francoisesaget.com
+ftp.chromeburner.com
 funn.graphiq.com
 fuse.forbes.com
 fusion.bonniertidskrifter.se
@@ -1082,6 +1090,7 @@ hitserver.ibope.com.br
 hitweb2.chosun.com
 hollydeal.club
 hop.clickbank.net
+host10.hotelissima.fr
 hpr.outbrain.com
 hrum.hotelsapi.io
 hspbotdetection.azurewebsites.net
@@ -1138,6 +1147,7 @@ keywords.complex.com
 kiks.auto.ru
 kinesisproxy.hearstlabs.com
 kitchen.juicer.cc
+klaviyo.map.fastly.net
 kropka.onet.pl
 ktracker.kumparan.com
 kungfupan.club
@@ -1399,6 +1409,11 @@ partner.cynapse.com
 partners.badongo.com
 partners.mysavings.com
 pbox.photobox.de
+pc4.boxers.be
+pc4.shirts.nl
+pc4.sokken.be
+pc4.sokken.nl
+pc4.zwembroeken.nl
 pcgamer-gb.pcgamer.com
 pci3oo5mg4mn-a.akamaihd.net
 pclick.europe.yahoo.com
@@ -1455,6 +1470,7 @@ pixel.glimr.io
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.ionos.fr
+pixel.mintigo.com
 pixel.naij.com
 pixel.newscgp.com
 pixel.newscred.com
@@ -1827,6 +1843,7 @@ stbt.coupons.com
 stg-data-collector.playbuzz.com
 str1kee.com
 sts.eccmp.com
+style.onvz.nl
 sugar.gameforge.com
 supertraders.club
 supertraders.info
@@ -1878,6 +1895,7 @@ tbskip.taobao.com
 tce.alicdn.com
 tcheck.outbrainimg.com
 tck.bangbros.com
+tdep.mijnonlineloket.nl
 tdep.vacansoleil.fr
 tdf.ringier.ch
 tdf1.admyjob.com
@@ -2150,6 +2168,7 @@ trc.pushnami.com
 trck.meinprospekt.de
 trck.spoteffects.net
 trckr.nordiskemedier.dk
+trecker.aklamio.com
 tremorhub.com
 trends.newsmaxwidget.com
 trezor.efscle.com
@@ -2189,6 +2208,7 @@ ttauri.toptenreviews.com
 ttauri.whathifi.com
 ttdetect.staticimgfarm.com
 tvl8.supdecreation.com
+two.tracedock.com
 u44.pnc.com
 u45.pnc.com
 u46.pnc.com
