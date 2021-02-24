@@ -919,6 +919,7 @@ data.econa.com
 data.glamour.ru
 data.mic.com
 data.minute.ly
+datanoticias.prisasd.com
 data.queryly.com
 data.reactandshare.com
 data.studybreakmedia.com
@@ -1082,7 +1083,6 @@ ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
 entryhit.wp.pl
-ep00.epimg.net
 eproof.drudgereport.com
 epro.sogou.com
 erp2.pvc-strokengordijn.nl
