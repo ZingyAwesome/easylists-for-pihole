@@ -1586,6 +1586,7 @@ log.popin.cc
 log-.previewnetworks.com
 log.prezi.com
 logql.yahoo.co.jp
+log.reformal.ru
 log.ren.tv
 logs.51cto.com
 logs-api.shoprunner.com
@@ -2119,6 +2120,7 @@ s3-tracking.synthasite.net.s3.amazonaws.com
 sa135.kiro7.com
 sa135.macworld.co.uk
 sa135.wsbtv.com
+saas-euw-1.com
 sa.bbc.co.uk
 s.agava.ru
 sal.isanook.com
