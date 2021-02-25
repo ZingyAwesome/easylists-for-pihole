@@ -802,6 +802,7 @@ data.studybreakmedia.com
 data.woosmap.com
 data.younow.com
 datadog-service.mvfglobal.com
+datanoticias.prisasd.com
 dbex-tracker-v2.driveback.ru
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
@@ -879,7 +880,6 @@ ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
 entryhit.wp.pl
-ep00.epimg.net
 epro.sogou.com
 eproof.drudgereport.com
 error.videonow.ru
