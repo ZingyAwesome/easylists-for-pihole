@@ -5,8 +5,7 @@ export type InputType = Record<string, string[]>;
  */
 export const getInput = (): InputType => ({
     easylist: [
-        "https://easylist.to/easylist/easylist.txt",
-        "https://easylist-downloads.adblockplus.org/malwaredomains_full.txt"
+        "https://easylist.to/easylist/easylist.txt"
     ],
     easyprivacy: [
         "https://easylist.to/easylist/easyprivacy.txt"
