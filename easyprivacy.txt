@@ -4,7 +4,6 @@
 1l-hit.mail.ru
 1q2w3.website
 1to1.bbva.com
-2fuc4clr7gvcn.cloudfront.net
 2giga.download
 319dn.dieti-natura.com
 5ijo.01net.com
@@ -236,7 +235,6 @@ analytics.ceneo.pl
 analytics.chase.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
-analytics.cmg.net
 analytics-cms.whitebeard.me
 analytics.cocolog-nifty.com
 analytics.codigo.se
@@ -508,7 +506,6 @@ beagle.prod.tda.link
 beap-bc.yahoo.com
 behave.noen.at
 behave.sn.at
-belicimo.pw
 bemarts.club
 bench.uc.cn
 benn8bord.com
@@ -752,7 +749,6 @@ convsgmp.taboola.com
 cookies.livepartners.com
 cookies.reedbusiness.nl
 cookie.sync.usonar.jp
-cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
 coolertracks.emailroi.com
 core.unit-sense.net
@@ -901,7 +897,6 @@ d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2p3zdq8vjvnxd.cloudfront.net
-d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -909,15 +904,12 @@ d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
-d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
-d36lvucg9kzous.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
-d3a2okcloueqyx.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
@@ -1097,7 +1089,6 @@ ea.vente-unique.lu
 ea.warnerbros.fr
 eclick.baidu.com
 ecomm.events
-edge.sqweb.com
 edmi.nextinpact.com
 edw.edmunds.com
 eec.crunchyroll.com
@@ -1369,7 +1360,6 @@ haostat.qihoo.com
 happen.spkt.io
 harm6stop.com
 harvester.eu.square-enix.com
-harvester.ext.square-enix-europe.com
 harvester.hbpl.co.uk
 hazy4cant.com
 hbx.df-srv.de
@@ -1477,7 +1467,6 @@ kalstats.kaltura.com
 kbn.korben.info
 keet1liod.com
 keyword.daumdn.com
-keywords.complex.com
 kiks.auto.ru
 kilo6alga.com
 kinesisproxy.hearstlabs.com
@@ -1689,12 +1678,10 @@ metrics.n-tv.de
 metrics.readme.io
 metrics.scribblelive.com
 metrics.slite.com
-metrics.sonymusicd2c.com
 metrics.ted.com
 metrics.toptenreviews.com
 metrics.uol.com.br
 metrics.washingtonpost.com
-metrics.wikinvest.com
 metrix.emagister.com
 metrixlablw.customers.luna.net
 met.vgwort.de
@@ -1757,7 +1744,6 @@ msg.71.am
 mtag.mman.kr
 mtc.nhk.or.jp
 m.trb.com
-mtrcs.samba.tv
 mts-ws.rueducommerce.fr
 muatui.com
 munchkin.marketo.net
@@ -1866,7 +1852,6 @@ pclick.yahoo.com
 pdc.dmleonyc.com
 pdxor02.com
 peak2poem.com
-pebed.dm.gg
 peep1alea.com
 perf.dugout.com
 perf.mouser.com
@@ -1995,7 +1980,6 @@ pt.crossmediaservices.com
 p.tencentmind.com
 pt.ispot.tv
 ptracker.nurturehq.com
-p.travelsmarter.net
 ptsc.shoplocal.com
 pub.sheknows.com
 pv.hd.sohu.com
@@ -2097,7 +2081,6 @@ rs.smc.tf
 rss.tmgrup.com.tr
 rta2.metro.co.uk
 rta.dailymail.co.uk
-rtb.connatix.com
 rt.flix360.com
 rtg-endpoint.global.ssl.fastly.net
 rtn.thestar.com
@@ -2159,7 +2142,6 @@ seg.sharethis.com
 sem.triboomedia.it
 serv1swork.com
 servedby.o2.co.uk
-service4refresh.info
 services.hmhost.co.uk
 service-stat.tbn.ru
 servicetick.com
@@ -2194,7 +2176,6 @@ snr4.canalplus.com
 snta0034.com
 soma9vols.com
 somniture.theglobeandmail.com
-soodatmish.com
 sour1bare.com
 sourcepoint.dexerto.com
 sourcepoint-mms.aetv.com
@@ -2672,7 +2653,6 @@ t.etraveli.com
 text6film.com
 tf.360.cn
 t.felmat.net
-t.flux.com
 t.freelancer.com
 thetradedesk-tags.s3.amazonaws.com
 t.hypers.com.cn
@@ -2996,7 +2976,6 @@ trck.meinprospekt.de
 trckr.nordiskemedier.dk
 trck.spoteffects.net
 tr.cloud-media.fr
-tr.connatix.com
 trc.pushnami.com
 tr.discuss.com.hk
 trecker.aklamio.com
@@ -3012,7 +2991,6 @@ trk.absuite.com.br
 trk.adbutter.net
 trk.bhs4.com
 trk.cloudsna.com
-trk.connatix.com
 trk.email.dynect.net
 trk.flazio.com
 trk.freepik.com
