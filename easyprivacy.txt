@@ -586,6 +586,7 @@ cct2.o2online.de
 cc.zeit.de
 cdn1.pebx.pl
 cdn3.lacoquepersonnalisee.fr
+cdn4.waisttrainer.co.nz
 cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
 cdnstats.tube8.com
