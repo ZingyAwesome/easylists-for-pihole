@@ -4,7 +4,6 @@
 1l-hit.mail.ru
 1q2w3.website
 1to1.bbva.com
-2fuc4clr7gvcn.cloudfront.net
 2giga.download
 6pal.consobaby.com
 7lbd4.armandthiery.fr
@@ -207,7 +206,6 @@ analytics.ceneo.pl
 analytics.chase.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
-analytics.cmg.net
 analytics.codigo.se
 analytics.cohesionapps.com
 analytics.competitoor.com
@@ -442,7 +440,6 @@ beagle.prod.tda.link
 beap-bc.yahoo.com
 behave.noen.at
 behave.sn.at
-belicimo.pw
 bemarts.club
 bench.uc.cn
 benn8bord.com
@@ -646,7 +643,6 @@ convsgmp.taboola.com
 cookie.sync.usonar.jp
 cookies.livepartners.com
 cookies.reedbusiness.nl
-cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
 coolertracks.emailroi.com
 count.asnetworks.de
@@ -781,7 +777,6 @@ d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2p3zdq8vjvnxd.cloudfront.net
-d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -789,14 +784,11 @@ d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
-d2xgf76oeu9pbh.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
-d36lvucg9kzous.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
-d3a2okcloueqyx.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
@@ -896,7 +888,6 @@ e77lmzbqou0n-a.akamaihd.net
 east2pony.com
 eclick.baidu.com
 ecomm.events
-edge.sqweb.com
 edmi.nextinpact.com
 edw.edmunds.com
 eec.crunchyroll.com
@@ -1212,7 +1203,6 @@ kalstats.kaltura.com
 kbn.korben.info
 keet1liod.com
 keyword.daumdn.com
-keywords.complex.com
 kiks.auto.ru
 kilo6alga.com
 kinesisproxy.hearstlabs.com
@@ -1388,7 +1378,6 @@ metrics.ted.com
 metrics.toptenreviews.com
 metrics.uol.com.br
 metrics.washingtonpost.com
-metrics.wikinvest.com
 metrix.emagister.com
 metrixlablw.customers.luna.net
 mews2ruck.com
@@ -1443,7 +1432,6 @@ mqs.ioam.de
 ms-apps.haaretz.com
 mtag.mman.kr
 mtc.nhk.or.jp
-mtrcs.samba.tv
 mts-ws.rueducommerce.fr
 muatui.com
 munchkin.marketo.net
@@ -1533,7 +1521,6 @@ pclick.yahoo.com
 pdc.dmleonyc.com
 pdxor02.com
 peak2poem.com
-pebed.dm.gg
 peep1alea.com
 perf.dugout.com
 perf.mouser.com
@@ -1706,7 +1693,6 @@ rote8mino.com
 rss.tmgrup.com.tr
 rta.dailymail.co.uk
 rta2.metro.co.uk
-rtb.connatix.com
 rtg-endpoint.global.ssl.fastly.net
 rtn.thestar.com
 rtt.campanja.com
@@ -1748,7 +1734,6 @@ seg.sharethis.com
 sem.triboomedia.it
 serv1swork.com
 service-stat.tbn.ru
-service4refresh.info
 services.hmhost.co.uk
 servicetick.com
 session-tracker.badcreditloans.com
@@ -1779,7 +1764,6 @@ snr4.canalplus.com
 snta0034.com
 soma9vols.com
 somniture.theglobeandmail.com
-soodatmish.com
 sour1bare.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
@@ -2330,7 +2314,6 @@ triggers.wfxtriggers.com
 trk.absuite.com.br
 trk.adbutter.net
 trk.cloudsna.com
-trk.connatix.com
 trk.email.dynect.net
 trk.flazio.com
 trk.freepik.com
