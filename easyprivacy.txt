@@ -1325,6 +1325,7 @@ geo.thehindu.com
 geo.xcel.io
 geo.yahoo.com
 gets.faz.net
+gia.jd.com
 gift2pair.com
 g.ign.com
 g.itespresso.fr
@@ -1834,7 +1835,6 @@ pap.zalando.de
 partner.cynapse.com
 partners.badongo.com
 partners.mysavings.com
-pass.1688.com
 path5wall.com
 p.aty.sohu.com
 pb.i.sogou.com
@@ -2607,7 +2607,6 @@ t.birchlane.com
 t.blablacar.com
 t.blinkist.com
 t.brand-server.com
-tbskip.taobao.com
 t.c4tw.net
 tc.airfrance.com
 t.castle.io
