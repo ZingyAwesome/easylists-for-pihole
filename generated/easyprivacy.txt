@@ -504,6 +504,7 @@ cdn-analytics.ladmedia.fr
 cdn.usefathom.com
 cdn1.pebx.pl
 cdn3.lacoquepersonnalisee.fr
+cdn4.waisttrainer.co.nz
 cellstats.mako.co.il
 cem.hotelsapi.io
 cfcn.allocine.net
@@ -1098,6 +1099,7 @@ geoip.viamichelin.com
 geolocation.forbes.com
 geoservice.curse.com
 gets.faz.net
+gia.jd.com
 gift2pair.com
 gjr5.yoigo.com
 glassmoni.researchgate.net
@@ -2021,7 +2023,6 @@ target.ukr.net
 targeting.perso.aws.arc.pub
 targeting.voxus.tv
 tbe.tom.ru
-tbskip.taobao.com
 tce.alicdn.com
 tcheck.outbrainimg.com
 tck.bangbros.com
@@ -2269,6 +2270,7 @@ tracking.rtl.de
 tracking.scenepass.com
 tracking.searchmarketing.com
 tracking.sezzle.com
+tracking.sharplink.us
 tracking.shopstyle.com
 tracking.shoptogether.buy.com
 tracking.smartmeapp.com
