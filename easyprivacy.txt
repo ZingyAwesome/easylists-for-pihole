@@ -656,7 +656,6 @@ cm.g.doubleclick.net
 c.mgid.com
 cmp.channelpartner.de
 cmp.dreamlab.pl
-cmp.osano.com
 cms.fyndable.online
 cmstool.youku.com
 cmstrendslog.indiatimes.com
