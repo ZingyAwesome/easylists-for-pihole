@@ -640,6 +640,7 @@ click.uol.com.br
 click.vgnett.no
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
+client-log.box.com
 c.live.com
 clk.about.com
 clk.boulanger.com
