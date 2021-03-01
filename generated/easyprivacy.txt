@@ -545,6 +545,7 @@ clicktale.pantherssl.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
+client-log.box.com
 clk.about.com
 clk.boulanger.com
 clkstat.china.cn
@@ -556,29 +557,8 @@ cls7.theushuaiaexperience.com
 clue6load.com
 clvk.viki.io
 cmap.alibaba.com
-cmp.arnnet.com.au
 cmp.channelpartner.de
-cmp.cio.com
-cmp.cio.com.au
-cmp.cmo.com.au
-cmp.computerworld.com.au
-cmp.cso.com.au
-cmp.csoonline.com
-cmp.digitalartsonline.co.uk
 cmp.dreamlab.pl
-cmp.greenbot.com
-cmp.idginsiderpro.com
-cmp.infoworld.com
-cmp.javaworld.com
-cmp.macworld.co.uk
-cmp.macworld.com
-cmp.osano.com
-cmp.pcworld.co.nz
-cmp.pcworld.com
-cmp.pcworld.idg.com.au
-cmp.techadvisor.co.uk
-cmp.techconnect.com
-cmp.techhive.com
 cms.fyndable.online
 cmstool.youku.com
 cmstrendslog.indiatimes.com
@@ -1047,6 +1027,7 @@ g6338698720.co
 g6536783055.co
 g6734867390.co
 g6932951725.co
+g7131036060.co
 ga-beacon.appspot.com
 gak.webtoons.com
 game9time.com
@@ -1112,6 +1093,7 @@ gramombird.com
 green-griffin-860.appspot.com
 grow1maid.com
 gsp1.baidu.com
+gurgle.pcmag.com
 haag0some.com
 haig7anax.com
 half1hell.com
@@ -1188,6 +1170,7 @@ ipcheck.blogsys.jp
 iron0walk.com
 irqs.ioam.de
 isgprivacy.cbsi.com
+itpuk-mms.itpro.co.uk
 itracking.fccinteractive.com
 iwa.iplsc.com
 jac.yahoosandbox.com
@@ -1394,7 +1377,6 @@ mj23.eulerian.com
 mklik.gazeta.pl
 mlweb.dmlab.hu
 mmi.bemobile.ua
-mmm.carbuyer.co.uk
 mmm.theweek.co.uk
 mms.al.com
 mms.blick.ch
@@ -1408,7 +1390,6 @@ mms.expertreviews.co.uk
 mms.gizmodo.com
 mms.gocomics.com
 mms.gulflive.com
-mms.itpro.co.uk
 mms.jalopnik.com
 mms.jezebel.com
 mms.lehighvalleylive.com
