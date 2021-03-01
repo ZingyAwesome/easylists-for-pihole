@@ -1421,6 +1421,7 @@ intake-analytics.wikimedia.org
 intelli.ageuk.org.uk
 intent.cbsi.com
 intg.snapchat.com
+intuitvisitorid.api.intuit.com
 invitejs.trustpilot.com
 invite.leanlab.co
 ip2c.landscape.co.jp
