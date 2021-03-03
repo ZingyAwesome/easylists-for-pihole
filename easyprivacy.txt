@@ -1460,7 +1460,6 @@ kinesisproxy.hearstlabs.com
 kitchen.juicer.cc
 k.keyade.com
 k.kolplay.com
-klaviyo.map.fastly.net
 kota3chat.com
 kpr2exp21.com
 kropka.onet.pl
