@@ -250,6 +250,7 @@ analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics.eip.telegraph.co.uk
+analytics.elx.cloud
 analyticsengine.s3.amazonaws.com
 analytics.erepublic.com
 analytics.favcy.com
