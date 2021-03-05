@@ -9,6 +9,7 @@
 5ijo.01net.com
 6ddc.tartine-et-chocolat.com
 6pal.consobaby.com
+71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 7lbd4.armandthiery.fr
 7mx.eider.com
 7q1z79gxsi.global.ssl.fastly.net
@@ -123,11 +124,17 @@ a02342.yeovilexpress.co.uk
 a02342.yourlocalguardian.co.uk
 a03674778d27211eabe260a5fac8573f-298900439.eu-central-1.elb.amazonaws.com
 a177429ff0a2d11eab4120a5a92844d8-605541764.eu-central-1.elb.amazonaws.com
+a1.api.bbc.co.uk
 a.20minutes.fr
 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 a51404801860511eabe260a5fac8573f-308402611.eu-central-1.elb.amazonaws.com
 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
+a8clk.xserver.ne.jp
+a8cv.amiami.jp
+a8.cyclemarket.jp
+a8.eonet.jp
 a8ht.hipp.fr
+a8.print-netsquare.com
 aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
@@ -175,6 +182,7 @@ affiliates.myfax.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
 aff.kolektiva.net
+afi.ssl.gmobb.jp
 agg.inquisitr.com
 agg.lifedaily.com
 aggregator.inquisitr.com
@@ -393,6 +401,7 @@ analyzer2.fc2.com
 analyzer51.fc2.com
 analyzer52.fc2.com
 analyzer.fc2.com
+ana.tv5unis.ca
 anon-stats.eff.org
 anti-bot.baidu.com
 an.yandex.ru
@@ -402,6 +411,7 @@ ape-tagit.timeinc.net
 api.nobeta.com.br
 api.wipmania.com
 apollo.plein.be
+a.pourquoidocteur.fr
 app1.maatwerkonline.nl
 appanalysis.banggood.com
 apple.www.letv.com
@@ -409,6 +419,7 @@ aran9midi.com
 argos.citruserve.com
 arid5glop.com
 ar.i-run.fr
+arrietty.nrj.fr
 artfin.club
 as.base.de
 aserve.directorym.com
@@ -421,8 +432,10 @@ as.yomonda.de
 atanx.alicdn.com
 atax.gamermetrics.com
 atax.teamxbox.com
+at-cddc.actu-juridique.fr
 atconnect.npo.nl
 athenatmpbeacon.theglobeandmail.ca
+ati-a1.946d001b783803c1.xhst.bbci.co.uk
 atlas.astrology.com
 a.tovarro.com
 at.pagesjaunes.fr
@@ -430,6 +443,7 @@ atrack.allposters.com
 atrack.art.com
 ats.alot.com
 attributiontrackingga.googlecode.com
+atxqb.psychologies.com
 audience.acpm.fr
 audience.atex.com
 audience-mostread.r7.com
@@ -561,6 +575,7 @@ bvr.ast.snva.jp
 bvr.snva.jp
 bzclk.baidu.com
 c0011.boursorama.com
+c0012.brsimg.com
 c3metrics.medifast1.com
 c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
@@ -608,6 +623,7 @@ chanelventure.club
 chartaca.com.s3.amazonaws.com
 ches5sort.com
 chic9usia.com
+chihiro.nostalgie.fr
 chip2gift.com
 chkpt.zdnet.com
 c.holmesmind.com
@@ -680,6 +696,7 @@ cod.bitrec.com
 coin-cube.com
 coletor.terra.com
 collect.igodigital.com
+collect.meilleurtaux.com
 collect..miui.com
 collector-api.99designs.com
 collector.automote.co.nz
@@ -912,6 +929,7 @@ d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 d8rk54i4mohrb.cloudfront.net
 d.adrolays.de
+da.maif.fr
 dana8herb.com
 da.netease.com
 daq0d0aotgq0f.cloudfront.net
@@ -1340,6 +1358,7 @@ gx.idg.se
 g.yccdn.com
 haag0some.com
 haig7anax.com
+hal.courrierinternational.com
 half1hell.com
 hall3hook.com
 halospring.club
@@ -1351,6 +1370,7 @@ harvester.hbpl.co.uk
 hazy4cant.com
 hbx.df-srv.de
 h.cliphunter.com
+hd.pe.fr
 head3high.com
 hear8crew.com
 heartbeat.flickr.com
@@ -1398,6 +1418,8 @@ idt.id-news.net
 iedc.fitbit.com
 igrid.org
 i.imedia.cz
+image.ard.de
+image.mdr.de
 im.aol.de
 imgstat.baidu.com
 imgtrack.domainmarket.com
@@ -1418,6 +1440,7 @@ insight.fonecta.fi
 insights.algolia.io
 insights.cdt.ch
 insights.sitesearch360.com
+insights.sport1.de
 insitez.blob.core.windows.net
 instore.pagomeno.it
 intake-analytics.wikimedia.org
@@ -1449,6 +1472,7 @@ jelly.mdhv.io
 jen.jiji.com
 jill.fc.yahoo.com
 jody0sora.com
+johannes.voith.com
 josh7cuba.com
 jppolid-track.trackprod.integration.jppol.dk
 js-agent.newrelic.com
@@ -1456,6 +1480,7 @@ kalstats.kaltura.com
 kbn.korben.info
 keet1liod.com
 keyword.daumdn.com
+kiki.rireetchansons.fr
 kiks.auto.ru
 kilo6alga.com
 kinesisproxy.hearstlabs.com
@@ -1566,6 +1591,7 @@ log.prezi.com
 logql.yahoo.co.jp
 log.reformal.ru
 log.ren.tv
+logs1257.at.pagesjaunes.fr
 logs.51cto.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
@@ -1618,6 +1644,7 @@ makedosupport.club
 mali4blat.com
 malm1coax.com
 mandatebright.club
+mango.seloger.com
 ma.redhat.com
 ma.register.it
 mari4norm.com
@@ -1718,7 +1745,9 @@ mms.wwe.com
 mm.welt.de
 mo.moonpig.com
 mon-com-01.com
+mond.post.ch
 monitor.ebay.com
+montpalatin.handicap.fr
 mormont.gamer-network.net
 morozhko.club
 mors22.com
@@ -1935,6 +1964,7 @@ plumbus.minutemediaservices.com
 pmetrics.performancing.com
 p.milliyet.com.tr
 polobook.club
+ponyo.cheriefm.fr
 poor5zero.com
 po.ponant.com
 pos.baidu.com
@@ -2037,9 +2067,16 @@ reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
 report-zt.allmusic.com
 request.issuu.com
+res.elle.fr
+res.femina.fr
+res.francedimanche.fr
 responder.wt.heise.de
 response.pure360.com
+res.programme-television.org
+res.public.fr
 res.rbl.ms
+ressources.centraleauto.com
+ressources.mavoiturecash.fr
 retargeting.vistaprint.com
 retcode.taobao.com
 retrack.q-divisioncdn.de
@@ -2060,6 +2097,7 @@ rock5rice.com
 rok.com.com
 rote8mino.com
 r.sax.sina.com.cn
+rsc.lepoint.fr
 rs.mail.ru
 rs.sinajs.cn
 rs.smc.tf
@@ -2093,6 +2131,7 @@ saas-euw-1.com
 sa.bbc.co.uk
 s.agava.ru
 sal.isanook.com
+salzwerk.viessmann.de
 sana.newsinc.com.s3.amazonaws.com
 santuforward.club
 saon6harz.com
@@ -2137,6 +2176,7 @@ sgmnt.ticketswap.com
 sgphctileh-a.akamaihd.net
 sgqcvfjvr.onet.pl
 shared.65twenty.com
+sheeta.nrj-play.fr
 shoo5woop.com
 shopmetric.rediff.com
 shrek.6.cn
@@ -2296,6 +2336,7 @@ ssr.streamrail.net
 s.srvsynd.com
 sstats.mora.jp
 sstats.oui.sncf
+st1.lg.avendrealouer.fr
 stadig.ifeng.com
 stan.xing.com
 starman.fathomdns.com
@@ -2509,6 +2550,7 @@ stg-data-collector.playbuzz.com
 st.hbrd.io
 st.linkfire.com
 str1kee.com
+strawberry.basf.com
 sts.eccmp.com
 st.tmgrup.com.tr
 style.onvz.nl
@@ -2671,6 +2713,7 @@ tms.eharmony.co.uk
 tms-st.cdn.ngenix.net
 tm.tradetracker.net
 tm.uol.com.br
+tm.urssaf.fr
 tm.vendemore.com
 t.nativendo.de
 tnla.thenewslens.com
@@ -3128,6 +3171,7 @@ wait8hurl.com
 wal.wolfram.com
 wa.metro.co.uk
 want7feed.com
+wareneingang.edeka.de
 warp.prnewswire.co.uk
 watson.live.com
 wa.ui-portal.de
@@ -3182,6 +3226,11 @@ wstats.gameblog.fr
 wstat.wibiya.com
 ws.yellowpages.ca
 wtk.db.com
+wvvw.france24.com
+wvvw.francemediasmonde.com
+wvvw.infomigrants.net
+wvvw.mc-doualiya.com
+wvvw.rfi.fr
 x9.shinobi.jp
 x.allabout.co.jp
 xay5o.toscane-boutique.fr
@@ -3193,6 +3242,7 @@ xstats.evoload.io
 xtrack.capetown.gov.za
 x.weather.com
 xy33.smallable.com
+y1.arte.tv
 yama1hove.com
 yami8alea.com
 yast.rutube.ru
@@ -3206,6 +3256,7 @@ yoc.younited-credit.com
 z0uolej1qnxzub1.info
 zam.nextinpact.com
 zdlogs.sphereup.com
+zelten.fritz-berger.de
 zeus.slader.com
 zhihu-web-analytics.zhihu.com
 zion.api.cnn.io
@@ -3214,6 +3265,7 @@ znq9.destinia.mx
 zrw1.destinia.jp
 zs.dhl.de
 zsi7.destinia.do
+zug.sbb.ch
 zvsuhljiha-a.akamaihd.net
 zyq2.destinia.sk
 zz.bdstatic.com
