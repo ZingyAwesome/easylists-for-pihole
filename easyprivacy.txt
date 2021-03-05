@@ -1169,7 +1169,6 @@ ea.odalys-vacances.com
 ea.odalys-vacation-rental.com
 ea.officedepot.fr
 ea.pixmania.de
-ea.pixmania.fi
 ea.pixmania.ie
 ea.pixmania.it
 ea.pixmania.nl
@@ -1247,7 +1246,6 @@ eulerian.officiel-des-vacances.com
 eulerian.sarenza.com
 eulerian.splendia.com
 eultech.fnac.com
-eur3.mvjcdn.com
 event-analytics.yesware.com
 event-api.contactatonce.com
 event-api.contactatonce.com.au
@@ -2018,7 +2016,6 @@ mms.wwe.com
 mm.welt.de
 mnbyto.goo-net.com
 mnxlyo.kinoteatr.ru
-mo.moonpig.com
 mon-com-01.com
 mond.post.ch
 monitor.ebay.com
