@@ -7,6 +7,7 @@ banners.bizportal.co.il
 banners.news1.co.il
 exposeboxwallashops.blob.core.windows.net
 fringantlarn8.live
+hasdarot.club
 hasdarot.co
 hasdarot.com
 hasdarot.net
