@@ -1717,6 +1717,7 @@ log.pinterest.com
 log.plinga.de
 log.popin.cc
 log.prezi.com
+log.quora.com
 log.reformal.ru
 log.ren.tv
 log.seekda.com
@@ -4383,6 +4384,7 @@ tracking.godatafeed.com
 tracking.gruppo.mps.it
 tracking.ha.rueducommerce.fr
 tracking.hannoversche.de
+tracking.hivecloud.net
 tracking.hrs.de
 tracking.hsn.com
 tracking.jotform.com
