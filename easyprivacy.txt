@@ -535,6 +535,7 @@ aqdawf.ccm.net
 aqwvwn.cultfurniture.com
 aran9midi.com
 argos.citruserve.com
+ariane.abtasty.com
 arid5glop.com
 ar.i-run.fr
 a.rohde-schwarz.com
@@ -2741,6 +2742,7 @@ mtc.nhk.or.jp
 mtcs.nhk-ondemand.jp
 mtcs.nhk.or.jp
 mtcvyv.sporx.com
+mtm.qdqmedia.com
 m.trb.com
 mtrcs.redhat.com
 mts-ws.rueducommerce.fr
@@ -3358,6 +3360,7 @@ rum.marquardmedia.hu
 rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.perfops.net
+rum.vhwrz.net
 ruth8badb.com
 rva.outbrain.com
 rvkcpqz.com
@@ -4754,6 +4757,7 @@ stats.proff.no
 stats.propublica.org
 stats.pusher.com
 stat.sputnik.ru
+stats.qdq.com
 stats.radio-canada.ca
 stats.rcinet.ca
 stats.rcsobjects.it
@@ -5570,6 +5574,7 @@ tr.webantenna.info
 tr.werkenntwen.de
 trx3.famousfix.com
 trx.smdatalabs.com
+try.abtasty.com
 tsa.taxslayer.com
 t.seesaa.net
 ts.faz.net
