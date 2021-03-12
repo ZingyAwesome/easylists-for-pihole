@@ -2008,6 +2008,7 @@ go.oracle.com
 go.oroinc.com
 go.pardot.com
 go.phhlending.com
+go.techtarget.com
 go.transversal.com
 go.tuv.com
 go.unitusccu.com
@@ -2477,6 +2478,7 @@ loglady.publicbroadcasting.net
 loglady.skypicker.com
 log.mappy.net
 log.mediacategory.com
+log.medietall.no
 log.m.sm.cn
 log.newsvine.com
 log.nordot.jp
