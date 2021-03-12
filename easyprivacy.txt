@@ -841,6 +841,7 @@ cdn4.waisttrainer.co.nz
 cdn7.baunetz.de
 cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
+cdn-channels-pixel.ex.co
 cdn.net.elogia.net
 cdn.net.wink.es
 cdnstats.tube8.com
