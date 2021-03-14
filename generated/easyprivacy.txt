@@ -955,6 +955,7 @@ cueohf.forumsactifs.com
 culliganwaterco.actonservice.com
 cupid.socialblade.com
 curated.fieldtest.cc
+custom.plausible.io
 cvhefd.ixbt.com
 cws.conviva.com
 cyber-tracking.att.com
@@ -4399,6 +4400,7 @@ stats.topofblogs.com
 stats.tou.tv
 stats.townnews.com
 stats.tunt.lv
+stats.twhl.xyz
 stats.twistage.com
 stats.ulixes.pl
 stats.uswitch.com
