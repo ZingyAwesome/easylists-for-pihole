@@ -1150,6 +1150,7 @@ cueohf.forumsactifs.com
 culliganwaterco.actonservice.com
 cupid.socialblade.com
 curated.fieldtest.cc
+custom.plausible.io
 cvhefd.ixbt.com
 c.wen.ru
 c.wort-suche.com
@@ -3218,6 +3219,7 @@ ms.computerbild.de
 mseeru.faz.net
 msg.71.am
 ms.informaengage.com
+ms.markosaric.com
 msufcu.actonservice.com
 mtag.mman.kr
 mtc.nhk.or.jp
@@ -5389,6 +5391,7 @@ stats.tou.tv
 stats.townnews.com
 statstracker.celebrity-gossip.net
 stats.tunt.lv
+stats.twhl.xyz
 stats.twistage.com
 stats.ulixes.pl
 stats.united-domains.de
