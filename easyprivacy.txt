@@ -1771,6 +1771,7 @@ events.redditmedia.com
 events.shareably.net
 events.sk.ht
 events.splash-screen.net
+events.split.io
 events.tubecup.org
 events.turbosquid.com
 events.whisk.com
@@ -3695,6 +3696,7 @@ pr.blogflux.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
+prd-collector-platform.ex.co
 preferences.acspubs.org
 presentationtracking.netflix.com
 prism.pandora.tv
