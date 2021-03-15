@@ -6679,6 +6679,7 @@ wstats.e-wok.tv
 wstats.gameblog.fr
 wstat.wibiya.com
 ws.yellowpages.ca
+wtbevents.pricespider.com
 wt.envivas.de
 wt.generali.de
 wthlzk.home24.de
