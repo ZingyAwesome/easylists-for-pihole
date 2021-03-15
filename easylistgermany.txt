@@ -9,7 +9,6 @@ banner.click-tt.de
 banner.immowelt.de
 bn.gewinn24.de
 ced.sascdn.com
-couponcustomer.cpstatic.ch
 fastad.beepworld.de
 gan.wavecdn.net
 kalaydo.fnp.de
