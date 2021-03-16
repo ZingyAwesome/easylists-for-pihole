@@ -1,6 +1,5 @@
 banner.immowelt.de
 ced.sascdn.com
-couponcustomer.cpstatic.ch
 fastad.beepworld.de
 gan.wavecdn.net
 kalaydo.fnp.de

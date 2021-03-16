@@ -1399,6 +1399,7 @@ events.reddit.com
 events.redditmedia.com
 events.shareably.net
 events.sk.ht
+events.split.io
 events.tubecup.org
 events.turbosquid.com
 events.whisk.com
@@ -3018,6 +3019,7 @@ pplpiq.pricerunner.se
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
+prd-collector-platform.ex.co
 preferences.acspubs.org
 presentationtracking.netflix.com
 prism.pandora.tv
@@ -5307,6 +5309,7 @@ wssgmstats.vibbo.com
 wsstats.coches.net
 wstat.wibiya.com
 wstats.gameblog.fr
+wtbevents.pricespider.com
 wtk.db.com
 wttd.douglas.at
 wttd.douglas.de
