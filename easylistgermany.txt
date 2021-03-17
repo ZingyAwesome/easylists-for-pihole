@@ -10,7 +10,6 @@ banner.immowelt.de
 bn.gewinn24.de
 ced.sascdn.com
 fastad.beepworld.de
-gan.wavecdn.net
 kalaydo.fnp.de
 kka.agitos.de
 kka.idg.de
