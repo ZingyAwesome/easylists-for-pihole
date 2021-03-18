@@ -1186,6 +1186,7 @@ dii2.zooplus.se
 direct-aws-a1.com
 direct-events-collector.spot.im
 dirt.dennis.co.uk
+discover-metrics.cloud.seek.com.au
 discover.interlochen.org
 distillery.wistia.com
 djibeacon.djns.com
@@ -4890,6 +4891,7 @@ tracking.ehavior.net
 tracking.eloqua.modernize.com
 tracking.emoneyadvisor.com
 tracking.emsmobile.de
+tracking.engineering.cloud.seek.com.au
 tracking.epicgames.com
 tracking.eurosport.com
 tracking.evergy.com
