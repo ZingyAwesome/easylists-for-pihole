@@ -268,6 +268,7 @@ analytics.aasaam.com
 analytics.adfreetime.com
 analytics.ae.com
 analytics.agoda.com
+analytics.aimtell.com
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
