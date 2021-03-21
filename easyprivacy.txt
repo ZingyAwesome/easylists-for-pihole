@@ -1068,6 +1068,7 @@ counter.entertainmentwise.com
 counter.hackers.lv
 counter.hyipexplorer.com
 counter.insales.ru
+counter.jdi5.com
 counter.ksm.it
 counter.maases.com
 counter.megaindex.ru
