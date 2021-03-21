@@ -1,7 +1,6 @@
 banner.immowelt.de
 ced.sascdn.com
 fastad.beepworld.de
-mafia-banner.myftp.org
 media.alphaload.com
 netwayer.de
 network.gofeminin.de
