@@ -373,6 +373,7 @@ analytics.ooyala.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
+analytics.ovh.com
 analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
@@ -1523,6 +1524,7 @@ g6734867390.co
 g6932951725.co
 g7131036060.co
 g7329120395.co
+g7527204730.co
 ga-beacon.appspot.com
 gak.webtoons.com
 game9time.com
