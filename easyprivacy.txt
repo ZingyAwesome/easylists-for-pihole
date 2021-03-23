@@ -944,7 +944,6 @@ cmp.channelpartner.de
 cmp.dreamlab.pl
 cms.fyndable.online
 cmstool.youku.com
-cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
 cnameebis.usagi-online.com
 cnlbxi.zoopla.co.uk
@@ -2143,8 +2142,6 @@ ia.ekstrabladet.dk
 iazwzp.lyst.com
 ib.adnxs.com
 ibbmly.moneymetals.com
-ibeat.indiatimes.com
-ibs.indiatimes.com
 i.compendium.com
 iconstab.club
 icu.getstorybox.com
@@ -5741,8 +5738,8 @@ thaqyl.mediamarkt.nl
 thetradedesk-tags.s3.amazonaws.com
 think.phdinc.com
 t.hypers.com.cn
+tilanalytics.timesinternet.in
 timeslogtn.timesnow.tv
-timestrends.indiatimes.com
 timestrends.timesnow.tv
 tim.nextinpact.com
 t.indeed.com
