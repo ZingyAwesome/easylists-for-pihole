@@ -6161,6 +6161,7 @@ track.slideshare.net
 track.social.com
 track.sohu.com
 track.spacepush.ru
+track.span-smt.jp
 track.sprinklecontent.com
 tracksrv.zdf.de
 track.strife.com
@@ -6268,6 +6269,7 @@ trk.cloudsna.com
 trk.darkreading.com
 trk.datacenterknowledge.com
 trk.email.dynect.net
+trk.fensi.plus
 trk.flazio.com
 trk.freepik.com
 trk.gamasutra.com
