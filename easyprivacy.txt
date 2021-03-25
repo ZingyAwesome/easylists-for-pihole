@@ -3565,6 +3565,7 @@ pdmsmrt.gmc.com
 pdxor02.com
 peak2poem.com
 peep1alea.com
+pegasus.unifygroup.com
 perf.af.funneldrivers.com
 perf.dugout.com
 perf.mouser.com
@@ -3639,6 +3640,7 @@ pixel.propublica.org
 pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
+pixels.afcdn.com
 pixel.safe-installation.com
 pixels.boxberry.ru
 pixels.livingsocial.com
