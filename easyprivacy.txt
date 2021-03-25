@@ -2016,7 +2016,6 @@ go.oracle.com
 go.oroinc.com
 go.pardot.com
 go.phhlending.com
-go.techtarget.com
 go.transversal.com
 go.tuv.com
 go.unitusccu.com
