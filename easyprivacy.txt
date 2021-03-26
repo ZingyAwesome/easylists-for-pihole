@@ -1778,6 +1778,7 @@ events.splash-screen.net
 events.split.io
 events.tubecup.org
 events.turbosquid.com
+events.uber.com
 events.whisk.com
 event.syndigo.cloud
 events.yourcx.io
