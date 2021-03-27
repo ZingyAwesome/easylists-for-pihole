@@ -3757,6 +3757,7 @@ pxmzlk.redfin.com
 px.owneriq.net
 px.spiceworks.com
 px.staticfiles.at
+pxt.daz3d.com
 px.wayfair.com
 px.wp.pl
 p.yotpo.com
@@ -6771,6 +6772,7 @@ xscmzs.tenki.jp
 xslmpq.ohou.se
 xsrzqh.bdnews24.com
 xstats.evoload.io
+xt.persosa.com
 xtrack.capetown.gov.za
 xukekk.oshkosh.com
 x.weather.com
