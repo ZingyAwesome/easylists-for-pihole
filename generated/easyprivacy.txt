@@ -2955,6 +2955,7 @@ pix.eads.com
 pix.gfycat.com
 pix.impdesk.com
 pix.nbcuni.com
+pix.revjet.com
 pix.telekom.de
 pixel-a.basis.net
 pixel-static.spotify.com
