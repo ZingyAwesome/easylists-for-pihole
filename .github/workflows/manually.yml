@@ -60,9 +60,9 @@ jobs:
           git add generated/* || true
           git commit -m 'Easylist generated files' || true
 
-      - name: Check if changed from master
+      - name: Check if changed from main
         run: |
-          git diff --quiet HEAD master -- generated --exit-code || echo "CHANGED=true" >> $GITHUB_ENV
+          git diff --quiet HEAD main -- generated --exit-code || echo "CHANGED=true" >> $GITHUB_ENV
           echo Changed: ${{ env.CHANGED }}
         env:
           CI: true
@@ -81,7 +81,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_PREFIX: 'generated'
           PULL_REQUEST_FROM_BRANCH: 'generated'
-          PULL_REQUEST_BRANCH: 'master'
+          PULL_REQUEST_BRANCH: 'main'
 
       - name: Find Pull Request
         if: ${{ env.CHANGED == 'true' }}
