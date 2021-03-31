@@ -2337,6 +2337,7 @@ jpluzr.autoc-one.jp
 jppolid-track.trackprod.integration.jppol.dk
 jraasj.kobo.com
 js-agent.newrelic.com
+jumbo.zomato.com
 jvznla.rossmann.com.tr
 jybnuw.mudah.my
 k4fu.verif.com
