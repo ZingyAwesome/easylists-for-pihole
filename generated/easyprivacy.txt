@@ -709,7 +709,6 @@ census.misterspex.no
 census.misterspex.se
 cfcn.allocine.net
 cfhjqg.sonyunara.jp
-cgi.tbs.co.jp
 cgicounter.oneandone.co.uk
 cgicounter.onlinehome.de
 cgicounter.puretec.de
