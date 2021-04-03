@@ -982,6 +982,7 @@ collector.kstptv5.com
 collector.mazeberry.com
 collector-medium.lightstep.com
 collector.ozeex.com
+collector.pi.spectrum.net
 collector.prod.expedia.com
 collector-px0py5pczn.octopart.com
 collector-.px-client.net
