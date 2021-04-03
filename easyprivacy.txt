@@ -867,7 +867,6 @@ c.gazetevatan.com
 cgicounter.oneandone.co.uk
 cgicounter.onlinehome.de
 cgicounter.puretec.de
-cgi.tbs.co.jp
 cgqkhc.trendyol.com
 ch0p.darty.com
 chanalytics.merchantadvantage.com
@@ -2299,6 +2298,7 @@ iwa.iplsc.com
 iwantglobal.actonservice.com
 iwpkhm.re-store.ru
 iwpneu.eneba.com
+j1.ax.xrea.com
 jac.yahoosandbox.com
 janus.r.jakuli.com
 jaomlf.giftmall.co.jp
