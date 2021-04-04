@@ -7,7 +7,6 @@
 1l-hit.mail.ru
 1q2w3.website
 1to1.bbva.com
-2giga.download
 319dn.dieti-natura.com
 44tele-infra.com
 55-trk-srv.com
@@ -295,7 +294,6 @@ alga9frog.com
 alsgaj.chosun.com
 al-smetrics.vizio.com
 als-svc.nytimes.com
-altavista.ovh
 a.mobify.com
 amos5lynn.com
 amp-error-reporting.appspot.com
@@ -510,7 +508,6 @@ analytics.us.archive.org
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vendemore.com
-analytics.video.meredithcorp.io
 analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
@@ -966,7 +963,6 @@ code.randomhouse.com
 coin-cube.com
 coletor.terra.com
 collect.cap.ch
-collect.igodigital.com
 collection.saga.co.uk
 collect.meilleurtaux.com
 collect..miui.com
@@ -1985,7 +1981,6 @@ gj.mmstat.com
 gjr5.yoigo.com
 gkfdkf.jdsports.co.uk
 glassmoni.researchgate.net
-glbdns.microsoft.com
 gldsta-02-or.com
 globalcommunications.sc.com
 glzsji.nordman.ru
@@ -2012,7 +2007,6 @@ golp4elik.com
 go.marfeel.com
 go.morningstar.com.au
 go.mvtec.com
-go.optifuze.com
 go.oracle.com
 go.oroinc.com
 go.pardot.com
@@ -2172,6 +2166,7 @@ imgtrack.domainmarket.com
 immassets.s3.amazonaws.com
 imonitor.dhgate.com
 imp.ad-plus.cn
+imp.affiliator.com
 imp.go.sohu.com
 imp-media-lab.thenewslens.com
 imp.optaim.com
@@ -3683,7 +3678,6 @@ play.mix.kinostuff.com
 p-log.ykimg.com
 pl.sharpmarketing.eu
 plug1luge.com
-plumbus.minutemediaservices.com
 pluto.r.powuta.com
 pmetrics.performancing.com
 p.milliyet.com.tr
@@ -4040,7 +4034,6 @@ sbgsodufuosmmvsdf.info
 sbxelb.bonprix.ro
 sbyneh.dailymail.co.uk
 s.cadent.bloomberglaw.com
-scaleway.ovh
 scan6show.com
 sc.cc.com
 sc.disneylandparis.com
@@ -5266,7 +5259,6 @@ stats.concierge.com
 stats.cruisingpower.com
 stats.datahjaelp.net
 stats-dc1.frz.io
-statsdev.treesd.com
 stats.dice.com
 stats.digg.com
 stats.digital-natives.de
@@ -5765,7 +5757,6 @@ tk.airfrance.us
 tk.biovea.com
 t.kck.st
 tk.conforama.fr
-t.kelkoogroup.net
 tkelq.genesys.com
 tk.engie.fr
 tk.healthwarehouse.com
@@ -5921,7 +5912,6 @@ tracker.marinsoftware.com
 tracker.mattel.com
 tracker.mspy.com
 tracker.nbcuas.com
-tracker.neon-images.com
 tracker.nitropay.com
 tracker.pandora.com
 tracker.pinnaclesports.com
@@ -6027,7 +6017,6 @@ tracking.hivecloud.net
 tracking.houzz.com
 tracking.hrs.de
 tracking.hsn.com
-tracking.html5games.com
 tracking.info.ivanti.com
 tracking.info.servicenow.com
 tracking.insperity.com
@@ -6834,7 +6823,6 @@ yzcpqa.gumtree.com
 z0uolej1qnxzub1.info
 zam.nextinpact.com
 zcbmn14.com
-zdlogs.sphereup.com
 zdwwtt.82plus.co.kr
 zelten.fritz-berger.de
 zeus.slader.com
