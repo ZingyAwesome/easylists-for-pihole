@@ -6199,6 +6199,7 @@ trafficfuelpixel.s3-us-west-2.amazonaws.com
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
 tr.animations.bfmtv.com
+trap.skype.com
 t.raptorsmartadvisor.com
 tr.asp002q.espmp-aufr.net
 tr.asp10hi.espmp-cufr.net
