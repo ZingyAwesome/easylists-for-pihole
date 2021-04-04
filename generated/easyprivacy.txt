@@ -812,6 +812,7 @@ collector.githubapp.com
 collector.ksax.com
 collector.mazeberry.com
 collector.ozeex.com
+collector.pi.spectrum.net
 collector.prod.expedia.com
 collector.rn.de
 collector.roistat.com
