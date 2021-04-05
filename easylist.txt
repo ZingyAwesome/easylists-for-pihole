@@ -2702,6 +2702,7 @@ d10nkw6w2k1o10.cloudfront.net
 d10wfab8zt419p.cloudfront.net
 d11enq2rymy0yl.cloudfront.net
 d11tybz5ul8vel.cloudfront.net
+d12ysuoljjyfqa.cloudfront.net
 d13k7prax1yi04.cloudfront.net
 d140sbu1b1m3h0.cloudfront.net
 d141wsrw9m4as6.cloudfront.net
@@ -2740,6 +2741,7 @@ d1nkvehlw5hmj4.cloudfront.net
 d1nmxiiewlx627.cloudfront.net
 d1nnhbi4g0kj5.cloudfront.net
 d1nx2jii03b4ju.cloudfront.net
+d1oxccu2k3w6jx.cloudfront.net
 d1p3zboe6tz3yy.cloudfront.net
 d1qc76gneygidm.cloudfront.net
 d1qggq1at2gusn.cloudfront.net
@@ -2863,6 +2865,7 @@ d3mzokty951c5w.cloudfront.net
 d3n3a4vl82t80h.cloudfront.net
 d3nvrqlo8rj1kw.cloudfront.net
 d3pe8wzpurrzss.cloudfront.net
+d3pk579obpqv7b.cloudfront.net
 d3q33rbmdkxzj.cloudfront.net
 d3qu0b872n4q3x.cloudfront.net
 d3rxqouo2bn71j.cloudfront.net
@@ -2878,6 +2881,7 @@ d4fed03105c9f65b.com
 d4ngwggzm3w7j.cloudfront.net
 d58bf31082fa97.com
 d59fa492f75f520.com
+d5g0nxmbdku6r.cloudfront.net
 d5pb47xzjz3fc.cloudfront.net
 d602196786e42d.com
 d63a3au5lqmtu.cloudfront.net
@@ -3270,6 +3274,7 @@ dlevisionexpr.site
 dlfclcey.com
 dlfvgndsdfsn.com
 dlfxsmbetx.com
+dlkfm8bqz0bpx.cloudfront.net
 dlne6myudrxi1.cloudfront.net
 dlnsjjyzvi1x.com
 dloungspiricapu.fun

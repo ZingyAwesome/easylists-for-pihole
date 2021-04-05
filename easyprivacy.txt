@@ -3067,6 +3067,7 @@ metrics.southwest.com
 metrics.speedousa.com
 metrics.spencersonline.com
 metrics.spirithalloween.com
+metrics.spkt.io
 metrics.sportsbusinessdaily.com
 metrics.startribune.com
 metrics.starwoodhotels.com
