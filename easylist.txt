@@ -715,7 +715,6 @@ ad.bitbay.net
 ad.bitmedia.io
 adbmi.com
 addictedapartlazy.com
-addirector.vindicosuite.com
 addressen.club
 addression.club
 adearsened.info
@@ -767,7 +766,6 @@ adrent.net
 adrevenuerescue.com
 adscarrot.com
 ad.search.ch
-adserver.pandora.com
 adservi.com
 adserving.unibet.com
 ads.leovegas.com
@@ -775,7 +773,6 @@ ad.smartmediarep.com
 ads.playground.xyz
 adsplay.in
 adspop.me
-ad.spreaker.com
 adspredictiv.com
 adspyglass.com
 adsrefundattempts.com
@@ -783,14 +780,12 @@ adsrv.me
 ads.servebom.com
 ads-sg.tiktok.com
 ads.sportradar.com
-adss.yahoo.com
 adstarget.net
 adstargets.com
 adstellar.icu
 adstonesik.club
 ads.tremorhub.com
 adswam.com
-ads.yahoo.com
 adsyst.biz
 adtng.com
 adtonement.com
@@ -834,7 +829,6 @@ adzfun.info
 adzfun.me
 adziondin.club
 adzmob.com
-adz.wattpad.com
 ae1a1e258b8b016.com
 ae21a0ad95016488.com
 aebadu.com
