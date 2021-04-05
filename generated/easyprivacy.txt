@@ -7,7 +7,6 @@
 1l-hit.mail.ru
 1q2w3.website
 1to1.bbva.com
-2giga.download
 44tele-infra.com
 55-trk-srv.com
 66infra-strat.com
@@ -243,7 +242,6 @@ alexandria.marfeelcdn.com
 alga9frog.com
 als-svc.nytimes.com
 alsgaj.chosun.com
-altavista.ovh
 amos5lynn.com
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
@@ -446,7 +444,6 @@ analytics.us.archive.org
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vendemore.com
-analytics.video.meredithcorp.io
 analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
@@ -795,7 +792,6 @@ code.randomhouse.com
 coin-cube.com
 coletor.terra.com
 collect.cap.ch
-collect.igodigital.com
 collect.meilleurtaux.com
 collect.rewardstyle.com
 collect.tianya.cn
@@ -1589,7 +1585,6 @@ gift2pair.com
 gjr5.yoigo.com
 gkfdkf.jdsports.co.uk
 glassmoni.researchgate.net
-glbdns.microsoft.com
 gldsta-02-or.com
 globalcommunications.sc.com
 glzsji.nordman.ru
@@ -1715,6 +1710,7 @@ imgstat.baidu.com
 imgtrack.domainmarket.com
 imonitor.dhgate.com
 imp-media-lab.thenewslens.com
+imp.affiliator.com
 imp.go.sohu.com
 imp.optaim.com
 imp.pvnsolutions.com
@@ -2515,6 +2511,7 @@ metrics.southwest.com
 metrics.speedousa.com
 metrics.spencersonline.com
 metrics.spirithalloween.com
+metrics.spkt.io
 metrics.sportsbusinessdaily.com
 metrics.startribune.com
 metrics.starwoodhotels.com
@@ -3013,7 +3010,6 @@ plan.seek.intel.com
 play.mix.kinostuff.com
 player-telemetry.vimeo.com
 plug1luge.com
-plumbus.minutemediaservices.com
 pmetrics.performancing.com
 pmrdnt.tuincentrum.nl
 pny.net.penny.de
@@ -3294,7 +3290,6 @@ sbgsodufuosmmvsdf.info
 sbxelb.bonprix.ro
 sbyneh.dailymail.co.uk
 sc-forbes.forbes.com
-scaleway.ovh
 scan6show.com
 schwaebischhall.efscle.com
 sci.digitalinsight.com
@@ -4453,7 +4448,6 @@ stats2.vanityfair.com
 stats2.wmagazine.com
 stats3.unrulymedia.com
 statsd.zmags.com
-statsdev.treesd.com
 statse-omtrdc.deka.de
 statsmp2.emol.com
 statss.ia.ca
@@ -5033,6 +5027,7 @@ traffic.acwebconnecting.com
 traffic.buyservices.com
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
+trap.skype.com
 travel.onlinevacationcenter.com
 tray0bury.com
 trc.pushnami.com
@@ -5424,7 +5419,6 @@ yzcpqa.gumtree.com
 z0uolej1qnxzub1.info
 zam.nextinpact.com
 zcbmn14.com
-zdlogs.sphereup.com
 zeus.slader.com
 zgqgig.skillbox.ru
 zgumwv.stepstone.de
