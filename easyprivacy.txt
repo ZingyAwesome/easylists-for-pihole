@@ -1906,6 +1906,7 @@ g7131036060.co
 g7329120395.co
 g7527204730.co
 g7725289065.co
+g7923373400.co
 ga-beacon.appspot.com
 ga.canoe.ca
 ga.kvideo.io
@@ -1933,6 +1934,7 @@ geo.battle.net
 geobeacon.ign.com
 geo.emol.cl
 geo.ertya.com
+geo.gfycat.com
 geo.gorillanation.com
 geo.homepage-web.com
 geoip.al.com
@@ -4029,6 +4031,7 @@ sa.squareup.com
 sa.tactics.com
 sa.tf1.fr
 sat.sanoma.fi
+sats.manager-magazin.de
 sayac.hurriyettv.com
 sbdhdq.zeeman.com
 sbgsodufuosmmvsdf.info
@@ -5735,7 +5738,6 @@ text.rahmenvereinbarungen.de
 te.yourhome.de
 tf.360.cn
 tfdtpa.dot-st.com
-t.felmat.net
 t.festo.com
 t.freelancer.com
 thaqyl.mediamarkt.nl
@@ -6343,6 +6345,7 @@ tr.strategie.gouv.fr
 tr.suedkurier.de
 tr.tdgx.espmp-cufr.net
 trueffect.underarmour.com
+truffle.bid
 tr.uk.icicibank.com
 trusted-web-seal.cybertrust.ne.jp
 trust.titanhq.com
