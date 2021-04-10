@@ -1522,6 +1522,7 @@ g7131036060.co
 g7329120395.co
 g7527204730.co
 g7725289065.co
+g7923373400.co
 ga-beacon.appspot.com
 gak.webtoons.com
 game9time.com
@@ -1540,6 +1541,7 @@ gemius.mgr.consensu.org
 geo.battle.net
 geo.emol.cl
 geo.ertya.com
+geo.gfycat.com
 geo.gorillanation.com
 geo.kontagent.net
 geo.metronews.ca
@@ -4949,6 +4951,7 @@ tracking.nasdaq.com
 tracking.netvigie.com
 tracking.nextdoor.com
 tracking.nl.visma.com
+tracking.noen.at
 tracking.novem.pl
 tracking.omniture.nt.se
 tracking.oui.sncf
@@ -5066,6 +5069,7 @@ trksrv45.com
 trowel.twitch.tv
 tru.webelapp.com
 trueffect.underarmour.com
+truffle.bid
 trust.titanhq.com
 trusted-web-seal.cybertrust.ne.jp
 trx.smdatalabs.com
