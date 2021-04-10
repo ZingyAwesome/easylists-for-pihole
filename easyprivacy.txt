@@ -5903,6 +5903,7 @@ tracker.cds-tracking.com
 tracker.cpapath.com
 tracker.data-vp.com
 tracker.downdetector.com
+tracker.esputnik.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
