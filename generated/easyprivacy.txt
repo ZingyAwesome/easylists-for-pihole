@@ -3167,6 +3167,7 @@ rsc.lepoint.fr
 rss.tmgrup.com.tr
 rta.dailymail.co.uk
 rta2.metro.co.uk
+rta2.newzit.com
 rtg-endpoint.global.ssl.fastly.net
 rtn.thestar.com
 rtt.campanja.com
