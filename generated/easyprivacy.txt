@@ -480,6 +480,7 @@ app.updates.digicert.com
 app1.maatwerkonline.nl
 appanalysis.banggood.com
 apple.www.letv.com
+apxl.io
 aqdawf.ccm.net
 aqwvwn.cultfurniture.com
 aran9midi.com
@@ -4919,6 +4920,7 @@ tracking.hivecloud.net
 tracking.houzz.com
 tracking.hrs.de
 tracking.hsn.com
+tracking.hyros.com
 tracking.info.ivanti.com
 tracking.info.servicenow.com
 tracking.insperity.com
@@ -4937,6 +4939,7 @@ tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.magnetmail.net
+tracking.markethero.io
 tracking.mathworks.com
 tracking.max.co.il
 tracking.medpagetoday.com
