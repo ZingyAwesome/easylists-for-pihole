@@ -6383,6 +6383,7 @@ t-staging.powerreviews.com
 ts.tradetracker.net
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
+ttauri.cyclingnews.com
 ttauri.digitalcameraworld.com
 ttauri.guitarworld.com
 ttauri.laptopmag.com
