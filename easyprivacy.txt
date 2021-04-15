@@ -5937,6 +5937,7 @@ tracker.timesgroup.com
 tracker.tiu.ru
 tracker.unbxdapi.com
 tracker.uprinting.com
+tracker.wigzopush.com
 tracker.winload.de
 tracker.wordstream.com
 tracker.wpserveur.net
@@ -6207,6 +6208,7 @@ traffic.buyservices.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
+t.rainide.com
 tr.animations.bfmtv.com
 trap.skype.com
 t.raptorsmartadvisor.com
