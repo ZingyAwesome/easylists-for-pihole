@@ -3210,6 +3210,7 @@ mnxlyo.kinoteatr.ru
 mon-com-01.com
 mond.post.ch
 mon.ingservices.nl
+monitor.azure.com
 monitor.channel4.com
 monitor.ebay.com
 montpalatin.handicap.fr
@@ -4033,7 +4034,6 @@ sa.squareup.com
 sa.tactics.com
 sa.tf1.fr
 sat.sanoma.fi
-sats.manager-magazin.de
 sayac.hurriyettv.com
 sbdhdq.zeeman.com
 sbgsodufuosmmvsdf.info
