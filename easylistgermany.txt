@@ -16,7 +16,6 @@ network2.aufeminin.com
 network.gofeminin.de
 ox.comventure.de
 ox.gassi-tv.de
-partner.dasoertliche-marketing.de
 partner.fondsdiscount.de
 partner.maxxim.de
 partner.schalke04.de
@@ -29,5 +28,3 @@ wbbanner.mrn-news.de
 widgets.goldankauf123.de
 widgets.mywai.de
 wm-space.youero.com
-xobor.miranus.com
-y.konsolenfreunde.de
