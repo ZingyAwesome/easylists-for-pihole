@@ -4850,6 +4850,7 @@ tracker.timesgroup.com
 tracker.tiu.ru
 tracker.unbxdapi.com
 tracker.uprinting.com
+tracker.wigzopush.com
 tracker.winload.de
 tracker.wordstream.com
 tracker.wpserveur.net
@@ -5085,6 +5086,7 @@ tshuxi.bbqguys.com
 tsj0.madeindesign.com
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
+ttauri.cyclingnews.com
 ttauri.digitalcameraworld.com
 ttauri.guitarworld.com
 ttauri.laptopmag.com
