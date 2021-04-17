@@ -1272,6 +1272,7 @@ datadog-service.mvfglobal.com
 data.econa.com
 data.glamour.ru
 data.goertz.de
+datagroup-reporting.shopeemobile.com
 data.inbank.it
 data.leipzig.de
 data.mainpost.de
@@ -1850,6 +1851,7 @@ fpwtsp.xxxlutz.de
 frankwatching.actonservice.com
 fresh.techdirt.com
 frog9alea.com
+froglytics.eventfrog.ch
 fr.sharpmarketing.eu
 fsbozl.dillards.com
 fs-client-logger.herokuapp.com
@@ -4866,6 +4868,7 @@ sp.desertsun.com
 sp.desmoinesregister.com
 sp.detroitnews.com
 sp.dnj.com
+sp.dpgmedia.net
 speedtrap.shopdirect.com
 speed.wikia.net
 speee-ad.akamaized.net
@@ -5717,6 +5720,7 @@ telemetry.tableausoftware.com
 telemetry.tradingview.com
 te.limango.de
 tempo.inc.com
+temptation.ad.nl
 te.mytoys.de
 tenilstats.turner.com
 tent0mown.com
