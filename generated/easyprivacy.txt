@@ -1075,6 +1075,7 @@ data1.sparkasse.at
 data1.virginmobile.ca
 datacenter.lenovo.com
 datadog-service.mvfglobal.com
+datagroup-reporting.shopeemobile.com
 datanoticias.prisasd.com
 dawn3host.com
 dbex-tracker-v2.driveback.ru
@@ -1467,6 +1468,7 @@ fpwtsp.xxxlutz.de
 frankwatching.actonservice.com
 fresh.techdirt.com
 frog9alea.com
+froglytics.eventfrog.ch
 fs-client-logger.herokuapp.com
 fsbozl.dillards.com
 fsm.lapresse.ca
@@ -4669,6 +4671,7 @@ telemetry.soundcloud.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 tempo.inc.com
+temptation.ad.nl
 tenilstats.turner.com
 tent0mown.com
 teqeft.allegromedical.com
