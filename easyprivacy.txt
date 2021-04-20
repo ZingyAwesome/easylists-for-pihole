@@ -2749,7 +2749,6 @@ log.mediacategory.com
 log.medietall.no
 log.m.sm.cn
 log.newsvine.com
-log.nordot.jp
 log.olark.com
 log.optimizely.com
 log.outbrain.com
