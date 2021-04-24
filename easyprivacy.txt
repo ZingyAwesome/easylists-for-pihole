@@ -1076,7 +1076,6 @@ brc.emails.rakuten.com
 bred4tula.com
 br.email.lifesum.com
 bright.bncnt.com
-browser.sentry-cdn.com
 browser-updater.yandex.net
 bsmtsl.gesundheits-praemien.de
 b.snow.com
@@ -2850,6 +2849,7 @@ go.mwe.com
 go.netsuite.com
 go.oracle.com
 go.oroinc.com
+go.pardot.com
 go.phhlending.com
 go.servicenow.com
 gotoaws.dresslily.com
