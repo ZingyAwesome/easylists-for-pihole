@@ -1395,7 +1395,6 @@ cnt.vivatube.com
 coax7nice.com
 cod.bitrec.com
 code.randomhouse.com
-coin-cube.com
 coletor.terra.com
 collect.cap.ch
 collect.igodigital.com
@@ -1757,7 +1756,6 @@ d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
-d8rk54i4mohrb.cloudfront.net
 d.adrolays.de
 da.hornbach.at
 da.hornbach.ch
@@ -2331,7 +2329,6 @@ emng.libero.it
 em.touchtunes.com
 em.touchtunesmail.com
 encoderfarmstatsnew.servicebus.windows.net
-encoding.ovh
 endljp.dariknews.bg
 endljp.gong.bg
 endljp.kupujemprodajem.com
@@ -2868,7 +2865,6 @@ go.uscad.com
 go.visma.com
 go.zendesk.com
 g.pcmag.com
-graftpool.ovh
 gramombird.com
 green-griffin-860.appspot.com
 greenjapan-cname.green-japan.com
@@ -2934,7 +2930,6 @@ hermes.theglobeandmail.com
 hfd.bridgetowermedia.com
 hffttk.sandro-paris.ru
 hhbxcs.tylko.com
-hide.ovh
 hi.hellobar.com
 hikmxb.botovo.cz
 hi.koalendar.com
@@ -4410,7 +4405,6 @@ neocounter.neoworx-blog-tools.net
 net1.coolsailing.com
 netc.sfr.fr
 net.haier.com
-never.ovh
 news.bpost.be
 news.cmatcherlink.com
 news.dailyreporter.com
@@ -4425,7 +4419,6 @@ news.rbj.net
 news.thedailyrecord.com
 news.thedolancompany.com
 nexioniect.com
-nexttime.ovh
 nice3aiea.com
 nil.naver.com
 ninja.akamaized.net
@@ -7549,7 +7542,6 @@ tracker.financialcontent.com
 tracker.icerocket.com
 tracker-id.cdiscount.com
 tracker.iltrovatore.it
-tracker.iqnomy.com
 tracker.jawcloud.co
 tracker.keywordintent.com
 tracker.marinsoftware.com
