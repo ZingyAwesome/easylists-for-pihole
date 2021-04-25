@@ -612,6 +612,7 @@ analytics.rogersmedia.com
 analytics.salesanalytics.io
 analytics.sanoma.fi
 analytics.schoolwires.com
+analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics-sg.tiktok.com
@@ -8195,6 +8196,7 @@ tshuxi.bbqguys.com
 t.signalayer.com
 tsj0.madeindesign.com
 t.smile.eu
+tspmagic.tumblr.com
 ts.popsugar.com
 t.spot.im
 ts.rtl.de
