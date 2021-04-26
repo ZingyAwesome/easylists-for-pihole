@@ -465,6 +465,7 @@ analytics.aimtell.com
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
+analytics-api.samsunghealthcn.com
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.arunraghavan.net
@@ -593,6 +594,7 @@ analytics.photorank.me
 analytics.piksel.com
 analytics.plex.tv
 analytics.pnc.com
+analytics.pointdrive.linkedin.com
 analytics.posttv.com
 analytics.prezly.com
 analytics.prod.aws.ecnext.net
@@ -610,6 +612,7 @@ analytics.reyrey.net
 analytics-rhwg.rhcloud.com
 analytics.rogersmedia.com
 analytics.salesanalytics.io
+analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.schoolwires.com
 analytics-script.ad-shield.io
@@ -1010,7 +1013,7 @@ bhawtp.vitacost.com
 bhu9.bankia.es
 bhwkju.vivo.com
 bidder.mediams.mb.softbank.jp
-bid.g.doubleclick.net
+bigdata.ssp.samsung.com
 billingcisco-capwap-controller.net.daraz.com
 bi.medscape.com
 b.imwx.com
@@ -1329,7 +1332,6 @@ clshkv.labirint.ru
 clue6load.com
 clvk.viki.io
 cmap.alibaba.com
-cm.g.doubleclick.net
 c.mgid.com
 cmme.actonservice.com
 c.mobilens.emailvision.net.daraz.com
@@ -3161,6 +3163,7 @@ insights.ddiworld.com
 insights.frenchtogether.com
 insights.prophet.com
 insights.radiometer.com
+insights.samsung.com
 insights.sitesearch360.com
 insights.sport1.de
 insitez.blob.core.windows.net
@@ -3519,6 +3522,7 @@ log000.goo.ne.jp
 log1.17173.com
 log.51cto.com
 log.aimtell.com
+logbak.hicloud.com
 log.bitauto.com
 log.china.cn
 log.cizion.com
@@ -3580,6 +3584,7 @@ logs-api.shoprunner.com
 logsbin.dantri.com.vn
 logs.dashlane.com
 log.seekda.com
+logservice.hicloud.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
@@ -4028,6 +4033,7 @@ metrics.diy.com
 metrics.doctoroz.com
 metrics.dollargeneral.com
 metrics.dominos.com
+metrics-dra.dt.hicloud.com
 metrics.drsfostersmith.com
 metrics.duluthtrading.com
 metrics.dunkindonuts.com
@@ -4075,6 +4081,7 @@ metrics.homes.com
 metrics.hoovers.com
 metrics.hrblock.com
 metrics.hyundaiusa.com
+metrics.icloud.com
 metrics.iconfitness.com
 metrics.ilovematlab.cn
 metrics.imvu.com
@@ -4120,6 +4127,7 @@ metrics.moneymart.ca
 metrics.motortrend.com
 metrics.myprime.com
 metrics.mysanantonio.com
+metrics.mzstatic.com
 metrics.nationwide.co.uk
 metrics.nba.com
 metrics.necn.com
@@ -4284,6 +4292,7 @@ mi.miliboo.it
 mine.nahnoji.cz
 minerad.com
 minerva.healthcentral.com
+mistat.xiaomi.com
 mit.db.com
 mit.dws.com
 mit.dws.de
@@ -5220,6 +5229,7 @@ saa.metacritic.com
 saametrics.aktia.fi
 saa.metrolyrics.com
 saam.gumtree.com.au
+sa.api.intl.miui.com
 saa.popculture.com
 saa.rachaelrayshow.com
 saas-eue-1.com
@@ -6693,7 +6703,6 @@ stats.fortunabkk.com
 stats.frankfurterneuepresse.de
 stats.fs.com
 stats.fundimmo.com
-stats.g.doubleclick.net
 stats.geegain.com
 stats.getdoks.org
 stats.ghost.org
@@ -6989,6 +6998,7 @@ stat.wolterskluwer.pl
 stat.wolterskluwer.pt
 stat.ws.126.net
 stat.xhamsterpremium.com
+stat.xiaomi.com
 statystyki.panelek.com
 stat.zol.com.cn
 stay.lottehotel.com
@@ -7066,6 +7076,7 @@ support2.flex.com
 support.dns1.freshegg.net.daraz.com
 support.flex.com
 supportfreya.net.daraz.com
+supportmetrics.apple.com
 support.r-dw-1.net.daraz.com
 survey.interquest.com
 surveys.cnet.com
@@ -7712,6 +7723,7 @@ tracking.mhealthintelligence.com
 tracking.military.com
 tracking.mindshare.de
 tracking..miui.com
+tracking.miui.com
 trackingmms.accenture.com
 tracking.mobile.de
 tracking.monsido.com
