@@ -1063,7 +1063,6 @@ cntr-di5.com
 coax7nice.com
 cod.bitrec.com
 code.randomhouse.com
-coin-cube.com
 coletor.terra.com
 collect.cap.ch
 collect.igodigital.com
@@ -1381,7 +1380,6 @@ d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
-d8rk54i4mohrb.cloudfront.net
 daq0d0aotgq0f.cloudfront.net
 dashboard-lib-ln-2.net.daraz.com
 data-print-mo.net.daraz.com
@@ -1767,7 +1765,6 @@ emea.wf.com
 emetrics.bose.com
 emng.libero.it
 encoderfarmstatsnew.servicebus.windows.net
-encoding.ovh
 endljp.dariknews.bg
 endljp.gong.bg
 endljp.kupujemprodajem.com
@@ -2152,7 +2149,6 @@ gotoaws.dresslily.com
 gotoaws.rosegal.com
 gotoaws.zaful.com
 gotoexp.dresslily.com
-graftpool.ovh
 gramombird.com
 green-griffin-860.appspot.com
 grow1maid.com
@@ -2199,7 +2195,6 @@ herb7calk.com
 hermes.theglobeandmail.com
 hfd.bridgetowermedia.com
 hhbxcs.tylko.com
-hide.ovh
 hikmxb.botovo.cz
 hims1nice.com
 hipaa-p01.releasetesting.eloqua.com
@@ -3445,7 +3440,6 @@ ned.itv.com
 net.haier.com
 net1.coolsailing.com
 netc.sfr.fr
-never.ovh
 news.bpost.be
 news.cmatcherlink.com
 news.dailyreporter.com
@@ -3459,7 +3453,6 @@ newsletter.bcautoencheres.fr
 newsletter.davey.com
 newsletters.bancsabadell.com
 nexioniect.com
-nexttime.ovh
 nice3aiea.com
 nil.naver.com
 ninja.akamaized.net
@@ -5988,7 +5981,6 @@ tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
 tracker.iltrovatore.it
-tracker.iqnomy.com
 tracker.jawcloud.co
 tracker.keywordintent.com
 tracker.marinsoftware.com
@@ -6355,6 +6347,7 @@ try.abtasty.com
 tsa.taxslayer.com
 tshuxi.bbqguys.com
 tsj0.madeindesign.com
+tspmagic.tumblr.com
 tst14netreal.com
 tst16infra.com
 ttauri.bikeperfect.com
