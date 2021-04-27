@@ -3584,6 +3584,7 @@ logs-api.shoprunner.com
 logsbin.dantri.com.vn
 logs.dashlane.com
 log.seekda.com
+logservice1.hicloud.com
 logservice.hicloud.com
 logs.gaana.com
 logs.ggweb.nl
