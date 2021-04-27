@@ -364,6 +364,7 @@ analytic.imlive.com
 analytic.underarmour.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
+analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
@@ -500,6 +501,7 @@ analytics.photorank.me
 analytics.piksel.com
 analytics.plex.tv
 analytics.pnc.com
+analytics.pointdrive.linkedin.com
 analytics.posttv.com
 analytics.prezly.com
 analytics.prod.aws.ecnext.net
@@ -515,6 +517,7 @@ analytics.redlink.com.ar
 analytics.reyrey.net
 analytics.rogersmedia.com
 analytics.salesanalytics.io
+analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.schoolwires.com
 analytics.shareaholic.com
@@ -801,6 +804,7 @@ bhawtp.vitacost.com
 bhu9.bankia.es
 bhwkju.vivo.com
 bidder.mediams.mb.softbank.jp
+bigdata.ssp.samsung.com
 billingcisco-capwap-controller.net.daraz.com
 binarybusiness.de
 bis-dic15.com
@@ -2389,6 +2393,7 @@ insights.ddiworld.com
 insights.frenchtogether.com
 insights.prophet.com
 insights.radiometer.com
+insights.samsung.com
 insitez.blob.core.windows.net
 instore.pagomeno.it
 insurance.thehullgroup.com
@@ -2704,6 +2709,7 @@ log.targetpush.co.kr
 log.webnovel.com
 log.wilmaa.com
 log000.goo.ne.jp
+logbak.hicloud.com
 logg.kiwi.com
 logger.kataweb.it
 logger.nerdwallet.com
@@ -2734,6 +2740,7 @@ logs.spilgames.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
 logsbin.dantri.com.vn
+logservice.hicloud.com
 logstat.caixin.com
 logx.mtime.cn
 logx.mtime.com
@@ -3019,6 +3026,7 @@ metric.volkswagen.com
 metric.worldcat.org
 metric.yellowpages.com
 metrics-api.librato.com
+metrics-dra.dt.hicloud.com
 metrics.aa.com
 metrics.aarp.org
 metrics.accuweather.com
@@ -3159,6 +3167,7 @@ metrics.homes.com
 metrics.hoovers.com
 metrics.hrblock.com
 metrics.hyundaiusa.com
+metrics.icloud.com
 metrics.iconfitness.com
 metrics.ilovematlab.cn
 metrics.imvu.com
@@ -3201,6 +3210,7 @@ metrics.moneymart.ca
 metrics.motortrend.com
 metrics.myprime.com
 metrics.mysanantonio.com
+metrics.mzstatic.com
 metrics.nationwide.co.uk
 metrics.nba.com
 metrics.necn.com
@@ -3350,6 +3360,7 @@ mile0tire.com
 mine.nahnoji.cz
 minerad.com
 minerva.healthcentral.com
+mistat.xiaomi.com
 mit.db.com
 mit.dws.com
 mit.dws.de
@@ -5185,6 +5196,7 @@ stat.wolterskluwer.com
 stat.wolterskluwer.pl
 stat.wolterskluwer.pt
 stat.xhamsterpremium.com
+stat.xiaomi.com
 stat.zol.com.cn
 statdb.pressflex.com
 states.newegg.ca
@@ -5606,6 +5618,7 @@ supplychain.kinaxis.com
 support.flex.com
 support2.flex.com
 supportfreya.net.daraz.com
+supportmetrics.apple.com
 survey.interquest.com
 surveys.cnet.com
 sut.dailyfx.com
@@ -6132,6 +6145,7 @@ tracking.menamarketplace.com
 tracking.mhealthintelligence.com
 tracking.military.com
 tracking.mindshare.de
+tracking.miui.com
 tracking.mobile.de
 tracking.monsido.com
 tracking.motorolasolutions.com
