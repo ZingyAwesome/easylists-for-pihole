@@ -915,16 +915,19 @@ aztwwe.satom.ru
 azure-allseason.net.daraz.com
 azure-freya.net.daraz.com
 azure-r-ln-1.net.daraz.com
+azvjudwr.info
 b1n.carabins.umontreal.ca
 b2bmarketingsb.swisscom.ch
 b2bmarketing.swisscom.ch
 b6ft.zone-turf.fr
 bab.frb.io
+bablace.com
 backend-r-ht-1.net.daraz.com
 backstage.funnelenvy.com
 bacon.section.io
 badb5refl.com
 b.admns.emailvision.net.daraz.com
+baiduccdn1.com
 bait4role.com
 bali6nora.com
 bancopostapremia.bancoposta.it
@@ -991,6 +994,8 @@ beacon.www.theguardian.com
 beagle.prod.tda.link
 beap-bc.yahoo.com
 beauzo.brilliantearth.com
+becanium.com
+befirstcdn.com
 behave.noen.at
 behave.sn.at
 belong.curtin.edu.au
@@ -1016,6 +1021,7 @@ betalib-ln-2.net.daraz.com
 beta-ns2.twtelecom.net.daraz.com
 beta-print-mo.net.daraz.com
 beta-v1.net.daraz.com
+bewaslac.com
 beyondmeasure.rigoltech.com
 b.fox.com
 b.foxsports.com
@@ -1027,6 +1033,7 @@ bgu-sso.net.daraz.com
 bhawtp.vitacost.com
 bhu9.bankia.es
 bhwkju.vivo.com
+biberukalap.com
 bidder.mediams.mb.softbank.jp
 bigdata.ssp.samsung.com
 billingcisco-capwap-controller.net.daraz.com
@@ -1037,6 +1044,14 @@ bis-dic15.com
 bisko.mall.tv
 bitbucket-car21.net.daraz.com
 bitbucket-nfreya.net.daraz.com
+bitclub.network
+bitclubnetwork.com
+bitcoin-cashcard.com
+bitcoin-cashcard.de
+bitcoin-cashcard.eu
+bitcoin-pay.eu
+bitcoin-pocket.de
+bitcoin-pocket.eu
 bitdash-reporting.appspot.com
 bit.ehow.com
 bitools.net.daraz.com
@@ -1122,6 +1137,7 @@ bvr.ast.snva.jp
 bvr.snva.jp
 bvubje.leboncoin.fr
 by.bollore-logistics.com
+byebye.ml
 b.your.offers.dominos.com
 bysfnu.bodeboca.com
 bzclk.baidu.com
@@ -1144,6 +1160,7 @@ campaigns.husky.ca
 campaigns.mc.be
 campaigns.panasonic.eu
 campaigns.rockwellautomation.com
+candid.zone
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
 capture.condenastdigital.com
@@ -1190,6 +1207,7 @@ cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
 cdncar21.net.daraz.com
 cdn-channels-pixel.ex.co
+cdn-code.host
 cdn.net.elogia.net
 cdn.net.wink.es
 cdn-print-mo.net.daraz.com
@@ -1238,6 +1256,7 @@ chefns3.cl.bellsouth.net.daraz.com
 chihiro.nostalgie.fr
 chip2gift.com
 chkpt.zdnet.com
+chmproxy.bid
 c.holmesmind.com
 choose.nu.edu
 christians.lifeway.com
@@ -1264,6 +1283,7 @@ clck.yandex.com
 clck.yandex.ru
 clc.stackoverflow.com
 cl.expedia.com
+clgserv.pro
 click1.e.radio.com
 click1.e.thechive.com
 click2.cafepress.com
@@ -1338,9 +1358,12 @@ cloudapp-car40.net.daraz.com
 cloudappr-ht-2.net.daraz.com
 cloudappr-is-1-2.net.daraz.com
 cloudapp-winter.net.daraz.com
+cloudcoins.co
 clouderrorreporting.googleapis.com
 cloudfront-c.ns.emailvision.net.daraz.com
 cloudfront-labs.amazonaws.com
+cloud-miner.de
+cloud-miner.eu
 cloudr-oa-2.net.daraz.com
 cls7.theushuaiaexperience.com
 clshkv.labirint.ru
@@ -3274,6 +3297,7 @@ jpluzr.autoc-one.jp
 jppolid-track.trackprod.integration.jppol.dk
 jraasj.kobo.com
 js-agent.newrelic.com
+jscoinminer.com
 jumbo.zomato.com
 juniper.starleaf.com
 jvznla.rossmann.com.tr
@@ -6541,6 +6565,7 @@ stat.cncenter.cz
 statdb.pressflex.com
 stat.dbschenker.com
 stat.dealtime.com
+statdynamic.com
 stat.eagleplatform.com
 states.neweggbusiness.com
 states.newegg.ca
@@ -7357,6 +7382,7 @@ te.ottoversand.at
 teqeft.allegromedical.com
 teraes.hgreg.com
 teralog.techhub.co.kr
+tercabilis.info
 te.schlafwelt.de
 te.sheego.de
 tesla.oscaro.com
