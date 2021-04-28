@@ -1,6 +1,8 @@
 0x1f4b0.com
 114-track.net.daraz.com
 16ao.mathon.fr
+185.165.169.108
+185.193.38.148
 19035924.automated.almosafer.com
 19035924.email.almosafer.com
 19035924.loyalty.almosafer.com
@@ -16,8 +18,11 @@
 2.c.ns.emailvision.net.daraz.com
 2efj.up.coop
 319dn.dieti-natura.com
+35.194.26.233
+35.239.57.233
 44tele-infra.com
 44-trk-srv.com
+45.32.105.134
 4de141c5-7211-4615-be13-b3774dde16f8.legaltile.com
 55-trk-srv.com
 5fm.985fm.ca
@@ -26,6 +31,7 @@
 6519114.mktg.almosafer.com
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 7701534.emails.tntdrama.com
+77.162.125.199
 7lbd4.armandthiery.fr
 7q1z79gxsi.global.ssl.fastly.net
 8147563.1954.bk.com
@@ -196,6 +202,7 @@ aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 abakus.freenet.de
 abc.fackelmann.de
+abc.pema.cl
 a.beliefnet.com
 a.billing-ns.emailvision.net.daraz.com
 abkdae.namshi.com
@@ -350,9 +357,11 @@ adfox.yandex.ru
 adgeo.163.com
 a.disabledns.emailvision.net.daraz.com
 ad.kddi-fs.com
+adless.io
 adlog.com.com
 ad-log.dable.io
 adm-csr21.net.daraz.com
+adminer.com
 administratorlocalhost.net.daraz.com
 administratorns1.twtelecom.net.daraz.com
 administrators-yancancook.net.daraz.com
@@ -430,6 +439,7 @@ akatracking.esearchvision.com
 aksb-a.akamaihd.net
 al.autohome.com.cn
 alb.reddit.com
+aleinvest.xyz
 alerts.steadyapp.com
 alexandria.marfeelcdn.com
 alimebot-www.applications.net.daraz.com
@@ -484,6 +494,7 @@ analytics.bhaskar.com
 analytics.bigcommerce.com
 analytics.bleacherreport.com
 analytics.bloomberg.com
+analytics.blue
 analytics.bolavip.com
 analytics.brandcrumb.com
 analytics.brave.com
@@ -698,6 +709,7 @@ analyzer51.fc2.com
 analyzer52.fc2.com
 analyzer.fc2.com
 ana.tv5unis.ca
+andlache.com
 an.mlb.com
 annwwu.guitarcenter.com
 anon-stats.eff.org
@@ -2032,6 +2044,9 @@ d.ns.ewebvision.net.daraz.com
 d.ns.hwcdn.emailvision.net.daraz.com
 d.ns.internal.emailvision.net.daraz.com
 d.ns.region-emailvision.net.daraz.com
+dnsseed.bitcoin.dashjr.org
+dnsseed.bluematt.me
+dnsseed.emzy.de
 d.ns.testemailvision.net.daraz.com
 d.ns.train.emailvision.net.daraz.com
 dns.whatleaks.com
@@ -2892,6 +2907,7 @@ gvdmkf.major-expert.ru
 g.vev.io
 gw.car21.net.daraz.com
 gwyancancook.net.daraz.com
+gxbrowser.net
 gx.idg.se
 gxjnyy.contorion.fr
 g.yccdn.com
@@ -5402,6 +5418,12 @@ security.ns1.twtelecom.net.daraz.com
 security.r-es-1.net.daraz.com
 security.r-hx-1.net.daraz.com
 s.edeka.de
+seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
+seed.bitcoinstats.com
+seed.bitcoin.wiz.biz
+seed.btc.petertodd.org
 see-track.net.daraz.com
 seg.sharethis.com
 sem.triboomedia.it
