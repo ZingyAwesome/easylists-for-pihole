@@ -508,6 +508,7 @@ analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
 analytics.developer.riotgames.com
+analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.dvidshub.net
 analytics.ecosia.org
