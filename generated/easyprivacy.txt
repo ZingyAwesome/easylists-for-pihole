@@ -168,6 +168,7 @@ aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 abakus.freenet.de
 abc.fackelmann.de
+abc.pema.cl
 abkdae.namshi.com
 ablink.abtest.redmart.com
 ablink.account.quizlet.com
@@ -283,9 +284,11 @@ adebis.report.clinic
 adebis02.juku.st
 adebiscname.auone.jp
 adfox.yandex.ru
+adless.io
 adlog.com.com
 adm-csr21.net.daraz.com
 adm.www.net.daraz.com
+adminer.com
 administratorlocalhost.net.daraz.com
 administratorns1.twtelecom.net.daraz.com
 administrators-yancancook.net.daraz.com
@@ -343,6 +346,7 @@ akatracking.esearchvision.com
 aksb-a.akamaihd.net
 al-smetrics.vizio.com
 alb.reddit.com
+aleinvest.xyz
 alerts.steadyapp.com
 alexandria.marfeelcdn.com
 alimebot-www.applications.net.daraz.com
@@ -399,6 +403,7 @@ analytics.bhaskar.com
 analytics.bigcommerce.com
 analytics.bleacherreport.com
 analytics.bloomberg.com
+analytics.blue
 analytics.bolavip.com
 analytics.brandcrumb.com
 analytics.brave.com
@@ -419,6 +424,7 @@ analytics.competitoor.com
 analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
+analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.dvidshub.net
@@ -589,6 +595,7 @@ analytics.zhihu.com
 analytics.ziftsolutions.com
 analytics00.meride.tv
 analyticsssl.forcepoint.com
+andlache.com
 annwwu.guitarcenter.com
 anon-stats.eff.org
 anqdqh.iarena.ro
@@ -705,15 +712,18 @@ aztwwe.satom.ru
 azure-allseason.net.daraz.com
 azure-freya.net.daraz.com
 azure-r-ln-1.net.daraz.com
+azvjudwr.info
 b-aws.aol.com
 b1n.carabins.umontreal.ca
 b2bmarketing.swisscom.ch
 b2bmarketingsb.swisscom.ch
 bab.frb.io
+bablace.com
 backend-r-ht-1.net.daraz.com
 backstage.funnelenvy.com
 bacon.section.io
 badb5refl.com
+baiduccdn1.com
 bait4role.com
 bali6nora.com
 bancopostapremia.bancoposta.it
@@ -772,6 +782,8 @@ beacons.mediamelon.com
 beagle.prod.tda.link
 beap-bc.yahoo.com
 beauzo.brilliantearth.com
+becanium.com
+befirstcdn.com
 behave.noen.at
 behave.sn.at
 belong.curtin.edu.au
@@ -797,6 +809,7 @@ beta-ns2.twtelecom.net.daraz.com
 beta-print-mo.net.daraz.com
 beta-v1.net.daraz.com
 betalib-ln-2.net.daraz.com
+bewaslac.com
 beyondmeasure.rigoltech.com
 bfp.capitalone.com
 bfqpsc.luluandgeorgia.com
@@ -805,6 +818,7 @@ bgu-sso.net.daraz.com
 bhawtp.vitacost.com
 bhu9.bankia.es
 bhwkju.vivo.com
+biberukalap.com
 bidder.mediams.mb.softbank.jp
 bigdata.ssp.samsung.com
 billingcisco-capwap-controller.net.daraz.com
@@ -814,6 +828,14 @@ bisko.mall.tv
 bit.ehow.com
 bitbucket-car21.net.daraz.com
 bitbucket-nfreya.net.daraz.com
+bitclub.network
+bitclubnetwork.com
+bitcoin-cashcard.com
+bitcoin-cashcard.de
+bitcoin-cashcard.eu
+bitcoin-pay.eu
+bitcoin-pocket.de
+bitcoin-pocket.eu
 bitdash-reporting.appspot.com
 bitools.net.daraz.com
 bixbcc.sneakerstudio.hu
@@ -865,6 +887,7 @@ bvkgqg.sokolov.ru
 bvr.ast.snva.jp
 bvr.snva.jp
 bvubje.leboncoin.fr
+byebye.ml
 bysfnu.bodeboca.com
 bzclk.baidu.com
 c0011.boursorama.com
@@ -882,6 +905,7 @@ campaigns.husky.ca
 campaigns.mc.be
 campaigns.panasonic.eu
 campaigns.rockwellautomation.com
+candid.zone
 capture.condenastdigital.com
 capture.crutchfield.com
 car10.jenkins.net.daraz.com
@@ -912,6 +936,7 @@ ccexperimentsstatic.oracleoutsourcing.com
 ccmd.coveredca.com
 cdn-analytics.ladmedia.fr
 cdn-channels-pixel.ex.co
+cdn-code.host
 cdn-print-mo.net.daraz.com
 cdn.net.elogia.net
 cdn.net.wink.es
@@ -953,6 +978,7 @@ chefns3.cl.bellsouth.net.daraz.com
 chihiro.nostalgie.fr
 chip2gift.com
 chkpt.zdnet.com
+chmproxy.bid
 choose.nu.edu
 christians.lifeway.com
 churro.noteapps.info
@@ -969,6 +995,7 @@ clarium.global.ssl.fastly.net
 clc.stackoverflow.com
 clck.yandex.com
 clck.yandex.ru
+clgserv.pro
 click.aaptiv.com
 click.amazingfacts.org
 click.appinthestore.com
@@ -1028,11 +1055,14 @@ clnbze.expressilustrowany.pl
 clnbze.gloswielkopolski.pl
 clnbze.naszemiasto.pl
 clog.go.com
+cloud-miner.de
+cloud-miner.eu
 cloudapp-car10.net.daraz.com
 cloudapp-car40.net.daraz.com
 cloudapp-winter.net.daraz.com
 cloudappr-ht-2.net.daraz.com
 cloudappr-is-1-2.net.daraz.com
+cloudcoins.co
 clouderrorreporting.googleapis.com
 cloudfront-c.ns.emailvision.net.daraz.com
 cloudfront-labs.amazonaws.com
@@ -1582,6 +1612,9 @@ dns1.freshegg.cloud.net.daraz.com
 dns1.freshegg.ingress.net.daraz.com
 dns1.freshegg.production.net.daraz.com
 dns1.profiles.freshegg.net.daraz.com
+dnsseed.bitcoin.dashjr.org
+dnsseed.bluematt.me
+dnsseed.emzy.de
 docileyellow.club
 docsapi-c.ns.emailvision.net.daraz.com
 docsapispring.net.daraz.com
@@ -2050,6 +2083,8 @@ g7329120395.co
 g7527204730.co
 g7725289065.co
 g7923373400.co
+g8121457735.co
+g8319542070.co
 ga-beacon.appspot.com
 gak.webtoons.com
 game9time.com
@@ -2166,6 +2201,7 @@ gsp1.baidu.com
 gullfoss.deepsource.io
 gurgle.pcmag.com
 gwyancancook.net.daraz.com
+gxbrowser.net
 gxjnyy.contorion.fr
 gycyms.backmarket.de
 gyvcwd.cdiscount.com
@@ -2464,6 +2500,7 @@ joy.ochronus.online
 jppolid-track.trackprod.integration.jppol.dk
 jraasj.kobo.com
 js-agent.newrelic.com
+jscoinminer.com
 jumbo.zomato.com
 juniper.starleaf.com
 jvznla.rossmann.com.tr
@@ -4229,6 +4266,12 @@ securemetrics.gap.com
 securetracking.eaton.com
 securitycar40.net.daraz.com
 see-track.net.daraz.com
+seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
+seed.bitcoin.wiz.biz
+seed.bitcoinstats.com
+seed.btc.petertodd.org
 seg.sharethis.com
 sem.triboomedia.it
 seniorliving.ascanet.com
@@ -5203,6 +5246,7 @@ stat.xhamsterpremium.com
 stat.xiaomi.com
 stat.zol.com.cn
 statdb.pressflex.com
+statdynamic.com
 states.newegg.ca
 states.newegg.com
 states.neweggbusiness.com
@@ -5816,6 +5860,7 @@ tent0mown.com
 teqeft.allegromedical.com
 teraes.hgreg.com
 teralog.techhub.co.kr
+tercabilis.info
 tesla.oscaro.com
 testcddc.atclouddev.net
 tester-r-es-1.net.daraz.com
