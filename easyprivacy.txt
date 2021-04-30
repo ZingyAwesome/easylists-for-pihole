@@ -5123,6 +5123,7 @@ reporting.singlefeed.com
 reporting.theonion.com
 report.meituan.com
 report.mitsubishicars.com
+report.novinky.cz
 report.qq.com
 reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
