@@ -3033,6 +3033,7 @@ hrb1tng0.com
 hrum.hotelsapi.io
 hrwgsq.loesdau.de
 hsasqc.randewoo.ru
+h.seznam.cz
 hspbotdetection.azurewebsites.net
 hthzoa.notino.hu
 htnblk.kansascitysteaks.com
@@ -6437,6 +6438,7 @@ s.sniphub.com
 ssp.hinet.net
 sspkbf.ragtag.jp
 ssp.rambler.ru
+ssp.seznam.cz
 ssrlot.lotoquebec.com
 ssr.streamrail.net
 s.srvsynd.com
