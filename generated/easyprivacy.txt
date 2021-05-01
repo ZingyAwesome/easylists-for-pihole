@@ -4012,6 +4012,7 @@ repopertner.net.jumia.com
 report-zt.allmusic.com
 report.meituan.com
 report.mitsubishicars.com
+report.novinky.cz
 report.qq.com
 reporting.flymonarch.com
 reporting.handll.net
@@ -5065,6 +5066,7 @@ sslstats.canadapost.ca
 ssmr.nuro.jp
 ssp.hinet.net
 ssp.rambler.ru
+ssp.seznam.cz
 sspkbf.ragtag.jp
 ssr.streamrail.net
 ssrlot.lotoquebec.com
