@@ -780,6 +780,7 @@ beacon2.indieclick.com
 beacons.brandads.net
 beacons.mediamelon.com
 beagle.prod.tda.link
+beam.mjhlifesciences.com
 beap-bc.yahoo.com
 beauzo.brilliantearth.com
 becanium.com
