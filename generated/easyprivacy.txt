@@ -3796,6 +3796,7 @@ pixel.naij.com
 pixel.newscgp.com
 pixel.newscred.com
 pixel.newsdiscover.com.au
+pixel.nine.com.au
 pixel.pcworld.com
 pixel.propublica.org
 pixel.prosieben.de
