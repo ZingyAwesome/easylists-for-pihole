@@ -696,6 +696,7 @@ analytics.witglobal.net
 analytics.worldtable.co
 analytics.yahoo.com
 analytics-yancancook.net.daraz.com
+analytics.yext-static.com
 analytics.yolacdn.net
 analytics.yola.net
 analytics.yomedia.vn
@@ -2748,6 +2749,7 @@ g7329120395.co
 g7527204730.co
 g7725289065.co
 g7923373400.co
+g792337340.co
 g8121457735.co
 g8319542070.co
 ga-beacon.appspot.com
@@ -3555,6 +3557,7 @@ livestats.la7.tv
 livestats.matrix.it
 liveviewer.ez.no
 lknqfn.furla.com
+lltrck.com
 l.m.naver.com
 lmvc1.vivatechnology.com
 ln.ameba.jp
