@@ -656,6 +656,7 @@ analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.styria.hr
 analytics.supplyframe.com
+analytics.synedat.com
 analytics.tbs.com
 analytics.tcm.com
 analytics.teamcoco.com
