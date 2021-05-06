@@ -1549,6 +1549,7 @@ cloud-miner.de
 cloud-miner.eu
 cls7.theushuaiaexperience.com
 clshkv.labirint.ru
+cltgtstor001.blob.core.windows.net
 clue6load.com
 clvk.viki.io
 cmap.alibaba.com
@@ -7192,7 +7193,6 @@ somniture.faucetdirect.com
 somniture.lightingdirect.com
 somniture.scotiabank.com
 somniture.stuff.co.nz
-somniture.theglobeandmail.com
 somniture.ventingpipe.com
 somni.vikingrivercruises.com
 somnivis.overstock.com
@@ -8251,7 +8251,6 @@ tantrumall.club
 t.ao.argyleforum.com
 t.appsflyer.com
 targeting..arcpublishing.com
-targeting.perso.aws.arc.pub
 targeting.voxus.tv
 target.mirtesen.ru
 target.mixi.media
