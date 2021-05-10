@@ -7059,6 +7059,7 @@ smetrics.rexulti.com
 smetrics.roche.de
 smetrics.roger.ai
 smetrics.ryanhomes.com
+smetrics.samsung.com
 smetrics.scarboroughtoyota.ca
 smetrics.sce.com
 smetrics.seasearcher.com
