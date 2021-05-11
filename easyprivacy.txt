@@ -754,6 +754,7 @@ analytics.dvidshub.net
 analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
+analytics.eggoffer.com
 analytics.eip.telegraph.co.uk
 analytics.elx.cloud
 analyticsengine.s3.amazonaws.com
