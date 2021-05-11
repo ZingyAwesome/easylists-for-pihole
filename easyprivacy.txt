@@ -839,6 +839,7 @@ analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.paddle.com
+analytics.pagefly.io
 analytics.performable.com
 analytics.pgatour.com
 analytics.photorank.me
