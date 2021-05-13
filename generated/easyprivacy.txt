@@ -557,6 +557,7 @@ analyticcdn.globalmailer.com
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
+analytics-proxy.springboard.com
 analytics-rhwg.rhcloud.com
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
