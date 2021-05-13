@@ -856,6 +856,7 @@ analytics.prod.ori.hayneedle.com
 analytics-production.hapyak.com
 analytics.productreview.com.au
 analytics.proxer.me
+analytics-proxy.springboard.com
 analytics.qualityunit.com
 analytics.radiatemedia.com
 analytics.rambla.be
