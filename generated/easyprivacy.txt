@@ -624,6 +624,7 @@ analytics.eggoffer.com
 analytics.eip.telegraph.co.uk
 analytics.elx.cloud
 analytics.erepublic.com
+analytics.faceitanalytics.com
 analytics.favcy.com
 analytics.filiotech.com
 analytics.fnbfremont.com
@@ -6376,6 +6377,7 @@ stats.pri.org
 stats.proff.no
 stats.propublica.org
 stats.pselookup.vrymel.com
+stats.pstream.net
 stats.pusher.com
 stats.qawl.app
 stats.qbitstore.nl
