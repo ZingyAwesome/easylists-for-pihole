@@ -747,6 +747,7 @@ analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
 analytics.data.lloydsbankinggroup.com
+analytics.designspiration.com
 analytics.developer.riotgames.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
@@ -5899,7 +5900,6 @@ pam.nextinpact.com
 pampopholf.com
 pan.render.com
 pa.opqr.co
-pap.qualityunit.com
 pap.zalando.de
 partner.cynapse.com
 partner.haru-shop.jp
