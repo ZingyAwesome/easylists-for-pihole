@@ -4066,6 +4066,7 @@ logs.ggweb.nl
 logs.hotstar.com
 log.snapdeal.com
 logs.naukri.com
+logs.psm.wmcdp.io
 logs.ptable.com
 logs-qos.tf1.fr
 logs.spilgames.com
