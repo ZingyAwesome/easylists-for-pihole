@@ -613,6 +613,7 @@ analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
+analytics.designspiration.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
@@ -4809,7 +4810,6 @@ pagesocket.glam.com
 pam.nextinpact.com
 pampopholf.com
 pan.render.com
-pap.qualityunit.com
 pap.zalando.de
 partner.cynapse.com
 partnermktg.symantec.com
