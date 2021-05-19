@@ -550,6 +550,7 @@ analysis.shinobi.jp
 analytic.ae.com
 analytic.cibc.com
 analytic.imlive.com
+analytic.rollout.io
 analytic.surfline.com
 analytic.underarmour.com
 analytic20.detik.com
@@ -3205,6 +3206,7 @@ logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
 logs.naukri.com
+logs.psm.wmcdp.io
 logs.ptable.com
 logs.spilgames.com
 logs.thebloggernetwork.com
@@ -5033,6 +5035,7 @@ preferences.acspubs.org
 presentationtracking.netflix.com
 prism.noordermeer.ch
 prism.pandora.tv
+privacy.outdoorsg.com
 proac.nationwide.com
 proactive.base.de
 processor.asccommunications.com
@@ -6370,6 +6373,7 @@ stats.personalkollen.se
 stats.piaggio.com
 stats.pixify.net
 stats.planillaplus.com
+stats.podcastwebsites.com
 stats.polldaddy.com
 stats.portabella.io
 stats.premiumsim.de
