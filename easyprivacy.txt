@@ -1791,6 +1791,7 @@ counter.packa2.cz
 counter.people.cn
 counter.photopulse.ru
 counter.pixplug.in
+counter.plos.org
 counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
