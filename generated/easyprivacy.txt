@@ -500,7 +500,6 @@ advtek.actonservice.com
 adxwxw.kp.ru
 aelsth.azerty.nl
 aem-collector.daumkakao.io
-aevents.izooto.com
 affilate.hh.ru
 affiliate.iamplify.com
 affiliate.resellerclub.com
@@ -601,6 +600,7 @@ analytics.carambatv.ru
 analytics.carambo.la
 analytics.ceneo.pl
 analytics.chase.com
+analytics.chegg.com
 analytics.churchthemes.com
 analytics.cibc.com
 analytics.cibcrewards.com
@@ -2171,7 +2171,6 @@ events.demoup.com
 events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
-events.izooto.com
 events.jora.com
 events.jotform.com
 events.matterport.com
@@ -2197,7 +2196,6 @@ ever-track-51.com
 evhkrh.biory.kr
 evisit.exeter.ac.uk
 evnt.iol.it
-evt.izooto.com
 ewfrnd.stockmann.ru
 exbujk.glamood.com
 exd4.destinia.com.au
