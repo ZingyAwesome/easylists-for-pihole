@@ -792,6 +792,7 @@ analytics.us.archive.org
 analytics.valheimgamer.com
 analytics.valiuz.com
 analytics.vanillaforums.com
+analytics.vdo.ai
 analytics.vendemore.com
 analytics.verizon.com
 analytics.verizonwireless.com
@@ -3137,6 +3138,7 @@ loans.opportunityfund.org
 loc.rediff.com
 localads-statistics.maps.me
 localbeige.club
+log-api.newrelic.com
 log.aimtell.com
 log.bitauto.com
 log.china.cn
