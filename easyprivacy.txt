@@ -472,6 +472,7 @@ ablink.track.timhortons.com
 ablink.transactions.earnin.com
 ablink.watch.br.live
 ablink.your-way.bk.com
+ab-machine.forbes.com
 abmail2.e.hungryjacks.com.au
 abo.schibsted.no
 absinfo.eagle.org
