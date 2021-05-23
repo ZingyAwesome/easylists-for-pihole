@@ -651,6 +651,7 @@ ai.iol.io
 aikrir.lcwaikiki.com
 ai.mist.com
 aip.actonservice.com
+air.audioeye.com
 ai.thermo.com
 a.jaz-hotel.com
 ajbeqy.delfi.lt
@@ -866,6 +867,7 @@ analytics.rambla.be
 analytics.ramiyer.io
 analytics.ramiyer.me
 analytics.ratioform.it
+analytics.realestate.com.au
 analytics.rechtslupe.org
 analytics.recruitics.com
 analytics.redlink.com.ar
@@ -1135,6 +1137,7 @@ b6ft.zone-turf.fr
 bab.frb.io
 bablace.com
 backstage.funnelenvy.com
+bacon.getcarro.com
 bacon.section.io
 badb5refl.com
 b.aecf.org
@@ -5961,6 +5964,7 @@ petitionermaster.appspot.com
 petjue.lcwaikiki.ru
 peuzhq.bookspot.be
 pevftg.shopee.sg
+pexa.realestate.com.au
 p.eyebuydirect-cmr.net
 p.fairspot.host
 pfdqxv.bibloo.ro
@@ -6166,6 +6170,7 @@ prd-collector-auth.playbuzz.com
 prd-collector-platform.ex.co
 preferences.acspubs.org
 presentationtracking.netflix.com
+prf.vagnt.com
 prism.noordermeer.ch
 prism.pandora.tv
 privacy-api.9gag.com
