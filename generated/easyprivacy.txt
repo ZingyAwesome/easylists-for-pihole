@@ -290,6 +290,7 @@ aas.neom.com
 aas.visitsaudi.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
+ab-machine.forbes.com
 abakus.freenet.de
 abc.fackelmann.de
 abc.pema.cl
@@ -521,6 +522,7 @@ aidsro.ostin.com
 aiea6gaza.com
 aikrir.lcwaikiki.com
 aip.actonservice.com
+air.audioeye.com
 ajbeqy.delfi.lt
 akatracking.esearchvision.com
 aksb-a.akamaihd.net
@@ -724,6 +726,7 @@ analytics.rambla.be
 analytics.ramiyer.io
 analytics.ramiyer.me
 analytics.ratioform.it
+analytics.realestate.com.au
 analytics.rechtslupe.org
 analytics.recruitics.com
 analytics.redlink.com.ar
@@ -925,6 +928,7 @@ b2bmkt.lge.co.kr
 bab.frb.io
 bablace.com
 backstage.funnelenvy.com
+bacon.getcarro.com
 bacon.section.io
 badb5refl.com
 baiduccdn1.com
@@ -1623,6 +1627,7 @@ d2p3zdq8vjvnxd.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
+d2t77mnxyo7adj.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
@@ -4861,6 +4866,7 @@ petitionermaster.appspot.com
 petjue.lcwaikiki.ru
 peuzhq.bookspot.be
 pevftg.shopee.sg
+pexa.realestate.com.au
 pfdqxv.bibloo.ro
 pgs.farmprogress.com
 pgxnae.dailysteals.com
@@ -5034,6 +5040,7 @@ prd-collector-auth.playbuzz.com
 prd-collector-platform.ex.co
 preferences.acspubs.org
 presentationtracking.netflix.com
+prf.vagnt.com
 prism.noordermeer.ch
 prism.pandora.tv
 privacy.outdoorsg.com
