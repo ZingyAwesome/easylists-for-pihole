@@ -1666,6 +1666,7 @@ data-ssl.stepstone.fr
 data-ssl.stepstone.nl
 data.adlermode.com
 data.alexa.com
+data.beop.io
 data.circulate.com
 data.collectandgo.be
 data.collishop.be
@@ -6529,6 +6530,7 @@ sts.papyrs.com
 study.vu.edu.au
 style.onvz.nl
 sub1.cosmosdirekt.de
+substation.confection.io
 success.catman.global
 success.vertigis.com
 sucmetrics.hypovereinsbank.de
