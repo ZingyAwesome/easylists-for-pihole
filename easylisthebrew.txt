@@ -3,7 +3,6 @@ adserv.mako.co.il
 ads.one.co.il
 alipim.net
 a.walla.co.il
-banners.bizportal.co.il
 banners.news1.co.il
 exposeboxwallashops.blob.core.windows.net
 fringantlarn8.live
