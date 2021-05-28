@@ -3048,6 +3048,7 @@ licensing.bitmovin.com
 licensinginsights.ascap.com
 lift.acquia.com
 lilb2.shutterstock.com
+limone.iltrovatore.it
 link.admin.kodakmoments.com
 link.alerts.busuu.app
 link.automated.almosafer.com
