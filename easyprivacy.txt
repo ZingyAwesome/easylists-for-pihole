@@ -6055,6 +6055,7 @@ pixel.staging.tree.com
 pixel-static.spotify.com
 pixel.tree.com
 pixel.tuko.co.ke
+pixel.videohub.tv
 pixel.widgetly.com
 pixel.wp.com
 pixel.wp.pl
@@ -9699,6 +9700,7 @@ yzzqza.vanillashu.co.kr
 z0uolej1qnxzub1.info
 zam.nextinpact.com
 zbrfde.ozmall.co.jp
+z.cdp-dev.cnn.com
 zdbbqb.mancrates.com
 zdldqo.pens.com
 zelten.fritz-berger.de
