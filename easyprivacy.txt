@@ -8663,6 +8663,7 @@ tracking.conduit.com
 tracking.cspire.com
 tracking.customerly.io
 tracking.diet.mayoclinic.org
+tracking.drum.io
 tracking.dsmmadvantage.com
 tracking.ecookie.fr
 tracking.edb.gov.sg
