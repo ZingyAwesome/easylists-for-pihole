@@ -8261,6 +8261,7 @@ tagm.tchibo.de
 tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
+tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
