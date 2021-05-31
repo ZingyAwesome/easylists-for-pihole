@@ -1879,6 +1879,7 @@ dnsseed.emzy.de
 doagpm.promart.pe
 docileyellow.club
 doja.worten.es
+doppler-reporting.cbsivideo.com
 dot-stat.radikal.ru
 doug1izaerwt3.cloudfront.net
 download.dnvgl.com
@@ -2232,6 +2233,8 @@ eyc-marketing.eyc.com
 eymiwj.cancan.ro
 eymiwj.prosport.ro
 f-emc.ngsp.gov.vn
+f-log-at.grammarly.io
+f-log-test.grammarly.io
 f0nn.oney.fr
 f1tbit.com
 f7ds.liberation.fr
@@ -6680,6 +6683,7 @@ tagcommander.laredoute.co.uk
 tagger.ope.scmp.com
 tagger.opecloud.com
 tagm.tchibo.de
+tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
