@@ -3887,7 +3887,6 @@ lgm.averydennison.com
 lg.tr.pandora.tv
 lh.secure.yahoo.com
 library.westernstatescat.com
-licensing.bitmovin.com
 licensinginsights.ascap.com
 lift.acquia.com
 lilb2.shutterstock.com
@@ -6779,6 +6778,7 @@ seniorliving.seasonsretirement.com
 seniorliving.sinairesidences.com
 seniorliving.theridgeseniorliving.com
 seniorliving.villageshalom.org
+sentry.arc.io
 serv1swork.com
 servcliente.marathon-sports-ec.com
 servedby.o2.co.uk
