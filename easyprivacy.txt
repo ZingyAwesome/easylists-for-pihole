@@ -1390,7 +1390,6 @@ cbs.wondershare.com
 cbtpzx.merrjep.al
 cc.conforama.es
 ccexperimentsstatic.oracleoutsourcing.com
-c.cloudwp.io
 ccmd.coveredca.com
 cc.swiftype.com
 cct2.o2online.de
@@ -1560,6 +1559,7 @@ cloudfront-labs.amazonaws.com
 cloudhosting.actonservice.com
 cloud-miner.de
 cloud-miner.eu
+cloudwp.io
 cls7.theushuaiaexperience.com
 clshkv.labirint.ru
 cltgtstor001.blob.core.windows.net
@@ -7703,7 +7703,6 @@ stats.christianpost.com
 stats.clear-media.com
 stats.clickability.com
 stats.clickforknowledge.com
-stats.cloudwp.io
 stats.cmcigroup.com
 stats.code-it-studio.de
 stats.cohere.so
