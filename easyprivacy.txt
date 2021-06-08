@@ -1566,6 +1566,7 @@ cltgtstor001.blob.core.windows.net
 clue6load.com
 clvk.viki.io
 cmap.alibaba.com
+cm-exchange.toast.com
 c.mgid.com
 cmme.actonservice.com
 cmon.congress.gov
@@ -5636,6 +5637,7 @@ news.thedolancompany.com
 news.valawyersweekly.com
 nexioniect.com
 nfused.eobuv.com.ua
+ngc1.nsm-corp.com
 nginfo.industrialinfo.com
 nhkoze.saneibd.com
 nice3aiea.com
@@ -6560,6 +6562,7 @@ sappmetrics.boostmobile.com
 sappmetrics.sprint.com
 sasc.solidworks.com
 sa.sky.it
+sas.nsm-corp.com
 sa.squareup.com
 sa.tactics.com
 sa.tf1.fr
