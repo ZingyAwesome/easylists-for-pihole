@@ -1275,6 +1275,7 @@ cloudcoins.co
 clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
 cloudhosting.actonservice.com
+cloudwp.io
 cls7.theushuaiaexperience.com
 clshkv.labirint.ru
 cltgtstor001.blob.core.windows.net
@@ -3050,7 +3051,6 @@ lfkesv.seeplaces.com
 lfnzmp.bestdeco.nl
 lgm.averydennison.com
 library.westernstatescat.com
-licensing.bitmovin.com
 licensinginsights.ascap.com
 lift.acquia.com
 lilb2.shutterstock.com
@@ -5488,6 +5488,7 @@ seniorliving.seasonsretirement.com
 seniorliving.sinairesidences.com
 seniorliving.theridgeseniorliving.com
 seniorliving.villageshalom.org
+sentry.arc.io
 serv1swork.com
 service-stat.tbn.ru
 service.charitiesaidfoundation.org.uk
@@ -5532,6 +5533,7 @@ sisdtb.climatempo.com.br
 site-stats.supernotes.app
 site.firstnet.com
 site.johnlewis.com
+site24x7rum.eu
 sitecatalyst.newsamerica.com
 sitecatalyst.work.shiseido.co.jp
 siteinfo.libero.it
@@ -6229,7 +6231,6 @@ stats.cheddar.com
 stats.christianpost.com
 stats.clickability.com
 stats.clickforknowledge.com
-stats.cloudwp.io
 stats.cmcigroup.com
 stats.cohere.so
 stats.console.dev
