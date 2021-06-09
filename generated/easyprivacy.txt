@@ -1281,6 +1281,7 @@ clshkv.labirint.ru
 cltgtstor001.blob.core.windows.net
 clue6load.com
 clvk.viki.io
+cm-exchange.toast.com
 cmap.alibaba.com
 cmme.actonservice.com
 cmon.congress.gov
@@ -2400,6 +2401,7 @@ g8319542070.co
 g8517626405.co
 g8715710740.co
 g8913795075.co
+g9111879410.co
 ga-beacon.appspot.com
 gak.webtoons.com
 game9time.com
