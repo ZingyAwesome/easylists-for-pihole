@@ -2775,6 +2775,7 @@ events.demoup.com
 events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
+events.jokerly.com
 events.jora.com
 events.jotform.com
 events.matterport.com
