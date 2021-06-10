@@ -6132,6 +6132,7 @@ plausible.moncefbelyamani.com
 plausible.notiontweet.app
 plausible.nova.app
 plausible.nubemia.com
+plausible.nuqu.org
 plausible.panic.com
 plausible.phuctm97.com
 plausible.play.date
@@ -6209,6 +6210,7 @@ promos.trustedtours.com
 promotions.stationcasinos.com
 propeller-tracking.com
 prophet.heise.de
+proxy.dzeio.com
 proxypage.msn.com
 prstats.postrelease.com
 prudential.distribution.team.prudential.co.uk
@@ -7682,6 +7684,7 @@ stats.avg.com
 stats.baby-care.de
 stats.bbc.co.uk
 stats.belstonevillage.net
+stats.biblionumericus.fr
 stats.big-boards.com
 stats.bildconnect.de
 stats.binki.es
@@ -7814,6 +7817,7 @@ stats.iscc-system.org
 stats.itsol.it
 stats.itweb.co.za
 stats.ivankahl.com
+stats.jacksellwood.com
 stats.jackwhiting.co.uk
 stats.jansix.at
 stats.jatan.space
@@ -7987,6 +7991,7 @@ stats.stronglifts.com
 stats.studypages.com
 stats.stylight.it
 stats.sublimesecurity.com
+stats.suenicholls.com
 stat.stars.ru
 stats.tazeros.com
 stats.tdameritrade.com
