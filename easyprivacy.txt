@@ -617,6 +617,7 @@ advocacy.ahip.org
 adv-sv-stat.focus.cn
 advtek.actonservice.com
 adxwxw.kp.ru
+a.electerious.com
 aelsth.azerty.nl
 aem-collector.daumkakao.io
 aesus.so-net.ne.jp
@@ -6198,6 +6199,7 @@ prf.vagnt.com
 prism.noordermeer.ch
 prism.pandora.tv
 privacy-api.9gag.com
+privacyfriendly.brainbits.in
 privacy.outdoorsg.com
 proac.nationwide.com
 proactive.base.de
