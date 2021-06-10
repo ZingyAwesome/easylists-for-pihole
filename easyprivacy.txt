@@ -7712,6 +7712,7 @@ stats.clickforknowledge.com
 stats.cmcigroup.com
 stats.code-it-studio.de
 stats.cohere.so
+stats.comovee.com
 stats.console.dev
 stats.contentwritingjobs.com
 stats.coop.dk
@@ -7872,6 +7873,7 @@ stats.nicolabricot.com
 stats.nimiq-network.com
 stats.nodehub.io
 stats.nota.md
+stats.nrcaknights.com
 stats.nymag.com
 stats.olark.com
 stats.onepagelove.com
@@ -8009,6 +8011,7 @@ stats.townnews.com
 statstracker.celebrity-gossip.net
 stats.travel.geek.nz
 stats.tresor.one
+stats.trimbles.ie
 stats.tunt.lv
 stats.twhl.xyz
 stats.twistage.com
@@ -8043,6 +8046,7 @@ stats.x5x.host
 stats.yinyuetai.com
 stats.ynet.co.il
 stats.yourfone.de
+stats.zeitimpuls.at
 stats.zmags.com
 stats.zotabox.com
 statt-collect.herokuapp.com
@@ -9424,6 +9428,7 @@ wa.quarks.de
 wareneingang.edeka.de
 warp.prnewswire.co.uk
 warrenfcu.actonservice.com
+wasp.frenchtogether.com
 wa.sportschau.de
 wass.ihsmarkit.com
 was.stubhub.com
