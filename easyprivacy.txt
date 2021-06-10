@@ -1850,6 +1850,7 @@ cqpmvc.geo.fr
 cqpmvc.programme-tv.net
 cqpmvc.voici.fr
 cqubdd.thisismoney.co.uk
+crayfish.thingelstad.com
 create.unity3d.com
 create.unity.com
 creatives.sunmedia.tv
@@ -2845,8 +2846,10 @@ fahmta.boxrec.com
 fahmta.racefans.net
 fandango.hb-api.omtrdc.net
 fast.forbes.com
+fathom.app.silverbeak.com
 fathom.pixeldrain.com
 fathom.status.im
+fathom.tdvm.net
 fazphz.theiconic.com.au
 fb_servpub-a.akamaihd.net
 fbu8.montecarloluxuryhotels.com
@@ -6169,6 +6172,7 @@ polobook.club
 ponyo.cheriefm.fr
 poor5zero.com
 po.ponant.com
+porpoise.azettl.net
 pos.baidu.com
 postgraduate2.smu.edu.sg
 postgraduate.smu.edu.sg
