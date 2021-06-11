@@ -1533,6 +1533,7 @@ cqpmvc.cuisineactuelle.fr
 cqpmvc.geo.fr
 cqpmvc.voici.fr
 cqubdd.thisismoney.co.uk
+crayfish.thingelstad.com
 create.unity.com
 creatives.sunmedia.tv
 creator.zmags.com
@@ -2246,8 +2247,10 @@ fac.fanucamerica.com
 fahmta.boxrec.com
 fahmta.racefans.net
 fast.forbes.com
+fathom.app.silverbeak.com
 fathom.pixeldrain.com
 fathom.status.im
+fathom.tdvm.net
 fazphz.theiconic.com.au
 fbu8.montecarloluxuryhotels.com
 fbu8.montecarlosbm.com
@@ -5012,6 +5015,7 @@ plausible.moncefbelyamani.com
 plausible.notiontweet.app
 plausible.nova.app
 plausible.nubemia.com
+plausible.nuqu.org
 plausible.panic.com
 plausible.play.date
 plausible.prod.sketch.com
@@ -5038,6 +5042,7 @@ polhvf.bootbarn.com
 polobook.club
 ponyo.cheriefm.fr
 poor5zero.com
+porpoise.azettl.net
 pos.baidu.com
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
@@ -5058,6 +5063,7 @@ prf.vagnt.com
 prism.noordermeer.ch
 prism.pandora.tv
 privacy.outdoorsg.com
+privacyfriendly.brainbits.in
 proac.nationwide.com
 proactive.base.de
 processor.asccommunications.com
@@ -5072,6 +5078,7 @@ promos.trustedtours.com
 promotions.stationcasinos.com
 propeller-tracking.com
 prophet.heise.de
+proxy.dzeio.com
 proxypage.msn.com
 prstats.postrelease.com
 prudential.distribution.team.prudential.co.uk
@@ -6212,6 +6219,7 @@ stats.autohome.com.cn
 stats.avg.com
 stats.bbc.co.uk
 stats.belstonevillage.net
+stats.biblionumericus.fr
 stats.bildconnect.de
 stats.binki.es
 stats.bitban.com
@@ -6237,6 +6245,7 @@ stats.clickability.com
 stats.clickforknowledge.com
 stats.cmcigroup.com
 stats.cohere.so
+stats.comovee.com
 stats.console.dev
 stats.contentwritingjobs.com
 stats.coop.dk
@@ -6327,6 +6336,7 @@ stats.ipmgroup.be
 stats.itsol.it
 stats.itweb.co.za
 stats.ivankahl.com
+stats.jacksellwood.com
 stats.jackwhiting.co.uk
 stats.jansix.at
 stats.jatan.space
@@ -6381,6 +6391,7 @@ stats.nicklafferty.com
 stats.nicolabricot.com
 stats.nodehub.io
 stats.nota.md
+stats.nrcaknights.com
 stats.nymag.com
 stats.olark.com
 stats.onepagelove.com
@@ -6451,6 +6462,7 @@ stats.stronglifts.com
 stats.studypages.com
 stats.stylight.it
 stats.sublimesecurity.com
+stats.suenicholls.com
 stats.tazeros.com
 stats.tdameritrade.com
 stats.technopia.it
@@ -6471,6 +6483,7 @@ stats.topofblogs.com
 stats.townnews.com
 stats.travel.geek.nz
 stats.tresor.one
+stats.trimbles.ie
 stats.tunt.lv
 stats.twhl.xyz
 stats.twistage.com
@@ -6500,6 +6513,7 @@ stats.wwitv.com
 stats.yinyuetai.com
 stats.ynet.co.il
 stats.yourfone.de
+stats.zeitimpuls.at
 stats.zmags.com
 stats.zotabox.com
 stats02.topix.com
@@ -7420,6 +7434,7 @@ was.stubhub.com
 was.vodafone.de
 was.vodafone.ie
 was.vodafone.nl
+wasp.frenchtogether.com
 wass.ihsmarkit.com
 wat.gogoinflight.com
 wats.gogoinflight.com
