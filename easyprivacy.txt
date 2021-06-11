@@ -1208,7 +1208,9 @@ beacon.watch.impress.co.jp
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beagle.prod.tda.link
+beam.giraffe360.com
 beam.mjhlifesciences.com
+beam-ws.giraffe360.com
 beap-bc.yahoo.com
 beaumont.actonservice.com
 becanium.com
