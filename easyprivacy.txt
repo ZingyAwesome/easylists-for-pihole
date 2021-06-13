@@ -2328,6 +2328,7 @@ dw.cnet.com
 dw-eu.com.com
 dwglgp.dunelm.com
 dwh-tracking.it.auth0.com
+d.wi-fi.ru
 dwtpxq.karaca-home.com
 dwtracking.sdo.com
 dxe2.heip.fr
@@ -7674,6 +7675,7 @@ stats2..fdnames.com
 stats2.glamour.com
 stats2.teenvogue.com
 stats2.tune.pk
+stats2.videonow.ru
 stats3.unrulymedia.com
 stats.4travel.jp
 stats.adobe.com
@@ -8498,6 +8500,7 @@ t.menepe.com
 tmgr.ccmbg.com
 tm.jsuol.com.br
 t.mktg.genesys.com
+tms.dmp.wi-fi.ru
 tms.eharmony.ca
 tms.eharmony.co.uk
 tms-st.cdn.ngenix.net
