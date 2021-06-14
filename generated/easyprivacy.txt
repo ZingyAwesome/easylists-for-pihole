@@ -6522,6 +6522,7 @@ stats1x1.kapaza.be
 stats2.glamour.com
 stats2.teenvogue.com
 stats2.tune.pk
+stats2.videonow.ru
 stats3.unrulymedia.com
 statsd.zmags.com
 statse-omtrdc.deka.de
@@ -7191,6 +7192,7 @@ trck.meinprospekt.de
 trck.spoteffects.net
 trckr.nordiskemedier.dk
 trecker.aklamio.com
+tredir.go.com
 tremorhub.com
 trends.newsmaxwidget.com
 trezor.efscle.com
