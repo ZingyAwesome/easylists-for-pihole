@@ -1114,6 +1114,7 @@ audit.303br.net
 audit.macworld.co.uk
 audit.median.hu
 audit.pcadvisor.co.uk
+audit.shaa.it
 authcaptcha.com
 avma.avmaplit.com
 awaps.yandex.net
