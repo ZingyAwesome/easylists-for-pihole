@@ -2017,6 +2017,7 @@ daifez.thebay.com
 da.maif.fr
 da.netease.com
 daq0d0aotgq0f.cloudfront.net
+dash.getsitecontrol.com
 data0.bell.ca
 data1.bell.ca
 data1.sparkasse.at
