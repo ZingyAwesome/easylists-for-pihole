@@ -1664,6 +1664,7 @@ d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 daifez.thebay.com
 daq0d0aotgq0f.cloudfront.net
+dash.getsitecontrol.com
 data-ssl.pnet.co.za
 data-ssl.stepstone.at
 data-ssl.stepstone.be
