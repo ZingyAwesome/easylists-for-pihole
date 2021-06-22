@@ -3647,7 +3647,6 @@ insights.compagnon.com
 insights.frenchtogether.com
 insights.mckimcg.ca
 insights.radiometer.com
-insights.samsung.com
 insights.sitesearch360.com
 insights.sport1.de
 insights.thisisgrow.com
