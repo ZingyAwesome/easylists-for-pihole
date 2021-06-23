@@ -2875,7 +2875,6 @@ insights.compagnon.com
 insights.frenchtogether.com
 insights.mckimcg.ca
 insights.radiometer.com
-insights.samsung.com
 insights.thisisgrow.com
 insitez.blob.core.windows.net
 instore.pagomeno.it
