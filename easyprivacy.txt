@@ -4038,6 +4038,7 @@ log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
 log.f-tra.com
+log.genyt.net
 logger-.dailymotion.com
 logger.kataweb.it
 logger.nerdwallet.com
