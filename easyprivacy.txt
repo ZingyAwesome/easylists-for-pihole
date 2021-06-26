@@ -2791,6 +2791,7 @@ events.jotform.com
 events.matterport.com
 events.medio.com
 events.mywd.com
+events.newsroom.bi
 events.ocdn.eu
 events.onet.pl
 events.practo.com
