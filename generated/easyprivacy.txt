@@ -3172,6 +3172,7 @@ log.cognex.com
 log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
+log.genyt.net
 log.go.com
 log.hiiir.com
 log.hypebeast.com
