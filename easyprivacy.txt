@@ -2799,6 +2799,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.santander.co.uk
 events.shareably.net
 events.sk.ht
 events.splash-screen.net
