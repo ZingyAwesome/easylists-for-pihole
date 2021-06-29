@@ -2201,6 +2201,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.santander.co.uk
 events.shareably.net
 events.sk.ht
 events.split.io
@@ -6917,6 +6918,7 @@ track.ugamezone.com
 track.untd.com
 track.vdo.ai
 track.veedio.it
+track.venatusmedia.com
 track.vscash.com
 track.wattpad.com
 track.wayin.com
