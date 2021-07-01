@@ -1101,6 +1101,7 @@ c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
 cahf4eed.mooo.com
 calmradio.actonservice.com
+camel.headfarming.com
 camisado.actonservice.com
 campaign.amadeus.com
 campaign.bbmbonnier.se
@@ -4652,6 +4653,7 @@ nojnix.solairepratique.com
 nol.yahoo.com
 nom.churchofjesuschrist.org
 nong3bram.com
+noodle.backmarket.io
 nora7nice.com
 nossl.aafp.org
 nossl.kennametal.com
