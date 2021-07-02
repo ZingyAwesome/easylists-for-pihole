@@ -4110,6 +4110,7 @@ logs.thebloggernetwork.com
 log.suchen.de
 log.superweb.ws
 log.suumo.jp
+logs.viadata.store
 logs.vmixcore.com
 log.sv.pandora.tv
 log.tagtic.cn
