@@ -6455,6 +6455,7 @@ rss.tmgrup.com.tr
 rta2.metro.co.uk
 rta2.newzit.com
 rta.dailymail.co.uk
+rt.bunte.de
 rtegbv.jmclaughlin.com
 rt.flix360.com
 rtg-endpoint.global.ssl.fastly.net
