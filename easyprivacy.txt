@@ -8158,6 +8158,7 @@ supertraders.info
 supplychain.kinaxis.com
 support2.flex.com
 support.flex.com
+supportmetrics.apple.com
 suriwl.petsmart.com
 survey.interquest.com
 surveys.cnet.com
@@ -8832,7 +8833,6 @@ tracking.searchmarketing.com
 tracking-secure.csob.cz
 tracking.sezzle.com
 tracking.sharplink.us
-trackingshipment.apple.com
 tracking.shl.com
 tracking.shopstyle.com
 tracking.shoptogether.buy.com
