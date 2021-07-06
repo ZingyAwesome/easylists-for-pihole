@@ -8078,6 +8078,7 @@ stats.zmags.com
 stats.zotabox.com
 statt-collect.herokuapp.com
 stat.tianya.cn
+stat.tiara.daum.net
 stat.tiara.kakao.com
 stat.tildacdn.com
 stat.tvigle.ru
