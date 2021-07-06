@@ -8158,7 +8158,6 @@ supertraders.info
 supplychain.kinaxis.com
 support2.flex.com
 support.flex.com
-supportmetrics.apple.com
 suriwl.petsmart.com
 survey.interquest.com
 surveys.cnet.com
@@ -9680,6 +9679,7 @@ xludzt.alfastrah.ru
 xnbwsp.c-and-a.com
 xnt4.ece.fr
 xoxo5-eng.spankbang.com
+xp.apple.com
 xqtcur.kirklands.com
 xr.shinobi.jp
 xscmzs.tenki.jp
