@@ -1,7 +1,7 @@
 a.blesk.cz
 a.csfd.cz
-a.denik.cz
 adb.azet.sk
+a.denik.cz
 api-exponea.o2.cz
 api-exponea.o2.sk
 bannersector.sector.sk
