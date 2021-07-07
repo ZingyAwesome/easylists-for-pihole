@@ -3259,6 +3259,7 @@ lpa.idx.us
 lpbhnv.nbcbayarea.com
 lpbhnv.nbcchicago.com
 lpbhnv.nbcdfw.com
+lps.qantas.com
 lqpzdi.coppel.com
 lrdnuu.shopee.co.th
 lrtzrm.aufsafari.de
@@ -6183,6 +6184,7 @@ stat.sputnik.ru
 stat.stars.ru
 stat.stheadline.com
 stat.tianya.cn
+stat.tiara.daum.net
 stat.tiara.kakao.com
 stat.tildacdn.com
 stat.tvigle.ru
@@ -7183,7 +7185,6 @@ tracking3.lenovo.com
 trackingapi.cloudapp.net
 trackingcareers.accenture.com
 trackingmms.accenture.com
-trackingshipment.apple.com
 trackla.stackla.com
 tracks.arubamediamarketing.it
 tracksrv.zdf.de
