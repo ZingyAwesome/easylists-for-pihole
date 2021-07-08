@@ -1563,7 +1563,6 @@ ctjfdn.sandals.com
 ctp1.bforbank.com
 ctr-iwb.nmg.de
 ctr-opc.nmg.de
-cts.vresp.com
 cuba7tilt.com
 culliganwaterco.actonservice.com
 cupid.socialblade.com
@@ -6726,7 +6725,6 @@ tags.globo.com
 tags.msnbc.com
 tags.newscgp.com
 tagtracking.vibescm.com
-tagx.nytimes.com
 taldpq.francfranc.com
 tank3pull.com
 tantrumall.club
