@@ -10,7 +10,6 @@
 1bva.societegenerale.fr
 1-cl0ud.com
 1l-hit.mail.ru
-1q2w3.website
 1to1.bbva.com
 2efj.up.coop
 2tty.overstappen.nl
@@ -628,7 +627,6 @@ affiliate.resellerclub.com
 affiliates.genealogybank.com
 affiliates.londonmarketing.com
 affiliates.mgmmirage.com
-affiliates.mozy.com
 affiliates.myfax.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
@@ -721,7 +719,6 @@ analytics-beacon-.amazonaws.com
 analytics.behaheaters.co.uk
 analytics.belgacom.be
 analytics.betterplaces.nl
-analytics.bhaskar.com
 analytics.bigcommerce.com
 analytics.bleacherreport.com
 analytics.bloomberg.com
@@ -831,7 +828,6 @@ analytics.nascar.com
 analytics.navyfederal.org
 analytics.ncaa.com
 analytics.newscred.com
-analytics.ngfiles.com
 analytics.nike.com
 analytics.nordea.com
 analytics.nordea.dk
@@ -880,7 +876,6 @@ analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.schoolwires.com
-analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics-sg.tiktok.com
@@ -1132,7 +1127,6 @@ az693360.vo.msecnd.net
 azg1.emalu-store.com
 azlghw.homyspace.com
 azlyta.immowelt.de
-azvjudwr.info
 b2binfo.canon-europe.com
 b2bmarketingsb2.swisscom.com
 b2bmarketingsb.swisscom.ch
@@ -1338,7 +1332,6 @@ bvr.ast.snva.jp
 bvr.snva.jp
 bxbiwo.beliani.ch
 by.bollore-logistics.com
-byebye.ml
 b.your.offers.dominos.com
 bzclk.baidu.com
 bzlold.machi.to
@@ -1446,7 +1439,6 @@ chevalierusa.actonservice.com
 chiefexecutive.actonservice.com
 chihiro.nostalgie.fr
 chip2gift.com
-chkpt.zdnet.com
 chmproxy.bid
 c.holmesmind.com
 choose.nu.edu
@@ -1560,7 +1552,6 @@ clnbze.naszemiasto.pl
 clnbze.telemagazyn.pl
 clog.go.com
 cloud.aspiresys.com
-cloudcoins.co
 clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
 cloudhosting.actonservice.com
@@ -1633,7 +1624,6 @@ collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
 collector.mazeberry.com
-collector-medium.lightstep.com
 collector.ozeex.com
 collector.pi.spectrum.net
 collector.prod.expedia.com
@@ -1930,11 +1920,9 @@ d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
-d1cerpgff739r9.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
-d1hi41nc56pmug.cloudfront.net
 d1iazwv1n1tsyi.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
@@ -2245,7 +2233,6 @@ discover.zumtobelgroup.com
 distillery.wistia.com
 djibeacon.djns.com
 dj.renren.com
-djtflbt20bdde.cloudfront.net
 dko.vente-unique.nl
 dl1d2m8ri9v3j.cloudfront.net
 dl.benefits.express-scripts.com
@@ -2257,7 +2244,6 @@ dl.meliacloud.com
 dl.orders.express-scripts.com
 dlqycx.zenhotels.com
 dl-stage.zola.com
-dlvkf5067xruv.cloudfront.net
 dl.zola.com
 dm.commentcamarche.net
 dm.journaldunet.com
@@ -2856,7 +2842,6 @@ fahmta.racefans.net
 fandango.hb-api.omtrdc.net
 fast.forbes.com
 fathom.app.silverbeak.com
-fathom.pixeldrain.com
 fathom.status.im
 fathom.tdvm.net
 fazphz.theiconic.com.au
@@ -6091,7 +6076,6 @@ pixel.yola.com
 pixel.zumby.io
 pix.gfycat.com
 pixiedust.buzzfeed.com
-pix.impdesk.com
 pixkny.dressa.com.ua
 pix.nbcuni.com
 pix.revjet.com
@@ -6192,7 +6176,6 @@ postpixel.vindicosuite.com
 postuler.bpost.be
 potatoes.dinomatic.com
 powercount.jswelt.de
-powersearch.us.com
 poxywh.majorano.com.br
 p.pagesjaunes.fr
 pp.promocionesfarma.com
@@ -6786,7 +6769,6 @@ securetracking.eaton.com
 secure.wiley.com
 securite.01net.com
 s.edeka.de
-seed.bitcoin.jonasschnelli.ch
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.bitcoinstats.com
@@ -7665,7 +7647,6 @@ stat.mtv3.fi
 stat.novinky.cz
 stat.nyheter24.se
 stat.ouedkniss.com
-stat.pladform.ru
 stat.ppstream.com
 stat.pravmir.ru
 stat.prawo.pl
@@ -7707,7 +7688,6 @@ stats.biblionumericus.fr
 stats.big-boards.com
 stats.bildconnect.de
 stats.binki.es
-stats.bitban.com
 stats.bitdefender.com
 stats.bitgravity.com
 stats.blogg.se
@@ -7717,7 +7697,6 @@ stats.bmw.de
 stats.bookingbuddy.com
 stats.breadtube.tv
 stats.briskoda.net
-stats.buzzea.com
 stats.c0cc.com
 stats.cardschat.com
 stats.carecredit.com
@@ -8714,7 +8693,6 @@ tracking.drum.io
 tracking.dsmmadvantage.com
 tracking.ecookie.fr
 tracking.edb.gov.sg
-tracking.ehavior.net
 tracking.ehrintelligence.com
 tracking.eloqua.modernize.com
 tracking.email-mandrill.pushd.com
