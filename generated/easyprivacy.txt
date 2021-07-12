@@ -46,6 +46,7 @@
 9735476.test.skyscanner.net
 9857064.hello.spriggy.com.au
 9857064.notice.spriggy.com.au
+a-reporting.nytimes.com
 a02342.andoveradvertiser.co.uk
 a02342.asianimage.co.uk
 a02342.banburycake.co.uk
