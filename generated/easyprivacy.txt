@@ -5786,6 +5786,7 @@ pimpoint.inriver.com
 ping-dot-acp-magento.appspot.com
 ping.cavelab.dev
 ping.dozuki.com
+ping.hashnode.com
 ping.hellobar.com
 ping.hungama.com
 ping.richardtaylor.dev
@@ -6199,6 +6200,7 @@ rqz4.supdigital.fr
 rsc.lepoint.fr
 rss.tmgrup.com.tr
 rta.dailymail.co.uk
+rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
 rtg-endpoint.global.ssl.fastly.net
