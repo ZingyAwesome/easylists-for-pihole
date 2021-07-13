@@ -7114,6 +7114,7 @@ pingback.sogou.com
 ping.cavelab.dev
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
+ping.hashnode.com
 ping.hellobar.com
 ping.hungama.com
 pingjs.qq.com
