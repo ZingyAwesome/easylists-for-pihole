@@ -900,6 +900,7 @@ analytics.kaltura.com
 analytics.kapost.com
 analytics.kraken.com
 analytics.ladmedia.fr
+analytics.laregione.ch
 analytics.linktr.ee
 analytics.live.com
 analytics.livehindustan.com
@@ -9217,6 +9218,7 @@ wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
 wbudyb.motonet.fi
 wcdkff.rueducommerce.fr
+wco.crownpeak.com
 wcs.naver.com
 wdr9.inseec.com
 wdukge.midwayusa.com
