@@ -1975,7 +1975,14 @@ c.mgid.com
 cmme.actonservice.com
 cmon.congress.gov
 cmp.channelpartner.de
+cmp.courrierinternational.com
 cmp.dreamlab.pl
+cmp.finn.no
+cmp.huffingtonpost.fr
+cmp.netzwelt.de
+cmp.nouvelobs.com
+cmp.tek.no
+cmp.telerama.fr
 cms.hardloopaanbiedingen.nl
 cmstool.youku.com
 cmstrendslog.timesnow.tv
