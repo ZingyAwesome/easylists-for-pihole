@@ -1657,6 +1657,7 @@ briefing.actonservice.com
 bright.bncnt.com
 brizxe.dior.com
 brkoev.minfin.com.ua
+browser.mi-img.com
 browser-updater.yandex.net
 brqsxv.bergdorfgoodman.com
 brukernano.actonservice.com
@@ -11577,6 +11578,7 @@ vtrtl.de
 vttics.world.co.jp
 vvaaol.enuygun.com
 vv.ricardo.ch
+vwonwkaqvq-a.global.ssl.fastly.net
 vybbem.mk.ru
 vybbem.womanhit.ru
 vyebov.entrenet.jp
