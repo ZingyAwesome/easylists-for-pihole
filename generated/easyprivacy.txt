@@ -1894,6 +1894,7 @@ crm.childrens.com
 crmonline.actonservice.com
 crta.dailymail.co.uk
 crta.metro.co.uk
+cryo.socialblade.com
 cryptotax.efscle.com
 cse3.chausport.com
 csi.gstatic.com
@@ -1915,7 +1916,6 @@ cube-78.com
 cueohf.foroactivo.com
 cueohf.forumpro.fr
 culliganwaterco.actonservice.com
-cupid.socialblade.com
 curated.fieldtest.cc
 custom.plausible.io
 cvhefd.gametech.ru
@@ -3681,6 +3681,7 @@ localads-statistics.maps.me
 localbeige.club
 log-api.newrelic.com
 log.aimtell.com
+log.aliyuncs.com
 log.bitauto.com
 log.china.cn
 log.cizion.com
