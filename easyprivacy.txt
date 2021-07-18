@@ -2493,6 +2493,7 @@ data.netweaver.uk
 datanoticias.prisasd.com
 data.queryly.com
 data.reactandshare.com
+data.segugio.it
 data-ssl.pnet.co.za
 data-ssl.stepstone.at
 data-ssl.stepstone.be
@@ -11931,6 +11932,7 @@ zeus.slader.com
 zfzhwz.hema.nl
 zhihu-web-analytics.zhihu.com
 zion.api.cnn.io
+zio.xcar.com.cn
 zkbyhx.tropicfeel.com
 zkc5.fleurancenature.fr
 zkmvjm.f1news.ru
