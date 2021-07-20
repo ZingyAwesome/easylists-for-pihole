@@ -26,6 +26,7 @@
 35.194.26.233
 35.239.57.233
 3d.shophumanoid.com
+3p-geo.yahoo.com
 44tele-infra.com
 44-trk-srv.com
 45.32.105.134
@@ -940,6 +941,7 @@ analytics.freespee.com
 analytics.gameforge.de
 analytics.gazeta.pl
 analytics.getshogun.com
+analytics.global.sky.com
 analytics.groupe-seb.com
 analytics.gvim.mobi
 analytics.haworth.com
@@ -1108,6 +1110,7 @@ analytics.wildtangent.com
 analytics.winter.ink
 analytics.witglobal.net
 analytics.worldtable.co
+analytics.yahoo.com
 analytics.yext-static.com
 analytics.yolacdn.net
 analytics.yola.net
