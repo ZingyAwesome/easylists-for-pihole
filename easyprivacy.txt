@@ -1378,6 +1378,7 @@ beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
 beacon.viewlift.com
+beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon.wikia-services.com
 beagle.prod.tda.link
