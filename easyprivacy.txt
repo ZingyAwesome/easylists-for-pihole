@@ -1567,7 +1567,6 @@ candid.zone
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
 capture.condenastdigital.com
-capture.crutchfield.com
 care5alea.com
 care.petcureoncology.com
 cargas.actonservice.com
@@ -1601,7 +1600,6 @@ cbs.hb-api.omtrdc.net
 cbsinteractive.hb.omtrdc.net
 cbsnews-dev.hb-api.omtrdc.net
 cbsnews.hb-api.omtrdc.net
-cbs.wondershare.com
 ccbjournal.actonservice.com
 cc.conforama.es
 ccexperimentsstatic.oracleoutsourcing.com
@@ -1621,12 +1619,10 @@ cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
 cdn-code.host
 cdn.net.elogia.net
-cdnstats.tube8.com
 cdn.usefathom.com
 celigo.actonservice.com
 ce.lijit.com
 cellstats.mako.co.il
-cem.hotelsapi.io
 cenonc.bobochicparis.com
 census.misterspex.at
 census.misterspex.ch
@@ -1679,7 +1675,6 @@ cil.isotope.com
 cimage.adobe.com
 c.imedia.cz
 cineplex.hb.omtrdc.net
-c.ipaddress.com
 ci.quickbooks.com
 cisco-eagle.actonservice.com
 ciszhp.finanzfrage.net
@@ -1694,11 +1689,7 @@ clarium.global.ssl.fastly.net
 clark.efscle.com
 classroominc.actonservice.com
 cl.canva.com
-clck.yandex.com
-clck.yandex.ru
-clc.stackoverflow.com
 cleanservices.actonservice.com
-cl.expedia.com
 clgserv.pro
 click1.e.radio.com
 click1.e.thechive.com
@@ -7310,6 +7301,7 @@ radiocanada.hb.omtrdc.net
 radiocanada-stage.hb-api.omtrdc.net
 ramp.purch.com
 rand.com.ru
+rankhit.china.com
 ranking.apis.sankei-digital.co.jp
 rate2self.com
 rat.rakuten.co.jp
