@@ -1329,8 +1329,8 @@ bancopostapremia.bancoposta.it
 banstat.nadavi.net
 barcelo.ingenioustech.biz
 barium.cheezdev.com
-bat.adforum.com
 bat.bing.com
+bat.maydream.com
 bats.video.yahoo.com
 b-aws.aol.com
 bbbb.goace.jp
@@ -1351,25 +1351,18 @@ b.dl.redcrossblood.org
 bdoaustralia.bdo.com.au
 bdt.123rf.com
 bdwblog.eastmoney.com
-beacon-1.newrelic.com
 beacon2.indieclick.com
 beacon.affil.walmart.com
 beacon.aimtell.com
-beacon.ehow.com
 beacon.errorception.com
-beacon.examiner.com
 beacon.flow.io
 beacon.gcion.com
 beacon.gutefrage.net
 beacon.gu-web.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
-beacon.indieclicktv.com
 beacon.livefyre.com
-beacon.lycos.com
-beacon.netflix.com
 beacon.nrholding.net
-beacon.nuskin.com
 beacon.riskified.com
 beacon.rum.dynapis.com
 beacons.brandads.net
@@ -1383,12 +1376,9 @@ beacon.squixa.net
 beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
-beacon.toyota.co.jp
 beacon.viewlift.com
-beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon.wikia-services.com
-beacon.www.theguardian.com
 beagle.prod.tda.link
 beam.giraffe360.com
 beam.mjhlifesciences.com
@@ -1404,7 +1394,6 @@ bellabusinesssolutions.actonservice.com
 bellmedia.hb.omtrdc.net
 belong.curtin.edu.au
 bemarts.club
-bench.uc.cn
 beneficios.davivienda.cr
 beneficios.davivienda.hn
 benn8bord.com
@@ -1426,8 +1415,6 @@ biberukalap.com
 bidder.mediams.mb.softbank.jp
 bigdata.ssp.samsung.com
 b.iheart.southwest.com
-bi.medscape.com
-b.imwx.com
 binarybusiness.de
 binocule21c.merriam-webster.com
 bioanalyticalmarketing.eurofins-info.com
@@ -1443,7 +1430,6 @@ bitcoin-pay.eu
 bitcoin-pocket.de
 bitcoin-pocket.eu
 bitdash-reporting.appspot.com
-bit.ehow.com
 b.itravel.southwest.com
 b.iwanna.southwest.com
 biz1.kddi.com
@@ -1466,9 +1452,7 @@ bmnr.pw
 bmrg.reflected.net
 bmst.pw
 bmuyov.bobbibrown.co.kr
-b.myspace.com
 bmzuyj.nifty.com
-bn.adultempire.com
 bnc.autopass.xyz
 bnr.alza.cz
 bnvsjg.hometogo.de
@@ -1478,6 +1462,7 @@ bolt8snap.com
 bonsai.internetbrands.com
 boomerang.dell.com
 boqufs.2nn.jp
+boredcrown.com
 bosetoo.club
 box.bossdata.be
 bpcwde.mall.cz
@@ -1521,7 +1506,6 @@ btrace.video.qq.com
 btstats.devtribu.fr
 budibu.saksfifthavenue.com
 buf.lemonde.fr
-bulb.76.my
 bulkbookstore.actonservice.com
 bulozc.tui.be
 bum7.bymycar.fr
@@ -4609,7 +4593,6 @@ logs.ggweb.nl
 logs.hotstar.com
 log.snapdeal.com
 logs.naukri.com
-logs.psm.wmcdp.io
 logs-qos.tf1.fr
 logs.spilgames.com
 logstat.caixin.com
@@ -6274,6 +6257,7 @@ mhaupz.carpisa.it
 mhidwg.elgiganten.se
 mhlfqc.dressbarn.com
 mhmp.bruker.com
+miao.baidu.com
 microlearning.att.com
 mi-de-ner-nis3.info
 migrati.xyz
@@ -6531,7 +6515,6 @@ nmetrics.samsung.com
 nmiodk.promiflash.de
 nm.newegg.com
 nmo1.orpi.com
-nmtracking.netflix.com
 nnviav.pier1.com
 nnvtvx.chegg.com
 noa0.compteczam.fr
@@ -7034,6 +7017,7 @@ pixel.safe-installation.com
 pixels.boxberry.ru
 pixels.livingsocial.com
 pixel.smartmedia.tj
+pixel.snapsmedia.io
 pixel.solvemedia.com
 pixel.spotify.com
 pixel.sprinklr.com
@@ -7170,7 +7154,6 @@ prd-collector-platform.ex.co
 preference.motorolasolutions.com
 preferences.acspubs.org
 preferences.deloitte.ca
-presentationtracking.netflix.com
 prf.vagnt.com
 pri12mel.com
 primary.hasegawa.jp
@@ -10260,7 +10243,6 @@ t.eharmony.com
 te.heine.de
 teijs.alcampo.es
 telemetrics.klaviyo.com
-telemetry.api.wmcdp.io
 telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
@@ -10330,6 +10312,7 @@ t.hypers.com.cn
 tics.seeker.gg
 tics.techdirt.com
 tilanalytics.timesinternet.in
+tilt.bankofamerica.com
 timeslogtn.timesnow.tv
 timestrends.timesnow.tv
 tim.hb-api.omtrdc.net
