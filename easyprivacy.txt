@@ -2283,7 +2283,6 @@ datafiletechnologies.actonservice.com
 data.glamour.ru
 data.goertz.de
 datag.polo.com
-datagroup-reporting.shopeemobile.com
 data.inbank.it
 data.leipzig.de
 data.lifesize.com
