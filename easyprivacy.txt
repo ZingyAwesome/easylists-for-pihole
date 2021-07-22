@@ -453,6 +453,7 @@ abcotv.hb-api.omtrdc.net
 abcotv.hb.omtrdc.net
 abc.pema.cl
 a.beliefnet.com
+ab.fanatical.com
 ablink.1954.bk.com
 ablink.account.debut.careers
 ablink.account.quizlet.com
@@ -3062,22 +3063,18 @@ eventapi.libring.com
 event-api.reverb.com
 eventcapture03.com
 eventcapture06.com
-event-collector.udsrv.com
 event.dkb.de
 event.edb.gov.sg
 eventgateway.soundcloud.com
 event.getblue.io
 event-listener.air.tv
-eventlogger.soundcloud.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.lp.deloittecomunicacao.com.br
-event-reporting-dot-webylytics.appspot.com
 events.air.tv
 events.apester.com
 events.attentivemobile.com
 events.audiate.me
-events.avantisvideo.com
 events.brightline.tv
 events.chaordicsystems.com
 events.demand.intelsecurity.com
@@ -3087,7 +3084,6 @@ events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
 events.jokerly.com
-events.jora.com
 events.jotform.com
 events.matterport.com
 events.medio.com
@@ -3098,7 +3094,6 @@ events.onet.pl
 events.practo.com
 events.privy.com
 events.realgravity.com
-events.reddit.com
 events.redditmedia.com
 events.santander.co.uk
 events.shareably.net
@@ -3109,16 +3104,15 @@ events.splunk.com
 events.strategic-i.com
 events.tubecup.org
 events.turbosquid.com
-events.uber.com
 events.whisk.com
 event.syndigo.cloud
 events.yourcx.io
 event.webcollage.net
 evergage1.actonservice.com
 ever-track-51.com
-evisit.exeter.ac.uk
 evnt.iol.it
 evrget.nikkan-gendai.com
+evt.houzz.com
 ewfrnd.stockmann.ru
 ewgkjq.deercase.com
 ewscripps.hb.omtrdc.net
@@ -3127,8 +3121,6 @@ ewstv.abcactionnews.com
 exd4.destinia.com.au
 exdmarketing.smu.edu.sg
 execution-ci360.rai.it
-expbl2ro.xbox.com
-expdb2.msn.com
 experience.aifsabroad.com
 experience.contextly.com
 experience.jcu.edu.au
@@ -3185,6 +3177,7 @@ fculcz.joann.com
 fc.vodafone.de
 fdiinc.actonservice.com
 fdnyib.biketiresdirect.com
+fdt.kraken.com
 fear7calk.com
 fec1.optimhome.com
 fedsched.actonservice.com
@@ -3192,7 +3185,6 @@ feed5baby.com
 feed5mown.com
 feedback.vegasgoldenknights.com
 feesocrald.com
-felitb.rightinthebox.com
 f-emc.ngsp.gov.vn
 feqbqn.rent.com
 ffrmwn.musinsa.com
@@ -3264,7 +3256,6 @@ fourmtagservices.appspot.com
 foxentertainment.hb.omtrdc.net
 foxnews.hb.omtrdc.net
 foxsports.hb.omtrdc.net
-fpa-events.arstechnica.com
 fpb8.esce.fr
 fpc.attcenter.com
 fpc.bartlegibson.com
@@ -3295,20 +3286,17 @@ frankwatching.actonservice.com
 frbdzc.goguynet.jp
 frbmdx.fwrd.com
 frdoki.historicalpainting.work
-fresh.techdirt.com
 fresnel-events.vimeocdn.com
 frog9alea.com
 froglytics.eventfrog.ch
 fr.sharpmarketing.eu
 fsbozl.dillards.com
-f.schemeflood.com
 fs-client-logger.herokuapp.com
 fsegfy.lepoint.fr
 fsi.seek.intel.com
 fsm.lapresse.ca
 fsnitg.axelarigato.com
 fsresidential.actonservice.com
-f.staticlp.com
 fsz1.francoisesaget.com
 ftfnews.actonservice.com
 ftn.fortuneo.fr
@@ -3318,7 +3306,6 @@ fudezz.kompas.com
 fudezz.kompasiana.com
 fufoir.aif.ru
 fundraising.centuryresources.com
-funn.graphiq.com
 furnishings.bellacor.com
 fuse.forbes.com
 fusion.bonniertidskrifter.se
@@ -3378,7 +3365,6 @@ g8913795075.co
 g9111879410.co
 gaafbi.fashiondays.hu
 ga-beacon.appspot.com
-ga.canoe.ca
 ga.kvideo.io
 gak.webtoons.com
 game9time.com
@@ -3396,7 +3382,6 @@ g.bitmag.com.br
 g.bit.pt
 gbtracking.finning.com
 gc.newsweek.com
-gcpdata.telegraph.co.uk
 gcwubi.happypancake.fi
 gdm1.toner.fr
 gekko.spiceworks.com
@@ -3454,7 +3439,6 @@ ghdlry.greetz.nl
 gi7a.structube.com
 gia.jd.com
 gift2pair.com
-g.ign.com
 giojhm.finya.de
 g.itespresso.fr
 gjhpwp.skychang.kr
@@ -3472,7 +3456,6 @@ glxdlf.tickets.ua
 glzsji.nordman.ru
 g.mashable.com
 gmonitor.aliimg.com
-g.msn.com
 gmufag.e1.ru
 gmufag.elle.ru
 gmufag.fontanka.ru
@@ -6734,7 +6717,6 @@ onghfx.revolve.com
 onoztg.ultimate-guitar.com
 ooiqvr.bayer.jp
 o.opentable.com
-oops.redditmedia.com
 oor.ooreka.fr
 op-drive-sto.carrefour.fr
 open.delivery.net
