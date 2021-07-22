@@ -1066,8 +1066,8 @@ bancopostapremia.bancoposta.it
 banstat.nadavi.net
 barcelo.ingenioustech.biz
 barium.cheezdev.com
-bat.adforum.com
 bat.bing.com
+bat.maydream.com
 bats.video.yahoo.com
 bbbb.goace.jp
 bbbihe.vertbaudet.es
@@ -1077,23 +1077,16 @@ bcob.uncc.edu
 bdkuth.smartbuyglasses.co.uk
 bdoaustralia.bdo.com.au
 bdwblog.eastmoney.com
-beacon-1.newrelic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
-beacon.ehow.com
 beacon.errorception.com
-beacon.examiner.com
 beacon.flow.io
 beacon.gcion.com
 beacon.gutefrage.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
-beacon.indieclicktv.com
 beacon.livefyre.com
-beacon.lycos.com
-beacon.netflix.com
 beacon.nrholding.net
-beacon.nuskin.com
 beacon.riskified.com
 beacon.rum.dynapis.com
 beacon.searchspring.io
@@ -1105,11 +1098,9 @@ beacon.squixa.net
 beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
-beacon.toyota.co.jp
 beacon.viewlift.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
-beacon.www.theguardian.com
 beacon2.indieclick.com
 beacons.brandads.net
 beacons.mediamelon.com
@@ -1126,7 +1117,6 @@ bellabusinesssolutions.actonservice.com
 bellmedia.hb.omtrdc.net
 belong.curtin.edu.au
 bemarts.club
-bench.uc.cn
 beneficios.davivienda.cr
 beneficios.davivienda.hn
 benn8bord.com
@@ -1148,7 +1138,6 @@ binarybusiness.de
 bis-dic15.com
 bisko.mall.tv
 bismetrics.experian.com
-bit.ehow.com
 bitclub.network
 bitclubnetwork.com
 bitcoin-cashcard.com
@@ -1182,6 +1171,7 @@ bogglecool.club
 bolt8snap.com
 bonsai.internetbrands.com
 boomerang.dell.com
+boredcrown.com
 bosetoo.club
 box.bossdata.be
 bpcwde.mall.cz
@@ -1265,7 +1255,6 @@ campaigns.panasonic.eu
 campaigns.primaverabss.com
 candid.zone
 capture.condenastdigital.com
-capture.crutchfield.com
 care.petcureoncology.com
 care5alea.com
 cargas.actonservice.com
@@ -1289,7 +1278,6 @@ cbcca.hb.omtrdc.net
 cben9a9s1.com
 cbmetrics.clickbank.com
 cbn.hb.omtrdc.net
-cbs.wondershare.com
 cbsdigitalmedia.hb.omtrdc.net
 cbsinteractive.hb.omtrdc.net
 ccbjournal.actonservice.com
@@ -1306,7 +1294,6 @@ cdn1.pebx.pl
 cdn7.baunetz.de
 celigo.actonservice.com
 cellstats.mako.co.il
-cem.hotelsapi.io
 cenonc.bobochicparis.com
 census.misterspex.at
 census.misterspex.ch
@@ -1360,9 +1347,6 @@ clancy.spiceworks.com
 clarium.global.ssl.fastly.net
 clark.efscle.com
 classroominc.actonservice.com
-clc.stackoverflow.com
-clck.yandex.com
-clck.yandex.ru
 cleanservices.actonservice.com
 clgserv.pro
 click.aabacosmallbusiness.com
@@ -3607,7 +3591,6 @@ logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
 logs.naukri.com
-logs.psm.wmcdp.io
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.viadata.store
@@ -5129,6 +5112,7 @@ mhidwg.elgiganten.se
 mhlfqc.dressbarn.com
 mhmp.bruker.com
 mi-de-ner-nis3.info
+miao.baidu.com
 microlearning.att.com
 migrati.xyz
 mile0tire.com
@@ -5244,6 +5228,7 @@ munchkin.marketo.net
 mva1.maeva.com
 mvezin.modernperformance.com
 mwor.gq
+mybbc-analytics.files.bbci.co.uk
 myhome.usg.com
 mypension.efscle.com
 myrfdq.emmi.jp
@@ -5327,7 +5312,6 @@ nmetrics.boostmobile.com
 nmetrics.samsung.com
 nmiodk.promiflash.de
 nmo1.orpi.com
-nmtracking.netflix.com
 nnvtvx.chegg.com
 noa0.compteczam.fr
 noflake-aggregator-http.narvar.com
@@ -5339,6 +5323,7 @@ nong3bram.com
 noodle.backmarket.io
 nora7nice.com
 norm0care.com
+nos.netease.com
 nossl.aafp.org
 nossl.kennametal.com
 notice.hoopladigital.com
@@ -5708,6 +5693,7 @@ pixel.propublica.org
 pixel.prosieben.de
 pixel.roymorgan.com
 pixel.smartmedia.tj
+pixel.snapsmedia.io
 pixel.solvemedia.com
 pixel.spotify.com
 pixel.sprinklr.com
@@ -5822,7 +5808,6 @@ prd-collector-platform.ex.co
 preference.motorolasolutions.com
 preferences.acspubs.org
 preferences.deloitte.ca
-presentationtracking.netflix.com
 prf.vagnt.com
 pri12mel.com
 primary.hasegawa.jp
@@ -5937,6 +5922,7 @@ radar.imgsmail.ru
 radiocanada.hb.omtrdc.net
 ramp.purch.com
 rand.com.ru
+rankhit.china.com
 rat.rakuten.co.jp
 rate2self.com
 rbc.magna.ru
@@ -8302,7 +8288,6 @@ ted.dailymail.co.uk
 ted.metro.co.uk
 teijs.alcampo.es
 telemetrics.klaviyo.com
-telemetry.api.wmcdp.io
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
@@ -8342,6 +8327,7 @@ thomsonreuters.actonservice.com
 tics.seeker.gg
 tics.techdirt.com
 tilanalytics.timesinternet.in
+tilt.bankofamerica.com
 tim.hb.omtrdc.net
 tim.nextinpact.com
 timeslogtn.timesnow.tv
