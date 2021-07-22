@@ -848,6 +848,7 @@ amplify.strategic-i.com
 analitica.webrpp.com
 analy.qq.com
 analyse.bcovery.com
+analyselog.dx.com
 analyse.weather.com.cn
 analysis.shinobi.jp
 analytic20.detik.com
@@ -2319,10 +2320,8 @@ dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dc.allianz.de
 dc.audi.com
-dc.banggood.com
 dcclaa.bunte.de
 dcclaa.daskochrezept.de
-dccss.banggood.com
 dc.letv.com
 dc.plussizetech.com
 dcs.audi.com
@@ -2361,7 +2360,6 @@ degh48.fnac.com
 de.inform.janssenpro.eu
 dejavu.mercadolivre.com.br
 dejpog.sunstar-shop.jp
-deliver.oztam.com.au
 deliver.ptgncdn.com
 delivery.satr.jp
 dell.hb.omtrdc.net
@@ -2424,7 +2422,6 @@ dialogue.mazda.se
 dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
-diamond.transfermarkt.de
 digi.maestro.fi
 digistats.westjet.com
 digistat.westjet.com
@@ -2509,7 +2506,6 @@ dl.benefits.express-scripts.com
 dlesjf.jutarnji.hr
 dl.health-programs.express-scripts.com
 dl.mail.express-scripts.com
-dl.meliacloud.com
 dl.orders.express-scripts.com
 dlpjgh.techport.ru
 dl-stage.zola.com
@@ -2520,7 +2516,6 @@ dm.journaldunet.com
 dmkt.solutions.cas.org
 dm.linternaute.com
 dmpcdn.el-mundo.net
-dmp.marketgid.com
 dmqykw.thirtymall.com
 dmtracking.1688.com
 dn34cbtcv9mef.cloudfront.net
@@ -2587,10 +2582,8 @@ dvo.assurandme.fr
 dvrxgs.fc-moto.de
 dw0c.sfr.fr
 dwbotr.ssg.com
-dw.cnet.com
 dw-eu.com.com
 dwglgp.dunelm.com
-dwh-tracking.it.auth0.com
 d.wi-fi.ru
 dwtracking.sdo.com
 dxe2.heip.fr
@@ -2735,8 +2728,6 @@ education.greatbatch.com
 education.seek.intel.com
 edu-us.schneider-electric.com
 edvaor.estro.ua
-edw.edmunds.com
-eec.crunchyroll.com
 eel.transistor.fm
 e.equuscs.com
 ee.sightful.nl
@@ -2883,7 +2874,6 @@ email.vollrathco.com
 email.wirexapp.com
 emarketing.landisgyr.com
 emarketing.moveo.com
-emarketing.rmauctions.com
 emea.wf.com
 emetrics.bose.com
 emeu0circ.com
@@ -3016,7 +3006,6 @@ erutinmos.snagajob.com
 eservices.lubetech.com
 espn.hb-api.omtrdc.net
 espn.hb.omtrdc.net
-es.puritan.com
 esri.nl.actonservice.com
 essdhn.makuake.com
 es.sharpmarketing.eu
@@ -3127,7 +3116,6 @@ event.webcollage.net
 evergage1.actonservice.com
 ever-track-51.com
 evisit.exeter.ac.uk
-ev.kck.st
 evnt.iol.it
 evrget.nikkan-gendai.com
 ewfrnd.stockmann.ru
@@ -8133,7 +8121,6 @@ site.firstnet.com
 siteinfo.libero.it
 siteintercept.allegiancetech.com
 site.johnlewis.com
-sitelife.ehow.com
 site-stats.supernotes.app
 sit-metrics.nab.com.au
 sit-smetrics.nab.com.au
