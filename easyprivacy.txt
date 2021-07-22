@@ -1869,6 +1869,7 @@ collector.statowl.com
 collector-.tvsquared.com
 collector.xhamster2.com
 collector.xhamster.com
+collector.xhamster.desi
 collect.rewardstyle.com
 collect.state.centrum24.pl
 collect.tianya.cn
