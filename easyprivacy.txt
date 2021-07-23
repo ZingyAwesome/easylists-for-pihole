@@ -833,6 +833,7 @@ alsgaj.chosun.com
 alsgaj.sportschosun.com
 al-smetrics.vizio.com
 als-svc.nytimes.com
+altopd.com
 alwayscare.starmountlife.com
 am.belambra.com
 americanmarketinggroup.actonservice.com
@@ -1038,7 +1039,6 @@ analytics.rogersmedia.com
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
-analytics.schoolwires.com
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics.sejlguide.dk
@@ -1124,7 +1124,6 @@ analytic.underarmour.com
 analyze.full-marke.com
 analyzer2.fc2.com
 analyzer51.fc2.com
-analyzer52.fc2.com
 analyzer.fc2.com
 ana.tv5unis.ca
 an.avast.com
@@ -3388,37 +3387,20 @@ gdm1.toner.fr
 gekko.spiceworks.com
 gemius.mgr.consensu.org
 geobar.ziffdavisinternational.com
-geo.battle.net
-geobeacon.ign.com
 geo.bluedot.io
 geo.emol.cl
 geo.ertya.com
 geo.gfycat.com
 geo.gorillanation.com
-geo.homepage-web.com
-geoip.al.com
 geoip.ativo.com
 geoip.boredpanda.com
-geoip.cleveland.com
-geoip.gulflive.com
 geoip.hmageo.com
 geoip.ifunny.co
-geoip.lehighvalleylive.com
-geoip-lookup.vice.com
-geoip.masslive.com
-geoip.mlive.com
 geoip.nekudo.com
-geoip.nj.com
-geoip.nola.com
-geoip.oregonlive.com
-geoip.pennlive.com
-geoip.silive.com
-geoip.syracuse.com
 geoip.viamichelin.com
 geo.kontagent.net
 geolocation.forbes.com
 geolocation.outreach.com
-geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
 geo.nbcsports.com
@@ -3440,6 +3422,7 @@ ghdlry.greetz.nl
 gi7a.structube.com
 gia.jd.com
 gift2pair.com
+g.ign.com
 giojhm.finya.de
 g.itespresso.fr
 gjhpwp.skychang.kr
@@ -3447,7 +3430,6 @@ gj.mmstat.com
 gjndsa.amaro.com
 gkfdkf.jdsports.co.uk
 gksqfw.reverso.net
-glassmoni.researchgate.net
 glb12pkgr.com
 glb21pkgr.com
 globalbanking.wolterskluwer.com
@@ -3457,6 +3439,7 @@ glxdlf.tickets.ua
 glzsji.nordman.ru
 g.mashable.com
 gmonitor.aliimg.com
+g.msn.com
 gmufag.e1.ru
 gmufag.elle.ru
 gmufag.fontanka.ru
@@ -3619,8 +3602,6 @@ hambtr.unilife.co.jp
 haostat.qihoo.com
 happen.spkt.io
 harm6stop.com
-harvester.eu.square-enix.com
-harvester.hbpl.co.uk
 haxdym.min-breeder.com
 hazy4cant.com
 hbaazk.bukalapak.com
@@ -3633,7 +3614,6 @@ hcdnpe.iareduceri.ro
 hcjpbc.okmagazine.com
 hcjpbc.radaronline.com
 hcjpbc.usmagazine.com
-h.cliphunter.com
 hdicsm.autoscout24.be
 hd.pe.fr
 he6e.lavieimmo.com
@@ -3642,7 +3622,6 @@ health.interamerican.gr
 healthy.spartanburgregional.com
 hear8crew.com
 hearob.klix.ba
-heartbeat.flickr.com
 heat6have.com
 hej.henriksommerfeld.se
 hello.bpost.be
@@ -3653,7 +3632,6 @@ hello.steadyapp.com
 hello.welcome.media
 herb2warn.com
 herb7calk.com
-hermes.theglobeandmail.com
 hero6bell.com
 hevqaz.submarino.com.br
 hfd.bridgetowermedia.com
@@ -3684,7 +3662,6 @@ hits-.iubenda.com
 hit.skrz.cz
 hits.sys.lv
 hits.zdnet.co.kr
-hitweb2.chosun.com
 hiuplq.flashscore.com
 hiuplq.flashscore.nl
 hiuplq.flashscore.ru
@@ -3724,7 +3701,6 @@ hqjuww.kolesa-darom.ru
 hqxbuy.rugs-direct.com
 hrm.healthgrades.com
 hrs.actonservice.com
-hrum.hotelsapi.io
 hruyiq.auction.co.kr
 hsasqc.randewoo.ru
 h.seznam.cz
@@ -3807,17 +3783,12 @@ img.bwin.com
 img.bwin.it
 img.gamebookers.com
 imgstat.baidu.com
-imgtrack.domainmarket.com
-immassets.s3.amazonaws.com
-imonitor.dhgate.com
 imp.ad-plus.cn
 imp.affiliator.com
 imp.go.sohu.com
-imp-media-lab.thenewslens.com
 imp.optaim.com
 imp.pvnsolutions.com
 impress.vcita.com
-imx.comedycentral.com
 imxfck.varusteleka.com
 independence.americanportfolios.com
 infinityid.condenastdigital.com
@@ -10237,6 +10208,7 @@ t.freelancer.com
 tfuodg.memolife.de
 tghbn12.com
 tgtgzo.otelz.com
+tgt.maep.ibm.com
 tgvrfc4.com
 thaqyl.mediamarkt.nl
 theaba.actonservice.com
@@ -10259,6 +10231,7 @@ t.indeed.com
 tippcom01.tipp24.com
 tire1soak.com
 t.itsehoitoapteekki.fi
+t.jobsyn.org
 t.jossandmain.com
 tk.abt.com
 tk.airfrance.ae
@@ -10436,6 +10409,7 @@ track.e7r.com.br
 track.eadv.it
 track.engagesciences.com
 tracker.520call.me
+tracker.adbinead.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.anandtech.com
@@ -10452,6 +10426,7 @@ tracker.cdnbye.com
 tracker.cds-tracking.com
 tracker.cpapath.com
 tracker.data-vp.com
+tracker.digitalcamp.co.kr
 tracker.downdetector.com
 tracker.esputnik.com
 tracker.euroweb.net
