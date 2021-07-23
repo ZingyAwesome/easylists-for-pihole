@@ -613,9 +613,7 @@ act.cwsglobal.org
 actie.milieudefensie.nl
 action.advisorycloud.com
 activation.depop.com
-activities.niagara.comedycentral.com
 activity.asce.org
-activity..miui.com
 act.lanap.com
 act-on.ioactive.com
 act.online.engineering.nyu.edu
@@ -629,6 +627,7 @@ act.soneticscorp.com
 act.wernerelectric.com
 ad1.tone.ne.jp
 ad7.bigmir.net
+ad.aloodo.com
 ad.aucfan.com
 ad.aucview.com
 ad-beacon-v01.uliza.jp
@@ -786,8 +785,8 @@ aetv.hb.omtrdc.net
 a.evergage.com
 a.fdmedia.io
 affilate.hh.ru
-affiliate.iamplify.com
 affiliates.mgmmirage.com
+affiliates.minglematch.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
 aff.kolektiva.net
