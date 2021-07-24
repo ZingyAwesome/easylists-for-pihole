@@ -3053,7 +3053,6 @@ eumeainfo.motorolasolutions.com
 e.unchealthcare.org
 euronewsgroup.hb.omtrdc.net
 eurotax-pl.autovistagroup.com
-event-analytics.yesware.com
 event-api.contactatonce.com
 event-api.contactatonce.com.au
 event-api.contactatonce.co.uk
