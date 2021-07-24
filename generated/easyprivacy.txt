@@ -504,7 +504,6 @@ act.wernerelectric.com
 actie.milieudefensie.nl
 action.advisorycloud.com
 activation.depop.com
-activities.niagara.comedycentral.com
 activity.asce.org
 acton.simpleviewinc.com
 acton.tourismireland.com
@@ -622,8 +621,8 @@ aem.hb.omtrdc.net
 aeromark.actonservice.com
 aetv.hb.omtrdc.net
 affilate.hh.ru
-affiliate.iamplify.com
 affiliates.mgmmirage.com
+affiliates.minglematch.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
 afhjxb.flaconi.de
@@ -656,6 +655,7 @@ alp1.drimki.fr
 als-svc.nytimes.com
 alsgaj.chosun.com
 alsgaj.sportschosun.com
+altopd.com
 alwayscare.starmountlife.com
 americanmarketinggroup.actonservice.com
 americanroller.actonservice.com
@@ -849,7 +849,6 @@ analytics.rogersmedia.com
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
-analytics.schoolwires.com
 analytics.sejlguide.dk
 analytics.shareaholic.com
 analytics.shop.hisense.com
@@ -2368,6 +2367,7 @@ event-api.contactatonce.com.au
 event-api.reverb.com
 event-listener.air.tv
 event.api.drift.com
+event.csdn.net
 event.dkb.de
 event.edb.gov.sg
 event.getblue.io
@@ -2665,14 +2665,12 @@ gcwubi.happypancake.fi
 gdm1.toner.fr
 gekko.spiceworks.com
 gemius.mgr.consensu.org
-geo.battle.net
 geo.bluedot.io
 geo.emol.cl
 geo.ertya.com
 geo.gfycat.com
 geo.gorillanation.com
 geo.kontagent.net
-geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
 geo.nbcsports.com
@@ -2681,25 +2679,11 @@ geo.thehindu.com
 geo.xcel.io
 geo.yahoo.com
 geobar.ziffdavisinternational.com
-geobeacon.ign.com
-geoip-lookup.vice.com
-geoip.al.com
 geoip.ativo.com
 geoip.boredpanda.com
-geoip.cleveland.com
-geoip.gulflive.com
 geoip.hmageo.com
 geoip.ifunny.co
-geoip.lehighvalleylive.com
-geoip.masslive.com
-geoip.mlive.com
 geoip.nekudo.com
-geoip.nj.com
-geoip.nola.com
-geoip.oregonlive.com
-geoip.pennlive.com
-geoip.silive.com
-geoip.syracuse.com
 geoip.viamichelin.com
 geolocation.forbes.com
 geolocation.outreach.com
@@ -2805,7 +2789,6 @@ hambtr.unilife.co.jp
 haostat.qihoo.com
 happen.spkt.io
 harm6stop.com
-harvester.hbpl.co.uk
 hazy4cant.com
 hbaazk.bukalapak.com
 hbolag.hb.omtrdc.net
@@ -2820,7 +2803,6 @@ health.interamerican.gr
 healthy.spartanburgregional.com
 hear8crew.com
 hearob.klix.ba
-heartbeat.flickr.com
 heat6have.com
 hej.henriksommerfeld.se
 hello.bpost.be
@@ -2831,7 +2813,6 @@ hello.steadyapp.com
 hello.welcome.media
 herb2warn.com
 herb7calk.com
-hermes.theglobeandmail.com
 hero6bell.com
 hevqaz.submarino.com.br
 hfd.bridgetowermedia.com
@@ -2854,7 +2835,6 @@ hits.informer.com
 hits.sys.lv
 hits.zdnet.co.kr
 hitserver.ibope.com.br
-hitweb2.chosun.com
 hiuplq.flashscore.com
 hiuplq.flashscore.nl
 hiuplq.flashscore.ru
@@ -2884,7 +2864,6 @@ hphtjv.orellfuessli.ch
 hpr.outbrain.com
 hrm.healthgrades.com
 hrs.actonservice.com
-hrum.hotelsapi.io
 hruyiq.auction.co.kr
 hsasqc.randewoo.ru
 hskmux.canali.com
@@ -2949,15 +2928,11 @@ img.bwin.com
 img.bwin.it
 img.gamebookers.com
 imgstat.baidu.com
-imgtrack.domainmarket.com
-imonitor.dhgate.com
-imp-media-lab.thenewslens.com
 imp.affiliator.com
 imp.go.sohu.com
 imp.optaim.com
 imp.pvnsolutions.com
 impress.vcita.com
-imx.comedycentral.com
 imxfck.varusteleka.com
 independence.americanportfolios.com
 infinityid.condenastdigital.com
@@ -8270,6 +8245,7 @@ text.rahmenvereinbarungen.de
 text6film.com
 tfuodg.memolife.de
 tghbn12.com
+tgt.maep.ibm.com
 tgtgzo.otelz.com
 tgvrfc4.com
 thaqyl.mediamarkt.nl
@@ -8429,6 +8405,7 @@ track2.mycliplister.com
 trackdiscovery.net
 tracker-api.my.com
 tracker-id.cdiscount.com
+tracker.adbinead.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.anandtech.com
@@ -8441,6 +8418,7 @@ tracker.calameo.com
 tracker.cauly.co.kr
 tracker.cdnbye.com
 tracker.cpapath.com
+tracker.digitalcamp.co.kr
 tracker.downdetector.com
 tracker.esputnik.com
 tracker.euroweb.net
@@ -8729,6 +8707,7 @@ trccvt.dhc.co.jp
 trck.meinprospekt.de
 trck.spoteffects.net
 trckr.nordiskemedier.dk
+treatment.grammarly.com
 trecker.aklamio.com
 tredir.go.com
 tremorhub.com
