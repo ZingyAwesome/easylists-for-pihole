@@ -3084,6 +3084,7 @@ events.il.fi
 events.ingatlan.com
 events.jokerly.com
 events.jotform.com
+events.mapbox.com
 events.matterport.com
 events.medio.com
 events.mywd.com
@@ -7186,6 +7187,7 @@ qyuale.depound.com
 qzcxtm.mango.com
 qzwktr.world-fusigi.net
 r1ztni.oui.sncf
+r42tag.com
 r4nds.absorba.com
 raab3frog.com
 radar.imgsmail.ru
