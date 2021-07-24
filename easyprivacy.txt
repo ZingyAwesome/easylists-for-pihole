@@ -3981,7 +3981,6 @@ info.vodafone.com.au
 info.wolterskluwer.de
 ingest.make.rvapps.io
 inqjal.dickssportinggoods.com
-inquiries.redhat.com
 insight.business.hsbc.com
 insight.fonecta.fi
 insight.intrado.com
@@ -3996,11 +3995,8 @@ insitez.blob.core.windows.net
 ins.leavitt.com
 inspire.webfleet.com
 instore.pagomeno.it
-intake-analytics.wikimedia.org
-intelli.ageuk.org.uk
 intelligence.marykay.com
 intelligence.marykayintouch.com
-intent.cbsi.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
 intg.snapchat.com
@@ -4013,7 +4009,6 @@ iobpzo.m-r-c.ru
 iop4.aireuropa.com
 ip2c.landscape.co.jp
 ipapi.tmbi.com
-ip.breitbart.com
 ipcheck.blogsys.jp
 ip.cliphunter.com
 iphufr.circleline.com
@@ -4141,7 +4136,6 @@ khvcux.krisha.kz
 kiki.rireetchansons.fr
 kiks.auto.ru
 kilo6alga.com
-kinesisproxy.hearstlabs.com
 kitchen.juicer.cc
 k.jacadi.co.uk
 k.jacadi.de
@@ -4210,7 +4204,6 @@ kzsicw.chip.de
 kzsicw.fitforfun.de
 kzsicw.focus.de
 kzsicw.tvspielfilm.de
-laas.americanexpress.com
 lacinfo.motorolasolutions.com
 lack4skip.com
 lakerspreferences.gleague.nba.com
@@ -4276,7 +4269,6 @@ lg.tr.pandora.tv
 lgyvfv.nix-wie-weg.de
 liacod.sephora.ru
 lift.acquia.com
-lilb2.shutterstock.com
 limone.iltrovatore.it
 lincolnfinancialgroup.lfg.com
 line6agar.com
@@ -4321,7 +4313,6 @@ link.notifications.busuu.app
 link.notifications.goodu.se
 link.offers.kodakmoments.com
 link.orders.kodakmoments.com
-linkpuls.idg.no
 link.resy.com
 link.ridewithvia.com
 links2.emails.verishop.com
@@ -4424,9 +4415,7 @@ lmnqof.littletoncoin.com
 lmvc1.vivatechnology.com
 ln.ameba.jp
 lntvby.banggood.com
-localads-statistics.maps.me
 localbeige.club
-loc.rediff.com
 log000.goo.ne.jp
 log1.17173.com
 log.51cto.com
@@ -4444,7 +4433,6 @@ log.etoday.co.kr
 log.flight.qunar.com
 log.f-tra.com
 log.genyt.net
-logger-.dailymotion.com
 logger.kataweb.it
 logger.nerdwallet.com
 logger.rm.uol.com.br
@@ -4453,12 +4441,9 @@ logger.uol.com.br
 logger.yp.ca
 loggingapi.spingo.com
 logging.carambo.la
-logging.goodgamestudios.com
 logging.prefixbox.com
 logging.wilmaa.com
 logg.kiwi.com
-loggly.cheatsheet.com
-log.go.com
 log.gs3.goo.ne.jp
 loggychops.paulsmith.site
 log.hiiir.com
@@ -4469,13 +4454,11 @@ log.invodo.com
 log.kibboko.com
 log.ku6.com
 log.kuwo.cn
-loglady.publicbroadcasting.net
 loglady.skypicker.com
 log.mappy.net
 log.mediacategory.com
 log.medietall.no
 log.m.sm.cn
-log.newsvine.com
 log.olark.com
 log.optimizely.com
 log.outbrain.com
@@ -4484,15 +4467,12 @@ log.pinterest.com
 log.plinga.de
 log.popin.cc
 log-.previewnetworks.com
-log.prezi.com
 logql.yahoo.co.jp
-log.quora.com
 log.reformal.ru
 log.ren.tv
 logs.51cto.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
-logs.dashlane.com
 log.seekda.com
 logservice1.hicloud.com
 logservice.hicloud.com
@@ -4551,7 +4531,6 @@ lrtzrm.aufsafari.de
 ls.cartecarburant.leclerc
 ls.e-cartecadeauleclerc.fr
 l.sharethis.com
-lslmetrics.djlmgdigital.com
 l.support.canva.com
 lsv5.belambra.fr
 ltcmak.alodokter.com
