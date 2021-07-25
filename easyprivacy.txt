@@ -4243,6 +4243,7 @@ lchbsv.tesser.ru
 lciapi.ninthdecimal.com
 l.create.canva.com
 lcs.livedoor.net
+lcs.naver.com
 ldckmk.divarese.com.tr
 ldfr-cloud.net
 ldqbuy.sport-express.ru
@@ -4444,6 +4445,7 @@ logging.carambo.la
 logging.prefixbox.com
 logging.wilmaa.com
 logg.kiwi.com
+log.go.com
 log.gs3.goo.ne.jp
 loggychops.paulsmith.site
 log.hiiir.com
