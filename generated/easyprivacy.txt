@@ -2360,7 +2360,6 @@ eultech.fnac.com
 eumeainfo.motorolasolutions.com
 euronewsgroup.hb.omtrdc.net
 eurotax-pl.autovistagroup.com
-event-analytics.yesware.com
 event-api.contactatonce.co.uk
 event-api.contactatonce.com
 event-api.contactatonce.com.au
@@ -2394,6 +2393,7 @@ events.il.fi
 events.ingatlan.com
 events.jokerly.com
 events.jotform.com
+events.mapbox.com
 events.matterport.com
 events.medio.com
 events.mywd.com
@@ -3104,7 +3104,6 @@ infos.telstra.com.au
 infos.vodafone.com.au
 ingest.make.rvapps.io
 inqjal.dickssportinggoods.com
-inquiries.redhat.com
 ins.leavitt.com
 insight.business.hsbc.com
 insight.fonecta.fi
@@ -3117,11 +3116,8 @@ insights.prophet.com
 insitez.blob.core.windows.net
 inspire.webfleet.com
 instore.pagomeno.it
-intake-analytics.wikimedia.org
-intelli.ageuk.org.uk
 intelligence.marykay.com
 intelligence.marykayintouch.com
-intent.cbsi.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
 intg.snapchat.com
@@ -3228,7 +3224,6 @@ khvcux.krisha.kz
 kiki.rireetchansons.fr
 kiks.auto.ru
 kilo6alga.com
-kinesisproxy.hearstlabs.com
 kitchen.juicer.cc
 kkgkpl.suzuki.com.mx
 kkz.net.krankenkassenzentrale.de
@@ -3271,7 +3266,6 @@ kzsicw.fitforfun.de
 kzsicw.focus.de
 kzsicw.tvspielfilm.de
 la-sync.taboola.com
-laas.americanexpress.com
 lacinfo.motorolasolutions.com
 lack4skip.com
 lakerspreferences.gleague.nba.com
@@ -3322,7 +3316,6 @@ lfmhcb.sefamerve.com
 lfuzec.bglen.net
 liacod.sephora.ru
 lift.acquia.com
-lilb2.shutterstock.com
 limone.iltrovatore.it
 lincolnfinancialgroup.lfg.com
 line6agar.com
@@ -3374,7 +3367,6 @@ link.watchbravotv.com
 link.watchoxygen.com
 link.yourway.burgerking.ca
 link5view.com
-linkpuls.idg.no
 links.alerts.depop.com
 links.announce.touchsurgery.com
 links.automated.almosafer.com
@@ -3448,8 +3440,6 @@ lmfjmq.smaryu.com
 lmnqof.littletoncoin.com
 lmvc1.vivatechnology.com
 lntvby.banggood.com
-loc.rediff.com
-localads-statistics.maps.me
 localbeige.club
 log-api.newrelic.com
 log.aimtell.com
@@ -3463,7 +3453,6 @@ log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
 log.genyt.net
-log.go.com
 log.hiiir.com
 log.hypebeast.com
 log.idnes.cz
@@ -3473,7 +3462,6 @@ log.kuwo.cn
 log.mappy.net
 log.mediacategory.com
 log.medietall.no
-log.newsvine.com
 log.olark.com
 log.optimizely.com
 log.outbrain.com
@@ -3481,8 +3469,6 @@ log.outbrainimg.com
 log.pinterest.com
 log.plinga.de
 log.popin.cc
-log.prezi.com
-log.quora.com
 log.reformal.ru
 log.ren.tv
 log.seekda.com
@@ -3505,18 +3491,14 @@ logger.snackly.co
 logger.uol.com.br
 logger.yp.ca
 logging.carambo.la
-logging.goodgamestudios.com
 logging.prefixbox.com
 logging.wilmaa.com
 loggingapi.spingo.com
-loggly.cheatsheet.com
 loggychops.paulsmith.site
 loginlog.sdo.com
-loglady.publicbroadcasting.net
 loglady.skypicker.com
 logql.yahoo.co.jp
 logs-api.shoprunner.com
-logs.dashlane.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
@@ -3555,7 +3537,6 @@ lrjjly.rockler.com
 lrpoland.wolterskluwer.com
 lrrjgo.comfortlab.co.kr
 lrtzrm.aufsafari.de
-lslmetrics.djlmgdigital.com
 lsv5.belambra.fr
 ltcmak.alodokter.com
 ltecrf.dhgate.com
@@ -5845,6 +5826,7 @@ qysknb.fukuishimbun.co.jp
 qyuale.depound.com
 qzcxtm.mango.com
 r1ztni.oui.sncf
+r42tag.com
 r4nds.absorba.com
 raab3frog.com
 radar.imgsmail.ru
