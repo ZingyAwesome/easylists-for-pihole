@@ -3299,6 +3299,7 @@ lcdsyj.daily.co.jp
 lchbsv.tesser.ru
 lciapi.ninthdecimal.com
 lcs.livedoor.net
+lcs.naver.com
 ldckmk.divarese.com.tr
 ldfr-cloud.net
 ldqtdd.peing.net
@@ -3453,6 +3454,7 @@ log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
 log.genyt.net
+log.go.com
 log.hiiir.com
 log.hypebeast.com
 log.idnes.cz
