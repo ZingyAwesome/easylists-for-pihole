@@ -7239,6 +7239,7 @@ repdata.wltx.com
 repdata.wtsp.com
 repdata.wusa9.com
 repdata.wzzm13.com
+reporting.cdndex.io
 reporting.flymonarch.com
 reporting.handll.net
 reporting.singlefeed.com
