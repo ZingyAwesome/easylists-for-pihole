@@ -2364,6 +2364,7 @@ de.inform.janssenpro.eu
 dejavu.mercadolivre.com.br
 dejpog.sunstar-shop.jp
 deliver.ptgncdn.com
+delivery.hunterycity.com
 delivery.satr.jp
 dell.hb.omtrdc.net
 deltafaucet.actonservice.com
@@ -11097,6 +11098,7 @@ tw.i.hulu.com
 t.wizaly.com
 twiz.wizaly.fr
 twoeej.carrefour.fr
+twus-mms.theweek.com
 txeemx.aritaum.com
 txv0.destinia.hu
 tzovkp.aboutyou.at
@@ -11104,6 +11106,7 @@ u44.pnc.com
 u45.pnc.com
 u46.pnc.com
 u47.pnc.com
+u989.theweek.com
 ua.indianexpress.com
 uazmti.a101.com.tr
 ubt.berlingskemedia.net
