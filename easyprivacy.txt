@@ -1781,6 +1781,7 @@ cloudhosting.actonservice.com
 cloud-miner.de
 cloud-miner.eu
 cloudwp.io
+clp-mms.cloudpro.co.uk
 cls7.theushuaiaexperience.com
 clshkv.labirint.ru
 cltgtstor001.blob.core.windows.net
@@ -1790,9 +1791,11 @@ cmcyne.xoticpc.com
 cm-exchange.toast.com
 c.mgid.com
 cmme.actonservice.com
+cm-mms.coachmag.co.uk
 cmon.congress.gov
 cmp.channelpartner.de
 cmp.courrierinternational.com
+cmp.dmgmediaprivacy.co.uk
 cmp.dreamlab.pl
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -3137,6 +3140,7 @@ explore.code3esg.com
 explore.coursefinders.com
 explore.firstnet.com
 explore.landcentral.com
+exr-mms.expertreviews.co.uk
 extmaps-api.yandex.net
 extra.landorandfitch.com
 eyc-marketing.eyc.com
@@ -4860,7 +4864,6 @@ marketing.jetlinx.com
 marketing.johncrane.com
 marketing.jtsa.edu
 marketing.julysystems.com
-marketing.kalahari.net
 marketing.kemperbenefits.com
 marketing.kingsiii.com
 marketing.knoxville.org
@@ -4949,7 +4952,6 @@ marketing.newfangled.com
 marketing.newhomesource.com
 marketing.neworleans.com
 marketing.njoyn.com
-marketing.nodesource.com
 marketing.nopec.org
 marketing.norsat.com
 marketing.nowplayingutah.com
@@ -5319,7 +5321,6 @@ med.vraylar.com
 m.edweek.org
 meet.westuc.com
 membership.mortonarb.org
-merlin.abc.go.com
 message.alldata.com
 met1.hp.com
 met2.hp.com
@@ -5337,7 +5338,6 @@ metric.fidmscholarshipfoundation.org
 metric.hatarako.net
 metric.hilton.com
 metric.iccu.com
-metric.inetcore.com
 metric.infoworld.com
 metric.ingdirect.es
 metric.ing.es
@@ -5361,7 +5361,6 @@ metric.nwsource.com
 metric.olivegarden.com
 metric.petinsurance.com
 metric.philosophy.com
-metric.rediff.com
 metric.rent.com
 metric.restockit.com
 metrics1.citibank.com
@@ -5483,7 +5482,6 @@ metrics.cathflo.com
 metrics.catlife.com.tw
 metrics.cbc.ca
 metrics.cbn.com
-metrics.cbslocal.com
 metrics.cdiscount.com
 metrics.centex.com
 metrics.centurylink.com
@@ -5592,7 +5590,6 @@ metrics.eurobet.it
 metrics.experts-exchange.com
 metrics.express.com
 metrics.expressen.se
-metrics.extremetech.com
 metrics.faceipf.com
 metrics.farmfutures.com
 metrics.farmindustrynews.com
@@ -5702,6 +5699,7 @@ metrics.ionos.fr
 metrics.ionos.it
 metrics.ionos.mx
 metrics.ireport.com
+metricsishare.rediff.com
 metrics.its.de
 metrics.jahnreisen.de
 metrics.jeld-wen.com
@@ -5942,7 +5940,6 @@ metrics.sky.com
 metrics.sky.it
 metrics.skynews.com.au
 metrics.slate.com
-metrics.slite.com
 metrics.smbcnikko.co.jp
 metrics.smedia.com.au
 metrics.snapfish.fr
@@ -5978,7 +5975,6 @@ metrics.taste.com.au
 metrics.td.com
 metrics.teambeachbody.com
 metrics.teampages.com
-metrics.ted.com
 metrics.telegraph.co.uk
 metrics.telenet.be
 metrics.telenor.se
@@ -6198,34 +6194,9 @@ m.lolvsdota.cn
 mlweb.dmlab.hu
 mmi.bemobile.ua
 mm.melia.com
-mmm.theweek.co.uk
-mms.al.com
 mms.blick.ch
-mms.cbslocal.com
-mms.cleveland.com
-mms.cloudpro.co.uk
 mms.cnn.com
-mms.coachmag.co.uk
-mms.deadspin.com
-mms.expertreviews.co.uk
-mms.gizmodo.com
 mms.gocomics.com
-mms.gulflive.com
-mms.jalopnik.com
-mms.jezebel.com
-mms.lehighvalleylive.com
-mms.lifehacker.com
-mms.masslive.com
-mms.mlive.com
-mms.newyorkupstate.com
-mms.nj.com
-mms.nola.com
-mms.oregonlive.com
-mms.pennlive.com
-mms.silive.com
-mms.splinternews.com
-mms.syracuse.com
-mms.theroot.com
 mms.wwe.com
 mm.welt.de
 mn.mistermenuiserie.com
@@ -6240,7 +6211,6 @@ mond.post.ch
 mon.ingservices.nl
 monitor.azure.com
 monitor.channel4.com
-monitor.ebay.com
 montpalatin.handicap.fr
 more.socialflow.com
 mormont.gamer-network.net
@@ -6253,7 +6223,6 @@ m.photoshelter.com
 m.premier.info.shutterstock.com
 mqldrm.lgcity.ru
 mqs.ioam.de
-ms-apps.haaretz.com
 ms.computerbild.de
 mseeru.faz.net
 msg.71.am
@@ -6278,7 +6247,6 @@ mtrcs.popcap.com
 mtrcs.redhat.com
 mtrs.ameco.com
 mtrs.fluor.com
-mts-ws.rueducommerce.fr
 mtv3.hb-api.omtrdc.net
 mtv3.hb.omtrdc.net
 mtv.hb.omtrdc.net
@@ -6307,6 +6275,7 @@ mytvsuperlimited.hb.omtrdc.net
 my.usq.edu.au
 myxuak.mir-kubikov.ru
 mzjruy.yocoyoco.com
+n26-trusted.n26.com
 nadeshiko2019.kirei-nadeshiko.jp
 nakisa.actonservice.com
 namrinfo.motorolasolutions.com
@@ -6325,7 +6294,6 @@ nbcume.hb-api.omtrdc.net
 nbcume.hb.omtrdc.net
 nbfopy.jjshouse.com
 nbg.seagate.com
-nb.myspace.com
 nbyggk.jocee.jp
 nccer.actonservice.com
 ncc.nip-col.jp
@@ -6337,7 +6305,6 @@ ndnxln.alfaconcursos.com.br
 ndqdxm.thehyundai.com
 neaaom.ytn.co.kr
 neck6bake.com
-ned.itv.com
 neocounter.neoworx-blog-tools.net
 neosllc.actonservice.com
 neso.r.niwepa.com
@@ -7377,6 +7344,7 @@ rt.flix360.com
 rtg-endpoint.global.ssl.fastly.net
 rtl.hb-api.omtrdc.net
 rtl.hb.omtrdc.net
+rt.newswire.ca
 rtn.thestar.com
 rt.prnewswire.com
 rtt.campanja.com
@@ -10301,6 +10269,7 @@ torimochi.line-apps.com
 torropinto.viessmann.es
 toru0vane.com
 toruk.tanx.com
+touch.myntra.com
 toughbook.panasonic.eu
 tourism.visitorlando.com
 towerfcu.actonservice.com
