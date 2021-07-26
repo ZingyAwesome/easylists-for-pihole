@@ -3001,6 +3001,7 @@ erb.tremblant.ca
 e.replacementdevicelawsuit.com
 erepublic.actonservice.com
 erp.qwic.nl
+error-collector.ted.com
 error.fc2.com
 errors.snackly.co
 error.videonow.ru
@@ -3663,7 +3664,6 @@ hits.eluniversal.com.mx
 hitserver.ibope.com.br
 hits.guardian.co.uk
 hits.informer.com
-hits-.iubenda.com
 hit.skrz.cz
 hits.sys.lv
 hits.zdnet.co.kr
@@ -7277,6 +7277,7 @@ ressources.caradisiac.com
 ressources.centraleauto.com
 ressources.mavoiturecash.fr
 re.stjude.org
+rest.wildstar-online.com
 retargeting.vistaprint.com
 retcode.taobao.com
 retirementliving.actsretirement.org
@@ -10018,6 +10019,7 @@ target.smi2.ru
 target.ukr.net
 ta.sanook.com
 tatehj.nylaarp.com
+tatpek.com
 tattkq.hopelingerie.com.br
 t.auditedmedia.org.au
 t.av.st
