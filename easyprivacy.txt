@@ -7143,7 +7143,6 @@ ranking.apis.sankei-digital.co.jp
 rate2self.com
 rat.rakuten.co.jp
 raybte.7days.ru
-r.bbci.co.uk
 rbc.magna.ru
 rbis-solutions.averydennison.com
 rcgi.video.qq.com
@@ -7169,11 +7168,8 @@ realm.hearst3pcc.com
 realsolutions.americanexpress.se
 rear9axis.com
 reauthenticator.com
-reco.hardsextube.com
-recommendation.24.com
 rec.udn.com
 redd7liod.com
-redeye.williamhill.com
 redirectmail.majelan.com
 redwingforbusiness.redwingsafety.com
 ref.dealerinspire.com
@@ -7186,7 +7182,6 @@ rehouse-cs.mf-realty.jp
 rek.www.wp.pl
 rel2.nextinpact.com
 relay.fiverr.com
-rel.msn.com
 rel.nextinpact.com
 remarketing.oncourselearning.com
 rem-track.bild.de
@@ -7213,20 +7208,16 @@ repdata.wtsp.com
 repdata.wusa9.com
 repdata.wzzm13.com
 reporting.cdndex.io
-reporting.flymonarch.com
 reporting.handll.net
 reporting.singlefeed.com
-reporting.theonion.com
 report.meituan.com
 report.mitsubishicars.com
 report.novinky.cz
 report.qq.com
 reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
-report-zt.allmusic.com
 repvwz.panchemodan.ru
 req12pkgb.com
-request.issuu.com
 rertrc.abc-mart.net
 res.elle.fr
 res.femina.fr
@@ -7256,7 +7247,6 @@ retcode.taobao.com
 retirementliving.actsretirement.org
 retoxify.actonservice.com
 retrack.q-divisioncdn.de
-revsci.tvguide.com
 rfk.biglots.com
 rghpjl.tsuchiya-kaban.jp
 rgmseo.thejewellershop.com
@@ -7291,7 +7281,6 @@ rnybul.gismeteo.ru
 roar9beer.com
 rock5rice.com
 rogersmedia.hb.omtrdc.net
-rok.com.com
 roomandboard.hb-api.omtrdc.net
 roomandboard.hb.omtrdc.net
 rote8mino.com
@@ -7320,7 +7309,6 @@ rtg-endpoint.global.ssl.fastly.net
 rtl.hb-api.omtrdc.net
 rtl.hb.omtrdc.net
 rt.newswire.ca
-rtn.thestar.com
 rt.prnewswire.com
 rtt.campanja.com
 rtvc.hb.omtrdc.net
@@ -7362,9 +7350,6 @@ s4.parkeren-amsterdam.com
 s4.parkeren-haarlem.nl
 s4.parkeren-utrecht.nl
 s.80000hours.org
-sa135.kiro7.com
-sa135.macworld.co.uk
-sa135.wsbtv.com
 saa.247sports.com
 saa.cbs.com
 saa.cbsi.com
@@ -7429,7 +7414,6 @@ saa.tvguide.com
 saa.wired2fish.com
 saa.wowma.jp
 saa.zdnet.com
-sa.bbc.co.uk
 saccess.hikaritv.net
 sac.japannetbank.co.jp
 sadbelytics.munichre.com
@@ -7647,7 +7631,6 @@ sanalytics.verizon.com
 sanalytics.verizonwireless.com
 sanalytics.visible.com
 sanalytics.wideroe.no
-sana.newsinc.com.s3.amazonaws.com
 sanl.champssports.com
 sanl.eastbay.com
 sanl.footaction.com
@@ -7681,14 +7664,12 @@ sa.scrippslifestylestudios.com
 sasc.solidworks.com
 sa.sky.it
 sas.nsm-corp.com
-sa.squareup.com
 sa.tactics.com
 sa.tf1.fr
 sat.sanoma.fi
 sats.mailbrew.com
 sawap.equifax.com
 saxobank.hb.omtrdc.net
-sayac.hurriyettv.com
 sbcomniture.focus.de
 s.beop.io
 sbgsodufuosmmvsdf.info
@@ -7729,7 +7710,6 @@ s.clickability.com
 sclick.baidu.com
 s.clickiocdn.com
 sc.logotv.com
-scluster3.cliphunter.com
 sc.metrics-shell.com
 scmetrics.shell.com
 scmetrics.vodafone.it
@@ -7784,12 +7764,9 @@ scout.bergfreunde.de
 scout.bergfreunde.dk
 scout.bergfreunde.eu
 scout.bergfreunde.nl
-scout.lexisnexis.com
-scout.rollcall.com
 sc.paramountnetwork.com
 s.crackedthecode.co
 sc.rbs.co.uk
-scribe.twitter.com
 scribe.wongnai.com
 scripts.psyma.com
 scs.arcteryx.com
