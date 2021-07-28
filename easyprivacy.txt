@@ -2152,6 +2152,7 @@ c.xbox.com
 c.x.oanda.com
 cxrfns.gu-global.com
 cxt.deutsche-bank.de
+cxt.ms
 cyber-pages.att.com
 cyber-tracking.att.com
 cyrstalventure.club
@@ -2598,6 +2599,7 @@ dymlo6ffhj97l.cloudfront.net
 dyv1bugovvq1g.cloudfront.net
 dzszbb.homes.co.jp
 e1c.curtisswrightds.com
+e1e.io
 e77lmzbqou0n-a.akamaihd.net
 ea.access-moto.com
 ea.armandthiery.fr
