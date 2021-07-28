@@ -1848,7 +1848,6 @@ collect.allianzdriveincinema.ch
 collect.cap.ch
 collect.elvia.ch
 collect.helsana.ch
-collect.igodigital.com
 collection.saga.co.uk
 collect.meilleurtaux.com
 collect..miui.com
@@ -3400,6 +3399,7 @@ geo.gfycat.com
 geo.gorillanation.com
 geoip.ativo.com
 geoip.boredpanda.com
+geoip.cookieyes.com
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.nekudo.com
@@ -6443,7 +6443,6 @@ oci.dyn.com
 oda.markitondemand.com
 odc.1und1.de
 odc.weather.com
-odin.mic.com
 oeejnm.fool.com.au
 oei1.gq
 oek7.april-moto.com
@@ -6456,7 +6455,6 @@ ogb2.leanatureboutique.com
 ogb2.natessance.com
 ohxrqr.ilvi.com
 oiat.dow.com
-oimg.m.cnbc.com
 oimg.mobile.cnbc.com
 oimg.nbcsports.com
 oimg.nbcuni.com
@@ -6642,7 +6640,6 @@ o.opentable.com
 oor.ooreka.fr
 op-drive-sto.carrefour.fr
 open.delivery.net
-open.mkt1397.com
 openworksweb.actonservice.com
 ophan.theguardian.com
 opportunity.businessbroker.net
@@ -6656,8 +6653,6 @@ oqr4.destinia.in
 o.rapidfax.com
 orbidder.otto.de
 oregonstate.actonservice.com
-origin.chron.com
-origin-tracking.trulia.com
 orionis.techradar.com
 orsmfg.notino.de
 osctws.gold.ua
@@ -6706,9 +6701,7 @@ pabxoe.olx.ua
 pac12.hb.omtrdc.net
 p.adbrn.com
 page1monk.com
-page-events-ustats.udemy.com
 page.evergage.com
-pageinfo.motorsport.com
 pages.att.com
 pages.canon.com.au
 pagesense-collect.zoho.com
@@ -6728,8 +6721,6 @@ pa.rockett.pw
 partner.cynapse.com
 partner.haru-shop.jp
 partnermktg.symantec.com
-partners.badongo.com
-partners.mysavings.com
 partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
 pasco.actonservice.com
@@ -6759,7 +6750,6 @@ pbox.photobox.nl
 pbox.photobox.se
 pbstats.jpmorgan.com
 pcgamer-gb.pcgamer.com
-pci3oo5mg4mn-a.akamaihd.net
 pciidk.shopee.vn
 p.classroombookings.com
 p.clvs7.com
@@ -6784,7 +6774,6 @@ perf.dugout.com
 perf-events.cloud.unity3d.com
 perf.mouser.com
 performanceplay.co.kr
-performances.bestofmedia.com
 performantcorp.actonservice.com
 perk0mean.com
 perso.aws.arc.pub
@@ -6800,7 +6789,6 @@ p.gazeta.pl
 pgs.aviationweek.com
 pgs.farmprogress.com
 pgt1.voyage-prive.es
-phar.gu-web.net
 phjzsx.elevit.jp
 phoenix.untd.com
 phsmobile.actonservice.com
@@ -6820,7 +6808,6 @@ ping.hellobar.com
 ping.hungama.com
 pingjs.qq.com
 ping.richardtaylor.dev
-pings.blip.tv
 pings.conviva.com
 ping.smyte.com
 ping.staticmoly.me
@@ -6829,9 +6816,7 @@ pint-dev-branch.airship.com
 pio.fabianfett.de
 pipe-collect.ebu.io
 pipedream.wistia.com
-pipeline.realtime.active.com
 piper.amocrm.ru
-pistyll.bleacherreport.com
 pi.technik3d.com
 piti.bplaced.net
 p.ivoberger.com
@@ -6843,6 +6828,9 @@ pixel6.wp.pl
 pixel-a.basis.net
 pixel.ampry.com
 pixel.anyclip.com
+pixel.archive.is
+pixel.archive.ph
+pixel.archive.vn
 pixel.augsburger-allgemeine.de
 pixel.bild.de
 pixel.blivenyc.com
@@ -6850,7 +6838,6 @@ pixel.cdnwidget.com
 pixel.condenastdigital.com
 pixel.cpex.cz
 pixel.digitalspy.co.uk
-pixel.dorehernowi.pro
 pixel.europapress.net
 pixel.facebook.com
 pixel.fanbridge.com
@@ -6860,27 +6847,18 @@ pixel.honestjohn.co.uk
 pixel.ionos.fr
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
-pixel.naij.com
-pixel.newscgp.com
 pixel.newscred.com
-pixel.newsdiscover.com.au
 pixel.nine.com.au
-pixel.pcworld.com
-pixel.propublica.org
 pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
 pixels.afcdn.com
 pixel.safe-installation.com
 pixels.boxberry.ru
-pixels.livingsocial.com
 pixel.smartmedia.tj
 pixel.snapsmedia.io
 pixel.solvemedia.com
-pixel.spotify.com
 pixel.sprinklr.com
-pixel.staging.tree.com
-pixel-static.spotify.com
 pixel.tree.com
 pixel.tuko.co.ke
 pixel.videohub.tv
@@ -6890,9 +6868,7 @@ pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
 pixel.zumby.io
-pix.gfycat.com
 pixiedust.buzzfeed.com
-pix.nbcuni.com
 pix.revjet.com
 pix.telekom.de
 pix.telekom-dienste.de
@@ -7017,13 +6993,11 @@ pri12mel.com
 primary.hasegawa.jp
 prism.pandora.tv
 privacy-api.9gag.com
-privacyfriendly.brainbits.in
+privacyfriendly.netlify.app
 privacy.outdoorsg.com
-proac.nationwide.com
 proactive.base.de
 processor.asccommunications.com
 proditor.sparda.de
-production.airswap.io
 production.mcs.delve.cust.lldns.net
 production-mcs.lvp.llnw.net
 products.marketingcube.com.au
@@ -7043,13 +7017,11 @@ prophet.heise.de
 protapes.actonservice.com
 proteinhikaku2019.proteinhikaku.com
 proxy.dzeio.com
-proxypage.msn.com
 prstats.postrelease.com
 prudential.distribution.team.prudential.co.uk
 prx6.destinia.ch
 przucu.elkjop.no
 psbiaf.converse.com
-ps.ecosia.org
 psqsjg.coach.com
 pstat.akathists.com
 psxsjo.carrano.com.br
@@ -7074,7 +7046,6 @@ pv.partenaires-verisure.fr
 pv.pjtsu.com
 pvrugd.nieruchomosci-online.pl
 pv.sohu.com
-pvstat.china.cn
 pvtag.yahoo.co.jp
 pv.udn.com
 pv.xcar.com.cn
@@ -7088,13 +7059,11 @@ px.derstandard.at
 px.excitedigitalmedia.com
 pxlgnpgecom-a.akamaihd.net
 px.marchex.io
-px.mvfglobal.com
 px.owneriq.net
 pxptpv.jobup.ch
 px.spiceworks.com
 px.staticfiles.at
 pxt.daz3d.com
-px.wayfair.com
 px.wp.pl
 p.yotpo.com
 pzpevk.newbalance.ru
@@ -7999,6 +7968,7 @@ shtptt.cupshe.com
 sicas.ikea.com
 sicas.ikea.net
 sidebar.issuu.com
+sid.nordstrom.com
 sig.atdmt.com
 sig.ig.com
 sig.nadex.com
@@ -9099,6 +9069,7 @@ ssa.eurosport.ru
 ssa.food.com
 ssa.foodnetwork.com
 ssa.hgtv.com
+ssa.stepstone.com
 ssc.api.bbc.com
 ssc.bet.plus
 ssc.cc.com
@@ -10014,6 +9985,7 @@ targeting..arcpublishing.com
 targeting.voxus.tv
 target.mirtesen.ru
 target.mixi.media
+target.nationwide.com
 target.nejm.org
 target.smi2.net
 target.smi2.ru
@@ -10106,6 +10078,7 @@ t.eharmony.com
 te.heine.de
 teijs.alcampo.es
 telemetrics.klaviyo.com
+telemetry.api.playstation.com
 telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
@@ -10281,7 +10254,6 @@ towerfcu.actonservice.com
 tp.ackermann.ch
 t-pan.triodos.com
 t.paydirekt.de
-t.paypal.com
 tp.baur.de
 tp.deawm.com
 t.perigold.com
