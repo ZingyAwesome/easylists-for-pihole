@@ -4415,6 +4415,7 @@ livestats.kaltura.com
 livestats.la7.tv
 livestats.matrix.it
 liveviewer.ez.no
+liveyield.com
 ljb0.assuronline.com
 ljjyqv.gametrade.jp
 ljryik.bewithyou.jp
