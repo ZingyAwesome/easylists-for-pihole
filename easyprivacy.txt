@@ -8004,6 +8004,7 @@ s.lenovo.com
 slewvr.gp.se
 s.lexusfinancial.com
 slim2disc.com
+slipstream.skyscanner.net
 sls2.loisirsencheres.com
 slx.searchdiscovery.com
 smatning.volkswagen.se
@@ -9044,6 +9045,7 @@ ssa.food.com
 ssa.foodnetwork.com
 ssa.hgtv.com
 ssa.stepstone.com
+ssc.api.bbc.com
 ssc.bet.plus
 ssc.cc.com
 ssc.cmt.com
@@ -9630,6 +9632,7 @@ stats.virtualoturist.com
 stats.virtualtoirist.com.au
 stats.virtualtourist.com
 stats.visa2egypt.fr
+stats.vk-portal.net
 stats.vliplatform.com
 stats.vngameden.com
 stats.voltamediahouse.com
