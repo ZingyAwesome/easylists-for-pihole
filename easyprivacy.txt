@@ -9892,6 +9892,7 @@ tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
 tags.aljazeera.com
+tags.aljazeera.net
 tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
@@ -10012,6 +10013,7 @@ telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
+telemetry.tradingview.com
 te.limango.de
 telstraphonewords.actonservice.com
 telus.hb-api.omtrdc.net
@@ -10275,6 +10277,7 @@ tracker.financialcontent.com
 tracker.icerocket.com
 tracker-id.cdiscount.com
 tracker.iltrovatore.it
+tracker.jawcloud.co
 tracker.kadlec.org
 tracker.keywordintent.com
 tracker.marinsoftware.com
@@ -10314,6 +10317,7 @@ tracking.adp.com
 tracking.adtran.com
 tracking.aegpresents.com
 tracking.aita.gov.vn
+tracking.alarabiya.net
 tracking.almax.com
 tracking.almirallmed.es
 tracking.americaneagle.com
@@ -10553,6 +10557,7 @@ track.rundschau-online.de
 tracks3.ferrari.com
 tracks.arubamediamarketing.it
 track.searchignite.com
+track.searchiq.co
 track.securedvisit.com
 track.shop2market.com
 track.sitetag.us
