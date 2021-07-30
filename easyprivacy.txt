@@ -7945,6 +7945,7 @@ sheeta.nrj-play.fr
 sho.hb.omtrdc.net
 shoo5woop.com
 shop.iwantclips.com
+s.hoplon.pandora.com
 shoppers.instacartemail.com
 shoppers-test.instacartemail.com
 shoppingguarantee.digicert.com
@@ -9880,6 +9881,7 @@ tagcommander.laredoute.be
 tagcommander.laredoute.co.uk
 tag.cribnotes.jp
 tag.elevaate.io
+tag.flagship.io
 tagger.opecloud.com
 tagger.ope.scmp.com
 tag.goldenbees.fr
@@ -10278,6 +10280,7 @@ tracker.keywordintent.com
 tracker.marinsoftware.com
 tracker.mrpfd.com
 tracker.mspy.com
+tracker.nbcuas.com
 tracker.providence.org
 tracker.publico.pt
 tracker.roitesting.com
@@ -10560,6 +10563,7 @@ track.spacepush.ru
 track.span-smt.jp
 track.spothero.com
 track.sprinklecontent.com
+track-srv.vietnamnet.vn
 tracksrv.zdf.de
 track.strife.com
 track.sunmedia.tv
@@ -10628,6 +10632,7 @@ trck.bdi-services.de
 trck.meinprospekt.de
 trckr.nordiskemedier.dk
 trck.spoteffects.net
+tr.clickstay.com
 tr.client.emailing.bnpparibas
 tr.clientes.younited-credit.com
 tr.clienti.younited-credit.com
@@ -10959,14 +10964,12 @@ units.knotch.it
 unyzea.aboutyou.sk
 uogqym.christopherandbanks.com
 uolwbz.heine.de
-up.boston.com
 updates.aem.org
 updates.gaylordhotels.com
 upeayz.eksisozluk.com
 upfrontbd.actonservice.com
 upstats.yadro.ru
 upt.graphiq.com
-uptpro.homestead.com
 upz1.destinia.lt
 urc.taboolasyndication.com
 url1451.careerkarma.info
@@ -10982,7 +10985,6 @@ useg.nextdigital.com.hk
 useosv.mamsy.ru
 userexperience.thehut.net
 userfly.com
-user-metrics.onthemarket.com
 usersegment.wpdigital.net
 usmetric.rediff.com
 us.onkyo.actonservice.com
@@ -11035,20 +11037,16 @@ videor.hb.omtrdc.net
 videostat.index.hu
 videostat-new.index.hu
 videostats.kakao.com
-video-stats.video.google.com
-videotracker.washingtonpost.com
 vidgoinc.hb.omtrdc.net
 views.cancan.ro
 vinchenmedia.club
 vip.gophersport.com
 visailing.actonservice.com
 visit.asb.co.nz
-visit.dealspwn.com
 visit.donateblood.com.au
 visite.scambi.org
 visit.geocities.com
 visit.hypertherm.com
-visit.mobot.net
 visitor.furniture-china.cn
 visitors.sourcingmap.com
 visitping.rossel.be
@@ -11081,8 +11079,6 @@ vry9.destinia.com
 vrzmfy.fool.com
 vsfius.aranzulla.it
 v.shopify.com
-vs.target.com
-vstats.digitaltrends.com
 vtf2f.banque-casino.fr
 vtnlog-.elb.amazonaws.com
 vtrtl.de
