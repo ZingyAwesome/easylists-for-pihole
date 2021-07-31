@@ -8891,6 +8891,7 @@ spanids.dictionary.com
 spanids.thesaurus.com
 sp.app.com
 sp.argusleader.com
+sparklingshelf.com
 sp.azcentral.com
 sp.battlecreekenquirer.com
 sp.baxterbulletin.com
