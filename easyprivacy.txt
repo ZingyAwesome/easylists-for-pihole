@@ -11129,7 +11129,6 @@ wa.devolksbank.nl
 wa.eonline.com
 wait8hurl.com
 walkme.actonservice.com
-wal.wolfram.com
 wa.metro.co.uk
 wa.ncr.com
 want7feed.com
@@ -11138,10 +11137,8 @@ wa.proflowers.com
 wa.quarks.de
 wareneingang.edeka.de
 warnerbrosentertainmentinc.hb.omtrdc.net
-warp.prnewswire.co.uk
 warrenfcu.actonservice.com
 was.epson.com
-wasp.frenchtogether.com
 wa.sportschau.de
 wass.ihsmarkit.com
 was.stubhub.com
@@ -11149,7 +11146,6 @@ was.vodafone.de
 was.vodafone.ie
 wat.gogoinflight.com
 wats.gogoinflight.com
-watson.live.com
 wa.ui-portal.de
 wauk1care.com
 wa.vodafone.pt
@@ -11226,7 +11222,6 @@ webstats.channel4.com
 webstats.garanti.com.tr
 webstats.sapo.pt
 webstats.thaindian.com
-webstats.thesoul-publishing.com
 web-t.9gag.com
 webt.pure.com
 webtracker.apicasystem.com
@@ -11262,7 +11257,6 @@ wiz.ghostbed.com
 wkctj.baidu.com
 wknd.ai
 wkndiu.profi.ru
-wla.vivaldi.com
 wl.jd.com
 wlkojk.orange.ro
 wl.spotify.com
@@ -11288,7 +11282,6 @@ wsstats.coches.net
 wstats.e-wok.tv
 wstats.gameblog.fr
 wstat.wibiya.com
-ws.yellowpages.ca
 wtbevents.pricespider.com
 wt.envivas.de
 wt.generali.de
