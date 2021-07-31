@@ -838,6 +838,7 @@ alwayscare.starmountlife.com
 am.belambra.com
 americanmarketinggroup.actonservice.com
 americanroller.actonservice.com
+amethyst.zappos.com
 ametrics.finn.no
 a.mhthemes.com
 amimon.actonservice.com
@@ -2534,7 +2535,6 @@ dnn506yrbagrg.cloudfront.net
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
-dns.whatleaks.com
 docileyellow.club
 doja.worten.es
 doll9jiva.com
@@ -11411,7 +11411,6 @@ ymprove.web.de
 ymvikp.estadao.com.br
 ynagqs.vidaxl.pl
 ynudoo.shoeby.nl
-ynuf.alibaba.com
 yoc.younited-credit.com
 yolo.phpliveregex.com
 yourhealth.cooperhealth.org
@@ -11439,10 +11438,8 @@ z.cdp-dev.cnn.com
 zelmanassociates.actonservice.com
 zelten.fritz-berger.de
 zetacom.actonservice.com
-zeus.slader.com
 zfzhwz.hema.nl
 zhihu-web-analytics.zhihu.com
-zion.api.cnn.io
 zio.xcar.com.cn
 zkbyhx.tropicfeel.com
 zkc5.fleurancenature.fr
