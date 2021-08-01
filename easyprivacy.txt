@@ -3245,6 +3245,7 @@ fourmtagservices.appspot.com
 foxentertainment.hb.omtrdc.net
 foxnews.hb.omtrdc.net
 foxsports.hb.omtrdc.net
+fpa-cdn.arstechnica.com
 fpb8.esce.fr
 fpc.attcenter.com
 fpc.bartlegibson.com
@@ -11426,6 +11427,7 @@ zminer.zaloapp.com
 zmxncb5.com
 znq9.destinia.mx
 zqtizs.bonprix.ru
+zqtk.net
 zqwofo.liverpool.com.mx
 zrsetz.shutterstock.com
 zrw1.destinia.jp
