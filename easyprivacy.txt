@@ -6809,7 +6809,6 @@ piti.bplaced.net
 p.ivoberger.com
 pix.airbusgroup.com
 pix.eads.com
-pixel.4players.de
 pixel6.wp.pl
 pixel-a.basis.net
 pixel.ampry.com
@@ -6818,7 +6817,6 @@ pixel.archive.is
 pixel.archive.ph
 pixel.archive.vn
 pixel.augsburger-allgemeine.de
-pixel.bild.de
 pixel.blivenyc.com
 pixel.cdnwidget.com
 pixel.condenastdigital.com
@@ -6836,7 +6834,6 @@ pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
 pixel.nine.com.au
-pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
 pixels.afcdn.com
@@ -6984,7 +6981,6 @@ prism.pandora.tv
 privacy-api.9gag.com
 privacyfriendly.netlify.app
 privacy.outdoorsg.com
-proactive.base.de
 processor.asccommunications.com
 proditor.sparda.de
 production.mcs.delve.cust.lldns.net
@@ -7044,7 +7040,6 @@ pwa.telephoneannuaire.fr
 pw.gigazine.net
 p.wren.co
 pxbnou.ig.com.br
-pxc.otto.de
 px.derstandard.at
 px.excitedigitalmedia.com
 pxlgnpgecom-a.akamaihd.net
@@ -7257,7 +7252,6 @@ risk.clearbit.com
 riwkmo.spacemarket.com
 r.jakuli.com
 rjjynf.showcase-tv.com
-rl.heise.de
 rlinks.one.in
 rloddo.olx.bg
 rlog.popin.cc
@@ -7870,7 +7864,6 @@ securetenilstats.turner.com
 securetracking.eaton.com
 secure.wiley.com
 securite.01net.com
-s.edeka.de
 sedigital.cloudseidor.com
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
@@ -9236,7 +9229,6 @@ statistics.fppressa.ru
 statistics.heatbeat.de
 statistics.jfmedier.dk
 statistics.klicktel.de
-statistics.raiffeisen.ch
 statistics.rbi-nl.com
 statistics.riskommunal.net
 statistics.tattermedia.com
@@ -9268,7 +9260,6 @@ stat.pubhtml5.com
 stat.ringier.sk
 stat.rum.cdnvideo.ru
 stat.russianfood.com
-stats01.20min.ch
 stats1.tune.pk
 stats1x1.kapaza.be
 stats2.architecturaldigest.com
@@ -9309,7 +9300,6 @@ stats.blogoscoop.net
 stats.blog.sean-wright.com
 stats.bluebillywig.com
 stats.bluesabre.org
-stats.bmw.de
 stats.bookingbuddy.com
 stats.breadtube.tv
 stats.breathly.app
@@ -9971,7 +9961,6 @@ tdf1.easyvoyage.co.uk
 tdf1.easyvoyage.de
 tdf1.laredoute.fr
 tdf1.vente-unique.pt
-tdf.ringier.ch
 t.discover.kayosports.com.au
 te.ackermann.ch
 team8save.com
@@ -10111,7 +10100,6 @@ t.locasun-vp.fr
 tls.thelibrarystore.com
 tl.tradetracker.net
 tm1-001.com
-tm.dl.dewezet.de
 t.menepe.com
 tmgr.ccmbg.com
 tm.jsuol.com.br
@@ -10154,7 +10142,6 @@ tp.ackermann.ch
 t-pan.triodos.com
 t.paydirekt.de
 tp.baur.de
-tp.deawm.com
 t.perigold.com
 tp.frankonia.com
 tp.frankonia.de
@@ -10207,15 +10194,10 @@ track.adintend.com
 track.atom-data.io
 track.auckland.ac.nz
 track.bannedcelebs.com
-track.bazonline.ch
-track.berliner-kurier.de
-track.bernerzeitung.ch
 track.cafu.com
 track.cedsdigital.it
-track.cinestar.de
 track.contently.com
 track.cordial.io
-track.derbund.ch
 track.dictionary.com
 track.digitalriver.com
 trackdiscovery.net
@@ -10229,6 +10211,7 @@ track.docusign.de
 track.docusign.fr
 track.docusign.jp
 track.docusign.mx
+track.dws.de
 track.e7r.com.br
 track.eadv.it
 tracker.520call.me
@@ -10266,7 +10249,6 @@ tracker.publico.pt
 tracker.roitesting.com
 tracker.shopclues.com
 tracker.softcube.com
-trackerstatistik.init-ag.de
 tracker.stileo.it
 tracker.swedish.org
 tracker.thinkermail.com
@@ -10374,7 +10356,6 @@ tracking.hello.global.ntt
 tracking.hi-pi.com
 tracking.hivecloud.net
 tracking.houzz.com
-tracking.hrs.de
 tracking.hsn.com
 tracking.hyros.com
 tracking.info.ivanti.com
@@ -10393,7 +10374,6 @@ tracking.legacyoffers.com
 tracking.lengow.com
 tracking.lenovo.com
 tracking.lg.com
-tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.lonnogpersonalabc.visma.no
@@ -10406,7 +10386,6 @@ tracking.mindshare.de
 tracking..miui.com
 tracking.miui.com
 trackingmms.accenture.com
-tracking.mobile.de
 tracking.monsido.com
 tracking.motorolasolutions.com
 tracking.musixmatch.com
@@ -10463,7 +10442,6 @@ tracking.sierrawireless.com
 tracking.smartbets.com
 tracking.smartmeapp.com
 tracking.sokrati.com
-tracking.sport1.de
 tracking.sp.sofi.com
 tracking.srv2.de
 tracking.ssab.com
@@ -10475,7 +10453,6 @@ tracking.ssab.ru
 tracking.ssab.se
 trackingssl.agemployeebenefits.be
 trackingssl.aginsurance.be
-tracking.statravel.de
 tracking.stihl.de
 tracking.synthasite.net
 tracking.target2sell.com
@@ -10515,7 +10492,6 @@ trackla.stackla.com
 track.leady.cz
 track.lexico.com
 track.mailerlite.com
-track.mopo.de
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
@@ -10612,7 +10588,6 @@ tr.carte.lcl.fr
 trccvt.dhc.co.jp
 trcka8net.irobot-jp.com
 trck.bdi-services.de
-trck.meinprospekt.de
 trckr.nordiskemedier.dk
 trck.spoteffects.net
 tr.clickstay.com
@@ -10869,14 +10844,12 @@ tr.ville.bordeaux.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
 tr.webantenna.info
-tr.werkenntwen.de
 trx3.famousfix.com
 try.abtasty.com
 tsbmkf.zonnebrillen.com
 ts.delfi.lt
 t.seesaa.net
 t.service.thetimes.co.uk
-ts.faz.net
 t.sgc.io
 t.sharethis.com
 tshuxi.bbqguys.com
@@ -10888,7 +10861,6 @@ t.sommer-ticket-bahn.de
 tspmagic.tumblr.com
 ts.popsugar.com
 t.spot.im
-ts.rtl.de
 tst16infra.com
 t-staging.powerreviews.com
 ts.tradetracker.net
@@ -10997,7 +10969,6 @@ verizontelecom.hb.omtrdc.net
 vet0.carrefour-banque.fr
 veta.naver.com
 vexwjr.marisa.com.br
-vfd2dyn.vodafone.de
 vfo.voyage-prive.co.uk
 vgazda.krefel.be
 vgellr.esprit.de
@@ -11067,7 +11038,6 @@ vtnlog-.elb.amazonaws.com
 vtrtl.de
 vttics.world.co.jp
 vvaaol.enuygun.com
-vv.ricardo.ch
 vwonwkaqvq-a.global.ssl.fastly.net
 vybbem.mk.ru
 vybbem.womanhit.ru
@@ -11145,7 +11115,6 @@ wbudyb.motonet.fi
 wcdkff.rueducommerce.fr
 wco.crownpeak.com
 wcs.naver.com
-wdm.map24.com
 wdr9.inseec.com
 wdukge.midwayusa.com
 wdwwfu.poshvu.ru
@@ -11206,7 +11175,6 @@ webtracking.becker.com
 webtracking.chamberlain.edu
 webtracking.medical.rossu.edu
 webtracking.oncourselearning.com
-web-track.telekom-dienste.de
 webtraffic.mastercontrol.com
 webts.adac.de
 web.x.ilpost.it
