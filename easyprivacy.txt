@@ -443,7 +443,6 @@ aaucna.casasbahia.com.br
 aa.wowma.jp
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
-abakus.freenet.de
 abc.fackelmann.de
 abc.hb.omtrdc.net
 abclegal.actonservice.com
@@ -590,7 +589,6 @@ abvghl.udn.com
 ac-3.mix.tokyo
 ac.acadomia.fr
 acadian-asset.actonservice.com
-ac.berlinonline.de
 acbp0020171456.page.tl
 access.acspubs.org
 access.hikaritv.net
@@ -600,10 +598,7 @@ accutrain.actonservice.com
 accuzip.actonservice.com
 acemetrics.aaa.com
 acendas.actonservice.com
-ac.express.de
 achamm.doctolib.fr
-acl.stayfriends.de
-ac.mz-web.de
 acq-hk.americanexpress.com
 act.acotedemoi.com
 act.boxerproperty.com
@@ -877,7 +872,6 @@ analytics-api.samsunghealthcn.com
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.arunraghavan.net
-analytics.arz.at
 analytics.asml.com
 analytics.atomiconline.com
 analytics.audioeye.com
@@ -953,7 +947,6 @@ analytics.hayneedle.com
 analytics.hermesworld.com
 analytics.hiome.com
 analytics.humanautomation.ai
-analytics.industriemagazin.net
 analytics.infobae.com
 analytics.inform.com
 analytics.itsnoahevans.co.uk
@@ -1022,7 +1015,6 @@ analytics.prod.aws.ecnext.net
 analytics.prod.ori.hayneedle.com
 analytics-production.hapyak.com
 analytics.productreview.com.au
-analytics.proxer.me
 analytics-proxy.springboard.com
 analytics.qualityunit.com
 analytics.radiatemedia.com
@@ -1058,7 +1050,6 @@ analytics.sixt.nl
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
-analytics.solidbau.at
 analytics.sonymusic.com
 analytics.souazi.com
 analytics.spark.co.nz
@@ -1217,7 +1208,6 @@ artfin.club
 artistchristinacarmel.ericksonbuilt.com
 as.autobild.de
 as.axelspringer.com
-as.base.de
 as.bild.de
 as.bz-berlin.de
 as.computerbild.de
@@ -1360,7 +1350,6 @@ beacon.aimtell.com
 beacon.errorception.com
 beacon.flow.io
 beacon.gcion.com
-beacon.gutefrage.net
 beacon.gu-web.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
@@ -1393,7 +1382,6 @@ beaumont.actonservice.com
 beauzo.brilliantearth.com
 becanium.com
 befirstcdn.com
-behave.noen.at
 behave.sn.at
 bellabusinesssolutions.actonservice.com
 bellmedia.hb.omtrdc.net
@@ -1503,7 +1491,6 @@ bstias.avilon.ru
 bs.yandex.ru
 b.telus.com
 bthwkw.bazarchic.com
-bt.mediaimpact.de
 btn.clickability.com
 btptod.aerzteblatt.de
 btrace.qq.com
@@ -1614,8 +1601,6 @@ ccma.hb.omtrdc.net
 ccmd.coveredca.com
 cc.pennstatehealth.org
 cc.swiftype.com
-cct2.o2online.de
-cc.zeit.de
 cdn1.pebx.pl
 cdn7.baunetz.de
 cdn-alliancegravity.s3.amazonaws.com
@@ -2082,7 +2067,6 @@ count.vrs.sohu.com
 count.yandeg.ru
 coup7cold.com
 coxnet.hb.omtrdc.net
-c.perlentaucher.de
 cpgo.avatacar.com
 cpt.itv.com
 cpx.golem.de
@@ -6856,6 +6840,7 @@ pixel.fanbridge.com
 pixel.glimr.io
 pixel.homebook.pl
 pixel.honestjohn.co.uk
+pixel.inforsea.com
 pixel.ionos.fr
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
