@@ -659,6 +659,7 @@ altopd.com
 alwayscare.starmountlife.com
 americanmarketinggroup.actonservice.com
 americanroller.actonservice.com
+amethyst.zappos.com
 ametrics.finn.no
 amimon.actonservice.com
 aminks.underarmour.com.tr
@@ -2059,7 +2060,6 @@ dna.uol.com.br
 dngpzy.bfmtv.com
 dngpzy.lexpress.fr
 dnn506yrbagrg.cloudfront.net
-dns.whatleaks.com
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
@@ -3127,6 +3127,7 @@ insights.prophet.com
 insitez.blob.core.windows.net
 inspire.webfleet.com
 instore.pagomeno.it
+intake-analytics.wikimedia.org
 intelligence.marykay.com
 intelligence.marykayintouch.com
 internalforms.legalsolutions.thomsonreuters.co.uk
@@ -6229,7 +6230,6 @@ sanl.footlocker.pt
 sanl.footlocker.se
 sanl.ladyfootlocker.com
 sanmet.originenergy.com.au
-santuforward.club
 saon6harz.com
 sappmetrics.boostmobile.com
 sappmetrics.sprint.com
@@ -7259,6 +7259,7 @@ sowa.carhartt.com
 soxnwz.lg.com
 spanids.dictionary.com
 spanids.thesaurus.com
+sparklingshelf.com
 speedtrap.shopdirect.com
 speee-ad.akamaized.net
 spigte.shopee.tw
@@ -7894,7 +7895,6 @@ sucmetrics.hypovereinsbank.de
 sucmetrics.unicredit.it
 sugh8yami.com
 suncanny.marvel.com
-supertraders.club
 supertraders.info
 supplychain.kinaxis.com
 support.flex.com
@@ -8043,7 +8043,6 @@ tagtracking.vibescm.com
 talenteq.intuit.com
 talpaholdingnv.hb.omtrdc.net
 tank3pull.com
-tantrumall.club
 target.mirtesen.ru
 target.mixi.media
 target.nationwide.com
@@ -8714,7 +8713,6 @@ videostat.index.hu
 videostats.kakao.com
 vidgoinc.hb.omtrdc.net
 views.cancan.ro
-vinchenmedia.club
 vip.gophersport.com
 visailing.actonservice.com
 visit.asb.co.nz
@@ -8778,17 +8776,14 @@ walkme.actonservice.com
 want7feed.com
 wareneingang.edeka.de
 warnerbrosentertainmentinc.hb.omtrdc.net
-warp.prnewswire.co.uk
 warrenfcu.actonservice.com
 was.epson.com
 was.stubhub.com
 was.vodafone.de
 was.vodafone.ie
-wasp.frenchtogether.com
 wass.ihsmarkit.com
 wat.gogoinflight.com
 wats.gogoinflight.com
-watson.live.com
 wauk1care.com
 wbdds.allocine.fr
 wbkval.ecco.com
@@ -8886,7 +8881,6 @@ wiz.ghostbed.com
 wkctj.baidu.com
 wknd.ai
 wkndiu.profi.ru
-wla.vivaldi.com
 wlkojk.orange.ro
 wlwtcr.toptoon.com
 wlxhzn.godfreys.com.au
@@ -8968,7 +8962,6 @@ xnt4.ece.fr
 xoxo5-eng.spankbang.com
 xscmzs.tenki.jp
 xstats.evoload.io
-xtrack.capetown.gov.za
 xukekk.oshkosh.com
 xutolr.mainichikirei.jp
 xxjiqg.oysho.com
@@ -9003,7 +8996,6 @@ ymprove.web.de
 ymvikp.estadao.com.br
 ynagqs.vidaxl.pl
 ynudoo.shoeby.nl
-ynuf.alibaba.com
 yolo.phpliveregex.com
 yourhealth.cooperhealth.org
 ypcdbw.drive.ru
@@ -9021,11 +9013,9 @@ zaventemdijleland.viessmann.be
 zcbmn14.com
 zelmanassociates.actonservice.com
 zetacom.actonservice.com
-zeus.slader.com
 zfzhwz.hema.nl
 zhihu-web-analytics.zhihu.com
 zio.xcar.com.cn
-zion.api.cnn.io
 zkbyhx.tropicfeel.com
 zkc5.fleurancenature.fr
 zlolhl.anekdot.ru
