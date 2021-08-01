@@ -842,6 +842,7 @@ a.mobify.com
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
 amplify.strategic-i.com
+am-vid-events.taboola.com
 analitica.webrpp.com
 analy.qq.com
 analyse.bcovery.com
@@ -1229,6 +1230,7 @@ as.musikexpress.de
 as.myhomebook.de
 as.mytoys.de
 a.soraredata.com
+as.otto.de
 as.payback.it
 as.rollingstone.de
 as.saechsische.de
@@ -1781,7 +1783,7 @@ c.mgid.com
 cmme.actonservice.com
 cm-mms.coachmag.co.uk
 cmon.congress.gov
-cmp.channelpartner.de
+cmp2.channelpartner.de
 cmp.courrierinternational.com
 cmp.dmgmediaprivacy.co.uk
 cmp.dreamlab.pl
@@ -2053,12 +2055,10 @@ counter.webmart.de
 counter.yadro.ru
 count.kandian.com
 countly.stackvaults.com
-count.merian.de
 count.me.uk
 count.munhwa.com
 count.paycounter.com
 count.rin.ru
-count.rtl.de
 country.yepshare.com
 count.taobao.com
 count.upc.rakuten.co.jp
@@ -2138,7 +2138,6 @@ cx.atdmt.com
 c.xbox.com
 c.x.oanda.com
 cxrfns.gu-global.com
-cxt.deutsche-bank.de
 cxt.ms
 cyber-pages.att.com
 cyber-tracking.att.com
@@ -2530,7 +2529,6 @@ dowjones.hb-api.omtrdc.net
 dowjones.hb.omtrdc.net
 download.dnvgl.com
 dpckzt.mesrecettesfaciles.fr
-dpm.bluray-disc.de
 dppublishinginc.actonservice.com
 dp.shoprunner.com
 dptgdj.usagi-online.com
@@ -2572,7 +2570,6 @@ dvo.assurandme.fr
 dvrxgs.fc-moto.de
 dw0c.sfr.fr
 dwbotr.ssg.com
-dw-eu.com.com
 dwglgp.dunelm.com
 d.wi-fi.ru
 dwtracking.sdo.com
@@ -3054,7 +3051,6 @@ event-api.reverb.com
 eventcapture03.com
 eventcapture06.com
 event.csdn.net
-event.dkb.de
 event.edb.gov.sg
 eventgateway.soundcloud.com
 event.getblue.io
@@ -3407,7 +3403,6 @@ geo.yahoo.com
 get.anthem.com
 get.docusign.com
 get.hydrosystemsco.com
-gets.faz.net
 geygin.bonprix.ch
 gfgcwf.vidaxl.lv
 gfkvtb.mrmarvis.de
@@ -3551,7 +3546,6 @@ grow.bridgepointconsulting.com
 grunerandjahr.hb.omtrdc.net
 grxxvx.centerparcs.nl
 gsasolutionssecure.gsa.gov
-g.silicon.de
 g.siliconweek.es
 gsmqez.xcite.com
 gsp1.baidu.com
@@ -4016,7 +4010,6 @@ iq.sixaxisllc.com
 iremmk.estnation.co.jp
 iron0walk.com
 irqs.ioam.de
-is.base.de
 isebis.takamiclinic.or.jp
 isebis.yutoriform.com
 iseuaa.olx.pl
@@ -4485,7 +4478,6 @@ logs-qos.tf1.fr
 logs.spilgames.com
 logstat.caixin.com
 logs.thebloggernetwork.com
-log.suchen.de
 log.superweb.ws
 log.suumo.jp
 logs.viadata.store
@@ -6192,7 +6184,6 @@ mms.blick.ch
 mms.cnn.com
 mms.gocomics.com
 mms.wwe.com
-mm.welt.de
 mn.mistermenuiserie.com
 mnxlyo.kinoteatr.ru
 modus.nike.com
@@ -6217,7 +6208,6 @@ m.photoshelter.com
 m.premier.info.shutterstock.com
 mqldrm.lgcity.ru
 mqs.ioam.de
-ms.computerbild.de
 mseeru.faz.net
 msg.71.am
 mshs.actonservice.com
@@ -6392,6 +6382,7 @@ npskkf.novasol-vacances.fr
 npsqqq.granions.fr
 npvbjv.yourroom.ru
 npwefi.bebefofuxo.com.br
+nr-events.taboola.com
 nrg.red-by-sfr.fr
 nrjcur.pomelofashion.com
 nsc.metrics-shell.com
@@ -6710,7 +6701,6 @@ pam.nextinpact.com
 pampopholf.com
 pan.render.com
 pa.opqr.co
-pap.zalando.de
 paramountnetwork.hb.omtrdc.net
 pa.rockett.pw
 partner.cynapse.com
@@ -6818,7 +6808,6 @@ piti.bplaced.net
 p.ivoberger.com
 pix.airbusgroup.com
 pix.eads.com
-pixel.1und1.de
 pixel.4players.de
 pixel6.wp.pl
 pixel-a.basis.net
@@ -10529,6 +10518,7 @@ track.mopo.de
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
+track.noz.de
 track.omg2.com
 track.omgpl.com
 track.pnicnik.live
@@ -11030,6 +11020,7 @@ videostat.index.hu
 videostat-new.index.hu
 videostats.kakao.com
 vidgoinc.hb.omtrdc.net
+vidstat.taboola.com
 views.cancan.ro
 vip.gophersport.com
 visailing.actonservice.com
