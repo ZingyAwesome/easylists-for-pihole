@@ -7756,6 +7756,7 @@ sdc2.credit-suisse.com
 sdc.allianz.de
 sdc.aware.com.au
 sdcs.felissimo.co.jp
+s.dc-tag.jp
 sdome.underarmour.co.jp
 sdrive.skoda-auto.com
 sd.securitasdirect.fr
