@@ -600,7 +600,6 @@ acemetrics.aaa.com
 acendas.actonservice.com
 achamm.doctolib.fr
 acq-hk.americanexpress.com
-act.acotedemoi.com
 act.boxerproperty.com
 act.colorlines.com
 act.convergencetraining.com
@@ -1527,7 +1526,6 @@ b.your.offers.dominos.com
 byqdtp.interpark.com
 byubroadcasting.hb.omtrdc.net
 bzclk.baidu.com
-c0011.boursorama.com
 c0012.brsimg.com
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
@@ -1628,7 +1626,6 @@ census.misterspex.no
 census.misterspex.se
 central-core-7.com
 cfbwql.organifishop.com
-cfcn.allocine.net
 cf.overblog.com
 cfqsup.pro-bike.ru
 cfsaze.retailmenot.com
@@ -2500,11 +2497,8 @@ dl.orders.express-scripts.com
 dlpjgh.techport.ru
 dl-stage.zola.com
 dl.zola.com
-dm.commentcamarche.net
 dmcplc.actonservice.com
-dm.journaldunet.com
 dmkt.solutions.cas.org
-dm.linternaute.com
 dmpcdn.el-mundo.net
 dmqykw.thirtymall.com
 dmtracking.1688.com
@@ -3067,7 +3061,6 @@ events.chaordicsystems.com
 events.demand.intelsecurity.com
 events.demoup.com
 events.gogoair.com
-events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
 events.jokerly.com
@@ -3098,6 +3091,7 @@ events.yourcx.io
 event.webcollage.net
 evergage1.actonservice.com
 ever-track-51.com
+e.viously.com
 evnt.iol.it
 evrget.nikkan-gendai.com
 evt.houzz.com
@@ -3414,7 +3408,6 @@ gia.jd.com
 gift2pair.com
 g.ign.com
 giojhm.finya.de
-g.itespresso.fr
 gjhpwp.skychang.kr
 gj.mmstat.com
 gjndsa.amaro.com
@@ -4077,7 +4070,6 @@ jokqem.hickies.com
 journey.cisco.com
 jpaatr.astellas.jp
 jpluzr.autoc-one.jp
-jppolid-track.trackprod.integration.jppol.dk
 jptobh.network.com.tr
 jqwwny.hotelpass.com
 jraasj.kobo.com
@@ -4102,7 +4094,6 @@ kabokc.webuy.com
 ka.ilius.net
 kalstats.kaltura.com
 kampanja.bhtelecom.ba
-kbn.korben.info
 k.campanile.com
 k.cocooncenter.be
 k.cocooncenter.com
@@ -4475,7 +4466,6 @@ logs.ggweb.nl
 logs.hotstar.com
 log.snapdeal.com
 logs.naukri.com
-logs-qos.tf1.fr
 logs.spilgames.com
 logstat.caixin.com
 logs.thebloggernetwork.com
@@ -6865,7 +6855,6 @@ pk1u.melanielyne.com
 pk8n57.fnac.com
 pkc5.hardrockhoteltenerife.com
 pkimbc.bestsecret.com
-p.kolplay.com
 pl.1feed.app
 plan.seek.intel.com
 plantronics.hb.omtrdc.net
@@ -7036,7 +7025,6 @@ pvtag.yahoo.co.jp
 pv.udn.com
 pv.xcar.com.cn
 pvx.xcar.com.cn
-pwa.telephoneannuaire.fr
 pw.gigazine.net
 p.wren.co
 pxbnou.ig.com.br
@@ -7647,7 +7635,6 @@ sasc.solidworks.com
 sa.sky.it
 sas.nsm-corp.com
 sa.tactics.com
-sa.tf1.fr
 sat.sanoma.fi
 sats.mailbrew.com
 sawap.equifax.com
@@ -7904,7 +7891,6 @@ sftr2.external.xerox.com
 sftrack.searchforce.net
 sg3.notarize.com
 s.glimesh.tv
-sgmnt.ticketswap.com
 sgphctileh-a.akamaihd.net
 sgw-analytics.panasonic.com
 sgwhvw.alura.com.br
@@ -9261,7 +9247,6 @@ stat.ringier.sk
 stat.rum.cdnvideo.ru
 stat.russianfood.com
 stats1.tune.pk
-stats1x1.kapaza.be
 stats2.architecturaldigest.com
 stats2..fdnames.com
 stats2.tune.pk
@@ -9376,7 +9361,6 @@ stats.gethyas.com
 stats.ghost.org
 stats.gifs.com
 stats.glassmountains.co.uk
-stats.grafikart.fr
 stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
@@ -9635,7 +9619,6 @@ stat.uuu9.com
 stat..v-56.com
 stat.valica.it
 stat.vulkanvegas.com
-stat.webevolutis.com
 stat.web-regie.com
 stat.wolterskluwer.com
 stat.wolterskluwer.es
@@ -9915,6 +9898,7 @@ t.blablacar.com
 t.blinkist.com
 t.brand-server.com
 tbslatinamerica.hb.omtrdc.net
+tc2.hometogo.net
 t.c4tw.net
 tc.airfrance.com
 t.castle.io
@@ -9923,7 +9907,6 @@ tce0.primes-energie.leclerc
 tce.alicdn.com
 t.cfjump.com
 tcheck.outbrainimg.com
-tc.hometogo.net
 tck.photobox.com
 tck.transavia.com
 t.clic2buy.com
@@ -10000,7 +9983,6 @@ tercabilis.info
 te.schlafwelt.de
 te.sheego.de
 te.sieh-an.de
-tesla.oscaro.com
 testcddc.atclouddev.net
 test.customers.instacartemail.com
 test-eml.postmates.com
@@ -10184,7 +10166,6 @@ tr.3ou4xcb.cetelem.fr
 tr.abo.cotemaison.fr
 traccoon.intellectsoft.net
 trace.insead.edu
-track.24heures.ch
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
@@ -10226,7 +10207,6 @@ tracker.bestshopping.com
 tracker.bt.uol.com.br
 tracker.cauly.co.kr
 tracker.cdnbye.com
-tracker.cds-tracking.com
 tracker.data-vp.com
 tracker.digitalcamp.co.kr
 tracker.downdetector.com
@@ -10235,7 +10215,6 @@ tracker.euroweb.net
 tracker.facey.com
 tracker.financialcontent.com
 tracker.icerocket.com
-tracker-id.cdiscount.com
 tracker.iltrovatore.it
 tracker.jawcloud.co
 tracker.kadlec.org
@@ -10348,7 +10327,6 @@ tracking.granular.ag
 tracking.gruppo.mps.it
 tracking.hannoversche.de
 tracking.hardoxwearparts.com
-tracking.ha.rueducommerce.fr
 tracking.healthitanalytics.com
 tracking.healthitsecurity.com
 tracking.healthpayerintelligence.com
@@ -11096,7 +11074,6 @@ wauk1care.com
 wa.vodafone.pt
 wa.wdr.de
 wa.wdrmaus.de
-wbdds.allocine.fr
 wbkval.ecco.com
 wblt.oui.sncf
 wbswtr.decathlon.com.tr
@@ -11231,6 +11208,7 @@ wt.generali.de
 wtgnmr.golfdigest.co.jp
 wtk.db.com
 wt.netze-bw.de
+wt.oscaro.com
 wttd.douglas.at
 wttd.douglas.ch
 wttd.douglas.de
