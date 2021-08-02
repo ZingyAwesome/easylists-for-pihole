@@ -363,7 +363,6 @@ aaucna.casasbahia.com.br
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 ab-machine.forbes.com
-abakus.freenet.de
 abc.fackelmann.de
 abc.hb.omtrdc.net
 abc.pema.cl
@@ -488,7 +487,6 @@ accuzip.actonservice.com
 acemetrics.aaa.com
 acendas.actonservice.com
 achamm.doctolib.fr
-acl.stayfriends.de
 acq-hk.americanexpress.com
 act-on.ioactive.com
 act-on.up.edu.pe
@@ -657,6 +655,7 @@ alsgaj.chosun.com
 alsgaj.sportschosun.com
 altopd.com
 alwayscare.starmountlife.com
+am-vid-events.taboola.com
 americanmarketinggroup.actonservice.com
 americanroller.actonservice.com
 amethyst.zappos.com
@@ -701,7 +700,6 @@ analytics.anvato.net
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.arunraghavan.net
-analytics.arz.at
 analytics.asml.com
 analytics.atomiconline.com
 analytics.audioeye.com
@@ -770,7 +768,6 @@ analytics.hayneedle.com
 analytics.hermesworld.com
 analytics.hiome.com
 analytics.humanautomation.ai
-analytics.industriemagazin.net
 analytics.infobae.com
 analytics.inform.com
 analytics.itsnoahevans.co.uk
@@ -834,7 +831,6 @@ analytics.prezly.com
 analytics.prod.aws.ecnext.net
 analytics.prod.ori.hayneedle.com
 analytics.productreview.com.au
-analytics.proxer.me
 analytics.qualityunit.com
 analytics.radiatemedia.com
 analytics.rambla.be
@@ -865,7 +861,6 @@ analytics.sixtcarsales.de
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
-analytics.solidbau.at
 analytics.sonymusic.com
 analytics.souazi.com
 analytics.spark.co.nz
@@ -1084,7 +1079,6 @@ beacon.aimtell.com
 beacon.errorception.com
 beacon.flow.io
 beacon.gcion.com
-beacon.gutefrage.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
 beacon.livefyre.com
@@ -1114,7 +1108,6 @@ beaumont.actonservice.com
 beauzo.brilliantearth.com
 becanium.com
 befirstcdn.com
-behave.noen.at
 behave.sn.at
 bellabusinesssolutions.actonservice.com
 bellmedia.hb.omtrdc.net
@@ -1442,7 +1435,6 @@ cmass.massmedian.co.jp
 cmcyne.xoticpc.com
 cmme.actonservice.com
 cmon.congress.gov
-cmp.channelpartner.de
 cmp.courrierinternational.com
 cmp.dmgmediaprivacy.co.uk
 cmp.dreamlab.pl
@@ -1452,6 +1444,7 @@ cmp.netzwelt.de
 cmp.nouvelobs.com
 cmp.tek.no
 cmp.telerama.fr
+cmp2.channelpartner.de
 cms.hardloopaanbiedingen.nl
 cmstool.youku.com
 cn1.stadiumgoods.com
@@ -1643,11 +1636,9 @@ count.carrierzone.com
 count.channeladvisor.com
 count.kandian.com
 count.me.uk
-count.merian.de
 count.munhwa.com
 count.paycounter.com
 count.rin.ru
-count.rtl.de
 count.taobao.com
 count.upc.rakuten.co.jp
 count.video.sina.com.cn
@@ -2098,7 +2089,6 @@ durst-group.actonservice.com
 duu8lzqdm8tsz.cloudfront.net
 dv59b.montecarlomeeting.com
 dvo.assurandme.fr
-dw-eu.com.com
 dw0c.sfr.fr
 dwbotr.ssg.com
 dwglgp.dunelm.com
@@ -2375,7 +2365,6 @@ event-api.reverb.com
 event-listener.air.tv
 event.api.drift.com
 event.csdn.net
-event.dkb.de
 event.edb.gov.sg
 event.getblue.io
 event.syndigo.cloud
@@ -2556,6 +2545,7 @@ fourmtagservices.appspot.com
 foxentertainment.hb.omtrdc.net
 foxnews.hb.omtrdc.net
 foxsports.hb.omtrdc.net
+fpa-cdn.arstechnica.com
 fpb8.esce.fr
 fpc.attcenter.com
 fpc.bartlegibson.com
@@ -2701,7 +2691,6 @@ geoservice.curse.com
 get.anthem.com
 get.docusign.com
 get.hydrosystemsco.com
-gets.faz.net
 geygin.bonprix.ch
 gfgcwf.vidaxl.lv
 gfkvtb.mrmarvis.de
@@ -3490,7 +3479,6 @@ log.reformal.ru
 log.ren.tv
 log.seekda.com
 log.snapdeal.com
-log.suchen.de
 log.superweb.ws
 log.suumo.jp
 log.sv.pandora.tv
@@ -5228,6 +5216,7 @@ novartispharma.hb.omtrdc.net
 npsqqq.granions.fr
 npvbjv.yourroom.ru
 npwefi.bebefofuxo.com.br
+nr-events.taboola.com
 nrjcur.pomelofashion.com
 nsc.natwest.com
 nsc.rbs.co.uk
@@ -5454,7 +5443,6 @@ pal-v.actonservice.com
 pam.nextinpact.com
 pampopholf.com
 pan.render.com
-pap.zalando.de
 paramountnetwork.hb.omtrdc.net
 partner.cynapse.com
 partnermktg.symantec.com
@@ -5548,7 +5536,6 @@ pixel.anyclip.com
 pixel.archive.is
 pixel.archive.ph
 pixel.archive.vn
-pixel.bild.de
 pixel.blivenyc.com
 pixel.cdnwidget.com
 pixel.condenastdigital.com
@@ -5560,12 +5547,12 @@ pixel.fanbridge.com
 pixel.glimr.io
 pixel.homebook.pl
 pixel.honestjohn.co.uk
+pixel.inforsea.com
 pixel.ionos.fr
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
 pixel.nine.com.au
-pixel.prosieben.de
 pixel.roymorgan.com
 pixel.smartmedia.tj
 pixel.snapsmedia.io
@@ -5688,7 +5675,6 @@ primary.hasegawa.jp
 prism.pandora.tv
 privacy.outdoorsg.com
 privacyfriendly.netlify.app
-proactive.base.de
 processor.asccommunications.com
 proditor.sparda.de
 production-mcs.lvp.llnw.net
@@ -5732,7 +5718,6 @@ pvtag.yahoo.co.jp
 pvx.xcar.com.cn
 pwa.telephoneannuaire.fr
 pxbnou.ig.com.br
-pxc.otto.de
 pxlgnpgecom-a.akamaihd.net
 pxptpv.jobup.ch
 python.jacksellwood.com
@@ -7542,7 +7527,6 @@ statistics.fppressa.ru
 statistics.heatbeat.de
 statistics.jfmedier.dk
 statistics.klicktel.de
-statistics.raiffeisen.ch
 statistics.riskommunal.net
 statistics.tattermedia.com
 statistics.wibiya.com
@@ -7579,7 +7563,6 @@ stats.bitpost.app
 stats.blogoscoop.net
 stats.bluebillywig.com
 stats.bluesabre.org
-stats.bmw.de
 stats.bookingbuddy.com
 stats.breadtube.tv
 stats.breathly.app
@@ -8082,7 +8065,6 @@ tdep.vacansoleil.hu
 tdep.vacansoleil.it
 tdep.vacansoleil.nl
 tdep.vacansoleil.pl
-tdf.ringier.ch
 tdf1.admyjob.com
 tdf1.easyviaggio.com
 tdf1.easyviajar.com
@@ -8189,14 +8171,10 @@ track.addevent.com
 track.adintend.com
 track.auckland.ac.nz
 track.bannedcelebs.com
-track.bazonline.ch
-track.bernerzeitung.ch
 track.cafu.com
 track.cedsdigital.it
-track.cinestar.de
 track.contently.com
 track.cordial.io
-track.derbund.ch
 track.dictionary.com
 track.digitalriver.com
 track.docusign.ca
@@ -8209,6 +8187,7 @@ track.docusign.de
 track.docusign.fr
 track.docusign.jp
 track.docusign.mx
+track.dws.de
 track.eadv.it
 track.express.de
 track.ferrari.com
@@ -8218,10 +8197,10 @@ track.kyoads.com
 track.leady.cz
 track.lexico.com
 track.mailerlite.com
-track.mopo.de
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
+track.noz.de
 track.omgpl.com
 track.pnicnik.live
 track.postkodlotteriet.se
@@ -8392,7 +8371,6 @@ tracking.healthpayerintelligence.com
 tracking.hello.global.ntt
 tracking.hivecloud.net
 tracking.houzz.com
-tracking.hrs.de
 tracking.hsn.com
 tracking.hyros.com
 tracking.info.ivanti.com
@@ -8411,7 +8389,6 @@ tracking.legacyoffers.com
 tracking.lengow.com
 tracking.lenovo.com
 tracking.lg.com
-tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.lonnogpersonalabc.visma.no
@@ -8422,7 +8399,6 @@ tracking.max.co.il
 tracking.menamarketplace.com
 tracking.mindshare.de
 tracking.miui.com
-tracking.mobile.de
 tracking.monsido.com
 tracking.motorolasolutions.com
 tracking.musixmatch.com
@@ -8481,7 +8457,6 @@ tracking.ssab.fr
 tracking.ssab.jp
 tracking.ssab.ru
 tracking.ssab.se
-tracking.statravel.de
 tracking.stihl.de
 tracking.synthasite.net
 tracking.tchibo.com.tr
@@ -8536,7 +8511,6 @@ travelmarketreport.actonservice.com
 tray0bury.com
 trc.pushnami.com
 trccvt.dhc.co.jp
-trck.meinprospekt.de
 trck.spoteffects.net
 trckr.nordiskemedier.dk
 treatment.grammarly.com
@@ -8689,7 +8663,6 @@ verifier.live
 verizontelecom.hb.omtrdc.net
 veta.naver.com
 vexwjr.marisa.com.br
-vfd2dyn.vodafone.de
 vgazda.krefel.be
 vgellr.esprit.de
 vgo.vegaoo.co.uk
@@ -8712,6 +8685,7 @@ videostat-new.index.hu
 videostat.index.hu
 videostats.kakao.com
 vidgoinc.hb.omtrdc.net
+vidstat.taboola.com
 views.cancan.ro
 vip.gophersport.com
 visailing.actonservice.com
@@ -9026,6 +9000,7 @@ zminer.zaloapp.com
 zmxncb5.com
 znq9.destinia.mx
 zqtizs.bonprix.ru
+zqtk.net
 zqwofo.liverpool.com.mx
 zrsetz.shutterstock.com
 zrw1.destinia.jp
