@@ -490,7 +490,6 @@ achamm.doctolib.fr
 acq-hk.americanexpress.com
 act-on.ioactive.com
 act-on.up.edu.pe
-act.acotedemoi.com
 act.boxerproperty.com
 act.colorlines.com
 act.convergencetraining.com
@@ -1225,7 +1224,6 @@ byqdtp.interpark.com
 byubroadcasting.hb.omtrdc.net
 bzclk.baidu.com
 c-c-l.actonservice.com
-c0011.boursorama.com
 c0012.brsimg.com
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
@@ -1304,7 +1302,6 @@ census.misterspex.no
 census.misterspex.se
 central-core-7.com
 cfbwql.organifishop.com
-cfcn.allocine.net
 cfsaze.retailmenot.com
 cfyhym.weightwatchers.fr
 cgicounter.oneandone.co.uk
@@ -2309,6 +2306,7 @@ ens.tagblatt.ch
 entryhit.wp.pl
 eofwfj.ria.com
 eolvci.olx.ro
+epnt.ebay.com
 epro.sogou.com
 eproof.drudgereport.com
 eqs.intuit.com
@@ -2385,7 +2383,6 @@ events.chaordicsystems.com
 events.demand.intelsecurity.com
 events.demoup.com
 events.gogoair.com
-events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
 events.jokerly.com
@@ -3173,7 +3170,6 @@ jebb8hurt.com
 jeccmq.wehkamp.nl
 jelly.mdhv.io
 jelr1.dili.fr
-jen.jiji.com
 jenxsw21lb.com
 jfmxly.digitalhorizon.it
 jfp6.destinia.de
@@ -3190,7 +3186,6 @@ johannes.voith.com
 jokqem.hickies.com
 journey.cisco.com
 jpaatr.astellas.jp
-jppolid-track.trackprod.integration.jppol.dk
 jptobh.network.com.tr
 jqwwny.hotelpass.com
 jraasj.kobo.com
@@ -3213,7 +3208,6 @@ k4fu.verif.com
 kabokc.webuy.com
 kalstats.kaltura.com
 kampanja.bhtelecom.ba
-kbn.korben.info
 kedzpl.jysk.ch
 keet1liod.com
 keoofp.gulfnews.com
@@ -5716,7 +5710,6 @@ pulse.delta.com
 pushspring.actonservice.com
 pvtag.yahoo.co.jp
 pvx.xcar.com.cn
-pwa.telephoneannuaire.fr
 pxbnou.ig.com.br
 pxlgnpgecom-a.akamaihd.net
 pxptpv.jobup.ch
@@ -6388,7 +6381,6 @@ sfpc.changehealthcare.com
 sftr2.external.xerox.com
 sftrack.searchforce.net
 sg3.notarize.com
-sgmnt.ticketswap.com
 sgphctileh-a.akamaihd.net
 sgw-analytics.panasonic.com
 sgwhvw.alura.com.br
@@ -7509,7 +7501,6 @@ stat.tildacdn.com
 stat.tvigle.ru
 stat.valica.it
 stat.vulkanvegas.com
-stat.webevolutis.com
 stat.wolterskluwer.com
 stat.wolterskluwer.es
 stat.wolterskluwer.pl
@@ -7628,7 +7619,6 @@ stats.gethyas.com
 stats.ghost.org
 stats.gifs.com
 stats.glassmountains.co.uk
-stats.grafikart.fr
 stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
@@ -7828,7 +7818,6 @@ stats.yourdallashandyman.com
 stats.yourfone.de
 stats.zotabox.com
 stats1.tune.pk
-stats1x1.kapaza.be
 stats2.architecturaldigest.com
 stats2.tune.pk
 stats2.videonow.ru
@@ -8039,6 +8028,7 @@ tattkq.hopelingerie.com.br
 taylorshellfish.actonservice.com
 tbe.tom.ru
 tbslatinamerica.hb.omtrdc.net
+tc2.hometogo.net
 tcdata.fnac.com
 tce.alicdn.com
 tcheck.outbrainimg.com
@@ -8094,7 +8084,6 @@ teracom.actonservice.com
 teraes.hgreg.com
 teralog.techhub.co.kr
 tercabilis.info
-tesla.oscaro.com
 test-eml.postmates.com
 test-fleet-eml.postmates.com
 test.customers.instacartemail.com
@@ -8246,7 +8235,6 @@ track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
 trackdiscovery.net
-tracker-id.cdiscount.com
 tracker.adbinead.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
@@ -8362,7 +8350,6 @@ tracking.goal.pl
 tracking.godatafeed.com
 tracking.granular.ag
 tracking.gruppo.mps.it
-tracking.ha.rueducommerce.fr
 tracking.hannoversche.de
 tracking.hardoxwearparts.com
 tracking.healthitanalytics.com
@@ -8759,7 +8746,6 @@ wass.ihsmarkit.com
 wat.gogoinflight.com
 wats.gogoinflight.com
 wauk1care.com
-wbdds.allocine.fr
 wbkval.ecco.com
 wblt.oui.sncf
 wbswtr.decathlon.com.tr
