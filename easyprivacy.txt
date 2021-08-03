@@ -4412,6 +4412,7 @@ log.china.cn
 log.cizion.com
 log.codemarketing.cloud
 log.cognex.com
+log.cpex.cz
 log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
