@@ -915,6 +915,7 @@ analytics.designspiration.com
 analytics.developer.riotgames.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
+analytics.disneyinternational.com
 analytics.dogecoin.gg
 analytics.dvidshub.net
 analytics.ecosia.org
