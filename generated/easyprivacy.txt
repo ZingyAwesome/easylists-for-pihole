@@ -3448,6 +3448,7 @@ log.china.cn
 log.cizion.com
 log.codemarketing.cloud
 log.cognex.com
+log.cpex.cz
 log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
@@ -5090,6 +5091,7 @@ mtcs.nhk.or.jp
 mtcvyv.sporx.com
 mtesep.thymematernity.com
 mtm.qdqmedia.com
+mtrace.qq.com
 mtrcs.popcap.com
 mtrcs.redhat.com
 mtrs.ameco.com
