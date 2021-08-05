@@ -1605,6 +1605,7 @@ cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
 cdn-code.host
 cdn.net.elogia.net
+cdn-rum.ngenix.net
 cdn.usefathom.com
 celigo.actonservice.com
 ce.lijit.com
@@ -11270,6 +11271,7 @@ wywvyf.discuss.com.hk
 wzyjup.patch.com
 x9.shinobi.jp
 x.allabout.co.jp
+xapi.ozon.ru
 xay5o.toscane-boutique.fr
 x.bloggurat.net
 xdaoxa.footasylum.com
