@@ -746,6 +746,7 @@ adobe.truckscout24.pl
 adobe.wacoal.jp
 adpromo.peppynet.com
 adsdk.yandex.ru
+adstats.tencentmusic.com
 ads-trk.vidible.tv
 ad.takasu.co.jp
 adtd.douglas.at
@@ -2090,6 +2091,7 @@ c.snow.com
 csp.archant.co.uk
 csp-collector.appspot.com
 csr.onet.pl
+cstats.sankakucomplex.com
 csyqts.tmon.co.kr
 ct5m.citadium.com
 cta.onguard.com
@@ -2296,6 +2298,7 @@ dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dc.allianz.de
 dc.audi.com
+dc.banggood.com
 dcclaa.bunte.de
 dcclaa.daskochrezept.de
 dc.plussizetech.com
@@ -2666,6 +2669,7 @@ ecn-analytics.emc.com
 ecn-analytics-nssl.emc.com
 ecomm.events
 econolite.actonservice.com
+ec.walkme.com
 ed.2.west.com
 e.darpro-solutions.com
 edeals.rhymebiz.com
@@ -3063,6 +3067,7 @@ events.onet.pl
 events.practo.com
 events.privy.com
 events.realgravity.com
+events.reddit.com
 events.redditmedia.com
 events.santander.co.uk
 events.shareably.net
@@ -6177,6 +6182,7 @@ mond.post.ch
 mon.ingservices.nl
 monitor.azure.com
 monitor.channel4.com
+monitor.music.qq.com
 montpalatin.handicap.fr
 more.socialflow.com
 mormont.gamer-network.net
@@ -8723,6 +8729,7 @@ smtx.lastminute.com.au
 s.musicradio.com
 smy.iheart.com
 s.nerdfulmind.com
+sngmta.qq.com
 s.niagarafallsreview.ca
 snltte.promod.fr
 snowplow.swm.digital
@@ -9349,6 +9356,7 @@ stats.filmfed.com
 stats.finger-ink.com
 stats.fittkaumaass.de
 stats.fomo.com
+stats.fonecta.fi
 stats.frankfurterneuepresse.de
 stats.fruechtl.me
 stats.fs.com
@@ -9623,6 +9631,7 @@ stat.wolterskluwer.es
 stat.wolterskluwer.pl
 stat.ws.126.net
 stat.xiaomi.com
+stat.y.qq.com
 statystyki.panelek.com
 stat.zol.com.cn
 st.azcardinals.com
@@ -10198,6 +10207,7 @@ tracker.520call.me
 tracker.adbinead.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
+tracker.ai.xiaomi.com
 trackerapi.truste.com
 tracker.arc.io
 tracker.azet.sk
