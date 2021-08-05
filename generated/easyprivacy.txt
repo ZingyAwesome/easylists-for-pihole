@@ -664,9 +664,7 @@ aminks.underarmour.com.tr
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
 analitica.webrpp.com
-analy.qq.com
 analyse.bcovery.com
-analyse.weather.com.cn
 analyselog.dx.com
 analysis.shinobi.jp
 analytic.ae.com
@@ -741,6 +739,7 @@ analytics.designspiration.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
+analytics.disneyinternational.com
 analytics.dogecoin.gg
 analytics.dvidshub.net
 analytics.ecosia.org
@@ -779,7 +778,6 @@ analytics.kraken.com
 analytics.ladmedia.fr
 analytics.laregione.ch
 analytics.live.com
-analytics.livehindustan.com
 analytics.livestream.com
 analytics.logsss.com
 analytics.lunge.de
@@ -916,7 +914,6 @@ analytics.yola.net
 analytics.yolacdn.net
 analytics.yomedia.vn
 analytics.yourbankcard.com
-analytics.zhihu.com
 analytics.ziftsolutions.com
 analytics00.meride.tv
 analyticsssl.forcepoint.com
@@ -927,7 +924,6 @@ ans.milb.com
 ans.mlb.com
 answers.teradata.pl
 antblz.mediaworld.it
-anti-bot.baidu.com
 antitracking.owncast.online
 anytime.digitaljobs.gr
 aom.smartbrief.com
@@ -965,6 +961,7 @@ app1.maatwerkonline.nl
 appanalysis.banggood.com
 apple.www.letv.com
 applink.getbambu.com
+applog.yiche.com
 apply.bluetrustloans.com
 apply.maxlend.com
 appmetrics.sprint.com
@@ -1058,6 +1055,7 @@ bali6nora.com
 balkog.withmoment.co.kr
 ballantine.actonservice.com
 ballymoregroup.actonservice.com
+banana.le.com
 bancopostapremia.bancoposta.it
 banstat.nadavi.net
 barcelo.ingenioustech.biz
@@ -1124,7 +1122,6 @@ bewaslac.com
 beyondmeasure.rigoltech.com
 bfp.capitalone.com
 bgiamericas.actonservice.com
-bglog.bitauto.com
 bhu9.bankia.es
 biberukalap.com
 bidder.mediams.mb.softbank.jp
@@ -1265,7 +1262,6 @@ carzbz.triviatoday.com
 cascadion.thermofisher.com
 cashbeet.com
 caspionlog.appspot.com
-cast.ra.icast.cn
 catracking.finning.com
 cavy9soho.com
 cb-mms.carbuyer.co.uk
@@ -1316,6 +1312,7 @@ channelusa.samsung.com
 channelwatcher.panda.tech
 chartec.actonservice.com
 chelseafc.hb.omtrdc.net
+cherry.le.com
 ches5sort.com
 chevalierusa.actonservice.com
 chic9usia.com
@@ -1374,13 +1371,11 @@ click.mail.carousell.com
 click.mail.thecarousell.com
 click.marketing.carousell.com
 click.official.nike.com
-click.oneplus.cn
 click.oneplus.com
 click.policypilot.com
 click.quickenloansnow.com
 click.redditmail.com
 click.sinx.com
-click.suning.cn
 click.transactional.carousell.com
 click.tv.repubblica.it
 click.udimg.com
@@ -1410,7 +1405,6 @@ client-log.box.com
 cliftons.actonservice.com
 clipcanvas.actonservice.com
 clk.boulanger.com
-clkstat.qihoo.com
 clnbze.echodnia.eu
 clnbze.naszemiasto.pl
 cloud-9751.com
@@ -1443,7 +1437,6 @@ cmp.tek.no
 cmp.telerama.fr
 cmp2.channelpartner.de
 cms.hardloopaanbiedingen.nl
-cmstool.youku.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
 cname.finess.jp
@@ -1631,15 +1624,11 @@ corus.hb.omtrdc.net
 count.asnetworks.de
 count.carrierzone.com
 count.channeladvisor.com
-count.kandian.com
 count.me.uk
 count.munhwa.com
 count.paycounter.com
 count.rin.ru
-count.taobao.com
 count.upc.rakuten.co.jp
-count.video.sina.com.cn
-count.vrs.sohu.com
 count.yandeg.ru
 count5.pconline.com.cn
 counter.blogoscoop.net
@@ -1662,7 +1651,6 @@ counter.powweb.com
 counter.proxycrawl.com
 counter.rambler.ru
 counter.scribblelive.com
-counter.search.bg
 counter.sibnet.ru
 counter.snackly.co
 counter.sparklit.com
@@ -2089,13 +2077,13 @@ dvo.assurandme.fr
 dw0c.sfr.fr
 dwbotr.ssg.com
 dwglgp.dunelm.com
-dwtracking.sdo.com
 dxe2.heip.fr
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymic.actonservice.com
 dymlo6ffhj97l.cloudfront.net
 dyv1bugovvq1g.cloudfront.net
+dzbrr144kh0m6.cloudfront.net
 dzszbb.homes.co.jp
 e1c.curtisswrightds.com
 e1e.io
@@ -2418,6 +2406,7 @@ ewstv.abcactionnews.com
 exd4.destinia.com.au
 exdmarketing.smu.edu.sg
 execution-ci360.rai.it
+experianmatch.info
 experience.aifsabroad.com
 experience.contextly.com
 experience.jcu.edu.au
@@ -2528,7 +2517,6 @@ fnqhpf.marioberluchi.ru
 fog.pixual.co
 food.informaengage.com
 foodpackaging.kpfilms.com
-footprint.anetwork.ir
 forms.cooperaerobics.com
 forms.embarcadero.com
 forms.enterprisenews.telstra.com
@@ -5708,6 +5696,7 @@ publications.nomination.fr
 pubstr.acs.org
 pubstr.acspubs.org
 pudalz.gismeteo.by
+pulsar.ebay.com
 pulse.delta.com
 pushspring.actonservice.com
 pvtag.yahoo.co.jp
@@ -5750,6 +5739,7 @@ qnbskk.oqvestir.com.br
 qpl9.destinia.dk
 qpwoei2.com
 qqdflf.lpga.or.jp
+qreport.qunar.com
 qrjsbn.flinndal.nl
 quartzevents.actonservice.com
 qubitanalytics.appspot.com
@@ -5836,6 +5826,7 @@ reporting.cdndex.io
 reporting.handll.net
 reporting.singlefeed.com
 reports-api.sqreen.io
+reportsk.web.sdo.com
 repvwz.panchemodan.ru
 req12pkgb.com
 res.elle.fr
