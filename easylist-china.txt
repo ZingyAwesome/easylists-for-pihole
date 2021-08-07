@@ -111,6 +111,8 @@
 16k6.com
 170yy.com
 1711811.com
+172.121.4.251
+172.121.4.252
 174.139.53.195
 175bar.com
 176um.com
@@ -1880,6 +1882,7 @@ gg.getbs.com
 gg.gsdlcn.com
 gg.gw032.com
 ggg.zj.com
+gg.huahaimi.work
 ggjs.d17.cc
 gg.kugou.com
 gg.miued.com
