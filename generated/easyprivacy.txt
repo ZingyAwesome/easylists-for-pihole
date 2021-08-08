@@ -8240,6 +8240,7 @@ track.youniversalmedia.com
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
+trackclicks.info
 trackdiscovery.net
 tracker.adbinead.com
 tracker.affiliate.iqoption.com
