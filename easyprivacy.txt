@@ -1783,6 +1783,7 @@ cmp.finn.no
 cmp.huffingtonpost.fr
 cmp.netzwelt.de
 cmp.nouvelobs.com
+cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
 cms.hardloopaanbiedingen.nl
@@ -3131,6 +3132,7 @@ fac.fanucamerica.com
 fandango.hb-api.omtrdc.net
 fandango.hb.omtrdc.net
 fastenermkt.averydennison.com
+faster-trk.com
 fathom.app.silverbeak.com
 fathom.status.im
 fathom.tdvm.net
@@ -3372,6 +3374,7 @@ geo.gorillanation.com
 geoip.ativo.com
 geoip.boredpanda.com
 geoip.cookieyes.com
+geoip.finanzen.net
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.nekudo.com
@@ -6201,6 +6204,7 @@ mshs.actonservice.com
 ms.informaengage.com
 msr.p-antiaging.com
 ms.topschooljobs.org
+ms-trackingapi.phenompeople.com
 msufcu.actonservice.com
 msz3.destinia.cn
 mt48.net
@@ -6827,7 +6831,6 @@ pixels.afcdn.com
 pixel.safe-installation.com
 pixels.boxberry.ru
 pixel.smartmedia.tj
-pixel.snapsmedia.io
 pixel.solvemedia.com
 pixel.sprinklr.com
 pixel.tree.com
@@ -7187,7 +7190,6 @@ reporting.singlefeed.com
 report.meituan.com
 report.mitsubishicars.com
 report.novinky.cz
-report.qq.com
 reports-api.sqreen.io
 reportsk.web.sdo.com
 reports.pagesuite-professional.co.uk
@@ -10027,6 +10029,7 @@ theaba.actonservice.com
 thebdx.actonservice.com
 thermocalc.actonservice.com
 thetradedesk-tags.s3.amazonaws.com
+thomastorch.com
 thomson.hb-api.omtrdc.net
 thomsonreuters.actonservice.com
 t.hypers.com.cn
@@ -10174,6 +10177,7 @@ tr.3ou4xcb.cetelem.fr
 tr.abo.cotemaison.fr
 traccoon.intellectsoft.net
 trace.insead.edu
+trace.qq.com
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
@@ -10521,6 +10525,7 @@ track.thebase.in
 track.thesaurus.com
 track.tiara.daum.net
 track.tiara.kakao.com
+track.tomwx.net
 track.uc.cn
 track.untd.com
 track.vdo.ai
@@ -11207,6 +11212,7 @@ wprixk.brocard.ua
 wren.condenastdigital.com
 ws.audioeye.com
 wsgddl.deporvillage.it
+wspeed.qq.com
 wssgmstats.vibbo.com
 wsstats.coches.net
 wstats.e-wok.tv
