@@ -2674,6 +2674,7 @@ geobar.ziffdavisinternational.com
 geoip.ativo.com
 geoip.boredpanda.com
 geoip.cookieyes.com
+geoip.finanzen.net
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.nekudo.com
@@ -5076,6 +5077,7 @@ mown5gaze.com
 mpglie.apartmentguide.com
 mqldrm.lgcity.ru
 mqs.ioam.de
+ms-trackingapi.phenompeople.com
 mseeru.faz.net
 mshs.actonservice.com
 msufcu.actonservice.com
@@ -5549,7 +5551,6 @@ pixel.newscred.com
 pixel.nine.com.au
 pixel.roymorgan.com
 pixel.smartmedia.tj
-pixel.snapsmedia.io
 pixel.solvemedia.com
 pixel.sprinklr.com
 pixel.tree.com
@@ -5831,7 +5832,6 @@ repdata.wtsp.com
 report.meituan.com
 report.mitsubishicars.com
 report.novinky.cz
-report.qq.com
 reporting.cdndex.io
 reporting.handll.net
 reporting.singlefeed.com
@@ -8110,6 +8110,7 @@ thaqyl.mediamarkt.nl
 theaba.actonservice.com
 thebdx.actonservice.com
 thermocalc.actonservice.com
+thomastorch.com
 thomsonreuters.actonservice.com
 tics.seeker.gg
 tics.techdirt.com
@@ -8161,6 +8162,7 @@ tr2.kaspersky.ru
 trac.roomster.com
 traccoon.intellectsoft.net
 trace.insead.edu
+trace.qq.com
 track-srv.vietnamnet.vn
 track.addevent.com
 track.adintend.com
@@ -8224,6 +8226,7 @@ track.thebase.in
 track.thesaurus.com
 track.tiara.daum.net
 track.tiara.kakao.com
+track.tomwx.net
 track.uc.cn
 track.untd.com
 track.vdo.ai
@@ -8864,6 +8867,7 @@ wph2.destinia.us
 wprixk.brocard.ua
 wren.condenastdigital.com
 wsgddl.deporvillage.it
+wspeed.qq.com
 wssgmstats.vibbo.com
 wsstats.coches.net
 wstat.wibiya.com
