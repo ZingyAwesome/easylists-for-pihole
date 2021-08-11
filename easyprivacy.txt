@@ -27,6 +27,7 @@
 35.239.57.233
 3d.shophumanoid.com
 3p-geo.yahoo.com
+3p-udc.yahoo.com
 44tele-infra.com
 44-trk-srv.com
 45.32.105.134
@@ -2959,6 +2960,7 @@ enrichmentjourneys.actonservice.com
 ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
+enthusiastgaming.net
 entryhit.wp.pl
 eofwfj.ria.com
 eoiqpm.gloria-jeans.ru
@@ -7675,6 +7677,7 @@ sci.digitalinsight.com
 sci.intuit.ca
 sci.intuit.com
 sc.independent.co.uk
+scintillatingsilver.com
 sc.iombank.com
 sci.quickbooks.com
 scis.tbs.co.jp
