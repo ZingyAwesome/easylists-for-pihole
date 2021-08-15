@@ -9510,6 +9510,7 @@ stats.sa-as.com
 stats.safeway.com
 stats.sawlive.tv
 stats.scalgo.com
+stats.screenresolution.org
 stats.searchftps.net
 stats.sec.telefonica.com
 stats.seedr.com
@@ -10034,7 +10035,6 @@ thaqyl.mediamarkt.nl
 theaba.actonservice.com
 thebdx.actonservice.com
 thermocalc.actonservice.com
-thetradedesk-tags.s3.amazonaws.com
 thomastorch.com
 thomson.hb-api.omtrdc.net
 thomsonreuters.actonservice.com
@@ -10629,7 +10629,6 @@ treatment.grammarly.com
 trecker.aklamio.com
 tredir.go.com
 tr.e.entreprise-pm.net
-tree-pixel-log.s3.amazonaws.com
 t.regionsjob.com
 tr.email.archiexpo.com
 tr.e-mail.axa.fr
@@ -10654,7 +10653,6 @@ tr.enedis-infos.fr
 tr.envie-de-bien-manger.espmp-aufr.net
 tr.e.trouver-un-logement-neuf.com
 tr.europa-organisation.com
-trf.intuitwebsites.com
 tr.gestion.banque-casino.fr
 tr.gestion.cetelem.fr
 tr.gestion.sygmabnpparibas-pf.com
@@ -10693,13 +10691,11 @@ trk.absuite.com.br
 trk.adbutter.net
 trk.atxwest.com
 trk.bc.shutterfly.com
-trk.bhs4.com
 trk.blume2000.de
 trk.business.westernunion.ch
 trk.business.westernunion.com
 trk.channelfutures.com
 trk.chegg.com
-trk.cloudsna.com
 trk.contentmarketinginstitute.com
 trk.coteriefashionevents.com
 trk.darkreading.com
@@ -10707,7 +10703,6 @@ trk.datacenterknowledge.com
 trk.designnews.com
 trk.dmwest.com
 trk.drdobbs.com
-trk.email.dynect.net
 trk.fensi.plus
 trk.fr.business.westernunion.ca
 trk.fr.business.westernunion.ch
@@ -10727,18 +10722,15 @@ trk.nojitter.com
 trk.nuernberger.de
 trk.nuernberger.digital
 trk.optum.com
-trk.pinterest.com
 trk.plastecwest.com
 tr.kpyn.espmp-cufr.net
 trkpzz.dcinside.com
-trk.sele.co
 trksrv44.com
 trksrv45.com
 trksrv46.com
 trk.s.sephora.com
 trk.techtarget.com
 trk.vidible.tv
-trk.vindicosuite.com
 trk.webhostingtalk.com
 trk.westpackshow.com
 tr.mail.enviedebienmanger.fr
@@ -10864,7 +10856,6 @@ tst16infra.com
 t-staging.powerreviews.com
 ts.tradetracker.net
 ttcu-union.actonservice.com
-ttdetect.staticimgfarm.com
 ttfpil.2dehands.be
 tukuru.cotta.jp
 tula9mari.com
