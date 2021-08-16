@@ -940,7 +940,6 @@ bd1.sosg.net
 bd1.szhk.com
 bd1.xiby.cn
 bd1.yidu.cc
-bd1-ys.km.com
 bd2fbnfg.com
 bd3.chuiyue.com
 bd888.qizuang.com
@@ -986,6 +985,7 @@ bd.watu.cn
 bdwmhz.120askimages.com
 bdxnc.com
 bdx.playnext.cn
+bd-ys.km.com
 bdyxzx.com
 bearad.com
 bebelait.com
@@ -1045,6 +1045,7 @@ bjxfinance.cn
 bjxgw.top
 bjygfd.com
 bjytdqwx.com
+bjyyxywjm.cn
 bjzcbx.com
 bjzshy.cn
 bjzsyx.cn
@@ -1108,6 +1109,7 @@ busxiongdi.com
 butendecatholicparish.com
 buydee.org
 buyihao.com
+buymusicdirect.com
 buyuninfo.com
 buzx53.cn
 bv8888.com
@@ -1132,6 +1134,7 @@ caichenguang.cn
 caiji.wiki
 caiwanhui.top
 calculated.cn
+calvfk.cn
 canalandco.com
 cangnews.com
 cao444cao.com
@@ -1231,6 +1234,7 @@ churchatsouthcreek.com
 chushoushijian.cn
 chuzrra.cn
 chuzushijian.cn
+chy365.cn
 cifree.xyz
 cike666.com
 cilxili.top
@@ -2286,6 +2290,7 @@ hy.huangye88.com.cn
 hy.huangye88.net
 hyjdz.cn
 hylyl.club
+hyos.store
 hysjm.cn
 hystq.com
 hytcsh.cn
@@ -2321,6 +2326,7 @@ idasai.com
 idcot.com
 idcqi.com
 identified.cn
+idevoa.cn
 idgdmgroup.com.cn
 idianfang.com
 idoc58.com
@@ -2856,6 +2862,7 @@ liuwenyan.xyz
 liuzishen.com
 liveappgirl.net
 livehapp.com
+liwq.club
 lixiangmo.com
 lixianze.top
 lixiaodie.com
@@ -4426,6 +4433,7 @@ xiaokeaiapp.com
 xiaopinwo.com
 xiaoshuoyun.cn
 xiarikui08.com
+xiayk.cn
 xieyanmin.com.cn
 xihashuale.com
 xihuangdushu.com
