@@ -906,6 +906,7 @@ analytics.verizonwireless.com
 analytics.villagehouse.jp
 analytics.virginmobileusa.com
 analytics.webgains.io
+analytics.webpushr.com
 analytics.websolute.it
 analytics.whotargets.me
 analytics.wildtangent.com
@@ -7754,6 +7755,7 @@ stats.ruthmontenegro.com
 stats.safeway.com
 stats.sawlive.tv
 stats.scalgo.com
+stats.screenresolution.org
 stats.searchftps.net
 stats.sec.telefonica.com
 stats.seedr.com
@@ -8522,7 +8524,6 @@ trecker.aklamio.com
 tredir.go.com
 tremorhub.com
 trends.newsmaxwidget.com
-trf.intuitwebsites.com
 triconah.actonservice.com
 triggers.wfxtriggers.com
 trk.absuite.com.br
@@ -8533,7 +8534,6 @@ trk.business.westernunion.ch
 trk.business.westernunion.com
 trk.channelfutures.com
 trk.chegg.com
-trk.cloudsna.com
 trk.contentmarketinginstitute.com
 trk.coteriefashionevents.com
 trk.darkreading.com
@@ -8541,7 +8541,6 @@ trk.datacenterknowledge.com
 trk.designnews.com
 trk.dmwest.com
 trk.drdobbs.com
-trk.email.dynect.net
 trk.fensi.plus
 trk.fr.business.westernunion.ca
 trk.fr.business.westernunion.ch
@@ -8559,11 +8558,8 @@ trk.nojitter.com
 trk.nuernberger.de
 trk.nuernberger.digital
 trk.optum.com
-trk.pinterest.com
 trk.plastecwest.com
-trk.sele.co
 trk.techtarget.com
-trk.vindicosuite.com
 trk.webhostingtalk.com
 trk.westpackshow.com
 trklink.luisaviaroma.com
@@ -8586,7 +8582,6 @@ tsnebc.mebelok.com
 tspmagic.tumblr.com
 tst16infra.com
 ttcu-union.actonservice.com
-ttdetect.staticimgfarm.com
 tukuru.cotta.jp
 tula9mari.com
 turnerapac.hb.omtrdc.net
