@@ -764,6 +764,7 @@ analytics.gazeta.pl
 analytics.getshogun.com
 analytics.global.sky.com
 analytics.gvim.mobi
+analytics.hashnode.com
 analytics.haworth.com
 analytics.hayneedle.com
 analytics.hermesworld.com
@@ -3183,6 +3184,7 @@ jill.fc.yahoo.com
 jinair.sc.jinair.com
 jknarp.kakaku.com
 jln3.clstudios.com
+jly24aw29n5m-a.akamaihd.net
 joastb.idealista.com
 johannes.voith.com
 jokqem.hickies.com
@@ -4082,6 +4084,7 @@ marketing2.technologyadvice.com
 marketing6.directimpactinc.com
 marketingautomation.impexium.net
 marketingus.hso.com
+martech.condenastdigital.com
 marx7loki.com
 mas.nth.ch
 mass1soma.com
@@ -5660,6 +5663,7 @@ powercount.jswelt.de
 pplpiq.pricerunner.se
 ppp7.destinia.kr
 ppxhpc.eurocamp.nl
+prairiedog.hashnode.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
