@@ -1390,7 +1390,6 @@ click.uol.com.br
 click.vgnett.no
 click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
-clickmail.stubhub.com
 clicks-test.info.theiconic.com.au
 clicks.burgerking.co.uk
 clicks.dealer.com
@@ -4097,6 +4096,7 @@ mbljpu9.com
 mbns.bruker.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
+mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mcs.delvenetworks.com
 mczpco.darty.com
@@ -5114,7 +5114,6 @@ munchkin.marketo.net
 mva1.maeva.com
 mvezin.modernperformance.com
 mwor.gq
-mybbc-analytics.files.bbci.co.uk
 myhome.usg.com
 mypension.efscle.com
 myrfdq.emmi.jp
@@ -7884,6 +7883,7 @@ success.ebmcatalyst.com
 sucmetrics.hypovereinsbank.de
 sucmetrics.unicredit.it
 sugh8yami.com
+sulkycook.com
 suncanny.marvel.com
 supertraders.info
 supplychain.kinaxis.com
@@ -8995,6 +8995,7 @@ zetacom.actonservice.com
 zfzhwz.hema.nl
 zhihu-web-analytics.zhihu.com
 zio.xcar.com.cn
+zion-telemetry.api.cnn.io
 zkbyhx.tropicfeel.com
 zkc5.fleurancenature.fr
 zlolhl.anekdot.ru
