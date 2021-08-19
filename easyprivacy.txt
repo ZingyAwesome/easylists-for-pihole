@@ -1719,7 +1719,6 @@ click.instacartemail.com
 click.kataweb.it
 click.lmbcustomersupport.com
 click.mail.carousell.com
-clickmail.stubhub.com
 click.mail.thecarousell.com
 click.marketing.carousell.com
 click.official.nike.com
@@ -1989,6 +1988,7 @@ conversations.al-enterprise.com
 conversions.genieventures.co.uk
 conveyor.lewcoinc.com
 convsgmp.taboola.com
+cookie-guard-erdee.ey.r.appspot.com
 cookiejar.atea.no
 cookies.engage.russellinvestments.com
 cookies.livepartners.com
@@ -5143,6 +5143,7 @@ mcdmetrics.aaa.com
 mcdp-.outbrain.com
 mckbpe.united-arrows.co.jp
 mcs.delvenetworks.com
+mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mc.webvisor.com
 mc.webvisor.org
@@ -6248,7 +6249,6 @@ mv.treehousei.com
 mwor.gq
 mx.carfax.com
 mx.technolutions.net
-mybbc-analytics.files.bbci.co.uk
 my.carolina.com
 myhome.usg.com
 my.iheart.com
