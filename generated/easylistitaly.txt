@@ -14,6 +14,7 @@ free.netsons.com
 giornalisti.vivere.srl
 iads.iltrovatore.it
 middycdn-a.akamaihd.net
+napolimagazine.biz
 netrefer-a.akamaihd.net
 oas.repubblica.it
 oasjs.kataweb.it
