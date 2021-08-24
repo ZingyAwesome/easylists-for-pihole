@@ -847,7 +847,6 @@ am-vid-events.taboola.com
 analitica.webrpp.com
 analyse.bcovery.com
 analyselog.dx.com
-analysis.shinobi.jp
 analytic20.detik.com
 analytic.ae.com
 analyticcdn.globalmailer.com
@@ -1267,7 +1266,6 @@ attributiontrackingga.googlecode.com
 atxqb.psychologies.com
 atxslk.galamart.ru
 audev.zeit.de
-audience.acpm.fr
 audience.atex.com
 audience-mostread.r7.com
 audience.newscgp.com
@@ -6743,6 +6741,7 @@ pciidk.shopee.vn
 p.classroombookings.com
 p.clvs7.com
 pcykgc.onetravel.com
+p.data.cctv.com
 pdc.dmleonyc.com
 pdlavr.erwinmueller.com
 pdmsmrt.buick.com
