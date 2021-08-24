@@ -669,7 +669,6 @@ amplifypixel.outbrain.com
 analitica.webrpp.com
 analyse.bcovery.com
 analyselog.dx.com
-analysis.shinobi.jp
 analytic.ae.com
 analytic.cibc.com
 analytic.rollout.io
@@ -1015,7 +1014,6 @@ attributiontrackingga.googlecode.com
 atxqb.psychologies.com
 atxslk.galamart.ru
 audev.zeit.de
-audience.acpm.fr
 audience.atex.com
 audience.newscgp.com
 audiencies.ccma.cat
@@ -1323,6 +1321,7 @@ cherry.le.com
 ches5sort.com
 chevalierusa.actonservice.com
 chic9usia.com
+chickensstation.com
 chihiro.nostalgie.fr
 chip2gift.com
 chmproxy.bid
@@ -1814,7 +1813,9 @@ d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 dacocorp.actonservice.com
 daifez.thebay.com
+damageddistance.com
 dana8herb.com
+dapperfloor.com
 daq0d0aotgq0f.cloudfront.net
 dash.getsitecontrol.com
 data-ssl.pnet.co.za
