@@ -59,6 +59,8 @@
 104.203.72.254
 104.233.177.93
 104610.com
+107.148.199.181
+107.165.206.26
 107.172.176.197
 107.183.137.18
 107.187.122.172
@@ -91,15 +93,18 @@
 1.32xp.com
 134.73.54.252
 136.0.56.196
+137.175.69.92
 138lm.com
 13hangpifa.com
 13wn.com
+142.0.129.74
 146.148.85.61
 1494.top
 1.5000yan.com
 1.51dongshi.com
 1.51sxue.cn
 154.196.143.171
+156.232.37.2
 156.246.162.2
 157776.com
 163.197.136.33
@@ -139,6 +144,7 @@
 1.ajiyuming.com
 1.arpun.com
 1.bh5.com.cn
+1.ccutu.com
 1.cjcp.cn
 1.codesdq.com
 1.codezh.com
@@ -199,6 +205,8 @@
 201.myhard.com
 201n.com
 211.167.105.131
+213.232.113.250
+216.172.154.226
 21.cizhibaogao.org
 21.fh21static.com
 21kk.cc
@@ -1128,6 +1136,7 @@ bx9000.top
 bxgmb.com
 bxgz.cc
 bxjpl.cn
+bxmuvw.cn
 bydonline.com
 by.dyq.cn
 c1.4qx.net
@@ -1315,6 +1324,7 @@ codelabbeijing.cn
 code.ts166.net
 cod.southmoney.com
 coenr.com
+coinever.net
 cojia.net
 colchaguino.com
 comberry.cn
@@ -2135,6 +2145,7 @@ hblinwei.com
 hbnygj.com
 hbssjd.cn
 hbttcc.com
+hbuweb.net
 hbyingchang.cn
 hbyyzm.com
 hbzhenquan.cn
@@ -2151,6 +2162,7 @@ hdketang.cn
 hdminfeng.com
 hdsahfkja.top
 hdsrc-a.akamaihd.net
+hdxxaq.cn
 he3kz8.com
 headwell.cn
 heavenwil.top
@@ -2408,6 +2420,7 @@ img.zuowenwang.net
 imiek.com
 imim.me
 imneinei.com
+imnvgma.cn
 importcat.com
 impresacisaf.com
 impservice.yodao.com
@@ -2996,6 +3009,7 @@ lychangxu.cn
 lyczhb.com
 lygryd.cn
 lygrydwz.cn
+lygrydwz.net.cn
 lyjiuban.com
 lyjz001.com
 lylfj.cn
@@ -3165,6 +3179,7 @@ mtcat.cn
 mtoalv.cn
 mu722.com
 mudezs.com
+muer.cdn-baidu.fs-sywh.com
 mvlkvth.cn
 mxc87.org
 mxhbkj.cn
@@ -3206,6 +3221,7 @@ ncoyqc.com
 ndtzx.com
 ndusa.cn
 nernv.com
+netcoretech.net
 netfix8.info
 new.htcui.com
 newknowledge.cn
@@ -3349,6 +3365,7 @@ p3tt.com
 p4p.sina.com.cn
 p.7060.la
 p8u.hinet.net
+pagetest.top
 panda.kdnet.net
 panel-cn.com
 panruo.net.cn
@@ -3399,6 +3416,7 @@ pinkmore.cn
 pinwu123.com
 pinyierp.com
 pinyoux.com
+pitudashen.top
 pjbjzf.com
 pjfrsc.cn
 pjlcrab.top
@@ -4119,6 +4137,7 @@ tukexiu.com
 tumeite.cn
 tunanchangban.com
 tuoxintrade.cn
+tutese.com.cn
 tuwo-audio.cn
 tu.zx110.org
 twitterzs.com
@@ -4923,6 +4942,7 @@ zc710956.top
 zcand.com
 zchange.xyz
 zcrtd.com
+zd2020.top
 zdovrb.cn
 zdryg.com
 zencu.com.cn
