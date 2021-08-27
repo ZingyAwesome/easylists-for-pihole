@@ -8854,7 +8854,6 @@ so.opentable.com
 sosc.hrs.com
 so.swisscom.ch
 sour1bare.com
-sourcepointcmp.bloomberg.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
