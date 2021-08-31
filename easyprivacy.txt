@@ -1722,6 +1722,7 @@ click.mail.carousell.com
 click.mail.thecarousell.com
 click.marketing.carousell.com
 click.official.nike.com
+click.oneplus.cn
 click.oneplus.com
 click.policypilot.com
 click.quickenloansnow.com
@@ -1755,6 +1756,7 @@ cliftons.actonservice.com
 clipcanvas.actonservice.com
 c.live.com
 clk.boulanger.com
+cllctr.roistat.com
 clnbze.echodnia.eu
 clnbze.gk24.pl
 clnbze.naszemiasto.pl
@@ -2070,6 +2072,7 @@ cqpmvc.voici.fr
 cqubdd.metro.co.uk
 cqubdd.thisismoney.co.uk
 crackle.hb.omtrdc.net
+cratecamera.com
 crayfish.thingelstad.com
 crbcunninghams.actonservice.com
 create-tracking.com
@@ -3047,6 +3050,7 @@ event.csdn.net
 event.edb.gov.sg
 eventgateway.soundcloud.com
 event.getblue.io
+event.instiengage.com
 event-listener.air.tv
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
@@ -3721,6 +3725,7 @@ hyybul.kaskus.co.id
 hzdjfb.polskikoszyk.pl
 hzeetn.natalie.mu
 hzpxre.diariogol.com
+i218435.net
 ia.51.la
 iabusprivacy.pmc.com
 iaclarington.actonservice.com
@@ -3769,6 +3774,7 @@ img.bwin.com
 img.bwin.it
 img.gamebookers.com
 imgstat.baidu.com
+impactcdn.com
 imp.ad-plus.cn
 imp.affiliator.com
 imp.go.sohu.com
@@ -6368,6 +6374,7 @@ nol.yahoo.com
 nom.churchofjesuschrist.org
 nom.lds.org
 nomsc.kpn.com
+nondescriptnote.com
 nong3bram.com
 noodle.backmarket.io
 nora7nice.com
@@ -6939,6 +6946,7 @@ plhwid.evdeeczane.com
 p-log.ykimg.com
 pls.indiemakers.fr
 pl.terraintinker.com
+pluckypocket.com
 plug1luge.com
 pluralsight.hb.omtrdc.net
 pluto.r.powuta.com
@@ -7755,6 +7763,7 @@ scout.bergfreunde.nl
 sc.paramountnetwork.com
 s.crackedthecode.co
 sc.rbs.co.uk
+screechingstove.com
 scribe.wongnai.com
 scripts.psyma.com
 scs.arcteryx.com
@@ -7929,6 +7938,7 @@ shows.broadwayacrossamerica.com
 shqmetrics.sony.com
 shrek.6.cn
 shrfbdg004.com
+shrillspoon.com
 shtptt.cupshe.com
 sicas.ikea.com
 sicas.ikea.net
@@ -8731,6 +8741,7 @@ smetric.yardhouse.com
 smetrix.youravon.com
 sminerva.healthcentral.com
 smodus.nike.com
+smoggysnakes.com
 smon.congress.gov
 smon.loc.gov
 smr2.so-net.ne.jp
@@ -10059,6 +10070,7 @@ tim.nextinpact.com
 t.indeed.com
 tippcom01.tipp24.com
 tire1soak.com
+tiresomethunder.com
 t.itsehoitoapteekki.fi
 t.jobsyn.org
 t.jossandmain.com
