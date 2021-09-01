@@ -1411,6 +1411,7 @@ client-log.box.com
 cliftons.actonservice.com
 clipcanvas.actonservice.com
 clk.boulanger.com
+cllctr.roistat.com
 clnbze.echodnia.eu
 clnbze.naszemiasto.pl
 cloud-9751.com
@@ -1688,6 +1689,7 @@ cqpmvc.voici.fr
 cqubdd.metro.co.uk
 cqubdd.thisismoney.co.uk
 crackle.hb.omtrdc.net
+cratecamera.com
 crayfish.thingelstad.com
 crbcunninghams.actonservice.com
 create-tracking.com
@@ -2365,6 +2367,7 @@ event.api.drift.com
 event.csdn.net
 event.edb.gov.sg
 event.getblue.io
+event.instiengage.com
 event.syndigo.cloud
 event.webcollage.net
 eventapi.libring.com
@@ -2892,6 +2895,7 @@ hyybul.kaskus.co.id
 hzdjfb.polskikoszyk.pl
 hzeetn.natalie.mu
 hzpxre.diariogol.com
+i218435.net
 iabusprivacy.pmc.com
 iaclarington.actonservice.com
 iatoex.kahve.com
@@ -2932,6 +2936,7 @@ imp.affiliator.com
 imp.go.sohu.com
 imp.optaim.com
 imp.pvnsolutions.com
+impactcdn.com
 impress.vcita.com
 imxfck.varusteleka.com
 independence.americanportfolios.com
@@ -5206,6 +5211,7 @@ nol.yahoo.com
 nom.churchofjesuschrist.org
 nom.lds.org
 nomsc.kpn.com
+nondescriptnote.com
 nong3bram.com
 noodle.backmarket.io
 nora7nice.com
@@ -5648,6 +5654,7 @@ play.mix.kinostuff.com
 player-telemetry.vimeo.com
 plhwid.evdeeczane.com
 pls.indiemakers.fr
+pluckypocket.com
 plug1luge.com
 pluralsight.hb.omtrdc.net
 pmetrics.performancing.com
@@ -6270,6 +6277,7 @@ scout.bergfreunde.de
 scout.bergfreunde.dk
 scout.bergfreunde.eu
 scout.bergfreunde.nl
+screechingstove.com
 scribe.wongnai.com
 scripts.psyma.com
 scs.arcteryx.com
@@ -6410,6 +6418,7 @@ shoppingguarantee.digicert.com
 shows.broadwayacrossamerica.com
 shqmetrics.sony.com
 shrfbdg004.com
+shrillspoon.com
 shtptt.cupshe.com
 sicas.ikea.com
 sicas.ikea.net
@@ -7132,6 +7141,7 @@ smetricstur.www.svenskaspel.se
 smetrix.youravon.com
 sminerva.healthcentral.com
 smodus.nike.com
+smoggysnakes.com
 smon.congress.gov
 smon.loc.gov
 smrt.as
@@ -8134,6 +8144,7 @@ tilt.bankofamerica.com
 tim.hb.omtrdc.net
 tim.nextinpact.com
 tire1soak.com
+tiresomethunder.com
 tkelq.genesys.com
 tkvxdj.cars.com
 tls.thelibrarystore.com
