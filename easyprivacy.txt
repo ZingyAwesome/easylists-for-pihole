@@ -824,6 +824,7 @@ alfeza.vueling.com
 alga9frog.com
 alicat.actonservice.com
 alinks.outcomes4me.com
+aloofmetal.com
 alp1.drimki.fr
 alsgaj.chosun.com
 alsgaj.sportschosun.com
@@ -1396,6 +1397,7 @@ bento.agoda.com
 berateveng.ru
 beringer.actonservice.com
 b.escardio.org
+bestboundary.com
 bestbuy.actonservice.com
 besti.ga
 bewaslac.com
@@ -1563,6 +1565,7 @@ care5alea.com
 care.petcureoncology.com
 cargas.actonservice.com
 cargurus.actonservice.com
+caringcast.com
 carl.pubsvs.com
 carreras.unisabana.edu.co
 carswellmedia.thomsonreuterscanada.ca
@@ -1760,6 +1763,7 @@ cllctr.roistat.com
 clnbze.echodnia.eu
 clnbze.gk24.pl
 clnbze.naszemiasto.pl
+closedcows.com
 cloud-9751.com
 cloud.aspiresys.com
 clouderrorreporting.googleapis.com
@@ -2120,6 +2124,7 @@ cueohf.foroactivo.com
 cueohf.forumpro.fr
 culliganwaterco.actonservice.com
 curated.fieldtest.cc
+curtaincows.com
 custom.plausible.io
 cv.a-internet.jp
 cv.drive-hikari.net
@@ -3302,6 +3307,7 @@ fusion.bonniertidskrifter.se
 future-fie-assets.co.uk
 future-price.co.uk
 future.uwindsor.ca
+futuristicapparatus.com
 fxbqag.znak.com
 fxipreferral.americanexpress.com
 fxmdjr.mamastar.jp
@@ -4394,6 +4400,7 @@ live.alljobs.co.il
 livecounter.theyosh.nl
 live.cxo.name
 live.ec2.cxo.name
+livelylaugh.com
 livestats.kaltura.com
 livestats.la7.tv
 livestats.matrix.it
@@ -6273,6 +6280,7 @@ nadeshiko2019.kirei-nadeshiko.jp
 nakisa.actonservice.com
 namrinfo.motorolasolutions.com
 nanostats.nanopress.it
+nappyattack.com
 nascardigitalsap.hb.omtrdc.net
 nationalgeographic.hb-api.omtrdc.net
 nationalinstruments.hb.omtrdc.net
@@ -6712,6 +6720,7 @@ panickypancake.com
 pan.render.com
 pa.opqr.co
 paramountnetwork.hb.omtrdc.net
+parchedsofa.com
 pa.rockett.pw
 partner.cynapse.com
 partner.haru-shop.jp
@@ -6751,6 +6760,7 @@ p.clvs7.com
 pcykgc.onetravel.com
 p.data.cctv.com
 pdc.dmleonyc.com
+pdflive.org
 pdlavr.erwinmueller.com
 pdmsmrt.buick.com
 pdmsmrt.cadillac.com
@@ -8942,6 +8952,7 @@ sp.newarkadvocate.com
 sp.newsleader.com
 sp.news-press.com
 sp.northjersey.com
+spookysleet.com
 spotlessstamp.com
 sp.pal-item.com
 sp.pnj.com
@@ -9713,6 +9724,7 @@ st.tmgrup.com.tr
 studentadvantage.actonservice.com
 study.vu.edu.au
 stuekv.domondo.pl
+stupendoussnow.com
 st.upmc.com
 stv.hb.omtrdc.net
 st.wagen-eins.de
@@ -10060,6 +10072,7 @@ thomastorch.com
 thomson.hb-api.omtrdc.net
 thomsonreuters.actonservice.com
 t.hypers.com.cn
+ticketaunt.com
 tics.seeker.gg
 tics.techdirt.com
 tilanalytics.timesinternet.in
@@ -10069,6 +10082,7 @@ tim.hb-api.omtrdc.net
 tim.hb.omtrdc.net
 tim.nextinpact.com
 t.indeed.com
+tinytendency.com
 tippcom01.tipp24.com
 tire1soak.com
 tiresomethunder.com
@@ -11207,6 +11221,7 @@ widget.quantcast.com
 wihgkc.localiza.com
 wild0army.com
 win.staticstuff.net
+wirecomic.com
 wisteria-js.excite.co.jp
 wivo2gaza.com
 wiz.ghostbed.com
