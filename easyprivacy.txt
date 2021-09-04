@@ -879,7 +879,6 @@ analytics.audionow.de
 analytics.autozone.com
 analytics.avanser.com.au
 analytics.aweber.com
-analytics-beacon-.amazonaws.com
 analytics.behaheaters.co.uk
 analytics.belgacom.be
 analytics.betterplaces.nl
@@ -926,7 +925,6 @@ analytics.edgekey.net
 analytics.edgesuite.net
 analytics.eggoffer.com
 analytics.elx.cloud
-analyticsengine.s3.amazonaws.com
 analytics.erepublic.com
 analytics.explained-from-first-principles.com
 analytics.faceitanalytics.com
@@ -1536,7 +1534,6 @@ c4cm.actonservice.com
 c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
 ca.creditacceptance.com
-cadreon.s3.amazonaws.com
 cage6west.com
 cagkpu.suitdirect.co.uk
 cahf4eed.mooo.com
@@ -1644,7 +1641,6 @@ chanelventure.club
 channelblender.actonservice.com
 channelusa.samsung.com
 channelwatcher.panda.tech
-chartaca.com.s3.amazonaws.com
 chartec.actonservice.com
 chartercommunicationsoperatingllc.hb-api.omtrdc.net
 chelseafc.hb.omtrdc.net
@@ -2201,7 +2197,6 @@ d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
-d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d31qbv1cthcecs.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
@@ -2424,6 +2419,7 @@ digitalcurrent.actonservice.com
 digitalmarketing.nglantz.com
 digital.opsbase.com
 digital.setpointis.com
+dig.ultimedia.com
 dii2.bitiba.be
 dii2.bitiba.ch
 dii2.bitiba.co.uk
@@ -2682,6 +2678,7 @@ eclick.baidu.com
 ecn-analytics.emc.com
 ecn-analytics-nssl.emc.com
 ecomm.events
+ecommstats.s3.amazonaws.com
 econolite.actonservice.com
 ec.walkme.com
 ed.2.west.com
@@ -4431,6 +4428,7 @@ log.cizion.com
 log.codemarketing.cloud
 log.cognex.com
 log.cpex.cz
+log.ctrl.blog
 log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
@@ -4568,7 +4566,6 @@ m1ll1c4n0.com
 m1.stadiumgoods.com
 m3ds.subarumetropolitain.com
 mack7oyes.com
-magnify360-cdn.s3.amazonaws.com
 ma.hmhco.com
 mail01.virginpulse.com
 mail.dolce-gusto.at
@@ -7263,7 +7260,6 @@ rgnutc.topcor.ru
 rgzrys.hangikredi.com
 rh5i.tradingsat.com
 rhybey.gap.co.jp
-rich-agent.s3.amazonaws.com
 rigi9bury.com
 riirlw.blackmonster.kr
 rime8lope.com
@@ -7352,7 +7348,6 @@ s1.subaru.com
 s.360.cn
 s362693299.aon.com
 s3network1.com
-s3-tracking.synthasite.net.s3.amazonaws.com
 s4e8.cascades.com
 s4.parkeren-amsterdam.com
 s4.parkeren-haarlem.nl
@@ -11062,7 +11057,6 @@ vrzmfy.fool.com
 vsfius.aranzulla.it
 v.shopify.com
 vtf2f.banque-casino.fr
-vtnlog-.elb.amazonaws.com
 vtrtl.de
 vttics.world.co.jp
 vvaaol.enuygun.com
@@ -11236,7 +11230,6 @@ wlxhzn.godfreys.com.au
 woixov.elyts.ru
 woodtone.actonservice.com
 woodward.actonservice.com
-woolik.comtracker
 woowjy.desa.com.tr
 woqoaw.internet-toys.com
 wordc.ga
@@ -11253,7 +11246,6 @@ wssgmstats.vibbo.com
 wsstats.coches.net
 wstats.e-wok.tv
 wstats.gameblog.fr
-wstat.wibiya.com
 wtbevents.pricespider.com
 wt.envivas.de
 wt.generali.de
