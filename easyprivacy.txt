@@ -1742,6 +1742,7 @@ clicks.staging.worldremit.com
 clicks.tableau.com
 clicks-test.info.theiconic.com.au
 clicks.traffictrader.net
+clickstream.odysee.com
 clicktale.pantherssl.com
 clicktracker.iscan.nl
 click.transactional.carousell.com
@@ -2131,7 +2132,6 @@ cvs.kireimo.jp
 c.wen.ru
 c.wort-suche.com
 cws.conviva.com
-cx.atdmt.com
 c.xbox.com
 c.x.oanda.com
 cxrfns.gu-global.com
@@ -7949,7 +7949,6 @@ shtptt.cupshe.com
 sicas.ikea.com
 sicas.ikea.net
 sid.nordstrom.com
-sig.atdmt.com
 sig.ig.com
 sig.nadex.com
 siibrands.actonservice.com
