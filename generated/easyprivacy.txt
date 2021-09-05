@@ -1407,6 +1407,7 @@ clicks.metronautapp.com
 clicks.staging.worldremit.com
 clicks.tableau.com
 clicks.traffictrader.net
+clickstream.odysee.com
 clicktale.pantherssl.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
@@ -1975,6 +1976,7 @@ dialogue.mazda.se
 dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
+dig.ultimedia.com
 digi.maestro.fi
 digistat.westjet.com
 digistats.westjet.com
@@ -3467,6 +3469,7 @@ log.cizion.com
 log.codemarketing.cloud
 log.cognex.com
 log.cpex.cz
+log.ctrl.blog
 log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
@@ -8906,7 +8909,6 @@ wsgddl.deporvillage.it
 wspeed.qq.com
 wssgmstats.vibbo.com
 wsstats.coches.net
-wstat.wibiya.com
 wstats.gameblog.fr
 wtbevents.pricespider.com
 wtgnmr.golfdigest.co.jp
