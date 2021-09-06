@@ -4596,6 +4596,7 @@ metrics.greenflag.com
 metrics.greenies.com
 metrics.grundfos.com
 metrics.guess.hk
+metrics.hackerrank.com
 metrics.handbag.com
 metrics.hatarako.net
 metrics.hbogo.com
@@ -5509,7 +5510,6 @@ performanceplay.co.kr
 performantcorp.actonservice.com
 perk0mean.com
 perso.aws.arc.pub
-petitionermaster.appspot.com
 petjue.lcwaikiki.ru
 pevftg.shopee.sg
 pexa.realestate.com.au
@@ -5517,7 +5517,6 @@ pfdqxv.bibloo.ro
 pgs.aviationweek.com
 pgs.farmprogress.com
 phjzsx.elevit.jp
-phoenix.untd.com
 phsmobile.actonservice.com
 picarro.actonservice.com
 pihawv.vprmoda.com
@@ -5560,8 +5559,6 @@ pixel.cpex.cz
 pixel.digitalspy.co.uk
 pixel.europapress.net
 pixel.facebook.com
-pixel.fanbridge.com
-pixel.glimr.io
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
@@ -5599,6 +5596,7 @@ pkimbc.bestsecret.com
 pla.wigglepixel.nl
 plan.seek.intel.com
 plantronics.hb.omtrdc.net
+platform.iteratehq.com
 platformsolutions.shutterstock.com
 plau.devjob.ro
 plau.germantechjobs.de
@@ -5695,8 +5693,6 @@ privacy.outdoorsg.com
 privacyfriendly.netlify.app
 processor.asccommunications.com
 proditor.sparda.de
-production-mcs.lvp.llnw.net
-production.mcs.delve.cust.lldns.net
 products.marketingcube.com.au
 professionaltrading.actonservice.com
 profiling.avandor.com
@@ -5826,6 +5822,7 @@ redirectmail.majelan.com
 redwingforbusiness.redwingsafety.com
 ref.dealerinspire.com
 refer.ccbill.com
+refer.wordpress.com
 referer.pixplug.in
 referrer.disqus.com
 refl3alea.com
@@ -5920,30 +5917,24 @@ rqjjdi.bershka.com
 rqyxdk.myanimelist.net
 rqz4.supdigital.fr
 rsc.lepoint.fr
-rss.tmgrup.com.tr
 rta.dailymail.co.uk
 rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
-rtg-endpoint.global.ssl.fastly.net
 rtl.hb.omtrdc.net
-rtt.campanja.com
 rtvc.hb.omtrdc.net
 rtve.hb.omtrdc.net
 rtxlni.doclasse.com
 rum.azion.com
 rum.azioncdn.net
-rum.conde.io
 rum.kobo.com
 rum.marquardmedia.hu
-rum.minutemediaservices.com
 rum.perfops.net
-rum.vhwrz.net
+rum.uptime.com
 rumsey.actonservice.com
 rup5.destinia.ru
 ruth8badb.com
 ruvdkw.turk.net
-rva.outbrain.com
 rvdnyq.topito.com
 rvkcpqz.com
 rvv.emol.com
@@ -6391,6 +6382,7 @@ seniorliving.canterburycourt.org
 seniorliving.jkv.org
 seniorliving.monroevillageonline.org
 sentry.arc.io
+seoab.io
 sephora-qa.branchstaging.com
 serv1swork.com
 service-stat.tbn.ru
@@ -7276,6 +7268,10 @@ spotlessstamp.com
 spr.bild.de
 spr.welt.de
 sqdljj.kijiji.ca
+squirrel.cividi.ch
+squirrel.ethanelientz.com
+squirrel.honeysqueeze.app
+squirrel.malaynahocker.com
 squjvr.modamerve.com
 srepdata.azcentral.com
 srepdata.cincinnati.com
@@ -8106,6 +8102,7 @@ technologyadvice.actonservice.com
 ted.dailymail.co.uk
 teijs.alcampo.es
 telemetrics.klaviyo.com
+telemetry.adobe.io
 telemetry.api.playstation.com
 telemetry.jivosite.com
 telemetry.reembed.com
@@ -8683,6 +8680,7 @@ value.register.com
 vane3alga.com
 vatrack.hinet.net
 vbtdzb.fyndiq.se
+vdrn.redplum.com
 vedznh.cumhuriyet.com.tr
 veoci.actonservice.com
 verifier.live
