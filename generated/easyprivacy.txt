@@ -1583,8 +1583,6 @@ connectportal.netapp.com
 connexuscu.actonservice.com
 consciouscheese.com
 consciousdirt.com
-consent.api.osano.com
-consent.inm.ie
 construsoft.actonservice.com
 consulting.guidehouse.com
 consulting.ramboll.com
@@ -2662,7 +2660,6 @@ ga-beacon.appspot.com
 gaafbi.fashiondays.hu
 gak.webtoons.com
 game9time.com
-gamesradar-gb.gamesradar.com
 gannett.hb.omtrdc.net
 gard4mass.com
 gassales.eversource.com
@@ -3158,7 +3155,6 @@ isgprivacy.cbsi.com
 isharemetric.rediff.com
 italia.wolterskluwer.com
 iterable.convoy.com
-itpuk-mms.itpro.co.uk
 itracking.fccinteractive.com
 ivdsxn.atimes.co.jp
 ivxmwj.bonprix.ua
@@ -5078,9 +5074,7 @@ mlb.hb.omtrdc.net
 mlinks.fluz.app
 mlweb.dmlab.hu
 mmi.bemobile.ua
-mms.blick.ch
 mms.cnn.com
-mms.gocomics.com
 mms.wwe.com
 mnxlyo.kinoteatr.ru
 modus.nike.com
@@ -5424,7 +5418,6 @@ oqidne.itaka.pl
 oqr4.destinia.in
 orbidder.otto.de
 oregonstate.actonservice.com
-orionis.techradar.com
 orsmfg.notino.de
 osc.webroot.com
 osctws.gold.ua
@@ -5492,7 +5485,6 @@ pbox.photobox.it
 pbox.photobox.nl
 pbox.photobox.se
 pbstats.jpmorgan.com
-pcgamer-gb.pcgamer.com
 pciidk.shopee.vn
 pcykgc.onetravel.com
 pdc.dmleonyc.com
@@ -6437,7 +6429,6 @@ shtptt.cupshe.com
 sicas.ikea.com
 sicas.ikea.net
 sid.nordstrom.com
-sig.atdmt.com
 sig.ig.com
 sig.nadex.com
 siibrands.actonservice.com
@@ -7271,7 +7262,6 @@ sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
 sourcepoint.theguardian.com
-sourcepoint.vice.com
 sowa.carhartt.com
 soxnwz.lg.com
 spanids.dictionary.com
