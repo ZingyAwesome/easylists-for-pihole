@@ -698,6 +698,7 @@ adminer.com
 admissions.easterncollege.ca
 admissions.setonhill.edu
 admissions.trios.com
+adnext.co
 adobe.aeonbank.co.jp
 adobeanalytics.actalentservices.com
 adobeanalytics.aerotek.com
@@ -1351,11 +1352,6 @@ beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.errorception.com
 beacon.flow.io
-beacon.gcion.com
-beacon.gu-web.net
-beacon.heliumnetwork.com
-beacon.indieclick.com
-beacon.livefyre.com
 beacon.nrholding.net
 beacon.riskified.com
 beacon.rum.dynapis.com
@@ -1410,6 +1406,7 @@ biberukalap.com
 bidder.mediams.mb.softbank.jp
 bigdata.ssp.samsung.com
 b.iheart.southwest.com
+bi.medscape.com
 binarybusiness.de
 binocule21c.merriam-webster.com
 bioanalyticalmarketing.eurofins-info.com
@@ -1424,7 +1421,6 @@ bitcoin-cashcard.eu
 bitcoin-pay.eu
 bitcoin-pocket.de
 bitcoin-pocket.eu
-bitdash-reporting.appspot.com
 b.itravel.southwest.com
 b.iwanna.southwest.com
 biz1.kddi.com
@@ -1454,7 +1450,6 @@ bnvsjg.hometogo.de
 bob.gitclear.com
 bogglecool.club
 bolt8snap.com
-bonsai.internetbrands.com
 boomerang.dell.com
 boqufs.2nn.jp
 boredcrown.com
@@ -1467,7 +1462,6 @@ bpeml.mlb.com
 bpgbcl.coconala.com
 b.publicmobile.ca
 br.ac.travelocity.com
-brain.foresee.com
 branch.chelseafc.com
 branch-consumer.hipages.com.au
 branch.email.livenation.com
@@ -1479,7 +1473,6 @@ brc.emails.rakuten.com
 bred4tula.com
 br.email.lifesum.com
 briefing.actonservice.com
-bright.bncnt.com
 brizxe.dior.com
 brkoev.minfin.com.ua
 browser.mi-img.com
@@ -1493,10 +1486,8 @@ bstias.avilon.ru
 bs.yandex.ru
 b.telus.com
 bthwkw.bazarchic.com
-btn.clickability.com
 btptod.aerzteblatt.de
 btrace.qq.com
-btrace.video.qq.com
 btstats.devtribu.fr
 budibu.saksfifthavenue.com
 buf.lemonde.fr
@@ -1839,6 +1830,7 @@ collect.cap.ch
 collect.elvia.ch
 collect.helsana.ch
 collection.saga.co.uk
+collect.iteam-dress.com
 collect.meilleurtaux.com
 collect..miui.com
 collector-api.99designs.com
@@ -2188,6 +2180,7 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -3991,6 +3984,9 @@ instore.pagomeno.it
 intake-analytics.wikimedia.org
 intelligence.marykay.com
 intelligence.marykayintouch.com
+intent.cmo.com.au
+intent.goodgearguide.com.au
+intent.pcworld.idg.com.au
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
 intg.snapchat.com
@@ -7316,6 +7312,7 @@ rum.perfops.net
 rumsey.actonservice.com
 rum.uptime.com
 rup5.destinia.ru
+rusticprice.com
 ruth8badb.com
 ruvdkw.turk.net
 rvdnyq.topito.com
@@ -8934,6 +8931,7 @@ sp.news-press.com
 sp.northjersey.com
 spookysleet.com
 spotlessstamp.com
+spottednoise.com
 sp.pal-item.com
 sp.pnj.com
 sp.portclintonnewsherald.com
