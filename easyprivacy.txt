@@ -1585,6 +1585,7 @@ cbs.hb-api.omtrdc.net
 cbsinteractive.hb.omtrdc.net
 cbsnews-dev.hb-api.omtrdc.net
 cbsnews.hb-api.omtrdc.net
+cc-api-data.adobe.io
 ccbjournal.actonservice.com
 cc.conforama.es
 ccexperimentsstatic.oracleoutsourcing.com
@@ -3354,6 +3355,7 @@ gaafbi.fashiondays.hu
 ga-beacon.appspot.com
 ga.kvideo.io
 gak.webtoons.com
+gala.spiceworks.com
 game9time.com
 gannett.hb.omtrdc.net
 ga.nsimg.net
