@@ -1271,6 +1271,7 @@ cbmetrics.clickbank.com
 cbn.hb.omtrdc.net
 cbsdigitalmedia.hb.omtrdc.net
 cbsinteractive.hb.omtrdc.net
+cc-api-data.adobe.io
 ccbjournal.actonservice.com
 ccexperimentsstatic.oracleoutsourcing.com
 ccma.hb.omtrdc.net
@@ -2653,6 +2654,7 @@ g9111879410.co
 ga-beacon.appspot.com
 gaafbi.fashiondays.hu
 gak.webtoons.com
+gala.spiceworks.com
 game9time.com
 gannett.hb.omtrdc.net
 gard4mass.com
