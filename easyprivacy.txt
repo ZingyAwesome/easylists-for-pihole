@@ -2244,7 +2244,6 @@ data.adlermode.com
 data.alexa.com
 data.all-in.de
 data.avid.com
-data.beop.io
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
 data.circulate.com
