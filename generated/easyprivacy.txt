@@ -1829,7 +1829,6 @@ data-ssl.stepstone.nl
 data.adlermode.com
 data.alexa.com
 data.avid.com
-data.beop.io
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
 data.circulate.com
@@ -8316,6 +8315,7 @@ tracker.thinkermail.com
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tiu.ru
+tracker.tv.sohu.com
 tracker.unbxdapi.com
 tracker.uprinting.com
 tracker.wigzopush.com
