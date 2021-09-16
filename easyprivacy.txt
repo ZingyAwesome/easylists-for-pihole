@@ -6919,6 +6919,7 @@ plausible.moncefbelyamani.com
 plausible.nova.app
 plausible.nubemia.com
 plausible.nuqu.org
+plausible.omgapi.org
 plausible.panic.com
 plausible.pgmustard.com
 plausible.phuctm97.com
@@ -7003,6 +7004,7 @@ profiling.martela.com
 profiling.martelaoutlet.fi
 profiling.outokumpu.com
 profiling.ruukki.com
+progmxs.com
 promo.skf.com
 promos.trustedtours.com
 promotions.stationcasinos.com
@@ -9320,6 +9322,7 @@ stats.blog.sean-wright.com
 stats.bluebillywig.com
 stats.bluesabre.org
 stats.bookingbuddy.com
+stats-bq.stylight.net
 stats.breadtube.tv
 stats.breathly.app
 stats.briskoda.net
