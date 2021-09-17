@@ -5637,6 +5637,7 @@ plausible.moncefbelyamani.com
 plausible.nova.app
 plausible.nubemia.com
 plausible.nuqu.org
+plausible.omgapi.org
 plausible.panic.com
 plausible.pgmustard.com
 plausible.play.date
@@ -5700,6 +5701,7 @@ profiling.martela.com
 profiling.martelaoutlet.fi
 profiling.outokumpu.com
 profiling.ruukki.com
+progmxs.com
 promo.skf.com
 promos.trustedtours.com
 promotions.stationcasinos.com
@@ -7554,6 +7556,7 @@ statistics.tattermedia.com
 statistics.wibiya.com
 statistik.mitmischen.de
 statistik.simaja.de
+stats-bq.stylight.net
 stats-dc1.frz.io
 stats-factory.digitregroup.io
 stats-messages.gifs.com
