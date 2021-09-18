@@ -584,6 +584,7 @@ abncx.amv.fr
 abo.schibsted.no
 absinfo.eagle.org
 abs.proxistore.com
+abstractedauthority.com
 abtest.em.redmart.com
 abtest.redmart.com
 abvghl.udn.com
@@ -902,6 +903,7 @@ analytics.cibc.com
 analytics.cibcrewards.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
+analytics.cmn.com
 analytics-cms.whitebeard.me
 analytics.cocolog-nifty.com
 analytics.codeforscience.org
@@ -1456,6 +1458,7 @@ boomerang.dell.com
 boqufs.2nn.jp
 boredcrown.com
 bosetoo.club
+botdetection.hbrsd.com
 box.bossdata.be
 bpcwde.mall.cz
 bpe2.destinia.co.il
@@ -2197,7 +2200,10 @@ d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
+d36u3psykfwy91.cloudfront.net
+d36upaw912d02q.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
+d3bj8nkfly20uo.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
@@ -2208,6 +2214,7 @@ d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
+d3qfdthu9f51gu.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
@@ -3719,6 +3726,7 @@ hxiabp.colins.com.tr
 hyeorg.gmarket.co.kr
 hyjtrf.niidpo.ru
 hyrankhit.meldingcloud.com
+hystericalcloth.com
 hyybul.kaskus.co.id
 hzdjfb.polskikoszyk.pl
 hzeetn.natalie.mu
@@ -3970,6 +3978,7 @@ info.vendorpedia.com
 info.vodafone.com.au
 info.wolterskluwer.de
 ingest.make.rvapps.io
+innerskinresearch.com
 inqjal.dickssportinggoods.com
 insight.business.hsbc.com
 insight.fonecta.fi
@@ -7315,6 +7324,7 @@ rum.ingress.layer0.co
 rum.kobo.com
 rum.layer0.co
 rum.marquardmedia.hu
+rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.perfops.net
 rumsey.actonservice.com
@@ -10062,6 +10072,7 @@ tgvrfc4.com
 thaqyl.mediamarkt.nl
 theaba.actonservice.com
 thebdx.actonservice.com
+the-ozone-project.com
 thermocalc.actonservice.com
 thomastorch.com
 thomson.hb-api.omtrdc.net
@@ -10334,6 +10345,7 @@ tracking.bradyid.com
 tracking.brandmentions.com
 tracking.business.comcast.com
 tracking.businessdirect.bt.com
+tracking.buygoods.com
 tracking.bv.com
 tracking.cairn.info
 trackingcareers.accenture.com
@@ -10723,6 +10735,7 @@ tr.jkyg.espmp-cufr.net
 trk.absuite.com.br
 trk.adbutter.net
 trk.atxwest.com
+trkbc.com
 trk.bc.shutterfly.com
 trk.blume2000.de
 trk.business.westernunion.ch
