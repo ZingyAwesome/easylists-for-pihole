@@ -965,6 +965,7 @@ adultswim.d2.hb.omtrdc.net
 adultswim.hb.omtrdc.net
 advantage.rsabroker.ca
 adv.drtuber.com
+advertising.com
 advise.gallup.com
 advisor.raa.com
 advisorycloud-dev.actonservice.com
@@ -1053,6 +1054,7 @@ am-vid-events.taboola.com
 analitica.webrpp.com
 analyse.bcovery.com
 analyselog.dx.com
+analysis.fi
 analytic20.detik.com
 analytic.ae.com
 analytic.buoyweather.com
@@ -1126,7 +1128,6 @@ analytics.codeforscience.org
 analytics.codeskulptor.org
 analytics.codigo.se
 analytics.cognyte.com
-analytics.cohesionapps.com
 analytics.competitoor.com
 analytics.concorsicartoonito.it
 analytics.contents.by-fw.jp
@@ -1665,6 +1666,7 @@ beuniquelyinsured.selective.com
 bewaslac.com
 beyondmeasure.rigoltech.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
+bfmio.com
 b.fox.com
 b.foxsports.com
 bfp.capitalone.com
@@ -1674,6 +1676,7 @@ bhu9.bankia.es
 bhxemw.charleskeith.com
 biberukalap.com
 bidder.mediams.mb.softbank.jp
+bidswitch.net
 bigdata.ssp.samsung.com
 b.iheart.southwest.com
 bi.medscape.com
@@ -1696,6 +1699,7 @@ biz1.kddi.com
 bizjournals.hb.omtrdc.net
 bizsolutions.strands.com
 b.koodomobile.com
+bkrtx.com
 blackhillsgroup.actonservice.com
 blacktri-a.akamaihd.net
 blauw.actonservice.com
@@ -1704,6 +1708,7 @@ bldr.mkt.samsung.com
 blinks.mindoktor.se
 blog.trinityconsultants.com
 bluedata.actonservice.com
+bluekai.com
 bluemarblepayroll.actonservice.com
 b.lyst.com
 blziha.intimissimi.com
@@ -1728,6 +1733,7 @@ borckt.abarth.it
 boredcrown.com
 bosetoo.club
 botdetection.hbrsd.com
+bounceexchange.com
 bound.sightful.be
 boutiqueal.carte-gr.total.fr
 bowl.actonservice.com
@@ -2344,6 +2350,7 @@ c.rhapsody.com
 crm-analytics.imweb.ru
 crta.dailymail.co.uk
 crta.metro.co.uk
+crwdcntrl.net
 cryptotax.efscle.com
 csalhh.okay.cz
 cs.analytics.lego.com
@@ -2392,6 +2399,7 @@ c.wen.ru
 c.wort-suche.com
 cws.conviva.com
 c.xbox.com
+cxense.com
 c.x.oanda.com
 cxrfns.gu-global.com
 cxt.ms
@@ -2428,6 +2436,7 @@ d1uanozc5el74n.cloudfront.net
 d1wirc5qsdb1y5.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
+d1z2jf7jlzjs58.cloudfront.net
 d20kffh39acpue.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d21y75miwcfqoq.cloudfront.net
@@ -2624,6 +2633,7 @@ deliver.ptgncdn.com
 delivery.hunterycity.com
 delivery.satr.jp
 dell.hb.omtrdc.net
+demdex.net
 de-mi-nis-ner2.info
 de-mi-nis-ner.info
 de-ner-mi-nis4.info
@@ -2752,6 +2762,7 @@ dishpurchasingcorporation.hb.omtrdc.net
 dishpurchasingcorporation-stage.hb-api.omtrdc.net
 disneyinternational.hb.omtrdc.net
 distillery.wistia.com
+districtm.io
 diwebstatics.carte-gr.total.fr
 djibeacon.djns.com
 djmzap.gamivo.com
@@ -2766,6 +2777,7 @@ dl.orders.express-scripts.com
 dlpjgh.techport.ru
 dl-stage.zola.com
 dl.zola.com
+dm-event.net
 dmkt.solutions.cas.org
 dmpcdn.el-mundo.net
 dmtgo.upc.biz
@@ -3131,6 +3143,7 @@ emng.libero.it
 empresa.ricoh.es
 emrdnt.sumaity.com
 em.touchtunes.com
+emxdgt.com
 encoderfarmstatsnew.servicebus.windows.net
 endljp.abv.bg
 endljp.kupujemprodajem.com
@@ -3351,6 +3364,7 @@ events.whisk.com
 event.syndigo.cloud
 events.yourcx.io
 event.webcollage.net
+everesttech.net
 e.viously.com
 evixcd.t5ear.com
 evmaff.trotec.com
@@ -3381,6 +3395,7 @@ extmaps-api.yandex.net
 eymiwj.cancan.ro
 eyypxz.canifa.com
 ezobam.jdsports.nl
+ezodn.com
 ezvjys.belezanaweb.com.br
 f0nn.oney.fr
 f1tbit.com
@@ -3455,6 +3470,7 @@ f-log-at.grammarly.io
 f-log-test.grammarly.io
 flznib.weblio.jp
 fnlvhy.wowma.jp
+fn-pz.com
 fnqhpf.marioberluchi.ru
 fntefy.myxfitness.com
 fog.pixual.co
@@ -3606,6 +3622,7 @@ gedozw.autoscout24.cz
 gekko.spiceworks.com
 gemius.mgr.consensu.org
 geobar.ziffdavisinternational.com
+geoedge.be
 geo.emol.cl
 geo.ertya.com
 geo.gfycat.com
@@ -3688,8 +3705,10 @@ goldenpaints.actonservice.com
 gomerchant.groupon.com
 go.morningstar.com
 go.morningstar.com.au
+go-mpulse.net
 go.mwe.com
 go.netsuite.com
+googletagmanager.com
 go.oracle.com
 go.pardot.com
 go.readytalk.com
@@ -3897,6 +3916,7 @@ i.compendium.com
 iconstab.club
 icu.getstorybox.com
 icxmlt.decathlon.ru
+id5-sync.com
 idbkfy.kango-roo.com
 idg1.idgarages.com
 idt.id-news.net
@@ -3943,6 +3963,7 @@ imp.go.sohu.com
 imp.optaim.com
 imp.pvnsolutions.com
 impress.vcita.com
+imrworldwide.com
 independence.americanportfolios.com
 independentdigital.hb.omtrdc.net
 indmetric.rediff.com
@@ -4471,6 +4492,7 @@ kristechwire.actonservice.com
 krnhzv.canshop.jp
 kropka.onet.pl
 k.rueducommerce.fr
+krxd.net
 ksmeyw.taftcoffee.com
 k.streamrail.com
 ks.walkq.com
@@ -4562,11 +4584,13 @@ lgylib.dg-home.ru
 lhewdj.fnac.pt
 lhlscy.joebrowns.co.uk
 liacod.sephora.ru
+liadm.com
 libertyhomeequity.actonservice.com
 liecso.e-himart.co.kr
 lifeway.hb.omtrdc.net
 lift.acquia.com
 liirhn.vanarama.com
+lijit.com
 likiwh.vagabondstudio.com
 lilogy.actonservice.com
 limone.iltrovatore.it
@@ -4938,7 +4962,6 @@ mail.spandex.com
 mail.theknot.com
 mailx.ingenious.cloud
 makbti.bandofboats.com
-make.cohesionapps.com
 makedosupport.club
 maling.dn.no
 maling.ue.dn.no
@@ -6589,6 +6612,7 @@ olklgn.jh-profishop.de
 olpmni.acer.com
 olqsty.izipizi.com
 olroyk.ardene.com
+omappapi.com
 om.homeawayconnect.com
 omieuz.razer.ru
 omjtca.emlakjet.com
@@ -6608,6 +6632,7 @@ omnituretrack.local.com
 omn.rockwool.by
 omsc.kpn.com
 oms.goarmy.com
+omtrdc.net
 omtrkpix.familyhandyman.com
 omtrkpix.rd.com
 omtrkpix.tasteofhome.com
@@ -6684,6 +6709,7 @@ p2.danskebank.dk
 p2.danskebank.fi
 p2.danskebank.no
 p2.danskebank.se
+p2r14.com
 pabxoe.olx.ua
 p.adbrn.com
 page-events-ustats.udemy.com
@@ -6765,6 +6791,7 @@ perf.dugout.com
 perf-events.cloud.unity3d.com
 perf.mouser.com
 performanceplay.co.kr
+permutive.app
 perso.aws.arc.pub
 petjue.lcwaikiki.ru
 pevftg.shopee.sg
@@ -7123,6 +7150,7 @@ qreport.qunar.com
 qrrhvh.propertyfinder.ae
 qrvsnt.citygrounds.com
 qsourd.carte-gr.total.fr
+quantserve.com
 qubitanalytics.appspot.com
 quidel.actonservice.com
 quk9.destinia.com.ar
@@ -7227,6 +7255,7 @@ retcode.taobao.com
 retirementliving.actsretirement.org
 retoxify.actonservice.com
 retrack.q-divisioncdn.de
+rezync.com
 rfk.biglots.com
 rgnutc.topcor.ru
 rgzrys.hangikredi.com
@@ -7239,6 +7268,8 @@ riovdv.mustit.co.kr
 risk.clearbit.com
 riveno.concung.com
 rjabqj.armitron.com
+rkdms.com
+rlcdn.com
 rlinks.one.in
 rlog.popin.cc
 r.my.com
@@ -7491,6 +7522,7 @@ sc.hl.co.uk
 sc.hm.com
 schwaebischhall.efscle.com
 sci.digitalinsight.com
+scientificshirt.com
 sci.intuit.ca
 sci.intuit.com
 scintillatingsilver.com
@@ -9025,6 +9057,7 @@ s.nslookup.io
 so8.hyatt.com
 so.boh.com
 solar.sharpmarketing.eu
+solutionshindsight.net
 som.cbsi.com
 sometrics.netapp.com
 som.healthgrades.com
@@ -9110,6 +9143,7 @@ somtrdc.jobstreet.com.ph
 somtrdc.jobstreet.com.sg
 somtr.financialengines.com
 som.vrbo.com
+s-onetag.com
 sonyglobal.hb.omtrdc.net
 so.opentable.com
 so.opentable.co.uk
@@ -10064,6 +10098,7 @@ sucmetrics.unicredit.it
 sugs.m.sm.cn
 sulkycook.com
 summary.bookoffonline.co.jp
+summerhamster.com
 suncanny.marvel.com
 sunlightmetrics.b-cdn.net
 supertraders.info
@@ -10392,7 +10427,6 @@ thecea.actonservice.com
 the-ozone-project.com
 t.herceptin.com
 thermocalc.actonservice.com
-thirdqq.qlogo.cn
 thomastorch.com
 thor.pureelectric.se
 thumos.fileside.app
@@ -11095,7 +11129,6 @@ trkpzz.dcinside.com
 tr.krus.espmp-agfr.net
 trk.s.sephora.com
 trk.techtarget.com
-trk.vidible.tv
 trk.wealthmanagement.com
 trk.webhostingtalk.com
 tr.lvmhappening.lvmh.fr
@@ -11275,6 +11308,7 @@ tve.hb-api.omtrdc.net
 t.veranstaltungsticket-bahn.de
 tvl8.supdecreation.com
 t.voyages-sncf.com
+tvpixel.com
 t.wayfair.ca
 t.wayfair.com
 t.wayfair.co.uk
@@ -11303,6 +11337,7 @@ uectum.stileo.it
 uedvam.tatilsepeti.com
 uestat.video.qiyi.com
 ugdcxl.timeout.com
+ugdturner.com
 ugmarketing.smu.edu.sg
 uhytajrtpo-a.akamaihd.net
 uid.mavencoalition.io
@@ -11391,6 +11426,7 @@ vicspendig.club
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
 videoplayer2.xyz
+videoplayerhub.com
 videor.hb.omtrdc.net
 videostat.index.hu
 videostat-new.index.hu
@@ -12020,7 +12056,7 @@ xknhwv.mobile01.com
 xlpzul.daenischesbettenlager.de
 xnbwsp.c-and-a.com
 xnt4.ece.fr
-xoxo6-eng.spankbang.com
+xoxo8-eng.spankbang.com
 xr.shinobi.jp
 xscmzs.tenki.jp
 xslmpq.ohou.se
@@ -12080,6 +12116,7 @@ z0uolej1qnxzub1.info
 zam.nextinpact.com
 zaventemdijleland.viessmann.be
 z.cdp-dev.cnn.com
+zdbb.net
 zelten.fritz-berger.de
 zfzhwz.hema.nl
 zhcxvk.qvc.com
