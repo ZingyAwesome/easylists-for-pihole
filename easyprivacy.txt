@@ -3871,6 +3871,8 @@ hrclat.kijiji.it
 hrm.healthgrades.com
 hrs.actonservice.com
 hruyiq.auction.co.kr
+hsadspixel.net
+hs-analytics.net
 h.seznam.cz
 hspbotdetection.azurewebsites.net
 hssyje.theathletesfoot.com.au
@@ -11217,6 +11219,7 @@ tr.offres.01net.com
 tr.offres.bfmtv.com
 tr.offres-professionnelles.fr
 tr.offrevip.floa.fr
+tr-op.datatrics.com
 tr.orcamentos-companeo.pt
 tr.panels-mediametrie.fr
 tr.pole-emploi-services.com
@@ -12135,6 +12138,7 @@ zm5d.lexpress.fr
 zminer.zaloapp.com
 zmpvij.bonprix.fr
 znq9.destinia.mx
+zoomhead.xyz
 zpnrnr.ab-in-den-urlaub.de
 zqtizs.bonprix.ru
 zqtk.net
