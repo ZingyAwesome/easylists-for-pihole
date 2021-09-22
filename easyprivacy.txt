@@ -965,7 +965,6 @@ adultswim.d2.hb.omtrdc.net
 adultswim.hb.omtrdc.net
 advantage.rsabroker.ca
 adv.drtuber.com
-advertising.com
 advise.gallup.com
 advisor.raa.com
 advisorycloud-dev.actonservice.com
@@ -2399,7 +2398,6 @@ c.wen.ru
 c.wort-suche.com
 cws.conviva.com
 c.xbox.com
-cxense.com
 c.x.oanda.com
 cxrfns.gu-global.com
 cxt.ms
@@ -4592,7 +4590,6 @@ liecso.e-himart.co.kr
 lifeway.hb.omtrdc.net
 lift.acquia.com
 liirhn.vanarama.com
-lijit.com
 likiwh.vagabondstudio.com
 lilogy.actonservice.com
 limone.iltrovatore.it
