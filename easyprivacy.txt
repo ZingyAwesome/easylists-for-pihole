@@ -947,6 +947,7 @@ adobetps.chegg.com
 adobe.truckscout24.de
 adobe.wacoal.jp
 adpromo.peppynet.com
+adrtx.net
 adsdk.yandex.ru
 adstats.tencentmusic.com
 ads-trk.vidible.tv
@@ -1543,6 +1544,7 @@ avocado.laprovence.com
 awap.equifax.com
 awaps.yandex.net
 awaps.yandex.ru
+awesomeagreement.com
 awesome.section.io
 awowwo.forever21.com
 awrgkd.1000farmacie.it
@@ -2193,6 +2195,7 @@ compteur.developpez.com
 compteur.websiteout.net
 comunicaciones.davivienda.com.pa
 comunicazioni.bancamediolanum.it
+conditionchange.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
 conimicutlighthouse.viessmann-us.com
@@ -7597,6 +7600,7 @@ s.dc-tag.jp
 sdome.underarmour.co.jp
 sdrive.skoda-auto.com
 sd.securitasdirect.fr
+seadform.net
 seahorseinfo.agilent.com
 sec-analytics.panasonic.co.uk
 secmetrics.bkb.ch
