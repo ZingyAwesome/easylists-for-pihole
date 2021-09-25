@@ -1385,6 +1385,7 @@ an.yandex.ru
 anytime.digitaljobs.gr
 anz7.allianz-voyage.fr
 a.o2u.jp
+ao-freegeoip.herokuapp.com
 ao.jsitel.com
 aomarketing.karlschumacher.com
 ao-mkt.tableausoftware.com
@@ -6401,6 +6402,7 @@ ms1.ingenious.cloud
 msafoy.eyebuydirect.com
 mseeru.faz.net
 msg.71.am
+msg.qy.net
 msigbs.actonservice.com
 ms.informaengage.com
 msioay.backcountry.com
