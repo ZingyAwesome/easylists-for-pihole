@@ -764,6 +764,7 @@ adobes.pmi.org
 adobetp.chegg.com
 adobetps.chegg.com
 adpromo.peppynet.com
+adrtx.net
 ads-trk.vidible.tv
 adsdk.yandex.ru
 adstats.tencentmusic.com
@@ -1140,6 +1141,7 @@ answers.teradata.pl
 antblz.mediaworld.it
 antitracking.owncast.online
 anytime.digitaljobs.gr
+ao-freegeoip.herokuapp.com
 ao-mkt.tableausoftware.com
 aom.smartbrief.com
 aomarketing.karlschumacher.com
@@ -1246,6 +1248,7 @@ awap.equifax.com
 awaps.yandex.net
 awaps.yandex.ru
 awesome.section.io
+awesomeagreement.com
 awuapj.landwatch.com
 axion-biosystems.actonservice.com
 axislogger.appspot.com
@@ -1763,6 +1766,7 @@ compteur.developpez.com
 compteur.websiteout.net
 comunicaciones.davivienda.com.pa
 comunicazioni.bancamediolanum.it
+conditionchange.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
 connect-qa.netapp.com
@@ -5145,6 +5149,7 @@ ms-trackingapi.phenompeople.com
 ms1.ingenious.cloud
 msafoy.eyebuydirect.com
 mseeru.faz.net
+msg.qy.net
 msigbs.actonservice.com
 msioay.backcountry.com
 msufcu.actonservice.com
@@ -6059,6 +6064,7 @@ sdc.aware.com.au
 sdc.risikolebensversicherungen.com
 sdcs.felissimo.co.jp
 sdome.underarmour.co.jp
+seadform.net
 seahorseinfo.agilent.com
 sec-analytics.panasonic.co.uk
 secmetrics.bkb.ch
