@@ -2497,6 +2497,7 @@ d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
+d.adlpo.com
 d.adrolays.de
 da.hornbach.at
 da.hornbach.ch
@@ -2812,6 +2813,7 @@ dp.shoprunner.com
 dptkdh.joinhoney.com
 dqs3.darjeeling.fr
 dragon.moneycoach.io
+drfdisvc.walmart.com
 dr.hb.omtrdc.net
 drlimmode9ddd.cloudfront.net
 drvive.lamoda.ru
