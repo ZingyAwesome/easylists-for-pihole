@@ -514,7 +514,6 @@ aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
 aanalytics.adelaide.edu.au
-aarp.hb.omtrdc.net
 aas.bellemaison.jp
 aas.ismet.kz
 aas.mclaren.com
@@ -525,11 +524,8 @@ aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 ab-machine.forbes.com
 abc.fackelmann.de
-abc.hb.omtrdc.net
 abc.pema.cl
 abclegal.actonservice.com
-abcnews.hb.omtrdc.net
-abcotv.hb.omtrdc.net
 ablink.account.debut.careers
 ablink.account.quizlet.com
 ablink.account.zip.co
@@ -758,8 +754,6 @@ adobeanalytics.geico.com
 adobeanalytics.medline.com
 adobeanalytics.mlaglobal.com
 adobeanalytics.teksystems.com
-adobecorp.hb.omtrdc.net
-adobedc.demdex.net
 adobes.pmi.org
 adobetp.chegg.com
 adobetps.chegg.com
@@ -775,7 +769,6 @@ adtd.douglas.de
 adtd.douglas.pl
 adtm.chip.de
 adtmrs.delti.com
-adultswim.hb.omtrdc.net
 adv-sv-stat.focus.cn
 adv.drtuber.com
 advantage.rsabroker.ca
@@ -787,9 +780,7 @@ advtek.actonservice.com
 adxwxw.kp.ru
 adxzju.penti.com
 aem-collector.daumkakao.io
-aem.hb.omtrdc.net
 aeromark.actonservice.com
-aetv.hb.omtrdc.net
 affilate.hh.ru
 affiliates.mgmmirage.com
 affiliates.minglematch.com
@@ -1132,7 +1123,6 @@ analytics00.meride.tv
 analyticsssl.forcepoint.com
 anblzv.autospot.ru
 andlache.com
-animeconsortiumjapan.hb.omtrdc.net
 anon-stats.eff.org
 ans.avast.com
 ans.milb.com
@@ -1190,7 +1180,6 @@ ares.buyersclub.se
 argos.citruserve.com
 argyleforum.actonservice.com
 ariane.abtasty.com
-arkena.hb.omtrdc.net
 arrayasolutions.actonservice.com
 arrietty.nrj.fr
 artfin.club
@@ -1205,7 +1194,6 @@ asd.bauhaus.hr
 asd.bauhaus.info
 asd.nl.bauhaus
 asdcar.equestrianstockholm.de
-aserve.directorym.com
 ask.legalsolutions.thomsonreuters.info
 asoewk.jaanuu.com
 assets.garron.blog
@@ -1218,13 +1206,10 @@ atanx.alicdn.com
 atbs.actonservice.com
 atcbju.silvergoldbull.ca
 atconnect.npo.nl
-atlascopco.hb.omtrdc.net
 atlkse.aosom.it
 atrack.allposters.com
-atresmedia.hb.omtrdc.net
 ats.alot.com
 atsmetrics.adobe.com
-att.hb.omtrdc.net
 attorney.findlaw.com
 attributiontrackingga.googlecode.com
 atxqb.psychologies.com
@@ -1238,9 +1223,9 @@ audit.median.hu
 audit.shaa.it
 auqvva.insektenstop.net
 auriro.net
+auth1-eng.spankbang.com
 authcaptcha.com
 authentic3d.actonservice.com
-automotivecom.hb.omtrdc.net
 autozone.actonservice.com
 avma.avmaplit.com
 avocado.laprovence.com
@@ -1315,7 +1300,6 @@ beacon.viewlift.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon2.indieclick.com
-beacons.brandads.net
 beacons.mediamelon.com
 beagle.prod.tda.link
 beam.mjhlifesciences.com
@@ -1323,23 +1307,19 @@ beanstalkmarketing.actonservice.com
 beaumont.actonservice.com
 becanium.com
 bees.beesbeesbeesbees.com
-befirstcdn.com
 behave.sn.at
 belegend2019.belegend.jp
 bellabusinesssolutions.actonservice.com
-bellmedia.hb.omtrdc.net
 belong.curtin.edu.au
 bemarts.club
 beneficios.davivienda.cr
 beneficios.davivienda.hn
-bentleysystems.hb.omtrdc.net
 bento.agoda.com
 berateveng.ru
 beringer.actonservice.com
 bestboundary.com
 bestbuy.actonservice.com
 besti.ga
-bet.hb.omtrdc.net
 beuniquelyinsured.selective.com
 bewaslac.com
 beyondmeasure.rigoltech.com
@@ -1366,7 +1346,6 @@ bitcoin-pay.eu
 bitcoin-pocket.de
 bitcoin-pocket.eu
 biz1.kddi.com
-bizjournals.hb.omtrdc.net
 bizsolutions.strands.com
 bkrtx.com
 blackhillsgroup.actonservice.com
@@ -1421,7 +1400,6 @@ briefing.actonservice.com
 brizxe.dior.com
 browser-updater.yandex.net
 brukernano.actonservice.com
-bskyb.hb.omtrdc.net
 bstias.avilon.ru
 bthwkw.bazarchic.com
 btrace.qq.com
@@ -1448,7 +1426,6 @@ bvz5.destinia.com.tr
 bwj4.hrhibiza.com
 bydst.com
 byqdtp.interpark.com
-byubroadcasting.hb.omtrdc.net
 bzclk.baidu.com
 bznxqj.fiat.it
 c-c-l.actonservice.com
@@ -1491,7 +1468,6 @@ carl.pubsvs.com
 carolina.actonservice.com
 carreras.unisabana.edu.co
 carswellmedia.thomsonreuterscanada.ca
-cartoonnetworknewmedia.hb.omtrdc.net
 carzbz.braincandy.net
 carzbz.triviatoday.com
 cascadion.thermofisher.com
@@ -1499,16 +1475,11 @@ cashbeet.com
 caspionlog.appspot.com
 catracking.finning.com
 cb-mms.carbuyer.co.uk
-cbcca.hb.omtrdc.net
 cbmetrics.clickbank.com
-cbn.hb.omtrdc.net
-cbsdigitalmedia.hb.omtrdc.net
-cbsinteractive.hb.omtrdc.net
 cc-api-data.adobe.io
 ccaas.avaya.com
 ccbjournal.actonservice.com
 ccexperimentsstatic.oracleoutsourcing.com
-ccma.hb.omtrdc.net
 ccmd.coveredca.com
 cdn-analytics.ladmedia.fr
 cdn-channels-pixel.ex.co
@@ -1546,7 +1517,6 @@ channelblender.actonservice.com
 channelusa.samsung.com
 channelwatcher.panda.tech
 chartec.actonservice.com
-chelseafc.hb.omtrdc.net
 cherry.le.com
 chevalierusa.actonservice.com
 chickensstation.com
@@ -1560,10 +1530,8 @@ churro.noteapps.info
 cijfers.tweakers.nl
 cil.isotope.com
 cimage.adobe.com
-cineplex.hb.omtrdc.net
 circadence.actonservice.com
 cisco-eagle.actonservice.com
-ciscojasper.hb.omtrdc.net
 ciszhp.gutefrage.net
 citizensclimate.actonservice.com
 ciyacton.ciy.com
@@ -1690,7 +1658,6 @@ cname.kyusai.co.jp
 cname.mebiusseiyaku.co.jp
 cname1.shakenkan.co.jp
 cnebis.chocola.com
-cnn.hb.omtrdc.net
 cnpxwl.cheapcaribbean.com
 cns-service.actonservice.com
 cnstats.cdev.eu
@@ -1745,8 +1712,6 @@ college.business.oregonstate.edu
 colvk.viki.io
 com.econa.com
 com.gardio.se
-comcastcom.hb.omtrdc.net
-comcastentertainmentgroup.hb.omtrdc.net
 comline.actonservice.com
 comm.toro.com
 commercial.davey.com
@@ -1833,7 +1798,6 @@ cookiex.ngd.yahoo.com
 core.bruynzeelkeukens.nl
 corporate.mattamyhomes.com
 corporateforms.americanexpress.com
-corus.hb.omtrdc.net
 count.asnetworks.de
 count.carrierzone.com
 count.channeladvisor.com
@@ -1881,7 +1845,6 @@ counter2.condenast.it
 counters.freewebs.com
 countly.stackvaults.com
 country.yepshare.com
-coxnet.hb.omtrdc.net
 cpgo.avatacar.com
 cpt.itv.com
 cpx.golem.de
@@ -1893,7 +1856,6 @@ cqpmvc.cuisineactuelle.fr
 cqpmvc.femmeactuelle.fr
 cqpmvc.geo.fr
 cqubdd.metro.co.uk
-crackle.hb.omtrdc.net
 cratecamera.com
 crayfish.thingelstad.com
 create.unity.com
@@ -2126,7 +2088,6 @@ dejavu.mercadolivre.com.br
 deliver.ptgncdn.com
 delivery.hunterycity.com
 delivery.satr.jp
-dell.hb.omtrdc.net
 demdex.net
 denpjz.jamesedition.com
 dependable-s.hyster.com
@@ -2216,8 +2177,6 @@ dii2.zooplus.ro
 dii2.zooplus.se
 dioqto.totaljobs.com
 direct-events-collector.spot.im
-directv.hb.omtrdc.net
-directvapplications.hb.omtrdc.net
 dirt.dennis.co.uk
 discover-metrics.cloud.seek.com.au
 discover.clarivate.com
@@ -2225,13 +2184,7 @@ discover.conversantmedia.com
 discover.parexel.com
 discover.parker.com
 discover.phenomenex.com
-discovery.hb.omtrdc.net
-discoverydp.hb.omtrdc.net
-discoverynordics.hb.omtrdc.net
-dishpurchasingcorporation.hb.omtrdc.net
-disneyinternational.hb.omtrdc.net
 distillery.wistia.com
-districtm.io
 djibeacon.djns.com
 djmzap.gamivo.com
 dkbicq.elektramat.nl
@@ -2257,7 +2210,6 @@ dolmxo.workport.co.jp
 doppler-reporting.cbsivideo.com
 dot-stat.radikal.ru
 doug1izaerwt3.cloudfront.net
-dowjones.hb.omtrdc.net
 download.dnv.com
 download.dnvgl.com
 dptkdh.joinhoney.com
@@ -2275,7 +2227,6 @@ dtmssl.bobcat.com
 du2k.bhv.fr
 du4rq1xqh3i1k.cloudfront.net
 dup.baidustatic.com
-dupont.hb.omtrdc.net
 duu8lzqdm8tsz.cloudfront.net
 dv59b.montecarlomeeting.com
 dvo.assurandme.fr
@@ -2466,7 +2417,6 @@ emetrics.bose.com
 emng.libero.it
 empresa.ricoh.es
 emrdnt.sumaity.com
-emxdgt.com
 encoderfarmstatsnew.servicebus.windows.net
 endljp.abv.bg
 endljp.kupujemprodajem.com
@@ -2491,7 +2441,6 @@ enthusiastgaming.net
 entryhit.wp.pl
 eofwfj.ria.com
 eolvci.olx.ro
-epiroc.hb.omtrdc.net
 epm.mailperformance.com
 epnt.ebay.com
 epro.sogou.com
@@ -2507,7 +2456,6 @@ errors.snackly.co
 ert5.rmcsport.tv
 erutinmo.snagajob.com
 erutinmos.snagajob.com
-espn.hb.omtrdc.net
 essdhn.makuake.com
 estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
@@ -2538,7 +2486,6 @@ eulerian.thalasseo.com
 eultech.fnac.com
 eumeainfo.motorolasolutions.com
 euqsfp.belluna.jp
-euronewsgroup.hb.omtrdc.net
 eurotax-pl.autovistagroup.com
 event-api.contactatonce.co.uk
 event-api.contactatonce.com
@@ -2596,7 +2543,6 @@ everesttech.net
 evmaff.trotec.com
 evnt.iol.it
 evt.houzz.com
-ewscripps.hb.omtrdc.net
 ewstv.abcactionnews.com
 ewstv.kypost.com
 exd4.destinia.com.au
@@ -2628,8 +2574,6 @@ f7ds.liberation.fr
 f8phvntohv.tpetry.me
 factory.redbull.racing
 fahmta.racefans.net
-famedigitalasiapteltd.hb.omtrdc.net
-fandango.hb.omtrdc.net
 faster-trk.com
 fathom.app.silverbeak.com
 fathom.status.im
@@ -2651,7 +2595,6 @@ fcpszk.telestream.net
 fdt.kraken.com
 fec1.optimhome.com
 feedback.vegasgoldenknights.com
-feesocrald.com
 feqbqn.rent.com
 ffrmwn.musinsa.com
 fgbgtt.cian.ru
@@ -2682,7 +2625,6 @@ fnlvhy.wowma.jp
 fnqhpf.marioberluchi.ru
 fntefy.myxfitness.com
 fog.pixual.co
-fonecta.hb.omtrdc.net
 food.informaengage.com
 forex.americanexpress.com
 forms.bumrungrad.online
@@ -2692,12 +2634,8 @@ forms.hockey.floridapanthers.com
 forms.juniper.net
 forms.progress.com
 forms.vaisala.com
-fortis.hb.omtrdc.net
 fourier.taobao.com
 fourmtagservices.appspot.com
-foxentertainment.hb.omtrdc.net
-foxnews.hb.omtrdc.net
-foxsports.hb.omtrdc.net
 fpa-cdn.arstechnica.com
 fpb8.esce.fr
 fpc.attcenter.com
@@ -2742,7 +2680,6 @@ fudezz.grid.id
 fudezz.kompas.com
 fudezz.kompasiana.com
 fufoir.aif.ru
-fullscreen.hb.omtrdc.net
 furnishings.bellacor.com
 fuse.forbes.com
 fusion.bonniertidskrifter.se
@@ -2804,7 +2741,6 @@ g9111879410.co
 ga-beacon.appspot.com
 gak.webtoons.com
 gala.spiceworks.com
-gannett.hb.omtrdc.net
 gateway.foresee.com
 gay-hotvideo.net
 gbtracking.finning.com
@@ -2891,7 +2827,6 @@ green-griffin-860.appspot.com
 greenbeacon.actonservice.com
 greif.actonservice.com
 grow.bridgepointconsulting.com
-grunerandjahr.hb.omtrdc.net
 grxftt.oogarden.com
 grxsaq.tagheuer.com
 gsasolutionssecure.gsa.gov
@@ -2913,16 +2848,13 @@ gyvyoc.dermoeczanem.com
 gyzwcl.sconto.cz
 h00c.sfr.fr
 hal.courrierinternational.com
-hallmarkcom.hb.omtrdc.net
 halo.actonservice.com
 halospring.club
 hanaana.socialblade.com
 haostat.qihoo.com
 happen.spkt.io
-hb-fa-1.hb.omtrdc.net
 hbaazk.bukalapak.com
 hbfpvm.comolib.com
-hbolag.hb.omtrdc.net
 hby7.destinia.it
 hcjpbc.closerweekly.com
 hcjpbc.radaronline.com
@@ -2959,7 +2891,6 @@ hits.dealer.com
 hits.eluniversal.com.mx
 hits.guardian.co.uk
 hits.informer.com
-hits.sys.lv
 hits.zdnet.co.kr
 hitserver.ibope.com.br
 hiuplq.flashscore.com
@@ -2971,7 +2902,6 @@ hjbgdc.fracora.com
 hjc6.supcareer.com
 hk2d.tourismemauricie.com
 hkj8.evobanco.com
-hkonline.hb.omtrdc.net
 hkqrpk.ozon.ru
 hktracker.hankookilbo.com
 hlhyzh.fann.cz
@@ -2999,7 +2929,6 @@ hub.hubinternational.com
 hubmetric.samsclub.com
 hubmetrics.samsclub.com
 hukhiz.accentjobs.be
-hulu.hb.omtrdc.net
 hurricane.tinybird.co
 hvrhgt.thescottishsun.co.uk
 hvrhgt.thesun.co.uk
@@ -3027,7 +2956,6 @@ id5-sync.com
 idg1.idgarages.com
 ie-business.vodafone.com
 iedc.fitbit.com
-iflix.hb.omtrdc.net
 ifnyop.priceline.com
 igel-tech.actonservice.com
 igexlg.weltbild.de
@@ -3058,7 +2986,6 @@ impactcdn.com
 impress.vcita.com
 imrworldwide.com
 independence.americanportfolios.com
-independentdigital.hb.omtrdc.net
 indmetric.rediff.com
 infinityid.condenastdigital.com
 info-fsi.stanford.edu
@@ -3405,11 +3332,9 @@ italia.wolterskluwer.com
 iterable.convoy.com
 itimoh.eslgaming.com
 itp.phoebebeautyup.com
-itracking.fccinteractive.com
 itt.enterprises.proximus.com
 ivgtdg.dalirelogios.com.br
 iwa.iplsc.com
-jac.yahoosandbox.com
 jaomlf.giftmall.co.jp
 jas.indeednps.com
 javascriptcounter.appspot.com
@@ -3543,7 +3468,6 @@ lcs.naver.com
 lcscompanies.lcsnet.com
 ldnlyap.com
 ldqtdd.peing.net
-lds.hb.omtrdc.net
 leadtracking.plumvoice.com
 learn.armaninollp.com
 learn.neocertified.com
@@ -3562,7 +3486,6 @@ lhlscy.joebrowns.co.uk
 liacod.sephora.ru
 liadm.com
 libertyhomeequity.actonservice.com
-lifeway.hb.omtrdc.net
 lift.acquia.com
 liirhn.vanarama.com
 likiwh.vagabondstudio.com
@@ -3828,7 +3751,6 @@ luaqlg.blissy.com
 lucid.mjhassoc.com
 luptbq.lampsplus.com
 lwozzk.legacy.com
-lww.hb.omtrdc.net
 lxgjni.lcwaikiki.eg
 lxiaho.lesfurets.com
 lxoemc.siviaggia.it
@@ -4183,7 +4105,6 @@ martech.condenastdigital.com
 marvpo.viedemerde.fr
 mas.nth.ch
 mastertag.kpcustomer.de
-mathworks.hb.omtrdc.net
 matrix.hbo.com
 maz.zba.jp
 mbainfo.ust.hk
@@ -4351,9 +4272,7 @@ med.viibryd.com
 med.viibrydhcp.com
 med.vraylar.com
 media.affiliate.logitravel.com
-mediacorp.hb.omtrdc.net
 mediametrics.mpsa.com
-mediaset.hb.omtrdc.net
 mediasource.actonservice.com
 mediator.mail.ru
 medion.interamerican.gr
@@ -4374,7 +4293,6 @@ met.vgwort.de
 met1.hp.com
 met2.hp.com
 meter.bref.sh
-metlife.hb.omtrdc.net
 metric-nonssl.nomura.co.jp
 metric.angieslist.com
 metric.armstrong.com
@@ -5627,7 +5545,6 @@ pos.baidu.com
 posgrados.unisabana.edu.co
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
-postpixel.vindicosuite.com
 postuler.bpost.be
 powercount.jswelt.de
 ppgqvz.bigmotoringworld.co.uk
@@ -5667,7 +5584,6 @@ prophet.heise.de
 proteinhikaku2019.proteinhikaku.com
 prowareness.actonservice.com
 proxy.dzeio.com
-prstats.postrelease.com
 prudential.distribution.team.prudential.co.uk
 prx6.destinia.ch
 psqsjg.coach.com
@@ -6015,7 +5931,6 @@ sbcomniture.focus.de
 sbgsodufuosmmvsdf.info
 sbpzeq.lululemon.com.au
 sbrands.lookfantastic.com
-sbsaustralia.hb.omtrdc.net
 sbttlj.togetter.com
 sby1.madeindesign.de
 sbyneh.dailymail.co.uk
@@ -6148,9 +6063,7 @@ sg3.notarize.com
 sgokzs.attrangs.co.kr
 sgphctileh-a.akamaihd.net
 sgw-analytics.panasonic.com
-shawtelevision.hb.omtrdc.net
 shipsmarter.idrivelogistics.com
-sho.hb.omtrdc.net
 shop.iwantclips.com
 shopmetric.rediff.com
 shoppers-test.instacartemail.com
@@ -6184,8 +6097,6 @@ sjremetrics.java.com
 sjyskm.litres.ru
 skf.actonservice.com
 ski1.skiset.com
-skydeutschland.hb.omtrdc.net
-skyitalia.hb.omtrdc.net
 slewvr.gp.se
 slipstream.skyscanner.net
 sls2.loisirsencheres.com
@@ -7352,7 +7263,6 @@ somtrdc.jobstreet.com
 somtrdc.jobstreet.com.my
 somtrdc.jobstreet.com.ph
 somtrdc.jobstreet.com.sg
-sonyglobal.hb.omtrdc.net
 sorxyx.vi.nl
 sosc.hrs.com
 sourcepoint-mms.aetv.com
@@ -7590,7 +7500,6 @@ st2.jamesdaniel.dev
 stadig.ifeng.com
 stahl.actonservice.com
 stan.xing.com
-stanfordhealthcare.hb.omtrdc.net
 starman.fathomdns.com
 startrekk.flaconi.at
 startrekk.flaconi.de
@@ -8024,7 +7933,6 @@ stats2.teenvogue.com
 stats2.tune.pk
 stats2.videonow.ru
 stats3.ferheng.co
-stats3.unrulymedia.com
 statsd.zmags.com
 statse-omtrdc.deka.de
 statsmp2.emol.com
@@ -8065,7 +7973,6 @@ sts.eccmp.com
 sts.papyrs.com
 studentadvantage.actonservice.com
 stupendoussnow.com
-stv.hb.omtrdc.net
 sub1.cosmosdirekt.de
 subscriber.smallbusinessstartup.com
 substation.confection.io
@@ -8244,7 +8151,6 @@ tags.globo.com
 tags.newscgp.com
 tagtracking.vibescm.com
 takigx.tourneau.com
-talpaholdingnv.hb.omtrdc.net
 target.mirtesen.ru
 target.mixi.media
 target.nationwide.com
@@ -8256,7 +8162,6 @@ tatehj.nylaarp.com
 tatpek.com
 taylorshellfish.actonservice.com
 tbe.tom.ru
-tbslatinamerica.hb.omtrdc.net
 tc2.hometogo.net
 tcdata.fnac.com
 tce.alicdn.com
@@ -8297,7 +8202,6 @@ telemetry.tableausoftware.com
 telemetry.tradingview.com
 telstraphonewords.actonservice.com
 telulr.golfgalaxy.com
-telus.hb.omtrdc.net
 temptation.ad.nl
 tenilstats.turner.com
 teraes.hgreg.com
@@ -8328,7 +8232,6 @@ tics.seeker.gg
 tics.techdirt.com
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
-tim.hb.omtrdc.net
 tim.nextinpact.com
 tinytendency.com
 tiresomethunder.com
@@ -8357,7 +8260,6 @@ torropinto.viessmann.es
 toruk.tanx.com
 touch.myntra.com
 tourism.visitorlando.com
-tourismnz.hb.omtrdc.net
 tpx.tesseradigital.com
 tqxpnv.bauhaus.info
 tr-op.datatrics.com
@@ -8706,7 +8608,6 @@ trckr.nordiskemedier.dk
 treatment.grammarly.com
 trecker.aklamio.com
 tredir.go.com
-tremorhub.com
 trends.newsmaxwidget.com
 triggers.wfxtriggers.com
 trk.absuite.com.br
@@ -8755,10 +8656,7 @@ tshuxi.bbqguys.com
 tsj0.madeindesign.com
 tspmagic.tumblr.com
 tukuru.cotta.jp
-turnerclassicmovies.hb.omtrdc.net
-turnerinternational.hb.omtrdc.net
 tuykfa.ivrose.com
-tv2.hb.omtrdc.net
 tvl8.supdecreation.com
 tvpixel.com
 twiz.wizaly.fr
@@ -8841,7 +8739,6 @@ vdrn.redplum.com
 vdzpnx.gnc.com.mx
 vedznh.cumhuriyet.com.tr
 verifier.live
-verizontelecom.hb.omtrdc.net
 veta.naver.com
 vgo.vegaoo.de
 vgo.vegaoo.es
@@ -8851,17 +8748,14 @@ vgo.vegaoo.pt
 vgo.vegaooparty.com
 vgo.vegaoopro.com
 vhmjci.edreams.co.uk
-vice.hb.omtrdc.net
 vicspendig.club
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
 videoplayer2.xyz
 videoplayerhub.com
-videor.hb.omtrdc.net
 videostat-new.index.hu
 videostat.index.hu
 videostats.kakao.com
-vidgoinc.hb.omtrdc.net
 vidstat.taboola.com
 views.cancan.ro
 vip.gophersport.com
@@ -8887,7 +8781,6 @@ vkdgzr.ennergiia.com
 vllclq.ninewest.com.tr
 vmstats.varrando.com
 vmsxzx.buienradar.nl
-vmware.hb.omtrdc.net
 vnf4.belleetbio.com
 vole.amplenote.com
 vortex.hulu.com
@@ -8898,7 +8791,6 @@ vphsiv.gsshop.com
 vpnuyy.carters.com
 vppst.iltrovatore.it
 vqp3.madeindesign.co.uk
-vrt.hb.omtrdc.net
 vry9.destinia.com
 vrzmfy.fool.com
 vsfius.aranzulla.it
@@ -8939,7 +8831,6 @@ waiptk.turksatkablo.com.tr
 wal.wolfram.com
 walkme.actonservice.com
 wareneingang.edeka.de
-warnerbrosentertainmentinc.hb.omtrdc.net
 warrenfcu.actonservice.com
 was.epson.com
 was.stubhub.com
@@ -9017,7 +8908,6 @@ weblog.strawberrynet.com
 weblog2.eseoul.go.kr
 weblogger-dynamic-lb.playdom.com
 webmail.ingenious.cloud
-webmd.hb.omtrdc.net
 webmet.creditreform.de
 webmetrics.perkinelmer.com
 webmetrics.zebra.com
@@ -9057,7 +8947,6 @@ whimqe.etretokyo.jp
 whqkyq.leasingmarkt.de
 whxbrz.shipt.com
 why3.inseec.education
-widget.perfectmarket.com
 widget.quantcast.com
 wihgkc.localiza.com
 win.staticstuff.net
@@ -9182,7 +9071,6 @@ xfn6.monaco.edu
 xiqvza.dickblick.com
 xlpzul.daenischesbettenlager.de
 xnt4.ece.fr
-xoxo8-eng.spankbang.com
 xscmzs.tenki.jp
 xslmpq.ohou.se
 xstats.evoload.io
@@ -9211,8 +9099,6 @@ yjtag.yahoo.co.jp
 yjxssk.apartments.com
 ykhliz.manscaped.com
 ykhqhe.domain.com.au
-yleisradio.hb.omtrdc.net
-ylio.hb.omtrdc.net
 ymprove.web.de
 ynmaom.uzayspor.com
 ynwqna.mayblue.co.kr
