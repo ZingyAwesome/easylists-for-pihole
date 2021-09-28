@@ -788,6 +788,7 @@ accuzip.actonservice.com
 acemetrics.aaa.com
 acendas.actonservice.com
 achamm.doctolib.fr
+acidpigs.com
 acq-hk.americanexpress.com
 acrotg.regatta.com
 act.boxerproperty.com
@@ -984,6 +985,7 @@ a.foxsports.com
 agcs-knowledge.allianz.com
 a.gedidigital.it
 a.getaawp.com
+agkn.com
 a.hellonext.co
 ahfdsk.wittchen.ua
 ahhrtt.bnext.com.tw
@@ -1478,6 +1480,7 @@ astromed.actonservice.com
 asttcp.vatera.hu
 asumi.shinobi.jp
 as.welt.de
+aswpsdkus.com
 as.yomonda.de
 atanx.alicdn.com
 atbs.actonservice.com
@@ -1511,7 +1514,7 @@ audit.median.hu
 audit.shaa.it
 auqvva.insektenstop.net
 auriro.net
-auth1-eng.spankbang.com
+auth2-eng.spankbang.com
 authcaptcha.com
 authentic3d.actonservice.com
 autozone.actonservice.com
@@ -2197,6 +2200,7 @@ content.cercle-actionnaires.bnpparibas
 content.eaton.com
 content.hydraulicsproducts.com
 content.juniper.net
+contents2.00110.citi.com
 contents-tracking.beop.io
 content-strl.courses-en-ligne.carrefour.fr
 content.tatatelebusiness.com
@@ -2277,6 +2281,7 @@ cpgo.avatacar.com
 cpt.itv.com
 cpx.golem.de
 cpxl.golem.de
+cpx.to
 cqbkhv.anacapri.com.br
 cq.hq1.influitive.com
 cqishr.mobile.de
@@ -2294,6 +2299,7 @@ creatives.sunmedia.tv
 creator.zmags.com
 c.rhapsody.com
 crm-analytics.imweb.ru
+crsspxl.com
 crta.dailymail.co.uk
 crta.metro.co.uk
 crwdcntrl.net
@@ -2402,6 +2408,7 @@ d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
+d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -2713,6 +2720,7 @@ dl.zola.com
 dm-event.net
 dmkt.solutions.cas.org
 dmpcdn.el-mundo.net
+dmpxs.com
 dmtgo.upc.biz
 dmxalb.winni.in
 dn34cbtcv9mef.cloudfront.net
@@ -3462,6 +3470,7 @@ future-price.co.uk
 future.uwindsor.ca
 futuristicapparatus.com
 fuzrxc.aboutyou.nl
+fuzzybasketball.com
 fvuitt.alibabuy.com
 fxbqag.znak.com
 fxipreferral.americanexpress.com
@@ -3620,6 +3629,7 @@ go.morningstar.com.au
 go-mpulse.net
 go.mwe.com
 go.netsuite.com
+googleoptimize.com
 googletagmanager.com
 go.oracle.com
 go.pardot.com
@@ -3858,6 +3868,7 @@ img.gamebookers.com
 img.service.belboon.com
 imgstat.baidu.com
 impactcdn.com
+impactradius-event.com
 imp.ad-plus.cn
 imp.affiliator.com
 imp.go.sohu.com
@@ -5234,6 +5245,7 @@ marvpo.viedemerde.fr
 mas.nth.ch
 mastertag.kpcustomer.de
 mastertag.q-sis.de
+matheranalytics.com
 matrix.hbo.com
 maz.zba.jp
 mbainfo.ust.hk
@@ -6436,6 +6448,7 @@ nr-events.taboola.com
 nrg.red-by-sfr.fr
 nrjcur.pomelofashion.com
 nrzfje.ririnco.com
+ns1p.net
 nsedgj.bonprix.de
 nsm.tr.netsalesmedia.pl
 nsqrun.incrediblerugsanddecor.com
@@ -6679,6 +6692,7 @@ perf-events.cloud.unity3d.com
 perf.mouser.com
 performanceplay.co.kr
 permutive.app
+perr.h-cdn.com
 perso.aws.arc.pub
 petjue.lcwaikiki.ru
 pevftg.shopee.sg
@@ -6880,6 +6894,7 @@ pl.maya-astro.fi
 p-log.ykimg.com
 plomaticsb.carte-gr.total.fr
 plongezdanslabdkj.carte-gr.total.fr
+plotrabbit.com
 plsbl.edison.se
 pls.indiemakers.fr
 pl.terraintinker.com
@@ -7037,6 +7052,7 @@ qrvsnt.citygrounds.com
 qsourd.carte-gr.total.fr
 quantserve.com
 qubitanalytics.appspot.com
+quickanalytics.ca
 quidel.actonservice.com
 quk9.destinia.com.ar
 qwuvun.westmorebeauty.com
@@ -7385,6 +7401,7 @@ sasc.solidworks.com
 sa.sky.it
 sas.nsm-corp.com
 sa.tactics.com
+satisfycork.com
 sat.sanoma.fi
 sats.mailbrew.com
 sawap.equifax.com
@@ -7463,6 +7480,7 @@ scs.arcteryx.com
 scs.lacapitale.com
 scs.lifenet-seimei.co.jp
 scsmetrics.vodafone.it
+sc-static.net
 sc.ulsterbank.co.uk
 sc.ulsterbank.ie
 s.cuoresportivo.no
@@ -9844,6 +9862,7 @@ stats.twistage.com
 stats.ulixes.pl
 stats.united-domains.de
 stats.unox.com
+stat.super.cz
 stats.urbanfinn.com
 stats.urban-media.com
 stats.useeffect.dev
@@ -9946,6 +9965,7 @@ strack.shawdirect.ca
 strack.shawmobile.ca
 strack.sw.siemens.com
 strawberry.basf.com
+streamstats.prd.dlive.tv
 strk.chegg.com
 st.s-bahn-muenchen-magazin.de
 sts.eccmp.com
@@ -11114,6 +11134,7 @@ tr.suedkurier.de
 tr.toner-service.fr
 tr.toner-services.fr
 tr.trafficnews.lyria.com
+tru.am
 truffle.bid
 tr.uk.icicibank.com
 trusted-web-seal.cybertrust.ne.jp
@@ -11219,6 +11240,7 @@ uporzu.prestashop.com
 upstats.yadro.ru
 upt.graphiq.com
 upz1.destinia.lt
+urbanairship.com
 urc.taboolasyndication.com
 urerucname.manara.jp
 url1020.keycollectorcomics.com
