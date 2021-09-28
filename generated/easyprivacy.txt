@@ -646,6 +646,7 @@ accuzip.actonservice.com
 acemetrics.aaa.com
 acendas.actonservice.com
 achamm.doctolib.fr
+acidpigs.com
 acq-hk.americanexpress.com
 acrotg.regatta.com
 act-on.ioactive.com
@@ -791,6 +792,7 @@ afhleads.keurig.ca
 afi.ssl.gmobb.jp
 afizah.eprice.it
 agcs-knowledge.allianz.com
+agkn.com
 ahfdsk.wittchen.ua
 ahhrtt.bnext.com.tw
 ahhrtt.pixnet.net
@@ -1202,6 +1204,7 @@ astat.nikkei.com
 astromed.actonservice.com
 asttcp.vatera.hu
 asumi.shinobi.jp
+aswpsdkus.com
 atanx.alicdn.com
 atbs.actonservice.com
 atcbju.silvergoldbull.ca
@@ -1223,7 +1226,7 @@ audit.median.hu
 audit.shaa.it
 auqvva.insektenstop.net
 auriro.net
-auth1-eng.spankbang.com
+auth2-eng.spankbang.com
 authcaptcha.com
 authentic3d.actonservice.com
 autozone.actonservice.com
@@ -2196,6 +2199,7 @@ dl1d2m8ri9v3j.cloudfront.net
 dlpjgh.techport.ru
 dm-event.net
 dmkt.solutions.cas.org
+dmpxs.com
 dmtgo.upc.biz
 dmxalb.winni.in
 dn34cbtcv9mef.cloudfront.net
@@ -2691,6 +2695,7 @@ future-price.co.uk
 future.uwindsor.ca
 futuristicapparatus.com
 fuzrxc.aboutyou.nl
+fuzzybasketball.com
 fvuitt.alibabuy.com
 fxbqag.znak.com
 fxipreferral.americanexpress.com
@@ -2810,6 +2815,7 @@ gocertiport.pearsonvue.com
 goldenhelix.actonservice.com
 goldenpaints.actonservice.com
 gomerchant.groupon.com
+googleoptimize.com
 googletagmanager.com
 goto.benchmarkeducation.com
 goto.dresslily.com
@@ -2986,6 +2992,7 @@ imp.go.sohu.com
 imp.optaim.com
 imp.pvnsolutions.com
 impactcdn.com
+impactradius-event.com
 impress.vcita.com
 imrworldwide.com
 independence.americanportfolios.com
@@ -4108,6 +4115,7 @@ martech.condenastdigital.com
 marvpo.viedemerde.fr
 mas.nth.ch
 mastertag.kpcustomer.de
+matheranalytics.com
 matrix.hbo.com
 maz.zba.jp
 mbainfo.ust.hk
@@ -5536,6 +5544,7 @@ plausible.zorin.com
 play.mix.kinostuff.com
 player-telemetry.vimeo.com
 plbcsd.vidaxl.se
+plotrabbit.com
 pls.indiemakers.fr
 plsbl.edison.se
 pluckypocket.com
@@ -5930,6 +5939,7 @@ sappmetrics.boostmobile.com
 sappmetrics.sprint.com
 sasc.solidworks.com
 sat.sanoma.fi
+satisfycork.com
 sats.mailbrew.com
 sawap.equifax.com
 sbcomniture.focus.de
@@ -5939,6 +5949,7 @@ sbrands.lookfantastic.com
 sbttlj.togetter.com
 sby1.madeindesign.de
 sbyneh.dailymail.co.uk
+sc-static.net
 sc2metrics.exacttarget.com
 schwaebischhall.efscle.com
 sci.digitalinsight.com
@@ -8651,6 +8662,7 @@ trk.webhostingtalk.com
 trkbc.com
 trklink.luisaviaroma.com
 trkpzz.dcinside.com
+tru.am
 tru.webelapp.com
 truffle.bid
 trust.titanhq.com
@@ -8705,6 +8717,7 @@ uporzu.prestashop.com
 upstats.yadro.ru
 upt.graphiq.com
 upz1.destinia.lt
+urbanairship.com
 urc.taboolasyndication.com
 urerucname.manara.jp
 url1020.keycollectorcomics.com
