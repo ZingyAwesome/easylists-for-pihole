@@ -1848,6 +1848,7 @@ country.yepshare.com
 cpgo.avatacar.com
 cpt.itv.com
 cpx.golem.de
+cpx.to
 cpxl.golem.de
 cqbkhv.anacapri.com.br
 cqishr.mobile.de
@@ -1862,6 +1863,7 @@ create.unity.com
 creatives.sunmedia.tv
 creator.zmags.com
 crm-analytics.imweb.ru
+crsspxl.com
 crta.dailymail.co.uk
 crta.metro.co.uk
 crwdcntrl.net
@@ -1944,6 +1946,7 @@ d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
+d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -5176,6 +5179,7 @@ nqyljn.yoyoexpert.com
 nr-events.taboola.com
 nrjcur.pomelofashion.com
 nrzfje.ririnco.com
+ns1p.net
 nsedgj.bonprix.de
 nsm.tr.netsalesmedia.pl
 nsqrun.incrediblerugsanddecor.com
@@ -5637,6 +5641,7 @@ qrrhvh.propertyfinder.ae
 qrvsnt.citygrounds.com
 quantserve.com
 qubitanalytics.appspot.com
+quickanalytics.ca
 quidel.actonservice.com
 quk9.destinia.com.ar
 qwuvun.westmorebeauty.com
@@ -7553,6 +7558,7 @@ stat.segitek.hu
 stat.sputnik.ru
 stat.stars.ru
 stat.stheadline.com
+stat.super.cz
 stat.tianya.cn
 stat.tiara.daum.net
 stat.tiara.kakao.com
@@ -7968,6 +7974,7 @@ stracking.myomee.com
 stracking.rogers.com
 stracking.trutv.com
 strawberry.basf.com
+streamstats.prd.dlive.tv
 strk.chegg.com
 sts.eccmp.com
 sts.papyrs.com
