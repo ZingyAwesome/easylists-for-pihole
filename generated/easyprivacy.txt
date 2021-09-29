@@ -2644,6 +2644,7 @@ forms.vaisala.com
 fourier.taobao.com
 fourmtagservices.appspot.com
 fpa-cdn.arstechnica.com
+fpa-events.decrypt.co
 fpb8.esce.fr
 fpc.attcenter.com
 fpc.bartlegibson.com
