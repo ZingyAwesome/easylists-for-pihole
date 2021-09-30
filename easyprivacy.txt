@@ -1514,7 +1514,7 @@ audit.median.hu
 audit.shaa.it
 auqvva.insektenstop.net
 auriro.net
-auth2-eng.spankbang.com
+auth3-eng.spankbang.com
 authcaptcha.com
 authentic3d.actonservice.com
 autozone.actonservice.com
@@ -5268,6 +5268,7 @@ mc.webvisor.org
 mc.yandex.com
 mc.yandex.ru
 m.delltechnologies.com
+mdhv.io
 mdiyay.vseinstrumenti.ru
 mds.ricoh.es
 mdws.1stchoicesavings.ca
