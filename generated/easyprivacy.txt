@@ -1241,6 +1241,8 @@ awuapj.landwatch.com
 axion-biosystems.actonservice.com
 axislogger.appspot.com
 axjfkc.kobayashi.co.jp
+ayc0zsm69431gfebd.info
+ayc0zsm69431gfebd.xyz
 aydtkb.pikabu.ru
 aypbpr.tokopedia.com
 az693360.vo.msecnd.net
@@ -1899,6 +1901,7 @@ cyber-pages.att.com
 cyber-tracking.att.com
 cyrstalventure.club
 czvdlp.hgregoire.com
+czx5eyk0exbhwp43ya.biz
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
@@ -2644,6 +2647,7 @@ forms.progress.com
 forms.vaisala.com
 fourier.taobao.com
 fourmtagservices.appspot.com
+fp-cdn.azureedge.net
 fpa-cdn.arstechnica.com
 fpa-events.decrypt.co
 fpb8.esce.fr
@@ -7931,6 +7935,7 @@ stats.vngameden.com
 stats.voltamediahouse.com
 stats.votemagie.com
 stats.walkiees.co.uk
+stats.wawacity.one
 stats.webs.com
 stats.whattopack.com
 stats.winsim.de
