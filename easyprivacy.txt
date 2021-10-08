@@ -2482,6 +2482,7 @@ data.campaign.toyscenter.it
 data.circulate.com
 data.cofinoga.fr
 data.collectandgo.be
+datacollector-dra.dt.hicloud.com
 data.collishop.be
 data.colruyt.be
 data.colruytgroup.com
@@ -2719,6 +2720,7 @@ dl.mail.express-scripts.com
 dl.orders.express-scripts.com
 dlpjgh.techport.ru
 dl-stage.zola.com
+dlswbr.baidu.com
 dl.zola.com
 dm-event.net
 dmkt.solutions.cas.org
