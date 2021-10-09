@@ -1514,7 +1514,7 @@ audit.median.hu
 audit.shaa.it
 auqvva.insektenstop.net
 auriro.net
-auth3-eng.spankbang.com
+auth4-eng.spankbang.com
 authcaptcha.com
 authentic3d.actonservice.com
 autozone.actonservice.com
@@ -3247,6 +3247,9 @@ eulerian.thalasseo.com
 eultech.fnac.com
 eumeainfo.motorolasolutions.com
 euqsfp.belluna.jp
+eurogamer-it.eurogamer.it
+eurogamer-pl.eurogamer.pl
+eurogamer-pt.eurogamer.pt
 eurotax-pl.autovistagroup.com
 event-api.contactatonce.com
 event-api.contactatonce.com.au
@@ -11270,6 +11273,7 @@ useg.nextdigital.com.hk
 userexperience.thehut.net
 userfly.com
 usersegment.wpdigital.net
+usgamer-us.usgamer.net
 usgzei.vidaxl.ch
 usivbt.qoo10.com
 usmetric.rediff.com
