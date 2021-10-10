@@ -7642,6 +7642,7 @@ stats.bestservers.co
 stats.bholmes.dev
 stats.biblionumericus.fr
 stats.bildconnect.de
+stats.birgun.net
 stats.bitdefender.com
 stats.bitgravity.com
 stats.bitpost.app
