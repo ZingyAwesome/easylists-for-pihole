@@ -1226,7 +1226,6 @@ audit.median.hu
 audit.shaa.it
 auqvva.insektenstop.net
 auriro.net
-auth4-eng.spankbang.com
 authcaptcha.com
 authentic3d.actonservice.com
 autozone.actonservice.com
@@ -1404,6 +1403,8 @@ bregrx.ipizza.ru
 briefing.actonservice.com
 brizxe.dior.com
 browser-updater.yandex.net
+browser.events.data.microsoft.com
+browser.pipe.aria.microsoft.com
 brukernano.actonservice.com
 bstias.avilon.ru
 bthwkw.bazarchic.com
@@ -2454,7 +2455,6 @@ entryhit.wp.pl
 eofwfj.ria.com
 eolvci.olx.ro
 epm.mailperformance.com
-epnt.ebay.com
 epro.sogou.com
 eproof.drudgereport.com
 eqingl.ivet.bg
@@ -2673,6 +2673,7 @@ fpc.spurs.com
 fpc.trimarkusa.com
 fpcdallasstars.nhl.com
 fpcsbulls.nba.com
+fpt.microsoft.com
 fpxewa.ilmeteo.it
 fqppgv.cheapoair.com
 france.alphabet.com
@@ -3327,6 +3328,7 @@ intelligence.marykayintouch.com
 intent.cmo.com.au
 intent.goodgearguide.com.au
 intent.pcworld.idg.com.au
+internal-ana.spankbang.com
 internalcomms.hubinternational.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
@@ -5589,6 +5591,7 @@ preferences.deloitte.ca
 prf.vagnt.com
 pricklydebt.com
 primary.hasegawa.jp
+primate.dmarcdigests.com
 prism.pandora.tv
 privacy.outdoorsg.com
 privacyfriendly.netlify.app
@@ -8933,6 +8936,7 @@ web.news.thebridge.it
 web.newsletter.viviennewestwood.com
 web.newsletter.wearetennis.bnpparibas
 web.northwestern.nm.org
+web.vortex.data.microsoft.com
 web.zoominfo.com
 webanalytics.pgatour.com
 webanalyticsnossl.websense.com
