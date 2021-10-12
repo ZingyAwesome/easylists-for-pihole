@@ -1514,7 +1514,6 @@ audit.median.hu
 audit.shaa.it
 auqvva.insektenstop.net
 auriro.net
-auth4-eng.spankbang.com
 authcaptcha.com
 authentic3d.actonservice.com
 autozone.actonservice.com
@@ -1741,7 +1740,9 @@ bregrx.ipizza.ru
 br.email.lifesum.com
 briefing.actonservice.com
 brizxe.dior.com
+browser.events.data.microsoft.com
 browser.mi-img.com
+browser.pipe.aria.microsoft.com
 browser-updater.yandex.net
 br.potato1.influitive.com
 brukernano.actonservice.com
@@ -3192,7 +3193,6 @@ eolvci.olx.ro
 eonmxd.urban-research.jp
 e.passfolio.us
 epm.mailperformance.com
-epnt.ebay.com
 eproof.drudgereport.com
 epro.sogou.com
 eqingl.ivet.bg
@@ -3447,6 +3447,7 @@ fpc.trimarkusa.com
 fp.mandatumlife.fi
 fp.mandatumtrader.fi
 fp.measure.office.com
+fpt.microsoft.com
 fpxewa.ilmeteo.it
 fqppgv.cheapoair.com
 france.alphabet.com
@@ -4241,6 +4242,7 @@ intelligence.marykayintouch.com
 intent.cmo.com.au
 intent.goodgearguide.com.au
 intent.pcworld.idg.com.au
+internal-ana.spankbang.com
 internalcomms.hubinternational.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
@@ -6956,6 +6958,7 @@ preferences.deloitte.ca
 prf.vagnt.com
 pricklydebt.com
 primary.hasegawa.jp
+primate.dmarcdigests.com
 prism.pandora.tv
 privacy-api.9gag.com
 privacyfriendly.netlify.app
@@ -11546,6 +11549,7 @@ webtracking.oncourselearning.com
 webtrackingvet.rossu.edu
 webtraffic.mastercontrol.com
 webts.adac.de
+web.vortex.data.microsoft.com
 web.x.ilpost.it
 web.zoominfo.com
 weidenhammer.actonservice.com
