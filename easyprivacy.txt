@@ -1081,6 +1081,7 @@ analytics.behaheaters.co.uk
 analytics.belgacom.be
 analytics.betterplaces.nl
 analytics.bigcommerce.com
+analytics.bitrix.info
 analytics.bleacherreport.com
 analytics.blue
 analytics.boing.es
