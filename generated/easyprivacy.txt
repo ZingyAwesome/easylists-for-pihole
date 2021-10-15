@@ -7676,6 +7676,7 @@ stats.chronoslabs.net
 stats.citizenos.com
 stats.clickability.com
 stats.clickforknowledge.com
+stats.cloudwp.io
 stats.cmcigroup.com
 stats.codeexposed.com
 stats.coditia.com
