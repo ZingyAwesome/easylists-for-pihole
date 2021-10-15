@@ -4373,6 +4373,7 @@ k.fnacspectacles.com
 kfzntn.chinatimes.com
 kfzqoj.utkonos.ru
 kgqxzw.blue-tomato.com
+kick-lake.ga
 kiddbs.baby-calendar.jp
 kiki.rireetchansons.fr
 kiks.auto.ru
@@ -4762,6 +4763,7 @@ logs.viadata.store
 logs.vmixcore.com
 log.sv.pandora.tv
 log.tagtic.cn
+logtake.weidian.com
 log.targetpush.co.kr
 log.ttbc-hcm.gov.vn
 log.webnovel.com
@@ -9565,6 +9567,7 @@ stats.citizenos.com
 stats.clear-media.com
 stats.clickability.com
 stats.clickforknowledge.com
+stats.cloudwp.io
 stats.cmcigroup.com
 stats.codeexposed.com
 stats.coditia.com
