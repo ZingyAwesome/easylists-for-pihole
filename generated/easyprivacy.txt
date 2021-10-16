@@ -3424,6 +3424,7 @@ keyade.alltricks.fr
 keyword.daumdn.com
 kfzntn.chinatimes.com
 kfzqoj.utkonos.ru
+kick-lake.ga
 kiki.rireetchansons.fr
 kiks.auto.ru
 kitchen.juicer.cc
@@ -3732,6 +3733,7 @@ logsbin.dantri.com.vn
 logservice.hicloud.com
 logservice1.hicloud.com
 logstat.caixin.com
+logtake.weidian.com
 logx.mtime.cn
 logx.mtime.com
 logx.optimizely.com
