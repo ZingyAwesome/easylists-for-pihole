@@ -3594,6 +3594,7 @@ ghdlry.greetz.nl
 ghrnbw.avocadostore.de
 gi7a.structube.com
 gia.jd.com
+gi-client-tracking.goodgamestudios.com
 g.ign.com
 gj.mmstat.com
 gjmovc.epapoutsia.gr
@@ -6775,6 +6776,7 @@ pixel.blivenyc.com
 pixel.cdnwidget.com
 pixel.coccoc.com
 pixel.condenastdigital.com
+pixel.convertize.io
 pixel.cpex.cz
 pixel.digitalspy.co.uk
 pixel.europapress.net
@@ -10781,6 +10783,7 @@ tracking.wlscripts.net
 tracking.yealink.com
 trackjay.cool3c.com
 track.juno.com
+track.kueez.com
 track.kyoads.com
 trackla.stackla.com
 track.leady.cz
