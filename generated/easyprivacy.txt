@@ -1802,6 +1802,7 @@ cookies.reedbusiness.nl
 cookies.siemens.com
 cookietracking.eatonpowersource.com
 cookiex.ngd.yahoo.com
+core-sys.spankbang.com
 core.bruynzeelkeukens.nl
 corporate.mattamyhomes.com
 corporateforms.americanexpress.com
@@ -2803,6 +2804,7 @@ gfn1.ugap.fr
 gfv4.destinia.co.za
 ghdlry.greetz.nl
 ghrnbw.avocadostore.de
+gi-client-tracking.goodgamestudios.com
 gi7a.structube.com
 gia.jd.com
 gjmovc.epapoutsia.gr
@@ -3329,7 +3331,6 @@ intelligence.marykayintouch.com
 intent.cmo.com.au
 intent.goodgearguide.com.au
 intent.pcworld.idg.com.au
-internal-ana.spankbang.com
 internalcomms.hubinternational.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
@@ -5445,6 +5446,7 @@ pixel.blivenyc.com
 pixel.cdnwidget.com
 pixel.coccoc.com
 pixel.condenastdigital.com
+pixel.convertize.io
 pixel.cpex.cz
 pixel.digitalspy.co.uk
 pixel.europapress.net
