@@ -1399,6 +1399,7 @@ ccbjournal.actonservice.com
 ccexperimentsstatic.oracleoutsourcing.com
 cchlhb.budgetsport.fi
 ccmd.coveredca.com
+ccpa.psg.nexstardigital.net
 cdfhpj.automobile.it
 cdn-analytics.ladmedia.fr
 cdn-channels-pixel.ex.co
@@ -1942,6 +1943,7 @@ d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
+d2zjlj1vewrxcj.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
@@ -7248,6 +7250,7 @@ sourcepoint-mms.mylifetime.com
 sourcepoint.theguardian.com
 sowa.carhartt.com
 soxnwz.lg.com
+spade.twitch.tv
 spain.thomsonreuters.com
 spanids.dictionary.com
 spanids.thesaurus.com
@@ -8693,6 +8696,7 @@ vmstats.varrando.com
 vmsxzx.buienradar.nl
 vnf4.belleetbio.com
 vole.amplenote.com
+vortex.data.microsoft.com
 vortex.hulu.com
 vpdyyz.iqair.com
 vpf4.euskaltelofertas.com
@@ -8779,7 +8783,6 @@ web.news.piquadro.com
 web.news.thebridge.it
 web.newsletter.viviennewestwood.com
 web.northwestern.nm.org
-web.vortex.data.microsoft.com
 web.zoominfo.com
 webbc.fivecdm.com
 webcounter.goweb.de
