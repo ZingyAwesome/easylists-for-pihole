@@ -3590,6 +3590,7 @@ gi-client-tracking.goodgamestudios.com
 g.ign.com
 gj.mmstat.com
 gkfdkf.jdsports.co.uk
+gk.sina.cn
 gksqfw.reverso.net
 gkxaay.tontarellishop.com
 gl5g98t0vfjb.panprices.com
@@ -4560,6 +4561,7 @@ loblhp.samsonite.ru
 localbeige.club
 log000.goo.ne.jp
 log1.17173.com
+log2.sina.cn
 log.51cto.com
 log.aimtell.com
 log.aliyuncs.com
@@ -4629,6 +4631,7 @@ logservice.hicloud.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
+log.sina.cn
 log.snapdeal.com
 logs.naukri.com
 logs.spilgames.com
