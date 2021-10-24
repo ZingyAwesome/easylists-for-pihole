@@ -278,6 +278,7 @@ a29798.actonservice.com
 a29817.actonservice.com
 a29866.actonservice.com
 a29868.actonservice.com
+a2z.com
 a30667.actonservice.com
 a30668.actonservice.com
 a31734.actonservice.com
@@ -2189,6 +2190,7 @@ discover.conversantmedia.com
 discover.parexel.com
 discover.parker.com
 discover.phenomenex.com
+dispatchunique.com
 distillery.wistia.com
 diypxh.tillys.com
 djibeacon.djns.com
@@ -3287,7 +3289,6 @@ irs01.com
 isebis.takamiclinic.or.jp
 isebis.yutoriform.com
 iseuaa.olx.pl
-isgprivacy.cbsi.com
 isharemetric.rediff.com
 italia.wolterskluwer.com
 iterable.convoy.com
@@ -3627,6 +3628,7 @@ log.quora.com
 log.reformal.ru
 log.ren.tv
 log.seekda.com
+log.sina.cn
 log.snapdeal.com
 log.superweb.ws
 log.suumo.jp
@@ -3636,6 +3638,7 @@ log.targetpush.co.kr
 log.webnovel.com
 log.wilmaa.com
 log000.goo.ne.jp
+log2.sina.cn
 logbak.hicloud.com
 logg.kiwi.com
 logger.kataweb.it

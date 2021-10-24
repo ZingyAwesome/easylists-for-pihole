@@ -19,6 +19,7 @@ netrefer-a.akamaihd.net
 oas.repubblica.it
 oasjs.kataweb.it
 oipzyrzffum.ovh
+pc-on-internet.com
 pop.virgilio.us
 popspace.virgilio.us
 promo.ezstatic.com
