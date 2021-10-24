@@ -295,6 +295,7 @@ a29817.actonservice.com
 a29866.actonservice.com
 a29868.actonservice.com
 a2.avomeen.com
+a2z.com
 a30667.actonservice.com
 a30668.actonservice.com
 a31734.actonservice.com
@@ -2664,6 +2665,7 @@ discover.parexel.com
 discover.parker.com
 discover.phenomenex.com
 discover.vivo-shopping.com
+dispatchunique.com
 distillery.wistia.com
 diwebstatics.carte-gr.total.fr
 diypxh.tillys.com
@@ -4167,7 +4169,6 @@ irs01.com
 isebis.takamiclinic.or.jp
 isebis.yutoriform.com
 iseuaa.olx.pl
-isgprivacy.cbsi.com
 isharemetric.rediff.com
 italia.wolterskluwer.com
 iterable.convoy.com
