@@ -6504,6 +6504,7 @@ osimg.nbcuni.com
 osimg.universalorlando.com
 osimg.universalstudioshollywood.com
 os.shutterfly.com
+ostrichesica.com
 osur.dell.com
 o.swisscom.ch
 ot.obi.at
@@ -6767,6 +6768,7 @@ plausible.kabaret.no
 plausible.kreya.app
 plausible.lesbianromantic.com
 plausible.lovesdata.com
+plausible.mangadex.org
 plausible.mattpruitt.com
 plausible.microwire.info
 plausible.moncefbelyamani.com
@@ -9507,6 +9509,7 @@ stats.fruechtl.me
 stats.fs.com
 stats.fullofwishes.co.uk
 stats.fundimmo.com
+stats.gateio.ch
 stats.geegain.com
 stats.geobox.app
 stats.getdoks.org
