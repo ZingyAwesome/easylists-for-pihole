@@ -1271,6 +1271,7 @@ bluedata.actonservice.com
 bluekai.com
 bluemarblepayroll.actonservice.com
 blziha.intimissimi.com
+bmcdn2.com
 bmcm.pw
 bmmncj.anacondastores.com
 bmnr.pw
@@ -2448,6 +2449,7 @@ emeaevents.americanexpress.com
 emetrics.bose.com
 emng.libero.it
 empresa.ricoh.es
+emycewiw.xyz
 encoderfarmstatsnew.servicebus.windows.net
 endljp.abv.bg
 endljp.activenews.ro
