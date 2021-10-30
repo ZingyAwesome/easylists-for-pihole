@@ -9458,6 +9458,7 @@ stats.crema.fi
 stats.cremashop.eu
 stats.cremashop.se
 stats.crewebo.de
+stats.curds.io
 stats.dailyposter.com
 stats.dashbit.co
 stats.datahjaelp.net
@@ -10155,7 +10156,6 @@ telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
-teleport-.spankbang.com
 te.limango.de
 te.mirapodo.de
 temptation.ad.nl
@@ -10307,6 +10307,7 @@ to.getnitropack.com
 tokei.upstract.com
 tongji.mafengwo.cn
 tongji.meizu.com
+tool.spankbang.com
 top.elec.ru
 top-fwz1.mail.ru
 top.skyzone.ro
