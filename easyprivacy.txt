@@ -1046,6 +1046,7 @@ analytics.explained-from-first-principles.com
 analytics.faceitanalytics.com
 analytics.fatalparadox.com
 analytics.favcy.com
+analytics.feedly.com
 analytics.ferguson.com
 analytics.filiotech.com
 analytics.firespring.com
@@ -9358,6 +9359,7 @@ stat.juridicas.com
 stat.laley.es
 stat.laleynext.es
 stat.lex.pl
+stat.livesportbar.net
 stat.matichon.co.th
 stat.mixi.media
 stat.moevideo.net
@@ -9527,6 +9529,7 @@ stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
 stats.handyvertrag.de
+stats.hd24.watch
 stats.hexdocs.pm
 stats.hex.pm
 stats.hey.com
@@ -10307,6 +10310,7 @@ to.getnitropack.com
 tokei.upstract.com
 tongji.mafengwo.cn
 tongji.meizu.com
+tongji.xinmin.cn
 tool.spankbang.com
 top.elec.ru
 top-fwz1.mail.ru
