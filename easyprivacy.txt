@@ -11247,6 +11247,7 @@ videostat-new.index.hu
 videostats.kakao.com
 vidstat.taboola.com
 views.cancan.ro
+views.romaniatv.net
 visit.asb.co.nz
 visite.scambi.org
 visit.geocities.com
