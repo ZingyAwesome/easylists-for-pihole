@@ -3459,6 +3459,7 @@ learn.armaninollp.com
 learn.ricoh.ca
 learn.uwindsor.ca
 learn.wow.wowforbusiness.com
+leftliquid.com
 lem.nouvelobs.com
 leono.club
 let1.devialet.com
@@ -8700,6 +8701,7 @@ videostat.index.hu
 videostats.kakao.com
 vidstat.taboola.com
 views.cancan.ro
+views.romaniatv.net
 visit.asb.co.nz
 visit.geocities.com
 visit.hypertherm.com
