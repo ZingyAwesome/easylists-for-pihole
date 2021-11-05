@@ -804,6 +804,7 @@ analytic.rollout.io
 analytic.surfline.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
+analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
@@ -1167,6 +1168,7 @@ b2bmarketingsb.swisscom.com
 b2bmarketingsb2.swisscom.com
 b2bmkt.lge.co.kr
 b5j6itccyluq.nofluffjobs.com
+b7tp47v2nb3x-a.akamaihd.net
 bab.frb.io
 bablace.com
 backstage.funnelenvy.com
@@ -8049,6 +8051,7 @@ t9k3a.jeanpaulfortin.com
 taduhy.timberland.co.uk
 tag-manager.playbuzz.com
 tag.aticdn.net
+tag.atom.gamedistribution.com
 tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
