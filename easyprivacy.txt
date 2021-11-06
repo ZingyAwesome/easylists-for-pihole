@@ -1034,6 +1034,7 @@ analytics.deutscher-apotheker-verlag.de
 analytics.developer.riotgames.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
+analytics.digitalpfizer.com
 analytics.disneyinternational.com
 analytics.dogecoin.gg
 analytics.dvidshub.net
@@ -1972,8 +1973,10 @@ collect.alipay.com
 collect.allianz.ch
 collect.allianzcinema.ch
 collect.allianzdriveincinema.ch
+collect-ap2.attraqt.io
 collect.cap.ch
 collect.elvia.ch
+collect-eu.attraqt.io
 collect.helsana.ch
 collection.saga.co.uk
 collect.iteam-dress.com
@@ -5859,6 +5862,7 @@ metrics.perjeta.com
 metrics.petinsurance.com
 metrics.petsmart.com
 metrics.philly.com
+metrics.pico.tools
 metrics.pinkribbonbottle.com
 metrics.plusrewards.com.au
 metrics.politico.com
@@ -6206,6 +6210,7 @@ myquellehuileenstation.carte-gr.total.fr
 my.usq.edu.au
 myxwvutsr.carte-gr.total.fr
 mzhuzu.ycmc.com
+n0909.com
 n26-trusted.n26.com
 nadeshiko2019.kirei-nadeshiko.jp
 namrinfo.motorolasolutions.com
@@ -11098,6 +11103,7 @@ tr.welcome.lexpress.fr
 tr.welcome.vipmag.fr
 trx3.famousfix.com
 try.abtasty.com
+tryzens-analytics.com
 t-s.activase.com
 t-s.avastin.com
 t-s.avastin-hcp.com

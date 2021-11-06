@@ -961,6 +961,7 @@ atiws.aipai.com
 a.tiyuxiu.com
 atm.youku.com
 atomicfile.cn
+atuehome.cn
 a.tuizhuti.com
 a.tvsou.com
 a.typin.cn
@@ -978,6 +979,7 @@ ax21pics.org
 axcdt.cn
 axcdy.cn
 axfrb.cn
+axfvc.cn
 axfvv.cn
 ax..ifeng.com
 ax.ifeng.com
@@ -1044,6 +1046,7 @@ bangdu2.com
 bangxin.xyz
 banjuanmao.com
 banma51.cn
+baogames.cn
 baojiada.vip
 baolanke.top
 baolic.com
@@ -1838,6 +1841,7 @@ dvser.china.com
 dvtxt.cn
 dvzk66.cn
 dw998.com
+dwr0.cn
 d.xinshipu.com
 dxsh.shop
 dxssiyi.com
@@ -2042,6 +2046,7 @@ fkdwz.cn
 fkesfg.com
 fkhfk.cn
 fkkse.com
+fkub.xyz
 flbmfc.com
 flctbg.com
 flddsri.cn
@@ -2071,6 +2076,7 @@ fpb.sohu.com
 fp.czvv.com
 fp.nanrenwo.net
 fqigyr.xyz
+fqjinyinhua.shop
 fqtra.com
 fqzds.com
 free-cdn.oss-cn-shanghai.aliyuncs.com
@@ -2434,6 +2440,7 @@ hbnygj.com
 hbssjd.cn
 hbttcc.com
 hbuweb.net
+hbxxw.vip
 hbyingchang.cn
 hbyyzm.com
 hbzhenquan.cn
@@ -2701,6 +2708,7 @@ hzuok.com
 hzxfmc.com
 hzyyhz.cn
 hzzfan.com
+hzzydb.cn
 i3818.com
 i87b3.cn
 ia22.com
@@ -2727,6 +2735,7 @@ if37.com
 ifc-edu.cn
 ifufen.com
 igig87.cn
+ih740.cn
 ihais.com
 ihear123.com
 ihhii.xyz
@@ -2956,6 +2965,7 @@ jituangongsi.cn
 jiudiandyw.com
 jiuhui878.com
 jiujiinc.top
+jiuji.ltd
 jiuku.cc
 jiulx.com
 jiumishow.com
@@ -3108,6 +3118,7 @@ jzjxmj.com
 jzn360.cn
 jzq2019.top
 jzrzpump.com
+jzuyfp8.cn
 jzwp.fun
 k1815.com
 k1.dancihu.com
@@ -3756,6 +3767,7 @@ nkzker.cn
 nloader.xyz
 nlyjs2015.com
 nmctm.cn
+nmgpd.com
 nmlhkj.com
 nmpcdn.com
 nmqbg.com
@@ -3886,6 +3898,7 @@ pb.shuxigua.com
 pbtxt.win
 pc6cda10.com
 pcmzn.com
+pcshijie.cn
 pcshuju.com
 pd3a.cn
 pdfmxsh.cn
@@ -4062,6 +4075,7 @@ qmdllqv.cn
 qmname.com
 qo26.com
 qo4nkz03dy.cn
+qorosmall.com
 qpb.sohu.com
 qpdyb.cn
 qpmue.xyz
@@ -4158,7 +4172,6 @@ re.taotaosou.com
 rfese.com
 rfjckj.cn
 rgdhct.cn
-rh.qq.com
 rhxshop.com
 riccol.cn
 ricqo.com
@@ -4187,6 +4200,7 @@ rqjhhg.cn
 rqkgcd.xyz
 rrsubway.com
 rscxwmj.cn
+rt354.cn
 rtkyvd.xyz
 rtrete.store
 ruibokeji.cn
@@ -4443,6 +4457,7 @@ ssp.zf313.com
 ssroa.cc
 sssgao999.com
 sssvd.china.com
+sssyao.cn
 ss.ting55.com
 ssznrs.com
 staqnet.com
@@ -4460,6 +4475,7 @@ stdst.cn
 steadfastsystem.com
 stevenblue.cn
 stgowan.com
+sthyhj.cn
 stm65i8.com
 stn88.com
 stocksbsc.com
@@ -4631,6 +4647,7 @@ tgbrfv.cn
 tglzqw.cn
 th21333.com
 thallus.net
+thechosen1.cn
 themaxmall.com
 themee.cn
 thepam.cn
@@ -4683,6 +4700,7 @@ tn34lkn.com
 tnarzc.com
 tngmn.com
 tnl808z.cn
+to335.cn
 tochgw.com
 togo666.com
 tongbuchi.com
@@ -5817,6 +5835,7 @@ zjksgl.com
 zjlfqf.com
 zjlovexb.xyz
 zjlv.top
+zjwldq.cn
 zjxkdq.cn
 zk.91post.com
 zkba9.cn
