@@ -866,6 +866,7 @@ analytics.designspiration.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
+analytics.digitalpfizer.com
 analytics.disneyinternational.com
 analytics.dogecoin.gg
 analytics.dvidshub.net
@@ -1609,6 +1610,8 @@ col.idealista.com
 col.idealista.it
 col.idealista.pt
 coletor.terra.com
+collect-ap2.attraqt.io
+collect-eu.attraqt.io
 collect.alipay.com
 collect.allianz.ch
 collect.allianzcinema.ch
@@ -4751,6 +4754,7 @@ metrics.perjeta.com
 metrics.petinsurance.com
 metrics.petsmart.com
 metrics.philly.com
+metrics.pico.tools
 metrics.pinkribbonbottle.com
 metrics.plusrewards.com.au
 metrics.politico.com
@@ -5031,6 +5035,7 @@ mypension.efscle.com
 myprofile.panasonic.eu
 myprofile.technics.eu
 mzhuzu.ycmc.com
+n0909.com
 namrinfo.motorolasolutions.com
 nanostats.nanopress.it
 nappyattack.com
@@ -8599,6 +8604,7 @@ trust.zebra.com
 trusted-web-seal.cybertrust.ne.jp
 trx3.famousfix.com
 try.abtasty.com
+tryzens-analytics.com
 tse.telerama.fr
 tshuxi.bbqguys.com
 tsj0.madeindesign.com
