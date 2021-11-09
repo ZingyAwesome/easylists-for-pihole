@@ -2229,6 +2229,7 @@ dnsseed.emzy.de
 dnt-userreport.com
 docileyellow.club
 doja.worten.es
+dolphin.deliver.ifeng.com
 doppler-reporting.cbsivideo.com
 dot-stat.radikal.ru
 doug1izaerwt3.cloudfront.net
@@ -2493,6 +2494,7 @@ eqs.intuit.com
 eqtrack.americashomeplace.com
 erb.tremblant.ca
 erp.qwic.nl
+err.ifengcloud.ifeng.com
 error-collector.ted.com
 error.videonow.ru
 errors.snackly.co
