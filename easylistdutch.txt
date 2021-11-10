@@ -1,4 +1,5 @@
 advertising-cdn.dpgmedia.cloud
+advertising-module.api.dpgmedia.cloud
 content1.pcmweb.nl
 dntblckmpls.nl
 viadata.store
