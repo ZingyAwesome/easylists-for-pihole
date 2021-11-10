@@ -1037,6 +1037,7 @@ analytics.zingerwebdesign.com
 analytics00.meride.tv
 analyticsssl.forcepoint.com
 andlache.com
+annoyingacoustics.com
 annwwu.guitarcenter.com
 anon-stats.eff.org
 ans.avast.com
@@ -1631,6 +1632,7 @@ collector.clareity.net
 collector.getyourguide.com
 collector.githubapp.com
 collector.mazeberry.com
+collector.megaxh.com
 collector.ozeex.com
 collector.pi.spectrum.net
 collector.prod.expedia.com
@@ -8637,7 +8639,6 @@ uestat.video.qiyi.com
 ugdturner.com
 ugmarketing.smu.edu.sg
 uhytajrtpo-a.akamaihd.net
-uid.mavencoalition.io
 uie.data.cbc.ca
 uifesg.modulor.de
 uim.tifbs.net
