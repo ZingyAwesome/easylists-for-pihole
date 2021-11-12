@@ -2107,6 +2107,7 @@ connect.zebra.com
 connexuscu.actonservice.com
 consciouscheese.com
 consciousdirt.com
+console-telemetry.oci.oraclecloud.com
 construsoft.actonservice.com
 consult.americanexpress.com
 consulting.guidehouse.com
@@ -3753,6 +3754,7 @@ hcxfsh.publicdesire.com
 hd.pe.fr
 he6e.lavieimmo.com
 health.interamerican.gr
+heap.drop.com
 hej.henriksommerfeld.se
 hello.bpost2.be
 hello.bpost.be
