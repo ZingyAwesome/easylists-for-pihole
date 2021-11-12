@@ -1732,6 +1732,7 @@ connecttest.arubanetworks.com
 connexuscu.actonservice.com
 consciouscheese.com
 consciousdirt.com
+console-telemetry.oci.oraclecloud.com
 construsoft.actonservice.com
 consult.americanexpress.com
 consulting.guidehouse.com
@@ -2722,6 +2723,7 @@ fpxewa.ilmeteo.it
 france.alphabet.com
 fresnel-events.vimeocdn.com
 friendly-community.tk
+friendwool.com
 froglytics.eventfrog.ch
 fs-client-logger.herokuapp.com
 fsi.seek.intel.com
