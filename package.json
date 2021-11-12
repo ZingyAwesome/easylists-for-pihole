@@ -7,7 +7,7 @@
         "postinstall": "git config --get core.hookspath || husky install",
         "build": "npm run eslint && npm run type-check && npm run test",
         "preparse": "rimraf generated && rimraf raw && mkdir generated && mkdir raw",
-        "parse": "node -r ts-node/register -r tsconfig-paths/register src/index.ts",
+        "parse": "node -r ts-node/register/transpile-only -r tsconfig-paths/register src/index.ts",
         "parse-and-test": "npm run parse && npm run test-generated",
         "eslint": "eslint src/ test/ resources/",
         "eslint:fix": "npm run eslint -- --fix",
