@@ -439,7 +439,6 @@
 593pi.cn
 59gt.cn
 5b1d.com
-5.douben8.com
 5dydk.com
 5fst22.cn
 5glyqw.com
@@ -464,6 +463,7 @@
 652696.com
 65daishua.cn
 65tgh.com
+65zjp.cn
 666666666666.site
 6666lm.com
 6669667.com
@@ -504,6 +504,7 @@
 7dah8.com
 7daystodie.cn
 7dmf7zl.cn
+7ebzw9v.cn
 7ez4.cn
 7g9m3r.com
 7gg.cc
@@ -526,6 +527,7 @@
 833761.com
 835551.com
 8521448.com
+8563p.cn
 85tgw.com
 85wa.cn
 860010.com
@@ -1044,6 +1046,7 @@ baidulao.com
 baiduyoukualiyun.com
 baiduyubaidu.com
 baifen.music.baidu.com
+baihz.com
 baijiangyurong.top
 bailequan.net.cn
 bailinghealth.cn
@@ -1051,6 +1054,7 @@ bairentou.com.cn
 baisb.com
 baitaoidc.com
 baiwb.com
+baixk.com
 baiyangzs.com
 baiyaqin.xyz
 baiyongbei.xyz
@@ -1785,6 +1789,7 @@ dlxgm.cn
 dlyukun.cn
 dlzjdesign.com
 dlzxjk.cn
+dm.17xuexiba.com
 dm1.ddwk8.cn
 dm1.guanwawa.com
 dm1.zjydt.com
@@ -2123,6 +2128,7 @@ fqzds.com
 free-cdn.oss-cn-shanghai.aliyuncs.com
 freemovie.vip
 freeride.com.cn
+freeyue.xyz
 freshmate.com.cn
 friend17.net
 fs0523.com
@@ -2759,6 +2765,7 @@ i87b3.cn
 ia22.com
 iads.xinmin.cn
 iagc.com.cn
+ibdtjqn.cn
 ic86doc.com
 icdazoy.cn
 icdxqn.xyz
@@ -3448,6 +3455,7 @@ lm1.wkpcw.cn
 lm245.com
 lm335.com
 lm343.com
+lm465.com
 lm663.com
 lm665.com
 lm882.com
@@ -3520,6 +3528,7 @@ lxhjaq.cn
 lxlx.shop
 lxqcgj.com
 lxting.com
+lxtxhxt.com
 ly2si17.cn
 ly5200.cn
 lyadu.com
@@ -3672,6 +3681,7 @@ mjita.cn
 mjpiqb.cn
 mjvmypr.cn
 mjx123.com
+mjywk.cn
 mjzsw.vip
 mkjunc.cn
 ml44.cn
@@ -3790,6 +3800,7 @@ newyiba.top
 ngceq.cn
 ngmaul.cn
 ngsaang.top
+nh738.cn
 nhrlzy.com
 ni87.com
 niangaoxiansheng.com
@@ -3874,6 +3885,7 @@ nwpuis.top
 nwwap.com
 nxkycx.com
 nxrhs.com
+nxums.cn
 nxwly.com
 nxyycsyy.com
 nydjsm.cn
@@ -3930,12 +3942,14 @@ ot.jizy.cn
 ouhwjdv.cn
 oumazg.com
 ouxutong.com
+ovdolnb.cn
 overlordtea.cn
 ovkwiz.xyz
 ovoawh.com
 owdfxgc.cn
 owghrl6.cn
 ox11.com
+oxmun.com
 oxsm.top
 oycslia.xyz
 oycslib.xyz
@@ -3965,6 +3979,7 @@ pbbgfsm.cn
 pb.shuxigua.com
 pbtxt.win
 pc6cda10.com
+pc768.com
 pcmzn.com
 pcshijie.cn
 pcshuju.com
@@ -4334,6 +4349,7 @@ sbpb1.chuiyue.com
 sbpb1.qulishi.com
 sbrqp.com
 sc.csai.cn
+scenegame.cn
 scenepass.com
 scfatao.com
 schicksalnvi.cn
@@ -4454,6 +4470,7 @@ sicentlife.com
 signstu.top
 sigo99.com
 sigrce.one
+siikzd1.cn
 simaoer.com
 simon184.cn
 simpasa.cn

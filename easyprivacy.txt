@@ -978,6 +978,7 @@ analytic.rollout.io
 analytics00.meride.tv
 analytics.126.net
 analytics.163.com
+analytics-1.cavai.com
 analytics.30m.com
 analytics.aasaam.com
 analytics.aba.com
@@ -2681,6 +2682,7 @@ discover.parker.com
 discover.phenomenex.com
 discover.vivo-shopping.com
 dispatchunique.com
+dispatchvegasplus.com
 distillery.wistia.com
 diwebstatics.carte-gr.total.fr
 diypxh.tillys.com
@@ -6937,6 +6939,7 @@ publicidad.davivienda.com.pa
 pub.sheknows.com
 pubstr.acs.org
 pubstr.acspubs.org
+pubtm.com
 pudalz.gismeteo.by
 puiwrs.misterspex.de
 pulsar.ebay.com
