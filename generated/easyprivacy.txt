@@ -807,6 +807,7 @@ analytic.rollout.io
 analytic.surfline.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
+analytics-1.cavai.com
 analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
@@ -5599,6 +5600,7 @@ pub.sheknows.com
 publicidad.davivienda.com.pa
 pubstr.acs.org
 pubstr.acspubs.org
+pubtm.com
 pudalz.gismeteo.by
 puiwrs.misterspex.de
 pulsar.ebay.com
