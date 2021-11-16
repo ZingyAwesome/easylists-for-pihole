@@ -2587,6 +2587,7 @@ dfanalytics.dealerfire.com
 dfapvmql-q.global.ssl.fastly.net
 d.finative.eu
 dfvdkx.gismeteo.ua
+d.getpocket.com
 dg.irco.com
 dgynnj.koctas.com.tr
 d.haberler.com
@@ -6699,7 +6700,9 @@ pixel6.wp.pl
 pixel-a.basis.net
 pixel.ampry.com
 pixel.anyclip.com
+pixel.archivecaslytosk.onion
 pixel.archive.is
+pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 pixel.archive.ph
 pixel.archive.vn
 pixel.augsburger-allgemeine.de
