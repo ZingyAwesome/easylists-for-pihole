@@ -1143,6 +1143,7 @@ audit.median.hu
 audit.shaa.it
 auforex.americanexpress.com
 auriro.net
+aurora-d3.herokuapp.com
 authcaptcha.com
 authentic3d.actonservice.com
 autoimmunity.thermofisher.com
@@ -2811,6 +2812,7 @@ g9111879410.co
 ga-beacon.appspot.com
 gak.webtoons.com
 gala.spiceworks.com
+ganon.yahoo.com
 gastdn.wolfandbadger.com
 gateway.foresee.com
 gay-hotvideo.net
@@ -4797,6 +4799,7 @@ metrics.regions.com
 metrics.rethinksma.com
 metrics.rewe.de
 metrics.rituxan.com
+metrics.roblox.com
 metrics.roche.de
 metrics.rolex.cn
 metrics.rolex.com
