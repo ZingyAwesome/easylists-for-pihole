@@ -1387,6 +1387,7 @@ audit.median.hu
 audit.shaa.it
 auforex.americanexpress.com
 auriro.net
+aurora-d3.herokuapp.com
 authcaptcha.com
 authentic3d.actonservice.com
 autoimmunity.thermofisher.com
@@ -2775,6 +2776,7 @@ dyv1bugovvq1g.cloudfront.net
 dzbrr144kh0m6.cloudfront.net
 e1c.curtisswrightds.com
 e1e.io
+e377.thestar.com
 e77lmzbqou0n-a.akamaihd.net
 ea.access-moto.com
 ea.armandthiery.fr
@@ -3418,6 +3420,7 @@ fl5dpe.oui.sncf
 flashstats.libsyn.com
 fleet-eml.postmates.com
 fleet-lemagb.carte-gr.total.fr
+flimsythought.com
 f-log-at.grammarly.io
 flog.pressplay.cc
 f-log-test.grammarly.io
@@ -3556,6 +3559,7 @@ ga-beacon.appspot.com
 ga.kvideo.io
 gak.webtoons.com
 gala.spiceworks.com
+ganon.yahoo.com
 ga.nsimg.net
 gastdn.wolfandbadger.com
 gateway.foresee.com
@@ -3925,6 +3929,7 @@ imp.ad-plus.cn
 imp.affiliator.com
 imp.go.sohu.com
 imp.optaim.com
+impossibleexpansion.com
 imp.pvnsolutions.com
 impress.vcita.com
 imrworldwide.com
@@ -5905,6 +5910,7 @@ metrics.rethinksma.com
 metrics.rewe.de
 metrics.rewe-reisen.de
 metrics.rituxan.com
+metrics.roblox.com
 metrics.roche-applied-science.com
 metrics.roche.de
 metrics.rolex.cn
