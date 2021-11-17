@@ -2274,6 +2274,7 @@ dyv1bugovvq1g.cloudfront.net
 dzbrr144kh0m6.cloudfront.net
 e1c.curtisswrightds.com
 e1e.io
+e377.thestar.com
 e77lmzbqou0n-a.akamaihd.net
 eagle.kudzu.com
 ebc1.capifrance.fr
@@ -2681,6 +2682,7 @@ fkwc.sfr.fr
 fl5dpe.oui.sncf
 flashstats.libsyn.com
 fleet-eml.postmates.com
+flimsythought.com
 flog.pressplay.cc
 fly.caljetelite.com
 flznib.weblio.jp
@@ -3070,6 +3072,7 @@ imp.optaim.com
 imp.pvnsolutions.com
 impactcdn.com
 impactradius-event.com
+impossibleexpansion.com
 impress.vcita.com
 imrworldwide.com
 independence.americanportfolios.com
