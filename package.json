@@ -33,7 +33,7 @@
         "npm": "<7"
     },
     "dependencies": {
-        "got": "11.8.2"
+        "got": "11.8.3"
     },
     "devDependencies": {
         "@types/jest": "27.0.2",
