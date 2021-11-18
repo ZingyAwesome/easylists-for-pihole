@@ -1151,6 +1151,7 @@ analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
 analytics-scripts.cablelabs.com
+analytics.send.cm
 analytics-sg.tiktok.com
 analytics.shareaholic.com
 analytics.shop.hisense.com
@@ -3228,6 +3229,7 @@ et.nytimes.com
 etrack.ext.arubainstanton.com
 etrack.ext.arubanetworks.com
 etrack.ext.hpe.com
+et.tidal.com
 et.twyn.com
 etui.fs.ml.com
 etx.indiatimes.com
@@ -9056,7 +9058,6 @@ so.swisscom.ch
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
-sourcepoint.theguardian.com
 sourceszomation.carte-gr.total.fr
 sowa.carhartt.com
 soxnwz.lg.com
@@ -10545,6 +10546,7 @@ tracking.faucet.com
 tracking.fdm.dk
 tracking.feedperfect.com
 tracking.finanzen.net
+tracking.fupa.net
 tracking.g2crowd.com
 tracking.gameforge.de
 tracking.goal.pl
@@ -11421,6 +11423,7 @@ web.news.piquadro.com
 web.news.thebridge.it
 web.northwestern.nm.org
 webpixel.smartmeapp.com
+websdk.appsflyer.com
 webservices.websitepros.com
 webstat.channel4.com
 webstatistieken.xs4all.nl
