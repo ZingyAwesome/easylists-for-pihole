@@ -7291,7 +7291,6 @@ sorxyx.vi.nl
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
-sourcepoint.theguardian.com
 sowa.carhartt.com
 soxnwz.lg.com
 spade.twitch.tv
@@ -8415,6 +8414,7 @@ tracking.faucet.com
 tracking.fdm.dk
 tracking.feedperfect.com
 tracking.finanzen.net
+tracking.fupa.net
 tracking.gameforge.de
 tracking.go.atcc.org
 tracking.go.onshape.com
@@ -8847,6 +8847,7 @@ weblogger-dynamic-lb.playdom.com
 webmet.creditreform.de
 webmetrics.zebra.com
 webpixel.smartmeapp.com
+websdk.appsflyer.com
 webservices.websitepros.com
 webstat.kuwo.cn
 webstats.americanbar.org
