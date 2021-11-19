@@ -972,6 +972,7 @@ analytics.rogersmedia.com
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
+analytics.send.cm
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.sitewit.com
@@ -2983,6 +2984,7 @@ hktracker.hankookilbo.com
 hlsjel.engelvoelkers.com
 hmfnaj.notino.bg
 hnnuaa.willhaben.at
+hollowafterthought.com
 hollydeal.club
 home.usg.com
 horizononline.actonservice.com
@@ -9032,6 +9034,7 @@ zam.nextinpact.com
 zaventemdijleland.viessmann.be
 zdbb.net
 zgqgig.skillbox.ru
+zhctrack.net
 zhcxvk.qvc.com
 zhihu-web-analytics.zhihu.com
 zilhvf.hesperide.com
