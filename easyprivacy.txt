@@ -1635,7 +1635,6 @@ bldr.mkt.samsung.com
 blinks.mindoktor.se
 blog.trinityconsultants.com
 blotburn.com
-blue.abc27.com
 bluedata.actonservice.com
 bluekai.com
 bluemarblepayroll.actonservice.com
@@ -3860,6 +3859,7 @@ geoip.finanzen.net
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.nekudo.com
+geoip.spotpass.io
 geoip.viamichelin.com
 geo.kontagent.net
 geolocation.forbes.com
@@ -10753,7 +10753,6 @@ tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
-tag.search.sensefuel.live
 tags.globo.com
 tag.shopping-feed.com
 tags.master-perf-tools.com
