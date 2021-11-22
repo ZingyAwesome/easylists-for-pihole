@@ -2807,6 +2807,7 @@ eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.lp.deloittecomunicacao.com.br
+events-service.coinbase.com
 events.air.tv
 events.apester.com
 events.api.godaddy.com
@@ -8753,7 +8754,6 @@ tag.leadplace.fr
 tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
-tag.search.sensefuel.live
 tag.sonymusic.com
 tag.triboomedia.it
 tagcommander.castaluna.fr
