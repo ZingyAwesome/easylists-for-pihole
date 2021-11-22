@@ -3551,6 +3551,7 @@ events.realgravity.com
 events.reddit.com
 events.redditmedia.com
 events.santander.co.uk
+events-service.coinbase.com
 events.shareably.net
 events.sk.ht
 events.splash-screen.net
@@ -7377,6 +7378,7 @@ privacy.outdoorsg.com
 private.roche.com
 privilegesal.carte-gr.total.fr
 processor.asccommunications.com
+prod.ew.srp.navigacloud.com
 proditor.sparda.de
 productivepear.com
 products.marketingcube.com.au
@@ -10744,6 +10746,7 @@ tag.goldenbees.fr
 tag.leadplace.fr
 tag-manager.playbuzz.com
 tagm.tchibo.de
+tag.mtrcs.samba.tv
 tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
@@ -12006,6 +12009,7 @@ videostat.index.hu
 videostat-new.index.hu
 videostats.kakao.com
 vidstat.taboola.com
+views.arabnews.com
 views.cancan.ro
 views.romaniatv.net
 virgoplato.com
