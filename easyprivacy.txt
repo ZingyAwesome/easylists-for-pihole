@@ -1299,9 +1299,12 @@ apcerpharma.actonservice.com
 apcinfo.motorolasolutions.com
 apcinfo.vertexstandard.com
 ap.dt.gl
+apeagle.io
+apenterprise.io
 a.perfumesclub.fr
 ape-tagit.timeinc.net
 ap.hibbett.com
+api.autopilothq.com
 api.bunzlaucastle.com
 api.decentralize.today
 api.elliehuxtable.com
@@ -1710,6 +1713,8 @@ br.email.lifesum.com
 briefbears.com
 briefing.actonservice.com
 briefstem.com
+briskeagle.io
+briskpelican.io
 brizxe.dior.com
 brjjkd.calzedonia.com
 brkoev.minfin.com.ua
@@ -1817,6 +1822,7 @@ canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
 capablecows.com
 capablecup.com
+capture-api.ap3prod.com
 capture.condenastdigital.com
 carburanalyticsspace.carte-gr.total.fr
 carburantsanalyticsa.carte-gr.total.fr
@@ -3623,8 +3629,12 @@ fangfeeling.com
 fantasticsmash.com
 farethief.com
 fascinatedfeather.com
+fastemu.co
 fastenfather.com
 faster-trk.com
+fastfinch.co
+fastgull.io
+fasttiger.io
 fathom.app.silverbeak.com
 fathom.status.im
 fathom.tdvm.net
@@ -4495,6 +4505,7 @@ insights.sport1.de
 insitez.blob.core.windows.net
 ins.leavitt.com
 inspire.webfleet.com
+instantfox.co
 instore.pagomeno.it
 instrumentinsect.com
 instrumentsponge.com
@@ -6690,8 +6701,11 @@ nhkoze.saneibd.com
 nhvrzm.optcorp.com
 ni8.lafuma-boutique.com
 ni8.lafuma.com
+niblewren.co
 niftyjelly.com
 nil.naver.com
+nimblebird.co
+nimbleswan.io
 ninja.akamaized.net
 ninja.onap.io
 nlbukc.babyworld.se
@@ -7492,6 +7506,7 @@ qubitanalytics.appspot.com
 questions.theanswerco.com
 quhdnr.musiciansfriend.com
 quickanalytics.ca
+quickkoala.io
 quicksandear.com
 quk9.destinia.com.ar
 qvnpxc.technopark.ru
@@ -7524,6 +7539,8 @@ rand.com.ru
 rankhit.china.com
 ranking.apis.sankei-digital.co.jp
 rapidkittens.com
+rapidpanda.io
+rapidzebra.io
 raspnd.quadratec.com
 rat.rakuten.co.jp
 r.bbci.co.uk
@@ -7979,6 +7996,7 @@ satisfyingspark.com
 satracking.finning.com
 sat.sanoma.fi
 sats.mailbrew.com
+s.autopilotapp.com
 saviation.carte-gr.total.fr
 savorystructure.com
 sawap.equifax.com
@@ -9696,6 +9714,8 @@ sp.dpgmedia.net
 specialsnake.com
 specialstatement.com
 speedtrap.shopdirect.com
+speedyfox.io
+speedyrhino.co
 speee-ad.akamaized.net
 spendpest.com
 sp.fdlreporter.com
@@ -11254,6 +11274,7 @@ tracking.go.atcc.org
 tracking.godatafeed.com
 tracking.go.onshape.com
 tracking.gpm-rtv.ru
+tracking.graphly.io
 tracking.gruppo.mps.it
 tracking.hannoversche.de
 tracking.hardoxwearparts.com
@@ -11873,6 +11894,8 @@ t-s.valcyte.com
 t.transplantaccessservices.com
 tukuru.cotta.jp
 tumblebirds.com
+turboeagle.co
+turbolion.io
 tutorthing.com
 t.valcyte.com
 t.voyages-sncf.com
@@ -12224,6 +12247,7 @@ wl.spotify.com
 wmgroup.us
 wnyywf.frankonia.de
 woixov.elyts.ru
+woodpeckerlog.com
 woojeh.yellowkorner.com
 wordc.ga
 workableachiever.com
@@ -12708,6 +12732,7 @@ zhihu-web-analytics.zhihu.com
 zilhvf.hesperide.com
 zion-telemetry.api.cnn.io
 zio.xcar.com.cn
+zippyfrog.co
 zippywind.com
 zjrbwb.markenschuhe.de
 zkc5.fleurancenature.fr
