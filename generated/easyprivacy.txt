@@ -1276,6 +1276,7 @@ beacon.aimtell.com
 beacon.errorception.com
 beacon.flow.io
 beacon.nrholding.net
+beacon.qq.com
 beacon.riskified.com
 beacon.rum.dynapis.com
 beacon.searchspring.io
@@ -2160,6 +2161,7 @@ d3plfjw9uod7ab.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
 d3qfdthu9f51gu.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
+d3qztsm17pgxue.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
 d3sbxpiag177w8.cloudfront.net
@@ -3996,6 +3998,7 @@ loansales.cbre.com
 loblhp.samsonite.ru
 localbeige.club
 log-api.newrelic.com
+log.adplex.co.kr
 log.aimtell.com
 log.aliyuncs.com
 log.bitauto.com
@@ -6153,6 +6156,7 @@ r1ztni.oui.sncf
 r42tag.com
 r4nds.absorba.com
 rabbitbreath.com
+rabbitrifle.com
 radar.imgsmail.ru
 railwayrainstorm.com
 rainydirt.com
