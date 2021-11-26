@@ -37,6 +37,7 @@
 45.32.105.134
 4jnzhl0d0.com
 4tiz3b7uvzv5.app.polymersearch.com
+520886.xyz
 5363316.marketing.numi.com
 5fm.985fm.ca
 5ijo.01net.com
@@ -10759,6 +10760,8 @@ tag.atom.gamedistribution.com
 tag.aumago.com
 tag.boulanger.fr
 tag.brandcdn.com
+tagcachedataxrt.com
+tagcachestaticx.com
 tagcommander.castaluna.fr
 tagcommander.laredoute.be
 tagcommander.laredoute.co.uk
@@ -11437,6 +11440,7 @@ track.noddus.com
 track.noz.de
 track.omgpl.com
 track.overwatchleaguestore.com
+track.pexi.nl
 track.pnicnik.live
 track.postkodlotteriet.se
 track.pricespider.com
