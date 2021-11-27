@@ -29,6 +29,7 @@
 3p-udc.yahoo.com
 4jnzhl0d0.com
 4tiz3b7uvzv5.app.polymersearch.com
+520886.xyz
 5363316.marketing.numi.com
 5jr6laiorl0y.www.chandlerorchards.com
 5mcwl.pw
@@ -2799,6 +2800,7 @@ evanescentedge.com
 event-api.contactatonce.co.uk
 event-api.contactatonce.com
 event-api.contactatonce.com.au
+event-api.rdstation.com.br
 event-api.reverb.com
 event-listener.air.tv
 event.api.drift.com
@@ -6219,6 +6221,7 @@ rel.nextinpact.com
 rel2.nextinpact.com
 relay.fiverr.com
 rem-track.bild.de
+removeads.workers.dev
 renaultbankdirekt.efscle.com
 renting.aldautomotive.es
 repdata.usatoday.com
@@ -8781,6 +8784,8 @@ tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.sonymusic.com
 tag.triboomedia.it
+tagcachedataxrt.com
+tagcachestaticx.com
 tagcommander.castaluna.fr
 tagcommander.laredoute.be
 tagcommander.laredoute.co.uk
@@ -9000,6 +9005,7 @@ track.noddus.com
 track.noz.de
 track.omgpl.com
 track.overwatchleaguestore.com
+track.pexi.nl
 track.pnicnik.live
 track.postkodlotteriet.se
 track.pricespider.com
