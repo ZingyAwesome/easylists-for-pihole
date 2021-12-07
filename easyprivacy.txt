@@ -2113,6 +2113,7 @@ cnt.nov.ru
 cnt.nuvid.com
 cnt.rambler.ru
 cnt.rate.ru
+cnt.viptube.com
 cnt.vivatube.com
 coachquartz.com
 coatfood.com
@@ -2736,6 +2737,7 @@ dc.stenaline.pl
 dc.stenaline.se
 dc.stenalinetravel.com
 dd6zx4ibq538k.cloudfront.net
+dd.auspost.com.au
 dd.lendup.com
 ddns.dataunlocker.com
 deadpantruck.com
@@ -7128,6 +7130,7 @@ pbox.photobox.it
 pbox.photobox.nl
 pbox.photobox.se
 pbstats.jpmorgan.com
+pcapp-data-collect.youku.com
 pcdstm.petbarn.com.au
 pciidk.shopee.vn
 pciokm.glamuse.com
@@ -10827,6 +10830,7 @@ tagger.ope.scmp.com
 tag.goldenbees.fr
 tag.leadplace.fr
 tag-manager.playbuzz.com
+tagm.eduscho.at
 tagm.tchibo.de
 tag.mtrcs.samba.tv
 tag.myplay.com
@@ -11899,6 +11903,7 @@ tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
 tr.servicoaocliente.younited-credit.com
 tr.smtp1.email-mediapost.fr
+tr.snapchat.com
 tr.solution.uneo.fr
 tr.souscription.floa.fr
 tr.suedkurier.de
@@ -12256,6 +12261,7 @@ web.news.piquadro.com
 web.news.thebridge.it
 web.northwestern.nm.org
 webpixel.smartmeapp.com
+web-player-tracker.biliapi.net
 websdk.appsflyer.com
 webservices.websitepros.com
 webstat.channel4.com
