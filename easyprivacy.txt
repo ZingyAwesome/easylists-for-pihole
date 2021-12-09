@@ -4558,7 +4558,9 @@ intelligence.marykay.com
 intelligence.marykayintouch.com
 intent.cmo.com.au
 intent.goodgearguide.com.au
+intent.macworld.co.uk
 intent.pcworld.idg.com.au
+intent.techadvisor.com
 interestsmoke.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internalsink.com
@@ -6293,6 +6295,7 @@ metrics.nrma.com.au
 metrics.nti.nl
 metrics.ntnews.com.au
 metrics.n-tv.de
+metrics.nu.nl
 metrics.nutraingredients-asia.com
 metrics.nutraingredients.com
 metrics.nutraingredients-usa.com
