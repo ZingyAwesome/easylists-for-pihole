@@ -14,8 +14,8 @@ central.mall.tv
 image.sector.sk
 liveagent.mobilbonus.cz
 reklama.warforum.cz
+report.sport.cz
 ssp.seznam.cz
 stat.novinky.cz
-stat.sport.cz
 stat.super.cz
 videoad.cz
