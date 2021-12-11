@@ -3676,6 +3676,7 @@ fbu8.montecarlosbm.com
 fbu8.montecarloseasonalsale.com
 fbu8.ticket-online.montecarlolive.com
 fbvbyi.abekker.ru
+fclog.baidu.com
 fcmatch.google.com
 fcmatch.youtube.com
 fc.vodafone.de
@@ -3868,6 +3869,7 @@ g8913795075.co
 g9111879410.co
 g990421676.co
 ga-beacon.appspot.com
+ga.giuem.com
 ga.kvideo.io
 gak.webtoons.com
 gala.spiceworks.com
@@ -11051,6 +11053,7 @@ t.indeed.com
 tinytendency.com
 tippcom01.tipp24.com
 tiresomethunder.com
+t.irtyc.com
 t.jmusports.com
 t.jobsyn.org
 t.jossandmain.com
