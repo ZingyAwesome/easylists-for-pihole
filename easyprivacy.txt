@@ -4072,6 +4072,7 @@ gx.idg.se
 g.yccdn.com
 gzimdi.soloautos.mx
 h00c.sfr.fr
+h5log.zongheng.com
 h78xb.pw
 habitualhumor.com
 hal.courrierinternational.com
@@ -5107,6 +5108,7 @@ log.worldsoft-cms.info
 logx.mtime.cn
 logx.mtime.com
 logx.optimizely.com
+log.zongheng.com
 loloclicks.biz
 lomeldeer.club
 longinglettuce.com
