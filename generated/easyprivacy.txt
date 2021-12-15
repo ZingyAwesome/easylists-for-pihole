@@ -3254,6 +3254,7 @@ gwqtum.philips.de
 gwtc.sfr.fr
 gzimdi.soloautos.mx
 h00c.sfr.fr
+h5log.zongheng.com
 h78xb.pw
 habitualhumor.com
 hal.courrierinternational.com
@@ -4088,6 +4089,7 @@ log.tagtic.cn
 log.targetpush.co.kr
 log.webnovel.com
 log.wilmaa.com
+log.zongheng.com
 log000.goo.ne.jp
 log2.sina.cn
 logbak.hicloud.com
