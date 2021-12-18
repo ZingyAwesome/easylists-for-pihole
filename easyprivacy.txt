@@ -1566,6 +1566,7 @@ beacon.watch.impress.co.jp
 beacon.wikia-services.com
 beadbears.com
 beagle.prod.tda.link
+beam.bankrate.com
 beam.giraffe360.com
 beamincrease.com
 beam.mjhlifesciences.com
