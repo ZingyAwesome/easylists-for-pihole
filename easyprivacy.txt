@@ -2466,6 +2466,7 @@ cstm.baidu.com
 csv4.ebs-paris.fr
 ct5m.citadium.com
 cta.onguard.com
+ct.corpusapp.com
 ctc.wolterskluwer.com
 ctg.actonservice.com
 ct.irl.com
@@ -4096,6 +4097,7 @@ haxdym.min-breeder.com
 hbaazk.bukalapak.com
 hbbtv-track.prosieben.de
 hbo5.concours-pass.com
+hb.vhsrv.com
 hbx.df-srv.de
 hby7.destinia.it
 hcjpbc.closerweekly.com
@@ -4781,6 +4783,7 @@ kzsicw.focus.de
 kzsicw.tvspielfilm.de
 kzsicw.tvtoday.de
 l2k30jsa.theochu.com
+l9bjkkhaycw6f8f4.soundcloud.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
 lagoonolivia.com
@@ -6826,6 +6829,7 @@ nuttyorganization.com
 nwgo.tylertech.com
 nws.naltis.com
 nwtrih.ticket.com.br
+nwuoxwthvak3.stoic.ai
 nxakpj4ac8gkd53.info
 nxnszu.ettoday.net
 nxovay.fo-online.jp
@@ -7519,6 +7523,7 @@ pvx.xcar.com.cn
 pw.gigazine.net
 pwmpartner.carte-gr.total.fr
 p.wren.co
+pwt.soundcloud.com
 px.derstandard.at
 px.effirst.com
 px.excitedigitalmedia.com
@@ -10069,6 +10074,7 @@ startrekk.flaconi.pl
 stas.outbrain.com
 stat.1688.com
 stat.24liveplus.com
+stat.5-tv.ru
 stat.acca.it
 stat.altalex.com
 stat.api.2gis.ru
@@ -10093,6 +10099,7 @@ stat.freetool.it
 stat.funshion.net
 stat.glaze.ai
 stat.guiasjuridicas.es
+static-tracking.klaviyo.com
 stat.ipsoa.it
 statistic2.reichelt.de
 statistic.qzone.qq.com
