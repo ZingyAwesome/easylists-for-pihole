@@ -1301,6 +1301,7 @@ beacon2.indieclick.com
 beacons.mediamelon.com
 beadbears.com
 beagle.prod.tda.link
+beam.bankrate.com
 beam.mjhlifesciences.com
 beamincrease.com
 beanstalkmarketing.actonservice.com
@@ -3850,6 +3851,7 @@ kzsicw.focus.de
 kzsicw.tvspielfilm.de
 kzsicw.tvtoday.de
 l2k30jsa.theochu.com
+l9bjkkhaycw6f8f4.soundcloud.com
 la-sync.taboola.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
@@ -6163,6 +6165,7 @@ purchasesuggestion.com
 puzzlingproperty.com
 pvtag.yahoo.co.jp
 pvx.xcar.com.cn
+pwt.soundcloud.com
 pxlgnpgecom-a.akamaihd.net
 pxxhbz.apamanshop.com
 python.jacksellwood.com
@@ -8243,6 +8246,7 @@ statementsweater.com
 states.newegg.ca
 states.newegg.com
 states.neweggbusiness.com
+static-tracking.klaviyo.com
 statistic.qzone.qq.com
 statistic.takungpao.com
 statistic2.reichelt.de
