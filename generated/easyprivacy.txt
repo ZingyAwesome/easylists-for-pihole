@@ -2970,7 +2970,6 @@ fiawmk.empik.com
 fifthborder.com
 filament-stats.herokuapp.com
 filmoljupci.com
-fimg-resp.seznam.cz
 fimyxg.haberturk.com
 finalizeforce.com
 fipsta.urbanara.at
@@ -6172,7 +6171,6 @@ purchasesuggestion.com
 puzzlingproperty.com
 pvtag.yahoo.co.jp
 pvx.xcar.com.cn
-pwt.soundcloud.com
 pxlgnpgecom-a.akamaihd.net
 pxxhbz.apamanshop.com
 python.jacksellwood.com
