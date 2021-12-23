@@ -3016,6 +3016,7 @@ dwbotr.ssg.com
 dwglgp.dunelm.com
 d.wi-fi.ru
 dxe2.heip.fr
+dx.mountain.com
 dxpxgy.jdsports.com
 dx.thermofisher.com
 dxwgpw0lkcum5.cloudfront.net
@@ -3707,7 +3708,6 @@ fifthborder.com
 fiknma.7ya.ru
 filament-stats.herokuapp.com
 filmoljupci.com
-fimg-resp.seznam.cz
 fimyxg.haberturk.com
 finalizeforce.com
 fipsta.clasen-bio.de
@@ -7530,7 +7530,6 @@ pvx.xcar.com.cn
 pw.gigazine.net
 pwmpartner.carte-gr.total.fr
 p.wren.co
-pwt.soundcloud.com
 px.derstandard.at
 px.effirst.com
 px.excitedigitalmedia.com
