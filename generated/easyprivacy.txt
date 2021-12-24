@@ -850,6 +850,7 @@ analytics-1.cavai.com
 analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
+analytics-gw.games.wanmei.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
 analytics-rhwg.rhcloud.com
