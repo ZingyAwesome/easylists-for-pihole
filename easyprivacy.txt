@@ -1107,6 +1107,7 @@ analytics.getshogun.com
 analytics.global.sky.com
 analytics.groupe-seb.com
 analytics.gvim.mobi
+analytics-gw.games.wanmei.com
 analytics.hashnode.com
 analytics.hayneedle.com
 analytics.hermesworld.com
