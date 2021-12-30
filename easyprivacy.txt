@@ -2556,6 +2556,7 @@ d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
+d28n7yywqog3r7.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
@@ -3644,6 +3645,7 @@ eyzubm.gooutdoors.co.uk
 ezodn.com
 f0nn.oney.fr
 f1tbit.com
+f362.nola.com
 f5q72e2o8r5f.www.word.com.au
 f7ds.liberation.fr
 f8phvntohv.tpetry.me
@@ -3700,6 +3702,7 @@ fec1.optimhome.com
 fedcbaii.carte-gr.total.fr
 feebleshock.com
 feedback.vegasgoldenknights.com
+felix.data.tm-awx.com
 f-emc.ngsp.gov.vn
 feqbqn.rent.com
 ffrmwn.musinsa.com
@@ -4791,7 +4794,6 @@ kzsicw.focus.de
 kzsicw.tvspielfilm.de
 kzsicw.tvtoday.de
 l2k30jsa.theochu.com
-l9bjkkhaycw6f8f4.soundcloud.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
 lagoonolivia.com
@@ -6790,6 +6792,7 @@ nm.newegg.com
 nmo1.orpi.com
 nnkkxb.nuts.com
 nnvtvx.chegg.com
+no9pldds1lmn3.soundcloud.com
 noa0.compteczam.fr
 noffreh.carte-gr.total.fr
 noflake-aggregator-http.narvar.com
@@ -11296,6 +11299,7 @@ tracker.thinkermail.com
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tiu.ru
+tracker.tubecj.com
 tracker.tv.sohu.com
 tracker.unbxdapi.com
 tracker.uprinting.com
