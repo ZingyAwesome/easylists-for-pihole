@@ -2134,6 +2134,7 @@ d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
+d28n7yywqog3r7.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
@@ -3111,6 +3112,7 @@ g12083144435.co
 g12281228770.co
 g12479313105.co
 g1584674682.co
+g1782759015.co
 g1782759016.co
 g1980843350.co
 g1thub.com
@@ -3126,6 +3128,7 @@ g792337343.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+g990421675.co
 g990421676.co
 ga-beacon.appspot.com
 gak.webtoons.com
@@ -3858,7 +3861,6 @@ kzsicw.focus.de
 kzsicw.tvspielfilm.de
 kzsicw.tvtoday.de
 l2k30jsa.theochu.com
-l9bjkkhaycw6f8f4.soundcloud.com
 la-sync.taboola.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
@@ -5587,6 +5589,7 @@ nmiodk.promiflash.de
 nmo1.orpi.com
 nnkkxb.nuts.com
 nnvtvx.chegg.com
+no9pldds1lmn3.soundcloud.com
 noa0.compteczam.fr
 noflake-aggregator-http.narvar.com
 noiselessplough.com
@@ -5810,6 +5813,7 @@ owss.ihs.com
 oxifwsabgd.nzz.ch
 oyaswl.manor.ch
 oylyaz.mrkoll.se
+p-analytics.life
 p-log.ykimg.com
 p2r14.com
 p9jhxqlkmn.miniso.com.gr
