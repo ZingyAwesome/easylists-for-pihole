@@ -3863,6 +3863,7 @@ g12083144435.co
 g12281228770.co
 g12479313105.co
 g1584674682.co
+g1782759015.co
 g1782759016.co
 g1980843350.co
 g1be.swisslife-direct.fr
@@ -3879,6 +3880,7 @@ g792337343.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+g990421675.co
 g990421676.co
 ga-beacon.appspot.com
 ga.giuem.com
@@ -7114,6 +7116,7 @@ paleleaf.com
 pamelarandom.com
 pam.nextinpact.com
 pampopholf.com
+p-analytics.life
 panickypancake.com
 panoramicbutter.com
 pan.render.com
