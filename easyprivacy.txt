@@ -2556,7 +2556,6 @@ d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
-d28n7yywqog3r7.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
@@ -3182,6 +3181,7 @@ education.bendigotafe.edu.au
 education.moodybible.org
 education.seek.intel.com
 edvaor.estro.ua
+eec.crunchyroll.com
 eel.transistor.fm
 e.e.themighty.com
 eezdvg.beyyoglu.com
@@ -4103,6 +4103,7 @@ happenhistory.com
 happen.spkt.io
 harborcub.com
 hardtofindmilk.com
+harpocrates.ethyca.com
 hatefulrequest.com
 hauhws.asgoodasnew.de
 hauntlist.com
