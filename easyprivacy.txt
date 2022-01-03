@@ -6751,6 +6751,7 @@ net.x24factory.com
 net.zooplus.com
 net.zooplus.de
 net.zooplus.fr
+neurotrack.neurolake.io
 news.azcapitoltimes.com
 news.bpost.be
 news.chiefexecutive.net
@@ -7262,6 +7263,7 @@ pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
 pixel.ionos.fr
+pixel.kknews.cc
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
