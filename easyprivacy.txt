@@ -1154,6 +1154,7 @@ analytics.naturequant.com
 analytics.ncaa.com
 analytics.newscred.com
 analytics.nike.com
+analytics.oceanengine.com
 analytics.oneplus.cn
 analytics.onlyonlinemarketing.com
 analytics.ooyala.com
@@ -7804,6 +7805,7 @@ rt.flix360.com
 rtmugo.deindeal.ch
 rt.newswire.ca
 rt.prnewswire.com
+rtxpx-a.akamaihd.net
 ruddycast.com
 ruddywash.com
 rum.azioncdn.net
