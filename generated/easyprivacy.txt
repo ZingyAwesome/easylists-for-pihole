@@ -978,6 +978,7 @@ analytics.naturequant.com
 analytics.ncaa.com
 analytics.newscred.com
 analytics.nike.com
+analytics.oceanengine.com
 analytics.oneplus.cn
 analytics.onlyonlinemarketing.com
 analytics.ooyala.com
@@ -7987,6 +7988,7 @@ songssmoke.com
 sootheside.com
 sophisticatedstory.com
 sophisticatedstove.com
+sordidsmile.com
 soresneeze.com
 sorethunder.com
 soretrain.com
