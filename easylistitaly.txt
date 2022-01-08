@@ -41,3 +41,4 @@ shop.sportal.it
 spotmix.libero.it
 telco-widget.s3.eu-south-1.amazonaws.com
 widget.promoqui.it
+widgets.shop.moda.it
