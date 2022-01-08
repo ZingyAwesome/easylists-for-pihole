@@ -28,3 +28,4 @@ sda.quinews.net
 shop.sportal.it
 spotmix.libero.it
 widget.promoqui.it
+widgets.shop.moda.it
