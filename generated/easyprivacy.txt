@@ -520,8 +520,6 @@ aagon.actonservice.com
 aamcompany.actonservice.com
 aas.mclaren.com
 aas.neom.com
-aax-eu-dub.amazon.com
-aax-us-iad.amazon.com
 ab-machine.forbes.com
 abackchain.com
 abacksoda.com
