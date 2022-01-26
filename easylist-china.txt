@@ -249,6 +249,7 @@
 256k.xyz
 258580w.cn
 258ydh.com
+25917.shop
 265958.com
 268mob.cn
 272xb.com
@@ -509,6 +510,7 @@
 76xs.com
 77417.cn
 7750o.cn
+7773180.com
 7791.com.cn
 77power.com
 78dx8t.com
@@ -1204,6 +1206,7 @@ bayno.cn
 bbbazlp.cn
 bbbx.xyz
 bbdsdy.com
+bbsg.club
 bbttkk.com
 bbtys.net
 bbvdd.com
@@ -1569,6 +1572,7 @@ cdmcgw.cn
 cdn1.tvzhe.com
 cdnfjz.com
 cdn.imvkan.com
+cdnjs.mopair-erm.net
 cdnjsp.wang
 cdnjs.z-face.cn
 cdntlz.cn
@@ -1936,6 +1940,7 @@ dce0k0.cn
 dceni.com
 dcl5.cn
 dd1.diymianmo.com
+dd3d.xyz
 ddanq.com
 dddyun.com
 ddg1277.com
@@ -1978,6 +1983,7 @@ dhdgkj.com
 dhejr.cn
 dhipc.cn
 dhlmy.com
+dhsuiat.xyz
 dhxuiho.cn
 dhxyzx.cn
 dhyns.cn
@@ -2055,6 +2061,7 @@ dm.wenshenxiu.com
 dmym.aixyy.com
 dm.yxlady.com
 dm.zuowenku.net
+dnajc.co
 dnfkong.com
 dn.ixinwei.com
 dnjszp.cn
@@ -2648,6 +2655,7 @@ grours.cn
 grsea.cn
 grubfast.com
 gsb9.cn
+gsbsyljs.com
 gshtrl.top
 gsjzlssws.com
 gslyxny.com
@@ -2926,6 +2934,7 @@ hljyjm.cn
 hlokux.cn
 hlqoefai.cn
 hlstlyy.com
+hlyixinwujin.com
 hlzxgcw.com
 hmaqz.top
 hmfcyy.com
@@ -3100,6 +3109,7 @@ hytgj.com
 hyuanprint.com
 hyz86.com
 hyzhongchuang.com
+hzcy.ltd
 hzdwjc.com
 hzghyt.cc
 hzhfhkj.cn
@@ -3196,6 +3206,7 @@ img.zuowen8.com
 img.zuowenwang.net
 imiek.com
 imim.me
+imlidc.cn
 immaohao.cn
 immf.me
 imnvgma.cn
@@ -3301,6 +3312,7 @@ jdiaveu.cn
 jdlhg.com
 jdsy.ltd
 jdwxshfw.cn
+jdxq.club
 jdyz3.cn
 jdzlxtc.com
 jehudf.com
@@ -4386,6 +4398,7 @@ njxczy.com
 njygp.cn
 njzhlaw.cn
 njzyjy.cn
+nkjiashi.com
 nkscdn.com
 nktcw.cn
 nkyyls.cn
@@ -4524,6 +4537,7 @@ oshrs.cn
 osndy.com
 osqoglv.cn
 otantgi.cn
+otbsrk.cn
 ot.jizy.cn
 ouhwjdv.cn
 oumazg.com
@@ -5020,7 +5034,7 @@ same.chinadaily.com.cn
 same.eastmoney.com
 same.stockstar.com
 sanitwealth.com
-sanme2.lanzoui.com
+sanme2.taisantech.com
 sanmenxia.info
 sanwukeji.xyz
 sanxiucaiwu.top
@@ -5289,7 +5303,6 @@ static-cn.plista.com
 static.gaomaer.cn
 static.ichehome.com
 static.jiaquyi.com
-static.sinawap.com
 static-ssp.yidianzixun.com
 statstat888.com
 stbaolin.cn
@@ -5450,6 +5463,7 @@ taoguohe.com
 taohanpai.com
 taoke.cloud
 taomochou.cn
+taomovie.club
 taoyouhuiquan.top
 taoyuay.top
 tatjhh.cn
@@ -5653,6 +5667,7 @@ tunihta.top
 tunihua.top
 tuoshi168.com
 tuoxintrade.cn
+tusavy.xyz
 tutehea.top
 tutese.com.cn
 tuuihea.top
@@ -5718,6 +5733,7 @@ ucaii.com
 uc.atobo.com
 ucxgg.com
 uc.zhuici.com
+ud783c02.com
 ud783c08.com
 ud831d2.com
 ud831d4.com
@@ -6051,6 +6067,7 @@ wowad.wow-classic.com
 wowips.com
 wowostar.cn
 woxts.cn
+wppei.cn
 wpqsmse.cn
 wqdwork.com
 wrkdih.com
@@ -6819,6 +6836,7 @@ zhengyahong.cn
 zhengyejixie.com
 zhengyuanguojimc.com
 zhengzhoupengbo.com
+zhenniu.shop
 zhenxinchicken.xyz
 zhenxingkuangchanpin.com
 zhexnuq.cn
@@ -6888,6 +6906,7 @@ zhylm.cn
 zhywyl.cn
 ziaxlx.cn
 zichunping.cn
+zigaokj.top
 ziig.com.cn
 zijuejueta.com
 zimingdh.com
