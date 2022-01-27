@@ -3149,6 +3149,7 @@ gdsngr.chainreactioncycles.com
 gefkkw.cyberport.de
 gekko.spiceworks.com
 gemius.mgr.consensu.org
+genesis.malwarebytes.com
 geo.emol.cl
 geo.ertya.com
 geo.gfycat.com
@@ -8361,6 +8362,7 @@ stats.dailyposter.com
 stats.dashbit.co
 stats.datahjaelp.net
 stats.davestewart.co.uk
+stats.davidickedelivery.com
 stats.davidlms.com
 stats.deutschlandsim.de
 stats.deva.guru
@@ -9339,6 +9341,7 @@ tracking.sezzle.com
 tracking.sharplink.us
 tracking.shl.com
 tracking.shop.verymobile.it
+tracking.shopstyle.co.uk
 tracking.shopstyle.com
 tracking.sierrawireless.com
 tracking.smartbets.com
