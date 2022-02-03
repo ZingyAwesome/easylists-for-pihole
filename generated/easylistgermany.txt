@@ -1,6 +1,7 @@
 banner.immowelt.de
 ced.sascdn.com
 code.bergsteigen.com
+delmovip.com
 fastad.beepworld.de
 media.alphaload.com
 netwayer.de
@@ -17,3 +18,4 @@ securecnd.com
 servote.de
 tneca.com
 wm-space.youero.com
+zazufi.com
