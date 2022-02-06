@@ -1241,6 +1241,7 @@ analytics.valheimgamer.com
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vdo.ai
+analytics.vedantu.com
 analytics.vendemore.com
 analytics.verizonwireless.com
 analytics.villagehouse.jp
@@ -5032,6 +5033,7 @@ l.m.naver.com
 lmvc1.vivatechnology.com
 ln.ameba.jp
 lntvby.banggood.com
+loader.zeroform.com
 loansales.cbre.com
 loblhp.samsonite.ru
 localbeige.club
@@ -6449,6 +6451,7 @@ metrics.suncorp.com.au
 metrics.sungard.com
 metrics.swinburne.edu.au
 metrics.switch2t-mobile.com
+metrics.syf.com
 metrics.synopsys.com
 metrics.tamiflu.com
 metric.starz.com
