@@ -1055,6 +1055,7 @@ analytics.valheimgamer.com
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vdo.ai
+analytics.vedantu.com
 analytics.vendemore.com
 analytics.verizonwireless.com
 analytics.villagehouse.jp
@@ -1760,6 +1761,7 @@ cnt.nov.ru
 cnt.nuvid.com
 cnt.rambler.ru
 cnt.rate.ru
+cnt.trvdp.com
 cnt.viptube.com
 cnt.vivatube.com
 cnt2.stroeerdp.de
@@ -5324,6 +5326,7 @@ metrics.suncorp.com.au
 metrics.suncorpbank.com.au
 metrics.sungard.com
 metrics.swinburne.edu.au
+metrics.syf.com
 metrics.synopsys.com
 metrics.tamiflu.com
 metrics.taste.com.au
@@ -5656,6 +5659,7 @@ oda.markitondemand.com
 odvdyw.clubmed.ru
 oei1.gq
 offer-station.com
+offer.slgnt.eu
 ofk3.orcanta.fr
 ogb2.biovie.com
 ogb2.eauthermalejonzac.com
@@ -8899,6 +8903,7 @@ tags.creativille.co.uk
 tags.globo.com
 tags.johnlewis.com
 tags.newscgp.com
+tags.remixd.com
 tagtracking.vibescm.com
 talentedsteel.com
 target.mirtesen.ru
