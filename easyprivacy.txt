@@ -2120,6 +2120,7 @@ cnt.nov.ru
 cnt.nuvid.com
 cnt.rambler.ru
 cnt.rate.ru
+cnt.trvdp.com
 cnt.viptube.com
 cnt.vivatube.com
 coachquartz.com
@@ -6880,6 +6881,7 @@ odc.1und1.de
 odvdyw.clubmed.ru
 oei1.gq
 oek7.april-moto.com
+offer.slgnt.eu
 offer-station.com
 ofk3.orcanta.fr
 ogb2.biovie.com
@@ -10905,6 +10907,7 @@ tags.newscgp.com
 tag.sonymusic.com
 tags.op-palvelut.fi
 tags.refinery89.com
+tags.remixd.com
 tagtracking.vibescm.com
 tag.triboomedia.it
 talentedsteel.com
