@@ -2536,6 +2536,7 @@ cvhefd.ixbt.com
 cv.online.ysroad.co.jp
 cv.shiryoku1.com
 cvs.kireimo.jp
+cvt1.sibnet.ru
 c.wen.ru
 c.wort-suche.com
 cws.conviva.com
@@ -3963,6 +3964,7 @@ gecfnc.foresight.jp
 gekko.spiceworks.com
 gemius.mgr.consensu.org
 genesis.malwarebytes.com
+gentian-frd.hjapi.com
 geobar.ziffdavisinternational.com
 geo.bluedot.io
 geoedge.be
@@ -4840,6 +4842,7 @@ k.keyade.com
 k.kolplay.com
 k.laredoute.es
 k.laredoute.ru
+klm-ea.jscrambler.com
 knfjhy.echo.msk.ru
 knotkettle.com
 knottysticks.com
@@ -7269,6 +7272,7 @@ pxt.daz3d.com
 px.wp.pl
 pxxhbz.apamanshop.com
 pydnsv.ejobs.ro
+pylon.micstatic.com
 p.yotpo.com
 pyouad.autonvaraosat24.fi
 python.jacksellwood.com
@@ -10720,6 +10724,7 @@ track.cafu.com
 track.cedsdigital.it
 trackclicks.info
 track.clubcar.com
+trackcommon.hujiang.com
 track.contently.com
 track.cordial.io
 track.dictionary.com
@@ -10784,6 +10789,7 @@ tracker.wpserveur.net
 track.express.de
 track.ferrari.com
 track.ferraridealers.com
+track.hujiang.com
 tracking1.brandmentions.com
 tracking1.questdiagnostics.com
 tracking1.tena.com
