@@ -1308,6 +1308,7 @@ analytics.tntdramma.com
 analytics.tooso.ai
 analytics.top10-charts.com
 analytics.tout.com
+analytics.tradedoubler.com
 analytics.traderlink.com
 analytics.tribeca.vidavee.com
 analytics.trust.page
@@ -7564,6 +7565,7 @@ s4.parkeren-utrecht.nl
 s.80000hours.org
 sa.adidas.com
 sa.adidas.com.au
+saa.insideedition.com
 saa.paramountplus.com
 sa.api.intl.miui.com
 saa.poptv.com
