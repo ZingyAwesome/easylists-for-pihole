@@ -129,6 +129,7 @@ a18886.actonservice.com
 a19537.actonservice.com
 a19609.actonservice.com
 a19612.actonservice.com
+a1webstrategy.com
 a22037.actonservice.com
 a22368.actonservice.com
 a23509.actonservice.com
@@ -1087,6 +1088,7 @@ analytics.tio.ch
 analytics.tntdramma.com
 analytics.tooso.ai
 analytics.tout.com
+analytics.tradedoubler.com
 analytics.traderlink.com
 analytics.tribeca.vidavee.com
 analytics.trust.page
@@ -2230,6 +2232,7 @@ data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.it
+data.digitalks.az
 data.econa.com
 data.engelhorn.de
 data.glamour.ru
@@ -6093,6 +6096,7 @@ ressources.centraleauto.com
 ressources.lacentrale.fr
 ressources.mavoiturecash.fr
 ressources.promoneuve.fr
+retargeting.newsmanapp.com
 retargeting.vistaprint.com
 retcode.taobao.com
 retention.ankidecks.com
@@ -6164,6 +6168,7 @@ s-onetag.com
 s-sitecatalyst.work.shiseido.co.jp
 s362693299.aon.com
 s4e8.cascades.com
+saa.insideedition.com
 saa.paramountplus.com
 saa.poptv.com
 saa.tescomobile.com
@@ -8559,9 +8564,11 @@ track.kyoads.com
 track.leady.cz
 track.lexico.com
 track.mailerlite.com
+track.mituo.cn
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
+track.nopaperforms.com
 track.noz.de
 track.omgpl.com
 track.pexi.nl
