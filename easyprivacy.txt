@@ -140,6 +140,7 @@ a19537.actonservice.com
 a19609.actonservice.com
 a19612.actonservice.com
 a1.api.bbc.co.uk
+a1webstrategy.com
 a.20minutes.fr
 a22037.actonservice.com
 a22368.actonservice.com
@@ -2079,6 +2080,7 @@ clicks.dealer.com
 clicks.drizly.com
 clicks.email.shakeshack.com
 clicks.equinoxplus.com
+clickserver.libero.it
 clicks.food.mercato.com
 clicks.hurriyet.com.tr
 clicks.info.theiconic.com.au
@@ -2681,6 +2683,7 @@ data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.it
+data.digitalks.az
 datadog-service.mvfglobal.com
 data.econa.com
 data.email-discovery.cjm.adobe.com
@@ -5205,6 +5208,7 @@ logger.uol.com.br
 logger.yp.ca
 loggingapi.spingo.com
 logging.carambo.la
+logging.je-apps.com
 logging.prefixbox.com
 logging.wilmaa.com
 logg.kiwi.com
@@ -6979,6 +6983,7 @@ pizzasnut.com
 pjbncv.ode.co.kr
 pjh7.us.chantelle.com
 pjljqp.gap.ru
+pjstat.com
 pjtlme.rozetka.com.ua
 pjtxmd.epool.ru
 pk1u.melanielyne.com
@@ -7467,6 +7472,7 @@ ressources.lacentrale.fr
 ressources.mavoiturecash.fr
 ressources.promoneuve.fr
 rest.wildstar-online.com
+retargeting.newsmanapp.com
 retargeting.vistaprint.com
 retcode.taobao.com
 retention.ankidecks.com
@@ -10292,6 +10298,7 @@ t1.stadiumgoods.com
 t2.hulu.com
 t2.t2b.click
 t8.mailperformance.com
+t.91syun.com
 t.9gag.com
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
@@ -10717,6 +10724,7 @@ trace.qq.com
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
+track.91app.io
 track.99acres.com
 track.addevent.com
 track.atom-data.io
@@ -11095,10 +11103,12 @@ trackla.stackla.com
 track.leady.cz
 track.lexico.com
 track.mailerlite.com
+track.mituo.cn
 track.mp4.center
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
+track.nopaperforms.com
 track.noz.de
 track.omgpl.com
 track.pexi.nl
@@ -11851,6 +11861,7 @@ visit.webhosting.yahoo.com
 viu.actonservice.com
 vivaciousveil.com
 vjmqdx.nozhikov.ru
+vkanalytics.net
 vlogs.deja.media
 vmstats.varrando.com
 vmsxzx.buienradar.nl
