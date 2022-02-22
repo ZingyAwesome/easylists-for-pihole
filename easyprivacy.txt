@@ -1245,6 +1245,7 @@ analytics.paddle.com
 analytics.pagefly.io
 analytics.performable.com
 analytics.pgatour.com
+analytics.pgncs.notion.so
 analytics.photorank.me
 analytics.piksel.com
 analytics.plex.tv
