@@ -1429,7 +1429,6 @@ blushingbeast.com
 blushingboundary.com
 blushingwar.com
 blziha.intimissimi.com
-bmcdn2.com
 bmcm.pw
 bmnr.pw
 bmodjx.mgos.jp
@@ -8647,6 +8646,7 @@ tracker.marinsoftware.com
 tracker.mrpfd.com
 tracker.mspy.com
 tracker.nbcuas.com
+tracker.nitropay.com
 tracker.providence.org
 tracker.publico.pt
 tracker.roitesting.com
