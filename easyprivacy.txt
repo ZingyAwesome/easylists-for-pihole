@@ -1643,6 +1643,7 @@ beacon.securestudies.com
 beacon.shazam.com
 beacon.shutterfly.com
 beacon.sina.com.cn
+beacon.s.llnwi.net
 beacons.mediamelon.com
 beacon.sojern.com
 beacon.squixa.net
@@ -3172,6 +3173,7 @@ efficiency.visma.com
 ef.futuroscope.com
 ef.futuroscope.mobi
 efgam.actonservice.com
+efreecode.com
 efuxqe.tatilbudur.com
 egscnq.erlich-textil.de
 ehtel.endress.com
