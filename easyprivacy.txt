@@ -1294,6 +1294,7 @@ analytics-static.ugc.bazaarvoice.com
 analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.styria.hr
+analytics.superstructure.ai
 analytics.supplyframe.com
 analytics.surfline.com
 analytics.sweep.net
