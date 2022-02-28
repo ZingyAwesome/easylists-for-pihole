@@ -6079,6 +6079,7 @@ repvwz.panchemodan.ru
 res.elle.fr
 res.femina.fr
 res.francedimanche.fr
+res.paruvendu.fr
 res.public.fr
 res.rbl.ms
 research.gartner.com
