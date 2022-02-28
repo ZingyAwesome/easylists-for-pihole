@@ -2214,6 +2214,7 @@ collect..miui.com
 collector2c.zhihuishu.com
 collector-api.99designs.com
 collector.automote.co.nz
+collector.cint.com
 collector.clareity.net
 collector.getyourguide.com
 collector.githubapp.com
@@ -7460,6 +7461,7 @@ resources.linengineering.com
 resources.opentext.com
 resources.opentext.de
 resources.securew2.com
+res.paruvendu.fr
 respectrain.com
 responder.wt.heise.de
 response2.buydomains.com
