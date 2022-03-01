@@ -1830,6 +1830,7 @@ collect.tianya.cn
 collect.usefathom.com
 collector-px0py5pczn.octopart.com
 collector.automote.co.nz
+collector.cint.com
 collector.clareity.net
 collector.getyourguide.com
 collector.githubapp.com
