@@ -1345,6 +1345,7 @@ bdwblog.eastmoney.com
 bdzcck.stadiumgoods.com
 beacon.affil.walmart.com
 beacon.aimtell.com
+beacon.cdnma.com
 beacon.errorception.com
 beacon.flow.io
 beacon.nrholding.net
