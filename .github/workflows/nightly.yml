@@ -45,7 +45,7 @@ jobs:
           CI: true
 
       - name: Save artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: easylist-for-pi-hole
           path: generated/
