@@ -65,6 +65,7 @@
 9735476.test.skyscanner.net
 9857064.hello.spriggy.com.au
 9857064.notice.spriggy.com.au
+9w2zed1szg.execute-api.us-east-1.amazonaws.com
 a10.nationalreview.com
 a11058.actonservice.com
 a11315.actonservice.com
@@ -2551,6 +2552,7 @@ c.xbox.com
 c.x.oanda.com
 cxrfns.gu-global.com
 cxt.ms
+cybba.solutions
 cyber.aonunited.com
 cyber-pages.att.com
 cyber-tracking.att.com
@@ -12623,6 +12625,7 @@ zdpsve.scrapbook.com
 zdwgpb.moblum.com
 zealousfield.com
 zelten.fritz-berger.de
+zenaps.com
 zestycrime.com
 zftces.hoiku-job.net
 zfvdeu.novaconcursos.com.br
