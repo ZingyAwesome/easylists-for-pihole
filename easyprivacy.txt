@@ -10462,6 +10462,7 @@ telemetrics.klaviyo.com
 telemetry.adobe.io
 telemetry.api.playstation.com
 telemetry.jivosite.com
+telemetry.phenixrts.com
 telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
