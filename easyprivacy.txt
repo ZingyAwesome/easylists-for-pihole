@@ -1148,6 +1148,7 @@ analytics.competitoor.com
 analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.cynapse.com
+analytics.daasrv.net
 analytics.datahc.com
 analytics.data.lloydsbankinggroup.com
 analytics.designspiration.com
@@ -11720,6 +11721,7 @@ ubdsej.notino.pl
 ubmitt.heine.ch
 ubmups.houseofindya.com
 ubt.berlingskemedia.net
+ubuyanalytics.ubuy.com
 ubvsjh.pointtown.com
 ubxvdx.accuweather.com
 ucounter.ucoz.net
