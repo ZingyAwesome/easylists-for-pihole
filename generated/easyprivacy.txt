@@ -944,6 +944,7 @@ analytics.cognyte.com
 analytics.competitoor.com
 analytics.convertlanguage.com
 analytics.cynapse.com
+analytics.daasrv.net
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
 analytics.designspiration.com
@@ -1491,6 +1492,7 @@ briskeagle.io
 briskpelican.io
 brizxe.dior.com
 broadboundary.com
+brontops.com
 brothersbucket.com
 browser-updater.yandex.net
 browser.events.data.microsoft.com
@@ -1583,6 +1585,7 @@ cannonjudo.com
 capablecows.com
 capablecup.com
 capture.condenastdigital.com
+capturehighered.net
 carefuldolls.com
 carepay.gaf.com
 cargurus.actonservice.com
@@ -2703,7 +2706,6 @@ email.mail.floatme.io
 email.mail.primexbt.com
 email.mccoys.com
 email.member.theknot.com
-email.mg.everyonesocial.com
 email.mymandg.co.uk
 email.participaction.com
 email.pray.com
@@ -3854,6 +3856,7 @@ jybnuw.mudah.my
 jzbzvk10u32f.adria.gg
 k4fu.verif.com
 k54nw.pw
+k5a.io
 kabokc.webuy.com
 kaden.netoff.co.jp
 kalstats.kaltura.com
