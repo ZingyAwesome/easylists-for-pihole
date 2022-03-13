@@ -1494,6 +1494,7 @@ brizxe.dior.com
 broadboundary.com
 brontops.com
 brothersbucket.com
+browser-intake-datadoghq.com
 browser-updater.yandex.net
 browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
