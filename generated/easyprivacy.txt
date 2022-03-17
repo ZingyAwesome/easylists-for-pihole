@@ -972,6 +972,7 @@ analytics.firespring.com
 analytics.footballdb.com
 analytics.foresee.com
 analytics.forgetwp.com
+analytics.formstack.com
 analytics.freespee.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
@@ -1726,6 +1727,8 @@ click.uol.com.br
 click.vgnett.no
 click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
+click360.io
+click360v2-ingest.azurewebsites.net
 clicked.ebates.com
 clicks-test.info.theiconic.com.au
 clicks.burgerking.co.uk
@@ -2780,6 +2783,7 @@ eproof.drudgereport.com
 eqclicks.movember.com
 eqs.intuit.com
 eqtrack.americashomeplace.com
+eqy.link
 erb.tremblant.ca
 eroar.lionsclubs.org
 erp.qwic.nl
@@ -3442,6 +3446,7 @@ iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
 idg1.idgarages.com
 idqwqm.kkday.com
+idx.lat
 iedc.fitbit.com
 ifmonx.commercialrealestate.com.au
 ifnyop.priceline.com
@@ -5465,6 +5470,7 @@ opinionsurprise.com
 opportunity.businessbroker.net
 oppositeoperation.com
 opps.taboola.com
+oppuz.com
 ops.bpost.be
 opslegacy.toolbar.net.zooplus.com
 optimallimit.com
@@ -5639,6 +5645,7 @@ phpstat.cntcm.com.cn
 phqwdj.blacknfriday.com
 piddme.buyma.com
 pigspie.com
+pijper.io
 ping-dot-acp-magento.appspot.com
 ping.cavelab.dev
 ping.dozuki.com
@@ -7556,6 +7563,7 @@ speedyrhino.co
 speee-ad.akamaized.net
 spendpest.com
 spidersboats.com
+spinnaker-js.com
 spirebaboon.com
 spmaeu.gumtree.com.au
 spmyma.moscowfresh.ru
