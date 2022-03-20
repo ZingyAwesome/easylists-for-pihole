@@ -1429,6 +1429,7 @@ bkrtx.com
 blacktri-a.akamaihd.net
 bldr.mkt.samsung.com
 blinks.mindoktor.se
+blitz-analytics-batch-server.blitz.gg
 blotburn.com
 bluekai.com
 bluemarblepayroll.actonservice.com
