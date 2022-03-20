@@ -896,6 +896,7 @@ adc.9news.com.au
 adc.api.nine.com.au
 adc-js.nine.com.au
 adc.nine.com.au
+adcontroll.com
 ad.daum.net
 adebis01.job-con.jp
 adebis02.juku.st
@@ -1177,6 +1178,7 @@ analytics.firespring.com
 analytics.footballdb.com
 analytics.foresee.com
 analytics.forgetwp.com
+analytics.formstack.com
 analytics.freespee.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
@@ -1195,6 +1197,7 @@ analytics.hotelclub.com
 analytics.humanautomation.ai
 analytics.infobae.com
 analytics.inform.com
+analytics.iraiser.eu
 analytics.ishopchangi.com
 analytics.itsnoahevans.co.uk
 analytics.joincambridge.com
@@ -1726,6 +1729,7 @@ bkrtx.com
 blacktri-a.akamaihd.net
 bldr.mkt.samsung.com
 blinks.mindoktor.se
+blitz-analytics-batch-server.blitz.gg
 blotburn.com
 bluekai.com
 bluemarblepayroll.actonservice.com
@@ -1813,6 +1817,7 @@ broadboundary.com
 brontops.com
 brothersbucket.com
 browser.events.data.microsoft.com
+browser-intake-datadoghq.com
 browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser-updater.yandex.net
@@ -2045,6 +2050,8 @@ click1.e.radio.com
 click1.e.thechive.com
 click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
+click360.io
+click360v2-ingest.azurewebsites.net
 click.aabacosmallbusiness.com
 click.aaptiv.com
 click.alternate.de
@@ -2963,6 +2970,7 @@ dragon.moneycoach.io
 dragzebra.com
 dramaticcondition.com
 dramaticdirection.com
+dratingmaject.com
 drawermice.com
 drawservant.com
 dressexpansion.com
@@ -3524,6 +3532,7 @@ epro.sogou.com
 eqclicks.movember.com
 eqs.intuit.com
 eqtrack.americashomeplace.com
+eqy.link
 erb.tremblant.ca
 e.replacementdevicelawsuit.com
 eroar.lionsclubs.org
@@ -4274,6 +4283,7 @@ hits.eluniversal.com.mx
 hitserver.ibope.com.br
 hits.informer.com
 hit.skrz.cz
+hits.porn.fr
 hits.zdnet.co.kr
 hiuplq.diretta.it
 hiuplq.eredmenyek.com
@@ -4357,6 +4367,7 @@ ideadevice.actonservice.com
 idg1.idgarages.com
 idgptg.esm-computer.de
 idqwqm.kkday.com
+idx.lat
 iedc.fitbit.com
 ifmonx.commercialrealestate.com.au
 ifnyop.priceline.com
@@ -6692,6 +6703,7 @@ opinionsurprise.com
 opportunity.businessbroker.net
 oppositeoperation.com
 opps.taboola.com
+oppuz.com
 ops.bpost.be
 opslegacy.toolbar.net.zooplus.com
 optimallimit.com
@@ -6909,6 +6921,7 @@ piddme.buyma.com
 pi.feedsportal.com
 pigspie.com
 pi.ispot.tv
+pijper.io
 pingback.giphy.com
 pingback.issuu.com
 pingback.sogou.com
@@ -7360,6 +7373,7 @@ qzxfnv.beams.co.jp
 r1ztni.oui.sncf
 r42tag.com
 r4nds.absorba.com
+raac33.net
 rabbitbreath.com
 rabbitrifle.com
 radar.imgsmail.ru
@@ -9333,6 +9347,7 @@ sp.htrnews.com
 spidersboats.com
 sp.independentmail.com
 sp.indystar.com
+spinnaker-js.com
 spirebaboon.com
 sp.ithacajournal.com
 sp.jacksonsun.com
@@ -10144,6 +10159,7 @@ stats.yinyuetai.com
 stats.yourdallashandyman.com
 stats.zander.wtf
 stats.zone-annuaire.one
+stats.zone-telechargement.click
 stats.zotabox.com
 statt-collect.herokuapp.com
 stat.tianya.cn
@@ -11046,6 +11062,7 @@ tracking.scoresandodds.com
 tracking.seakeeper.com
 tracking.searchmarketing.com
 tracking.selective.com
+tracking.sexcash.com
 tracking.sezzle.com
 tracking.sfitrucks.com
 tracking.sharplink.us
@@ -11235,6 +11252,7 @@ tr.cartegie.fr
 tr.carte.lcl.fr
 tr.cashback.floa.fr
 tr.cb4x.floa.fr
+trc.caravas.jp
 tr.cifa02k.espmp-aufr.net
 tr.cifa.espmp-nifr.net
 tr.cj.bordeaux-metropole.fr
@@ -12066,6 +12084,7 @@ whisperingbadge.com
 whisperingcrib.com
 whrsen.itemmania.com
 why3.inseec.education
+widgetbe.com
 widget.quantcast.com
 wigglygeese.com
 wigglyindustry.com
