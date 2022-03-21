@@ -7857,6 +7857,7 @@ stats.bestservers.co
 stats.bholmes.dev
 stats.bimbase.nl
 stats.birgun.net
+stats.bitban.com
 stats.bitgravity.com
 stats.bitpost.app
 stats.blockleviton.com
