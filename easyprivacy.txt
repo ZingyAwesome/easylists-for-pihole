@@ -1146,6 +1146,7 @@ analytics.codeskulptor.org
 analytics.codigo.se
 analytics.cognyte.com
 analytics.competitoor.com
+analytics.contentexchange.me
 analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.cynapse.com
@@ -4284,6 +4285,7 @@ hitserver.ibope.com.br
 hits.informer.com
 hit.skrz.cz
 hits.porn.fr
+hits.tf.rs
 hits.zdnet.co.kr
 hiuplq.diretta.it
 hiuplq.eredmenyek.com
@@ -6889,6 +6891,7 @@ perf.af.eficads.com
 perf.af.funneldrivers.com
 perf.dugout.com
 perf-events.cloud.unity3d.com
+perf.hsforms.com
 perf.mouser.com
 performanceplay.co.kr
 periodicpocket.com
@@ -10833,6 +10836,7 @@ tracker.wpserveur.net
 track.express.de
 track.ferrari.com
 track.ferraridealers.com
+track.hubspot.com
 track.hujiang.com
 tracking1.brandmentions.com
 tracking1.questdiagnostics.com
