@@ -5625,6 +5625,7 @@ peqvwk.notino.at
 perf.af.eficads.com
 perf.af.funneldrivers.com
 perf.dugout.com
+perf.hsforms.com
 perf.mouser.com
 performanceplay.co.kr
 periodicpocket.com
@@ -8591,6 +8592,7 @@ track.emeza.com
 track.express.de
 track.ferrari.com
 track.ferraridealers.com
+track.hubspot.com
 track.hujiang.com
 track.juno.com
 track.kueez.com
