@@ -3,6 +3,26 @@
     "labels": ["renovate", "dependencies"],
     "packageRules": [
         {
+            "matchPackageNames": ["eslint"],
+            "matchPackagePatterns": ["^eslint-plugin", "^@typescript-eslint/"],
+            "groupName": "eslint packages",
+            "updateTypes": ["minor", "patch"],
+            "automerge": true
+        },
+        {
+            "matchPackageNames": ["typescript", "ts-node", "ts-jest"],
+            "matchPackagePatterns": ["^@tsconfig/"],
+            "groupName": "typescript packages",
+            "updateTypes": ["minor", "patch"],
+            "automerge": true
+        },
+        {
+            "matchPackageNames": ["jest", "@types/jest"],
+            "groupName": "jest packages",
+            "updateTypes": ["minor", "patch"],
+            "automerge": true
+        },
+        {
             "depTypeList": ["dependencies"],
             "labels": ["dependencies"],
             "updateTypes": ["minor", "patch"],
@@ -15,5 +35,10 @@
             "automerge": true
         }
     ],
-    "prConcurrentLimit": 5
+    "prConcurrentLimit": 5,
+    "timezone": "Asia/Jerusalem",
+    "lockFileMaintenance": {
+        "enabled": true,
+        "schedule": "after 10pm on saturday"
+    }
 }
