@@ -5148,7 +5148,6 @@ links.playon.tv
 links.riverview.org
 links.schnucks.com
 links.sheroes.in
-links.strava.com
 links.t.blueapron.com
 links.thedyrt.com
 links.theyes.com
@@ -5974,6 +5973,7 @@ med.viibryd.com
 med.viibrydhcp.com
 m.edweek.org
 meet.westuc.com
+megadata.co.kr
 melodicminute.com
 membership.mortonarb.org
 memelq.acs.org
@@ -10524,6 +10524,7 @@ testing.net.zooplus.com
 testing.net.zooplus.es
 testing.stg.hwcdn.net.zooplus.de
 test-marketing.net.zooplus.it
+test.vast
 te.supportfreecontent.com
 t.etraveli.com
 te.universal.at
@@ -11821,6 +11822,7 @@ usedexample.com
 useg.nextdigital.com.hk
 userexperience.thehut.net
 userfly.com
+user-metrics.onthemarket.com
 usersegment.wpdigital.net
 usgamer-us.usgamer.net
 usivbt.qoo10.com
