@@ -4131,7 +4131,6 @@ links.playon.tv
 links.riverview.org
 links.schnucks.com
 links.sheroes.in
-links.strava.com
 links.thedyrt.com
 links.theyes.com
 links.voyeurweb.com
@@ -4850,6 +4849,7 @@ meds.viibryd.com
 meds.viibrydhcp.com
 medusasailor.com
 meet.westuc.com
+megadata.co.kr
 melodicminute.com
 membership.mortonarb.org
 memelq.acs.org
@@ -8472,6 +8472,7 @@ test-eml.postmates.com
 test-fleet-eml.postmates.com
 test-marketing.net.zooplus.it
 test.customers.instacartemail.com
+test.vast
 testbed.net.zooplus.de
 testedtouch.com
 tester-mail.net.zooplus.it
@@ -9178,6 +9179,7 @@ us9recc3.simseller.goo.ne.jp
 usb-vna.coppermountaintech.com
 usedexample.com
 useg.nextdigital.com.hk
+user-metrics.onthemarket.com
 userexperience.thehut.net
 userfly.com
 usersegment.wpdigital.net
