@@ -3851,6 +3851,7 @@ fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
 fpa-events.decrypt.co
 fpaux.net
+fpaxu.net
 fpb8.esce.fr
 fpc.acponline.org
 fpc.attcenter.com
@@ -5230,6 +5231,7 @@ logger.rm.uol.com.br
 logger.snackly.co
 logger.uol.com.br
 logger.yp.ca
+logging.api.intuit.com
 loggingapi.spingo.com
 logging.carambo.la
 logging.je-apps.com
@@ -7567,6 +7569,7 @@ rt.prnewswire.com
 rtxpx-a.akamaihd.net
 ruddycast.com
 ruddywash.com
+rum.api.intuit.com
 rum.azioncdn.net
 rum.azion.com
 rum.ingress.layer0.co
