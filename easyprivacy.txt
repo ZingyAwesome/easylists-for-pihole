@@ -2339,6 +2339,7 @@ connecttest.arubanetworks.com
 connect.tpgtelecom.com.au
 connect.uofuhealth.org
 connect.zebra.com
+connext-cdn.azureedge.net
 consciouscheese.com
 consciousdirt.com
 conseils.dotbase.com
