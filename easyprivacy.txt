@@ -1106,6 +1106,7 @@ analytics.adonisjs.com
 analytics.ae.com
 analytics.agoda.com
 analytics.aimtell.com
+analytics.aita.gov.vn
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
@@ -6906,7 +6907,6 @@ persuadesock.com
 persuadesupport.com
 pesaea.autoesa.cz
 pevftg.shopee.sg
-pexa.realestate.com.au
 p.eyebuydirect-cmr.net
 pezxux.footlocker.co.uk
 p.fairspot.host
