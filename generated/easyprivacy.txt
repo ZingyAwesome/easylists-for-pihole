@@ -907,6 +907,7 @@ analytics.adonisjs.com
 analytics.ae.com
 analytics.agoda.com
 analytics.aimtell.com
+analytics.aita.gov.vn
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
@@ -5639,7 +5640,6 @@ persuadesock.com
 persuadesupport.com
 pesaea.autoesa.cz
 pevftg.shopee.sg
-pexa.realestate.com.au
 pezxux.footlocker.co.uk
 pfuyhr.schutz.com.br
 pgs.aviationweek.com
