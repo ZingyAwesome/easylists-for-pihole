@@ -3,4 +3,5 @@ advertising-module.api.dpgmedia.cloud
 content1.pcmweb.nl
 crnsgngrpj.nl
 dntblckmpls.nl
+nojazz.eu
 viadata.store
