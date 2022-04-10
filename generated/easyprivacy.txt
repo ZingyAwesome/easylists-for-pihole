@@ -2486,6 +2486,7 @@ dxpxgy.jdsports.com
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
+dynatrace-managed.com
 dyv1bugovvq1g.cloudfront.net
 dzbrr144kh0m6.cloudfront.net
 dzszbb.homes.co.jp
@@ -8669,6 +8670,7 @@ tracker.bestshopping.com
 tracker.bt.uol.com.br
 tracker.cauly.co.kr
 tracker.cdnbye.com
+tracker.comagic.ru
 tracker.digitalcamp.co.kr
 tracker.downdetector.com
 tracker.esputnik.com
