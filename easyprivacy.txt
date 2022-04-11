@@ -2124,7 +2124,6 @@ clinical.questdiagnostics.com
 c.live.com
 clk.boulanger.com
 clk.ubi.com
-cllctr.roistat.com
 clnbze.dzienniklodzki.pl
 clnbze.dziennikzachodni.pl
 clnbze.expressilustrowany.pl
@@ -2240,7 +2239,6 @@ collector.prod.expedia.com
 collector-px0py5pczn.octopart.com
 collector-.px-client.net
 collector.rn.de
-collector.roistat.com
 collector.schibsted.io
 collector.sspinc.io
 collector.statowl.com
