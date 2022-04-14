@@ -2038,7 +2038,6 @@ counter.mtgnewmedia.se
 counter.nn.ru
 counter.people.cn
 counter.photopulse.ru
-counter.pixplug.in
 counter.powweb.com
 counter.proxycrawl.com
 counter.rambler.ru
