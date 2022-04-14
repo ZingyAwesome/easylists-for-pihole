@@ -1490,7 +1490,6 @@ as.mytoys.de
 as.otto.de
 as.payback.it
 aspiringattempt.com
-as.saechsische.de
 assessment.vetassess.com.au
 assets.garron.blog
 assets.garron.me
@@ -2449,7 +2448,6 @@ counter.nn.ru
 counter.packa2.cz
 counter.people.cn
 counter.photopulse.ru
-counter.pixplug.in
 counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
@@ -2841,6 +2839,7 @@ d.finative.eu
 dfvdkx.gismeteo.ua
 dfw.bakerbroto.emergeinteractive.com
 dgbftl.luckyvitamin.com
+dgcollector.evidon.com
 d.getpocket.com
 dg.irco.com
 dgxjcl.radiantstar.tw
@@ -9303,6 +9302,8 @@ sp.argusleader.com
 sparklesleet.com
 sparklingnumber.com
 sparklingshelf.com
+sp.aviasales.com
+sp.aviasales.ru
 sp.azcentral.com
 sp.battlecreekenquirer.com
 sp.baxterbulletin.com
