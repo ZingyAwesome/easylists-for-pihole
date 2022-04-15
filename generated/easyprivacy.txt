@@ -1716,6 +1716,7 @@ click.kataweb.it
 click.mail.carousell.com
 click.mail.thecarousell.com
 click.marketing.carousell.com
+click.nudevista.com
 click.official.nike.com
 click.oneplus.cn
 click.oneplus.com
@@ -2350,6 +2351,7 @@ dfapvmql-q.global.ssl.fastly.net
 dfvdkx.gismeteo.ua
 dfw.bakerbroto.emergeinteractive.com
 dgbftl.luckyvitamin.com
+dgcollector.evidon.com
 dgxjcl.radiantstar.tw
 dgynnj.koctas.com.tr
 dhlsupplychain.dhl.com
@@ -9281,6 +9283,7 @@ vrzmfy.fool.com
 vsfius.aranzulla.it
 vsgwsk.bergzeit.at
 vsqyaz.sweetwater.com
+vst.sibnet.ru
 vtrtl.de
 vttics.world.co.jp
 vuqgzz.fiftyoutlet.com
