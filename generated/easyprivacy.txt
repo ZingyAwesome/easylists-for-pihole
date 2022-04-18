@@ -7849,6 +7849,7 @@ stats-factory.digitregroup.io
 stats-messages.gifs.com
 stats-newyork1.bloxcms.com
 stats.acadevor.com
+stats.administrarweb.es
 stats.adultswim.com
 stats.airfarewatchdog.co.uk
 stats.aixbrain.de
