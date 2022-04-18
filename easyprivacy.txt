@@ -7764,6 +7764,8 @@ sdata.wiley.com
 s.dc-tag.jp
 sdrive.skoda-auto.com
 sd.securitasdirect.fr
+sdtagging.azureedge.net
+sd-tagging.azurefd.net
 s.durhamregion.com
 seadform.net
 seahorseinfo.agilent.com
