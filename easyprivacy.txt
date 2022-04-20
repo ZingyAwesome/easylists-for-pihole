@@ -847,6 +847,7 @@ acendas.actonservice.com
 acidpigs.com
 acousticairplane.com
 acousticsapparel.com
+ac.prism-world.jp.net
 acq-au.americanexpress.com
 acq-hk.americanexpress.com
 acq-sg.americanexpress.com
@@ -1313,6 +1314,7 @@ analytics.sweep.net
 analytics.synedat.com
 analytics.tcm.com
 analytics.teamcovenant.com
+analytics.test.cheggnet.com
 analytics.themarketiq.com
 analytics.thingx.tv
 analytics.threedeepmarketing.com
@@ -2224,6 +2226,7 @@ col.idealista.pt
 collect.alipay.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
+collect.f5.com
 collect.helsana.ch
 collect.iteam-dress.com
 collect.meilleurtaux.com
@@ -3987,7 +3990,6 @@ g.bitmag.com.br
 g.bit.pt
 gbqofs.com
 gbtracking.finning.com
-gc.newsweek.com
 gcn.tuv.com
 gdg.gardnerdenver.com
 gdm1.toner.fr
@@ -10958,6 +10960,7 @@ tracking.flukecal.com
 tracking.fullsail.edu
 tracking.fupa.net
 tracking.g2crowd.com
+tracking.game8.jp
 tracking.gameforge.de
 tracking.goal.pl
 tracking.go.atcc.org
