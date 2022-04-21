@@ -2999,6 +2999,7 @@ d.skk.moe
 d.sourcepoint.capitalfm.com
 dt1pxsve3tgas.cloudfront.net
 dt.nrjmobile.fr
+dttrk.com
 du2k.bhv.fr
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
@@ -7016,6 +7017,7 @@ pixel.yabidos.com
 pixel.yola.com
 pixelzirkus.gameforge.com
 pixel.zumby.io
+pix.hyj.mobi
 pixiedust.buzzfeed.com
 pixrealm.com
 pix.revjet.com
@@ -9847,6 +9849,7 @@ stats.engeldirekt.de
 stats.engineering.freeagent.com
 stats.englishadam.com
 stats.erlef.org
+stats.esecured.net
 stats.executebig.org
 stats.fabiofranchino.com
 stats-factory.digitregroup.io
