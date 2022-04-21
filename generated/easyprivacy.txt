@@ -1090,6 +1090,7 @@ analytics.sweep.net
 analytics.synedat.com
 analytics.tcm.com
 analytics.teamcovenant.com
+analytics.test.cheggnet.com
 analytics.themarketiq.com
 analytics.thingx.tv
 analytics.threedeepmarketing.com
@@ -2471,6 +2472,7 @@ dsbahmgppc0j4.cloudfront.net
 dseloqua.danskespil.dk
 dsg.interia.pl
 dt1pxsve3tgas.cloudfront.net
+dttrk.com
 du2k.bhv.fr
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
@@ -7958,6 +7960,7 @@ stats.engeldirekt.de
 stats.engineering.freeagent.com
 stats.englishadam.com
 stats.erlef.org
+stats.esecured.net
 stats.executebig.org
 stats.fabiofranchino.com
 stats.fantinel.dev
