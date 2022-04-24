@@ -1185,6 +1185,7 @@ analytics.footballdb.com
 analytics.foresee.com
 analytics.forgetwp.com
 analytics.formstack.com
+analytics.freemake.com
 analytics.freespee.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
@@ -1263,6 +1264,7 @@ analytics.photorank.me
 analytics.piksel.com
 analytics.plex.tv
 analytics.pointdrive.linkedin.com
+analytics.pop2watch.com
 analytics.popsci.com
 analytics.prezly.com
 analytics.prod.aws.ecnext.net
@@ -3153,6 +3155,7 @@ ebs.green-osaka.com
 ebusinesssr.carte-gr.total.fr
 ec.infosys.com
 ecjsot.aosom.es
+eclick.360doc.com
 eclick.baidu.com
 ecomm.events
 ecommstats.s3.amazonaws.com
@@ -3902,6 +3905,7 @@ fretfulfurniture.com
 friendwool.com
 frightenedpotato.com
 froglytics.eventfrog.ch
+frog.yuanfudao.com
 fronttoad.com
 fr.sharpmarketing.eu
 frztrk.netmums.com
@@ -6164,6 +6168,7 @@ metrics.foodnavigator.com
 metrics.foodnavigator-latam.com
 metrics.foodnavigator-usa.com
 metrics.forecourttrader.co.uk
+metrics.freemake.com
 metrics.gap.com
 metrics.generac.com
 metrics.genesis.es
@@ -6724,6 +6729,7 @@ opps.taboola.com
 oppuz.com
 ops.bpost.be
 opslegacy.toolbar.net.zooplus.com
+opti-digital.com
 optimallimit.com
 optimize-stats.voxmedia.com
 optionen.hager.de
@@ -9887,6 +9893,7 @@ stats.graphql-api.com
 stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
+stats.hanmaker.com
 stats.hd24.watch
 stats.hexdocs.pm
 stats.hex.pm
