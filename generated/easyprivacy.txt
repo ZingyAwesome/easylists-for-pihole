@@ -976,6 +976,7 @@ analytics.footballdb.com
 analytics.foresee.com
 analytics.forgetwp.com
 analytics.formstack.com
+analytics.freemake.com
 analytics.freespee.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
@@ -2173,6 +2174,7 @@ d23pi6hvdpcc5i.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
+d276.ourmidland.com
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2axgrpnciinw7.cloudfront.net
@@ -2225,6 +2227,7 @@ d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
+d810.mysanantonio.com
 d81mfvml8p5ml.cloudfront.net
 daifez.thebay.com
 damageddistance.com
@@ -2964,6 +2967,7 @@ f-log-test.grammarly.io
 f0nn.oney.fr
 f1tbit.com
 f362.nola.com
+f775.thehour.com
 f7ds.liberation.fr
 f8phvntohv.tpetry.me
 fac.fanucamerica.com
@@ -3111,6 +3115,7 @@ fresnel-events.vimeocdn.com
 fretfulfurniture.com
 friendwool.com
 frightenedpotato.com
+frog.yuanfudao.com
 froglytics.eventfrog.ch
 fronttoad.com
 frztrk.netmums.com
@@ -3321,6 +3326,8 @@ gyvcwd.cdiscount.com
 gzimdi.soloautos.mx
 gzlxvg.papy.co.jp
 h00c.sfr.fr
+h353.ncadvertiser.com
+h559.stamfordadvocate.com
 h5log.zongheng.com
 h78xb.pw
 habitualhumor.com
@@ -3816,6 +3823,7 @@ iwantglobal.actonservice.com
 iwpneu.eneba.com
 ixsgoy.getpenta.com
 iyvzqt.agabangmall.com
+j198.registercitizen.com
 j927.statnews.com
 jadedjoke.com
 jailbulb.com
@@ -3930,6 +3938,7 @@ kzsicw.fitforfun.de
 kzsicw.focus.de
 kzsicw.tvspielfilm.de
 l2k30jsa.theochu.com
+l936.expressnews.com
 la-sync.taboola.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
@@ -5033,6 +5042,7 @@ metrics.fnac.es
 metrics.foodmanufacture.co.uk
 metrics.foodnavigator.com
 metrics.forecourttrader.co.uk
+metrics.freemake.com
 metrics.gap.com
 metrics.generac.com
 metrics.genesis.es
@@ -5410,6 +5420,7 @@ nym5c.laura.ca
 nyrxcy.teslaweld.com
 nytjyf.dholic.co.jp
 nzmkzl.mytheresa.com
+o398.trumbulltimes.com
 o68c.sfr.fr
 oaizwm.zox.la
 oajhfq.etopsport.ro
@@ -5489,6 +5500,7 @@ opps.taboola.com
 oppuz.com
 ops.bpost.be
 opslegacy.toolbar.net.zooplus.com
+opti-digital.com
 optimallimit.com
 optimize-stats.voxmedia.com
 optionen.hager.de
@@ -5980,6 +5992,7 @@ python.jacksellwood.com
 pytxsn.najlacnejsisport.sk
 pzpevk.newbalance.ru
 q20jqurls0y7gk8.info
+q777.sfchronicle.com
 qa-brc.emails.rakuten.com
 qa1.dr.goldenserviceawards.net.zooplus.fr
 qamnyl.bever.nl
@@ -7996,6 +8009,7 @@ stats.goldsguide.com
 stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
+stats.hanmaker.com
 stats.hex.pm
 stats.hexdocs.pm
 stats.hey.com
@@ -8378,6 +8392,7 @@ t-pan.triodos.com
 t-s.rituxan.com
 t-staging.powerreviews.com
 t0y.toyota.ca
+t570.wiltonbulletin.com
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tag-manager.playbuzz.com
@@ -9126,6 +9141,8 @@ txyqik.jjshouse.fr
 tybfxw.puma.com
 tzwaw.pw
 u47.pnc.com
+u652.myplainview.com
+u927.sfgate.com
 u989.theweek.com
 uansiq.clip.mx
 uavwjp.millers.com.au
@@ -9314,6 +9331,7 @@ vyyikx.sixt.ch
 vzeyba.shopee.co.id
 vzhjnw.officedepot.com
 vzlmcd.spellbinderspaperarts.com
+w740.newstimes.com
 waaf.medion.com
 waaf1.aldilife.com
 waaf1.alditalk.de
@@ -9567,7 +9585,10 @@ xy33.smallable.com
 xyhojp.lacoste.com
 xyxgbs.lezhin.com
 xyz.bestool.pl
+y738.nhregister.com
+y820.darientimes.com
 y8hxgv9m.kobetsu.co.jp
+y900.greenwichtime.com
 yandexadexchange.net
 yast.rutube.ru
 ybpeih.wconcept.com
@@ -9614,6 +9635,9 @@ ywrcqa.wthr.com
 yxiqqh.dealchecker.co.uk
 yzcpqa.gumtree.com
 z0uolej1qnxzub1.info
+z211.yourconroenews.com
+z492.ctinsider.com
+z680.beaumontenterprise.com
 zam.nextinpact.com
 zaventemdijleland.viessmann.be
 zbrfde.ozmall.co.jp
