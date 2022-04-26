@@ -3676,6 +3676,7 @@ events.split.io
 events.splunk.com
 events.strategic-i.com
 events-tracker.deliveroo.net
+eventstream.dodopizza.com
 events.tubecup.org
 events.turbosquid.com
 events.whisk.com
@@ -7502,6 +7503,7 @@ report.novinky.cz
 reports-api.sqreen.io
 reportsk.web.sdo.com
 reports.pagesuite-professional.co.uk
+reports.sdiapi.com
 repo-ssl-global.net.zooplus.es
 representativeray.com
 repvwz.panchemodan.ru
@@ -10695,7 +10697,6 @@ tk.transavia.com
 tk.viapresse.com
 tkvied.levi.com.my
 tkvxdj.cars.com
-tkx.mp.lura.live
 t.leady.com
 t.leady.cz
 t.locasun.co.uk
