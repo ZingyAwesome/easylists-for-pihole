@@ -2867,6 +2867,7 @@ eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.usj.es
 events-service.coinbase.com
+events-tracker.deliveroo.net
 events.air.tv
 events.apester.com
 events.api.godaddy.com
@@ -8559,7 +8560,6 @@ tiresomethunder.com
 tkelq.genesys.com
 tkvied.levi.com.my
 tkvxdj.cars.com
-tkx.mp.lura.live
 tls.thelibrarystore.com
 tmbsxx.oxybul.com
 tmhgma.juwelo.de
