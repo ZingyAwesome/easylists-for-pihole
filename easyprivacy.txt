@@ -1014,6 +1014,7 @@ a.gedidigital.it
 a.getaawp.com
 a.getflowbox.com
 agkn.com
+agnes.waz.de
 agreeablestew.com
 ahdeka.kazanexpress.ru
 a.hellonext.co
@@ -9948,6 +9949,7 @@ stats.johnmac.pro
 stats.joincomet.app
 stats.justanotherpm.com
 stats.justinwilliams.ca
+stats.justpaste.it
 stats.kaltura.com
 stats.kejk.tech
 stats.kensho.com
@@ -12018,6 +12020,7 @@ waatch.nieuwsblad.be
 waatch.standaard.be
 waati.quechoisir.org
 waggishpig.com
+wa.gmx.ch
 wakefulcook.com
 wal.wolfram.com
 wa.metro.co.uk
