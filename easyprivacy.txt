@@ -2526,6 +2526,7 @@ csi.gstatic.com
 cs.nexttv.co.il
 csp.archant.co.uk
 csp-collector.appspot.com
+csp-reporting.cloudflare.com
 csr.onet.pl
 cstats.sankakucomplex.com
 cstm.baidu.com
@@ -3624,6 +3625,7 @@ event.api.drift.com
 eventapi.libring.com
 event-api.rdstation.com.br
 event-api.reverb.com
+eventbus.intuit.com
 event.csdn.net
 event.edb.gov.sg
 event.evtm.53.com
@@ -6941,6 +6943,7 @@ pevftg.shopee.sg
 p.eyebuydirect-cmr.net
 pezxux.footlocker.co.uk
 p.fairspot.host
+pf.intuit.com
 pf.newegg.com
 pfuyhr.schutz.com.br
 p.gazeta.pl
@@ -12734,6 +12737,7 @@ zhctrack.net
 zhduni.rizap.jp
 zhihu-web-analytics.zhihu.com
 zhyeqw.mercury.ru
+zion.qbo.intuit.com
 zion-telemetry.api.cnn.io
 zio.xcar.com.cn
 zippyfrog.co
