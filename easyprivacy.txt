@@ -2157,6 +2157,7 @@ clshkv.labirint.ru
 cltgtstor001.blob.core.windows.net
 clumsyrock.com
 cmass.massmedian.co.jp
+cm.bilibili.com
 cm-exchange.toast.com
 c.mgid.com
 cm-in.americanexpress.com
@@ -2703,6 +2704,7 @@ data.alexa.com
 data.all-in.de
 data.aonunited.com
 data.avid.com
+data.bilibili.com
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
 data.circulate.com
@@ -5211,6 +5213,7 @@ livelylaugh.com
 livestats.kaltura.com
 livestats.la7.tv
 livestats.matrix.it
+live-trace.bilibili.com
 liveviewer.ez.no
 liveyield.com
 ljb0.assuronline.com
@@ -6513,7 +6516,6 @@ net.daraz.pk
 net.haier.com
 net.jumia.com.eg
 net.shop.com.mm
-netu.wiztube.xyz
 neurotrack.neurolake.io
 news.azcapitoltimes.com
 news.bpost.be
