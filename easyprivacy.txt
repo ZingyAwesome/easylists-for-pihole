@@ -1082,6 +1082,7 @@ a.mobify.com
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
 amplify.strategic-i.com
+ampltd.top.gg
 ams-pageview-public.s3.amazonaws.com
 amusementmorning.com
 amusinggirls.com
@@ -7015,6 +7016,7 @@ pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
 pixel.digitalspy.co.uk
+pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
 pixel.homebook.pl
