@@ -874,6 +874,7 @@ amimon.actonservice.com
 aminks.underarmour.com.tr
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
+ampltd.top.gg
 amusementmorning.com
 amusinggirls.com
 analitica.webrpp.com
@@ -5733,6 +5734,7 @@ pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
 pixel.digitalspy.co.uk
+pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
 pixel.homebook.pl
