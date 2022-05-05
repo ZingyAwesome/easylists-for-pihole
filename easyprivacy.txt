@@ -1670,6 +1670,7 @@ beacon.squixa.net
 beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
+beacon.vertebrae-axis.com
 beacon.viewlift.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
@@ -2693,6 +2694,7 @@ damageddistance.com
 da.maif.fr
 dancemistake.com
 da.netease.com
+danv01ao0kdr2.cloudfront.net
 dapperfloor.com
 daq0d0aotgq0f.cloudfront.net
 dash.getsitecontrol.com
@@ -3639,6 +3641,7 @@ event.jma.or.jp
 event-listener.air.tv
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
+event.mrtnsvr.com
 eventos.usj.es
 events.air.tv
 events.apester.com
@@ -7211,6 +7214,7 @@ powercount.jswelt.de
 p.pagesjaunes.fr
 ppdovk.home24.ch
 ppgqvz.bigmotoringworld.co.uk
+p.placed.com
 ppmakl.oscarcalcados.com.br
 p.pmu.fr
 ppp7.destinia.kr
