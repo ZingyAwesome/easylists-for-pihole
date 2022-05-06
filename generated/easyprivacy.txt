@@ -2235,6 +2235,7 @@ d81mfvml8p5ml.cloudfront.net
 daifez.thebay.com
 damageddistance.com
 dancemistake.com
+danv01ao0kdr2.cloudfront.net
 dapperfloor.com
 daq0d0aotgq0f.cloudfront.net
 dash.getsitecontrol.com
@@ -2860,6 +2861,7 @@ event.edb.gov.sg
 event.getblue.io
 event.instiengage.com
 event.jma.or.jp
+event.mrtnsvr.com
 event.syndigo.cloud
 event.webcollage.net
 event1.thermofisher.com
