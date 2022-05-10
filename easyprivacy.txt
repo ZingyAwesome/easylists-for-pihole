@@ -5219,7 +5219,6 @@ livelylaugh.com
 livestats.kaltura.com
 livestats.la7.tv
 livestats.matrix.it
-live-trace.bilibili.com
 liveviewer.ez.no
 liveyield.com
 ljb0.assuronline.com
@@ -7227,7 +7226,6 @@ pqdhda.bluepops.co.kr
 pqlcpm.kindoh.co.kr
 pqn7.cheque-dejeuner.fr
 prairiedog.hashnode.com
-pr.ameba.jp
 pr.blogflux.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
