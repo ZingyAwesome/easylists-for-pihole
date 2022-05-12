@@ -5295,6 +5295,7 @@ log.mappy.net
 log.mediacategory.com
 log.medietall.no
 log.mgtv.com
+log.mix.sina.com.cn
 log.m.sm.cn
 log.olark.com
 log.optimizely.com
@@ -7728,6 +7729,7 @@ sats.mailbrew.com
 s.autopilotapp.com
 savorystructure.com
 saysidewalk.com
+sbeacon.sina.com.cn
 s.beop.io
 sbgsodufuosmmvsdf.info
 s.bramptonguardian.com
@@ -8079,6 +8081,7 @@ session.timecommerce.net
 seyfwl.interia.pl
 s.fission.codes
 sfp7.eco-conscient.com
+sfp.safe.baidu.com
 s.freelanceratecalculator.com
 sftrack.searchforce.net
 sg3.notarize.com
@@ -9223,6 +9226,7 @@ snzuiy.mustang-jeans.com
 so8.hyatt.com
 soaprange.com
 so.boh.com
+sofire.bdstatic.com
 software.seek.intel.com
 sojjtp.e-wheels.no
 solar.sharpmarketing.eu
