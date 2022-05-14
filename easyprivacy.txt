@@ -10875,7 +10875,6 @@ tracker.comagic.ru
 tracker.data-vp.com
 tracker.digitalcamp.co.kr
 tracker.downdetector.com
-tracker.esputnik.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
@@ -12043,6 +12042,8 @@ waatch.standaard.be
 waati.quechoisir.org
 waggishpig.com
 wa.gmx.ch
+wa.gmx.co.uk
+wa.gmx.net
 wakefulcook.com
 wal.wolfram.com
 wa.metro.co.uk
@@ -12063,6 +12064,7 @@ wa.ui-portal.de
 wavzlt.michaelstars.com
 wa.wdr.de
 wa.wdrmaus.de
+wa.web.de
 wblt.oui.sncf
 wbtrkk.deutschlandcard.de
 wbtrkk.teufelaudio.at
