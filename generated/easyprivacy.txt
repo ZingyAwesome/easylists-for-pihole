@@ -8726,7 +8726,6 @@ tracker.cdnbye.com
 tracker.comagic.ru
 tracker.digitalcamp.co.kr
 tracker.downdetector.com
-tracker.esputnik.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
