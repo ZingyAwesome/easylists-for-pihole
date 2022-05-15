@@ -889,6 +889,7 @@ ad.aucview.com
 ad.autorace.jp
 adb-analytics.live-now.com
 ad-beacon-v01.uliza.jp
+adbp.online
 adbq.bk.mufg.jp
 adbsmetrics.ep.hmc.co.kr
 adbsmetrics.genesis.com
