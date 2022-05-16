@@ -733,6 +733,7 @@ ad-log.dable.io
 ad-track.paravi.jp
 ad1.tone.ne.jp
 ad7.bigmir.net
+adbp.online
 adbq.bk.mufg.jp
 adbsmetrics.ep.hmc.co.kr
 adbsmetrics.genesis.com
