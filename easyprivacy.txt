@@ -9930,7 +9930,6 @@ stats.glassmountains.co.uk
 stats.glyphs.fyi
 stats.goldsguide.com
 stats.graphql-api.com
-stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
 stats.hanmaker.com
