@@ -2234,6 +2234,7 @@ col.idealista.it
 col.idealista.pt
 collect.alipay.com
 collect-ap2.attraqt.io
+collect.cloudsponge.com
 collect-eu.attraqt.io
 collect.f5.com
 collect.helsana.ch
@@ -3118,6 +3119,7 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
+ea.youmaker.com
 eb.bewithyou.jp
 ebc1.capifrance.fr
 e.beckmancoulter.com
@@ -3856,6 +3858,7 @@ flog.pressplay.cc
 f-log-test.grammarly.io
 floodprincipal.com
 floorforce.actonservice.com
+flowerstreatment.com
 floweryoperation.com
 flznib.weblio.jp
 fmbankva.actonservice.com
