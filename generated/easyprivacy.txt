@@ -1844,6 +1844,7 @@ coletor.terra.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
 collect.alipay.com
+collect.cloudsponge.com
 collect.helsana.ch
 collect.meilleurtaux.com
 collect.rewardstyle.com
@@ -8031,7 +8032,6 @@ stats.gifs.com
 stats.glassmountains.co.uk
 stats.glyphs.fyi
 stats.goldsguide.com
-stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
 stats.hanmaker.com
