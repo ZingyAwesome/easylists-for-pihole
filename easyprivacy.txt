@@ -2796,6 +2796,7 @@ dd.auspost.com.au
 ddguhg.wickes.co.uk
 dd.lendup.com
 ddrvjrfwnij7n.cloudfront.net
+de5v6rb80m4j1.cloudfront.net
 deadpantruck.com
 deafeningdock.com
 dealercontent.homehardware.ca
@@ -3694,6 +3695,7 @@ events.splunk.com
 events.strategic-i.com
 events-tracker.deliveroo.net
 eventstream.dodopizza.com
+event-stream.spot.im
 events.tubecup.org
 events.turbosquid.com
 events.whisk.com
@@ -3853,6 +3855,7 @@ flexibleplan.actonservice.com
 flexpod.ynsecureserver.net
 flimsycircle.com
 flimsythought.com
+flixgvid.flix360.io
 f-log-at.grammarly.io
 flog.pressplay.cc
 f-log-test.grammarly.io
@@ -3917,6 +3920,7 @@ fp.mandatumtrader.fi
 fp.measure.office.com
 fpt.microsoft.com
 fpwtsp.xxxlutz.de
+fpxau.net
 frailflock.com
 frailfruit.com
 frankwatching.actonservice.com
