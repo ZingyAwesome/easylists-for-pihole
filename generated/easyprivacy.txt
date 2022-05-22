@@ -1855,6 +1855,7 @@ collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
 collector.getyourguide.com
+collector.github.com
 collector.githubapp.com
 collector.mazeberry.com
 collector.megaxh.com
@@ -2994,6 +2995,7 @@ factory.redbull.racing
 fadedprofit.com
 fadewaves.com
 faintflag.com
+fairdatacenter.de
 falsefeet.com
 famousquarter.com
 fan.volleyball.world
@@ -5697,7 +5699,6 @@ phpstat.cntcm.com.cn
 phqwdj.blacknfriday.com
 piddme.buyma.com
 pigspie.com
-pijper.io
 ping-dot-acp-magento.appspot.com
 ping.cavelab.dev
 ping.dozuki.com
@@ -8582,6 +8583,7 @@ tics.techdirt.com
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
 tim.nextinpact.com
+timber.sendtonews.com
 timeterritory.com
 timetwig.com
 tinytendency.com
