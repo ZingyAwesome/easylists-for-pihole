@@ -10578,7 +10578,6 @@ telemetry.tableausoftware.com
 telemetry.tradingview.com
 te.limango.de
 te.mirapodo.de
-temptation.ad.nl
 tempttalk.com
 te.mytoys.de
 tendersugar.com
@@ -12254,7 +12253,6 @@ wknd.ai
 wknvmj.cocooncenter.com
 wl.jd.com
 wlkojk.orange.ro
-wl.spotify.com
 wlwtcr.toptoon.com
 wmgroup.us
 woodpeckerlog.com
