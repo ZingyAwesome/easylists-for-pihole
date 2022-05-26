@@ -22,6 +22,7 @@
 2qqfxz5kecr4.www.eldorado.gg
 2tty.overstappen.nl
 2znp09oa.com
+31daa5lnq.de
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 4jnzhl0d0.com
@@ -1483,6 +1484,7 @@ bpe.mlb.com
 bpe2.destinia.co.il
 bpeml.mlb.com
 bqhkix.mosmexa.ru
+bqstreamer.com
 bqvndd.ifood.com.br
 branch-consumer.hipages.com.au
 branch-tradie.hipages.com.au
@@ -1846,6 +1848,7 @@ col.idealista.pt
 coletor.terra.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
+collect.adplogger.no
 collect.alipay.com
 collect.cloudsponge.com
 collect.helsana.ch
@@ -2238,6 +2241,7 @@ d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
+d761erxl2qywg.cloudfront.net
 d810.mysanantonio.com
 d81mfvml8p5ml.cloudfront.net
 daifez.thebay.com
@@ -3862,6 +3866,7 @@ jas.indeednps.com
 javascriptcounter.appspot.com
 javs.actonservice.com
 jciiix.dogeat.ru
+jcpclick.com
 jcr3.onlyyouhotels.com
 jdgtgb.desired.de
 jdgtgb.express.de
