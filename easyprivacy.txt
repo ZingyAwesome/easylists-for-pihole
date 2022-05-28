@@ -4810,6 +4810,7 @@ isebis.yutoriform.com
 iseuaa.olx.pl
 ishainsight.actonservice.com
 isharemetric.rediff.com
+ish.tumedia.no
 isovav.akomeya.jp
 iterable.convoy.com
 itp.phoebebeautyup.com
@@ -10585,6 +10586,7 @@ te.jelmoli-shop.ch
 telemetrics.klaviyo.com
 telemetry.adobe.io
 telemetry.api.playstation.com
+telemetry.firez.one
 telemetry.jivosite.com
 telemetry.phenixrts.com
 telemetry.reembed.com
