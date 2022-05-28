@@ -3111,6 +3111,7 @@ fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
 fpa-events.decrypt.co
 fpaux.net
+fpavx.net
 fpaxu.net
 fpb8.esce.fr
 fpc.acponline.org
@@ -8650,6 +8651,7 @@ traccoon.intellectsoft.net
 trace.insead.edu
 trace.qq.com
 track-srv.vietnamnet.vn
+track-visit.monday.com
 track.addevent.com
 track.auckland.ac.nz
 track.bannedcelebs.com
@@ -9338,6 +9340,7 @@ vdrn.redplum.com
 vdzpnx.gnc.com.mx
 vedznh.cumhuriyet.com.tr
 venusgloria.com
+venusrevival.com
 verdantanswer.com
 verified.beefbooster.com
 verifier.live
