@@ -14,6 +14,7 @@
 19035955.loyalty.tajawal.com
 19035955.mktg.tajawal.com
 1bva.societegenerale.fr
+1cros.net
 1ctc.sfr.fr
 1kpv4njzilv.community.intersystems.com
 1l-hit.mail.ru
@@ -1224,6 +1225,7 @@ analytics.laregione.ch
 analytics.lendio.com
 analytics.liveact.cri-mw.jp
 analytics.live.com
+analytics.livesense.marketing
 analytics.livestream.com
 analytics.logsss.com
 analytics.lunge.de
@@ -5479,6 +5481,7 @@ mail.theknot.com
 makedosupport.club
 makeshiftmine.com
 maliciousmusic.com
+ma.logsss.com
 ma.meritmind.se
 ma.mvr.se
 ma.mw-ind.com
@@ -8198,6 +8201,7 @@ slimopinion.com
 slimyscarf.com
 slipperysack.com
 slipstream.skyscanner.net
+s.logsss.com
 sloppycalculator.com
 sloppyearthquake.com
 sls2.loisirsencheres.com
@@ -11812,6 +11816,7 @@ tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
 tr.servicoaocliente.younited-credit.com
 tr.silvera-contact.fr
+tr.slvrbullet.com
 tr.smtp1.email-mediapost.fr
 tr.snapchat.com
 tr.solution.uneo.fr
@@ -12872,6 +12877,7 @@ zrw1.destinia.jp
 zs.dhl.de
 zsi7.destinia.do
 ztqnls.lojasrenner.com.br
+zucks.net.zimg.jp
 zudver.matsmart.se
 zug.sbb.ch
 zum7cc.oui.sncf
