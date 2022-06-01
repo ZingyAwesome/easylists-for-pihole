@@ -6455,6 +6455,7 @@ server.japanbyrivercruise.com
 server.olliehorn.com
 service-stat.tbn.ru
 service.frankwatching.com
+service.trustpid.com
 serviceos.comcast.net
 services.bdc.ca
 services.hmhost.co.uk
