@@ -11,6 +11,7 @@
 19035955.loyalty.tajawal.com
 19035955.mktg.tajawal.com
 1bva.societegenerale.fr
+1cros.net
 1ctc.sfr.fr
 1kpv4njzilv.community.intersystems.com
 1l-hit.mail.ru
@@ -1011,6 +1012,7 @@ analytics.ladmedia.fr
 analytics.laregione.ch
 analytics.lendio.com
 analytics.live.com
+analytics.livesense.marketing
 analytics.livestream.com
 analytics.logsss.com
 analytics.lunge.de
@@ -3312,6 +3314,7 @@ godlygeese.com
 gomerchant.groupon.com
 googleoptimize.com
 googletagmanager.com
+gotie.tunein.com
 goto.benchmarkeducation.com
 goto.dresslily.com
 goto.rosegal.com
@@ -5747,6 +5750,7 @@ piti.bplaced.net
 pix.airbusgroup.com
 pix.eads.com
 pix.hyj.mobi
+pix.pub
 pix.revjet.com
 pix.spot.im
 pix.telekom.com
@@ -6171,6 +6175,7 @@ reporting.handll.net
 reporting.singlefeed.com
 reports-api.sqreen.io
 reports.sdiapi.com
+reports.tunein.com
 reportsk.web.sdo.com
 representativeray.com
 repvwz.panchemodan.ru
@@ -9779,6 +9784,7 @@ zrsetz.shutterstock.com
 zrw1.destinia.jp
 zsi7.destinia.do
 ztqnls.lojasrenner.com.br
+zucks.net.zimg.jp
 zudver.matsmart.se
 zug.sbb.ch
 zum7cc.oui.sncf
