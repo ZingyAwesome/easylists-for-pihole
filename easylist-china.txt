@@ -876,6 +876,7 @@ adshows.21cn.com
 ads.sohu.com
 ads.uc.cn
 ads-union.jd.com
+adtbcs.cn
 adtongji.xyz
 adt.xdrig.com
 a.duanmeiwen.com
@@ -1073,6 +1074,7 @@ api.abcxs.org
 apio.ink
 apjiangte.com
 apkdo.com
+apohki.cn
 appimg.0575bbs.com
 applequan.com
 apple.www.letv.com
@@ -3218,6 +3220,7 @@ hebufr7h.shop
 hebzycw.com
 heguoya.work
 hehongmei.top
+heimen.xyz
 hejing.cloud
 hello211.top
 hellocdn.top
@@ -3663,6 +3666,7 @@ importcat.com
 impservice.yodao.com
 impservice.youdao.com
 imspecial.club
+imview.cn
 increased.cn
 indiebuff.cn
 infobbs.xyz
@@ -4748,6 +4752,7 @@ mayig.xyz
 mayuting0821.ltd
 mb.gulongbbs.com
 mbxt.net
+mc63rs.life
 mcaspkd.cn
 mcdhshlsboom.com
 mcfarland.cn
@@ -6084,6 +6089,7 @@ sosodo.xyz
 soso.ws
 soulplp.com
 soulshape.cn
+souyou.org
 sparkyinchun.com
 spaung.cn
 spcode.baidu.com
