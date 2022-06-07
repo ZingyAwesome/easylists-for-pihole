@@ -855,6 +855,7 @@ alikearm.com
 allergy.thermofisher.com
 alleyskin.com
 allinsurance.allinsure.ca
+allvideometrika.com
 aloofmetal.com
 alp1.drimki.fr
 alpineactor.com
@@ -2178,6 +2179,7 @@ d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1wirc5qsdb1y5.cloudfront.net
+d1wix2gc2cgqis.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
@@ -6234,6 +6236,7 @@ rkdms.com
 rlcdn.com
 rlinks.one.in
 rlog.popin.cc
+rmgdapfnccsharpprd.azurewebsites.net
 rndntpmgnj-a.akamaihd.net
 rnffgv.wemakeprice.com
 rnybul.gismeteo.kz
