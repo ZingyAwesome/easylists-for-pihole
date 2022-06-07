@@ -673,6 +673,7 @@ aarpannuity.newyorklife.com
 a.artistasdigitais.net
 aas.mclaren.com
 aas.neom.com
+aa.tweakers.nl
 abackchain.com
 abacksoda.com
 abandonedaction.com
@@ -2572,6 +2573,7 @@ curiouschalk.com
 curlycannon.com
 currentcollar.com
 curtaincows.com
+customfingerprints.bablosoft.com
 custom.plausible.io
 cutecalculator.com
 cutecushion.com
@@ -2607,6 +2609,7 @@ d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
+d196fri2z18sm.cloudfront.net
 d1af033869koo7.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -2770,6 +2773,7 @@ data-ssl.stepstone.be
 data-ssl.stepstone.fr
 data-ssl.stepstone.nl
 data.studybreakmedia.com
+datatechonert.com
 data.ubi.com
 data.volksfreund.de
 data.westlotto.de
@@ -3057,7 +3061,6 @@ dx.thermofisher.com
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
-dynatrace-managed.com
 dyv1bugovvq1g.cloudfront.net
 dzbrr144kh0m6.cloudfront.net
 dzsevh.voyage-prive.com
@@ -5330,6 +5333,7 @@ log.mediacategory.com
 log.medietall.no
 log.mgtv.com
 log.mix.sina.com.cn
+log.mofa.go.kr
 log.m.sm.cn
 log.olark.com
 log.optimizely.com
@@ -11909,6 +11913,7 @@ txpbnm.sevellia.com
 txv0.destinia.hu
 txyqik.jjshouse.fr
 tybfxw.puma.com
+tzegilo.com
 tzwaw.pw
 u299.libelle-lekker.be
 u47.pnc.com
