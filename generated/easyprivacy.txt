@@ -1357,6 +1357,7 @@ bayshoresystems.actonservice.com
 bbagnw.sedaily.com
 bbbb.goace.jp
 bbbihe.vertbaudet.es
+bc34.wijnvoordeel.nl
 bcc-ltd.actonhymebiz.com
 bcsjcj.nasdaq.com
 bderbn.foxtrot.com.ua
@@ -2136,6 +2137,7 @@ curlycannon.com
 currentcollar.com
 curtaincows.com
 custom.plausible.io
+customfingerprints.bablosoft.com
 cutecalculator.com
 cutecushion.com
 cutepopcorn.com
@@ -2161,6 +2163,7 @@ d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
+d196fri2z18sm.cloudfront.net
 d1af033869koo7.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -2305,6 +2308,7 @@ datacollector-dra.dt.hicloud.com
 datadog-service.mvfglobal.com
 datag.polo.com
 datanoticias.prisasd.com
+datatechonert.com
 datum.appfleet.com
 dbex-tracker-v2.driveback.ru
 dbpbyh.americanas.com.br
@@ -2519,7 +2523,6 @@ dxpxgy.jdsports.com
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
-dynatrace-managed.com
 dyv1bugovvq1g.cloudfront.net
 dzbrr144kh0m6.cloudfront.net
 dzszbb.homes.co.jp
@@ -4257,6 +4260,7 @@ log.mediacategory.com
 log.medietall.no
 log.mgtv.com
 log.mix.sina.com.cn
+log.mofa.go.kr
 log.olark.com
 log.optimizely.com
 log.outbrain.com
@@ -9246,6 +9250,7 @@ txpbnm.sevellia.com
 txv0.destinia.hu
 txyqik.jjshouse.fr
 tybfxw.puma.com
+tzegilo.com
 tzwaw.pw
 u47.pnc.com
 u652.myplainview.com
