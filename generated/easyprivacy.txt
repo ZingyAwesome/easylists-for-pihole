@@ -1642,6 +1642,7 @@ cdn.arcstudiopro.com
 cdn.usefathom.com
 cdn1.pebx.pl
 cdn7.baunetz.de
+cdnhst.xyz
 celigo.actonservice.com
 cellstats.mako.co.il
 census.misterspex.at
