@@ -1992,6 +1992,7 @@ cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
 cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
+cdnhst.xyz
 cdn-rum.ngenix.net
 cdn.usefathom.com
 celigo.actonservice.com
@@ -2585,6 +2586,7 @@ cuteturkey.com
 cv.a-internet.jp
 cv.drive-hikari.net
 cvhefd.ixbt.com
+cvlb.dev
 cv.online.ysroad.co.jp
 cv.shiryoku1.com
 cvs.kireimo.jp
@@ -2652,6 +2654,7 @@ d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
+d2j74sjmqqyf26.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
@@ -7315,6 +7318,7 @@ privacyfriendly.netlify.app
 privacy.outdoorsg.com
 private.roche.com
 processor.asccommunications.com
+procroanalytics.com
 prod.ew.srp.navigacloud.com
 proditor.sparda.de
 productivepear.com
@@ -7397,6 +7401,7 @@ px.effirst.com
 px.excitedigitalmedia.com
 pxlgnpgecom-a.akamaihd.net
 px.marchex.io
+px.mountain.com
 px.owneriq.net
 px.pandora.com
 pxptpv.jobup.ch
@@ -11117,6 +11122,7 @@ tracking.info.ivanti.com
 tracking.info.methodisthealthsystem.org
 tracking.info.rcgt.com
 tracking.insperity.com
+tracking.intentsify.io
 trackinginternal.ti.com
 trackinginternal.tij.co.jp
 tracking.janssenmedicalcloud.de
@@ -11619,6 +11625,7 @@ trk.business.westernunion.fr
 trk.business.westernunion.it
 trk.business.westernunion.pl
 trk.channelfutures.com
+trk.clinch.co
 trk.contentmarketinginstitute.com
 trk.coteriefashionevents.com
 trk.darkreading.com
