@@ -2041,6 +2041,7 @@ chickensstation.com
 chiefexecutive.actonservice.com
 chihiro.nostalgie.fr
 childlikecook.com
+childlikecrowd.com
 childlikeform.com
 chingovernment.com
 chinsnakes.com
@@ -7038,7 +7039,6 @@ pingjs.qq.com
 ping.richardtaylor.dev
 pings.conviva.com
 ping.smyte.com
-ping.staticmoly.me
 pings.vidpulse.com
 pinpointpotato.com
 pint-dev-branch.airship.com
@@ -10947,6 +10947,7 @@ tracker.downdetector.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
+tracker.idocdn.com
 tracker.iltrovatore.it
 tracker.jawcloud.co
 tracker.keywordintent.com
