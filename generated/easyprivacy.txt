@@ -2463,6 +2463,7 @@ dm-event.net
 dmkt.solutions.cas.org
 dmpxs.com
 dmtgo.upc.biz
+dn0qt3r0xannq.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dna.uol.com.br
 dngpzy.bfmtv.com
@@ -3389,6 +3390,7 @@ hameln.sergroup.com
 hanaana.socialblade.com
 handleteeth.com
 handsomeindustry.com
+handsomelyhealth.com
 handyfield.com
 haostat.qihoo.com
 happen.spkt.io
