@@ -5778,6 +5778,7 @@ pixel.archive.is
 pixel.archive.ph
 pixel.archive.vn
 pixel.archivecaslytosk.onion
+pixel.biano.cz
 pixel.biano.ro
 pixel.blivenyc.com
 pixel.cdnwidget.com
