@@ -1983,7 +1983,6 @@ cc-api-data.adobe.io
 cc.conforama.es
 ccexperimentsstatic.oracleoutsourcing.com
 c-c-l.actonservice.com
-ccm19.de
 ccmd.coveredca.com
 ccpa.psg.nexstardigital.net
 cc.pennstatehealth.org
@@ -3705,6 +3704,7 @@ events.kangan.edu.au
 events.mapbox.com
 events.matterport.com
 events.medio.com
+events.mercadolibre.com
 events.mywd.com
 events.newsroom.bi
 events.newyorklifeinvestments.com
@@ -5292,6 +5292,7 @@ ln.ameba.jp
 lntvby.banggood.com
 lnvguu.lifood.jp
 lnxfgm.party-calendar.net
+loader-cdn.azureedge.net
 loader.zeroform.com
 localbeige.club
 lodicoandco.actonservice.com
@@ -6747,6 +6748,7 @@ old.legacy.document.tester.net.zooplus.com
 old.legacy.tester.container.net.zooplus.com
 old.legacy.tester.controller.net.zooplus.com
 olpmni.acer.com
+olytics.omeda.com
 om.a1vacations.com
 om.aopa.org
 omappapi.com
@@ -10512,6 +10514,7 @@ tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
+tags.fullcontact.com
 tags.globo.com
 tag.shopping-feed.com
 tags.johnlewis.com
@@ -12165,6 +12168,7 @@ w3.flatex.at
 w3.flatex.de
 w3.flatex.nl
 w3.vitrade.de
+w4o7aea80ss3-a.akamaihd.net
 w740.newstimes.com
 w7.berlin.de
 w7.weihnachteninberlin.de
