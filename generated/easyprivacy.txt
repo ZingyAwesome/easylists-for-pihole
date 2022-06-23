@@ -1632,7 +1632,6 @@ cbuvhv.desertcart.ae
 cc-api-data.adobe.io
 ccaas.avaya.com
 ccexperimentsstatic.oracleoutsourcing.com
-ccm19.de
 ccmd.coveredca.com
 ccpa.psg.nexstardigital.net
 cdfhpj.automobile.it
@@ -2933,6 +2932,7 @@ events.kangan.edu.au
 events.mapbox.com
 events.matterport.com
 events.medio.com
+events.mercadolibre.com
 events.mywd.com
 events.newsroom.bi
 events.newyorklifeinvestments.com
@@ -4241,6 +4241,7 @@ lmnqof.littletoncoin.com
 lmorsb.highstreettv.com
 lntvby.banggood.com
 lnvguu.lifood.jp
+loader-cdn.azureedge.net
 loader.zeroform.com
 localbeige.club
 lodicoandco.actonservice.com
@@ -5519,6 +5520,7 @@ old.legacy.tester.controller.net.zooplus.com
 oldapi.admins.net.zooplus.de
 oldapi.login.net.zooplus.de
 olpmni.acer.com
+olytics.omeda.com
 omappapi.com
 ometrics.warnerbros.com
 omieuz.razer.ru
@@ -9463,6 +9465,7 @@ vyyikx.sixt.ch
 vzeyba.shopee.co.id
 vzhjnw.officedepot.com
 vzlmcd.spellbinderspaperarts.com
+w4o7aea80ss3-a.akamaihd.net
 w740.newstimes.com
 waaf.medion.com
 waaf1.aldilife.com
