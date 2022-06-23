@@ -5366,6 +5366,7 @@ log.quora.com
 log.reformal.ru
 log.ren.tv
 logs.51cto.com
+logs.animaapp.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
 log.seekda.com
@@ -10306,8 +10307,6 @@ stats.xn--drivation-b4a.fr
 stats.yinyuetai.com
 stats.yourdallashandyman.com
 stats.zander.wtf
-stats.zone-annuaire.one
-stats.zone-telechargement.click
 stats.zotabox.com
 statt-collect.herokuapp.com
 stat.tianya.cn
