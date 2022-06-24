@@ -4318,6 +4318,7 @@ logistics.osmworldwide.com
 loglady.skypicker.com
 logql.yahoo.co.jp
 logs-api.shoprunner.com
+logs.animaapp.com
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
