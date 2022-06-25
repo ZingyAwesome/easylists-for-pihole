@@ -2286,6 +2286,7 @@ collect.rewardstyle.com
 collect.state.centrum24.pl
 collect.tianya.cn
 collect.usefathom.com
+collect-v6.51.la
 college.business.oregonstate.edu
 colossalchance.com
 colossalclouds.com
@@ -12354,6 +12355,7 @@ wrongpotato.com
 wrvueo.mollis.ru
 wryfinger.com
 ws.audioeye.com
+wsmcdn.audioeye.com
 wspeed.qq.com
 wssgmstats.vibbo.com
 wsstats.coches.net
