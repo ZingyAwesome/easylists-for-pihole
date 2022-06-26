@@ -1154,6 +1154,7 @@ analytics.chegg.com
 analytics.churchthemes.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
+analytics.cloud.coveo.com
 analytics.cmn.com
 analytics-cms.whitebeard.me
 analytics.cocolog-nifty.com
@@ -11914,6 +11915,7 @@ t.signalayer.com
 tsj0.madeindesign.com
 t.skimresources.com
 t.smile.eu
+t.splicky.com
 tspmagic.tumblr.com
 t.spot.im
 t-s.rituxan.com
