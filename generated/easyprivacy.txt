@@ -947,6 +947,7 @@ analytics.chegg.com
 analytics.churchthemes.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
+analytics.cloud.coveo.com
 analytics.cmn.com
 analytics.codeforscience.org
 analytics.codeskulptor.org
