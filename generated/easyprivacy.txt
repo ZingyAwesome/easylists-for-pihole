@@ -1612,6 +1612,7 @@ candid.zone
 cannonjudo.com
 capablecows.com
 capablecup.com
+captcha-display.com
 capture.condenastdigital.com
 carefuldolls.com
 carepay.gaf.com
@@ -5282,6 +5283,7 @@ mkzpqu.sungboon.com
 mlfolu.nabava.net
 mlhtmc.macnificos.com
 mlinks.fluz.app
+mlm-tracking-service.meinestadt.de
 mlmswk.janpara.co.jp
 mlweb.dmlab.hu
 mm-api.agency
@@ -5368,6 +5370,7 @@ nanostats.nanopress.it
 nappyattack.com
 nasi.etherscan.com
 nautilus.net.zooplus.de
+navigation-timing.meinestadt.de
 nbcxa65t002z.net.zooplus.fr
 nbg.seagate.com
 nbrngg.rinkaiseminar.co.jp
@@ -5562,6 +5565,7 @@ oor.ooreka.fr
 op-drive-sto.carrefour.fr
 opel.net.zooplus.com
 open.delivery.net
+openfpcdn.io
 operationkettle.com
 ophan.theguardian.com
 opinionsurprise.com
@@ -8431,6 +8435,7 @@ summerobject.com
 summit.edm.globalsources.com
 superficialeyes.com
 superficialspring.com
+superpointlesshamsters.com
 supervisegoldfish.com
 support.api.prod.net.zooplus.de
 support.flex.com
