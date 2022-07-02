@@ -2632,6 +2632,7 @@ d1cr9zxt7u0sgu.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1iazwv1n1tsyi.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
+d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
@@ -9452,6 +9453,7 @@ sp.baxterbulletin.com
 sp.bucyrustelegraphforum.com
 sp.burlingtonfreepress.com
 sp.caller.com
+sp.cargurus.co.uk
 sp.chillicothegazette.com
 sp.cincinnati.com
 sp.citizen-times.com
@@ -9862,6 +9864,7 @@ stats.4travel.jp
 stats.acadevor.com
 stats.administrarweb.es
 stats.adultswim.com
+stats.aerotime.aero
 stats.airfarewatchdog.co.uk
 stats.aixbrain.de
 stats.allaboutberlin.com
