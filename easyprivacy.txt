@@ -2470,7 +2470,6 @@ count5.pconline.com.cn
 count.asnetworks.de
 count.candou.com
 count.carrierzone.com
-count.channeladvisor.com
 counter.1i.kz
 counter2.blog.livedoor.com
 counter2.condenast.it
@@ -3725,7 +3724,6 @@ events.reclamefolder.nl
 events.reddit.com
 events.redditmedia.com
 events.regis.edu
-events.release.narrativ.com
 events.santander.co.uk
 events-service.coinbase.com
 events.shareably.net
@@ -3950,6 +3948,7 @@ fpc.cebglobal.com
 fpc.ciel.com
 fpcdallasstars.nhl.com
 fp-cdn.azureedge.net
+fpcdn.io
 fpc.gartner.com
 fpc.laerdal.com
 fpc.onetrust.com
@@ -7025,6 +7024,7 @@ perso.aws.arc.pub
 persuadesock.com
 persuadesupport.com
 pesaea.autoesa.cz
+pets.channeladvisor.com
 pevftg.shopee.sg
 p.eyebuydirect-cmr.net
 pezxux.footlocker.co.uk
@@ -10589,6 +10589,7 @@ t.castle.io
 tcdata.fnac.com
 tce.alicdn.com
 t.cfjump.com
+t.channeladvisor.com
 tcheck.outbrainimg.com
 tck.photobox.com
 tck.transavia.com
