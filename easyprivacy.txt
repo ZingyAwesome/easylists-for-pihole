@@ -2462,6 +2462,7 @@ cookie.sync.usonar.jp
 cookietracking.eatonpowersource.com
 cookiex.ngd.yahoo.com
 coordinatedbedroom.com
+copilot-telemetry.githubusercontent.com
 copperchickens.com
 copyrightaccesscontrols.com
 copytitle.com
