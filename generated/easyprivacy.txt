@@ -1702,6 +1702,7 @@ churro.noteapps.info
 cijfers.tweakers.nl
 cil.isotope.com
 cimage.adobe.com
+ciqtracking.com
 circadence.actonservice.com
 circlelevel.com
 cisco-eagle.actonservice.com
@@ -5321,6 +5322,7 @@ momotaro.craigmod.com
 momotaro.walkkumano.com
 mon.domdog.io
 mon.ingservices.nl
+mon.us.tiktokv.com
 mond.post.ch
 mond.postauto.ch
 monitor.azure.com
@@ -6099,7 +6101,9 @@ pydnsv.ejobs.ro
 pylon.micstatic.com
 python.jacksellwood.com
 pytxsn.najlacnejsisport.sk
+pzapi-ij.com
 pzd.rakuten.co.jp
+pzimff.com
 pzpevk.newbalance.ru
 q20jqurls0y7gk8.info
 q777.sfchronicle.com
@@ -9853,6 +9857,7 @@ zhyeqw.mercury.ru
 zio.xcar.com.cn
 zion-telemetry.api.cnn.io
 zion.qbo.intuit.com
+zipperxray.com
 zippyfrog.co
 zippywind.com
 zjrbwb.markenschuhe.de
