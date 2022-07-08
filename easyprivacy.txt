@@ -2234,6 +2234,7 @@ cnlbxi.zoopla.co.uk
 cnstats.cdev.eu
 cnt2.stroeerdp.de
 cnt.3dmy.net
+cnt.hd21.com
 cnt.iceporn.com
 cnt.iol.it
 cnt.krasland.ru
@@ -10979,6 +10980,7 @@ track.cafu.com
 track.cedsdigital.it
 trackclicks.info
 track.clubcar.com
+track.coherentpath.com
 trackcommon.hujiang.com
 track.contently.com
 track.cordial.io
