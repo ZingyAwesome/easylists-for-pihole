@@ -1191,6 +1191,7 @@ analytics.explained-from-first-principles.com
 analytics.faceitanalytics.com
 analytics.fatalparadox.com
 analytics.favcy.com
+analytics.faw.sky.com
 analytics.feedly.com
 analytics.ferguson.com
 analytics.filiotech.com
@@ -7457,6 +7458,7 @@ px.derstandard.at
 px.effirst.com
 px.excitedigitalmedia.com
 pxlgnpgecom-a.akamaihd.net
+pxl.indeed.com
 px.marchex.io
 px.mountain.com
 px.owneriq.net
@@ -12398,6 +12400,7 @@ wknvmj.cocooncenter.com
 wl-analytics.tsp.li
 wl.jd.com
 wlkojk.orange.ro
+wl-pixel.index.digital
 wlwtcr.toptoon.com
 wmgroup.us
 woodpeckerlog.com
