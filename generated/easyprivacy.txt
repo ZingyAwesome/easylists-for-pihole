@@ -978,6 +978,7 @@ analytics.erepublic.com
 analytics.faceitanalytics.com
 analytics.fatalparadox.com
 analytics.favcy.com
+analytics.faw.sky.com
 analytics.feedly.com
 analytics.ferguson.com
 analytics.filiotech.com
@@ -9666,6 +9667,7 @@ wkdspy.locondo.jp
 wknd.ai
 wknvmj.cocooncenter.com
 wl-analytics.tsp.li
+wl-pixel.index.digital
 wlkojk.orange.ro
 wlwtcr.toptoon.com
 wmgroup.us
