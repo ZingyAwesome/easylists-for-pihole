@@ -1951,6 +1951,7 @@ connect.dimensiondata.com
 connect.flowroute.com
 connect.frontier.com
 connect.ftpresents.com
+connect.idocdn.com
 connect.intel.com
 connect.lightriver.com
 connect.medical.rossu.edu
