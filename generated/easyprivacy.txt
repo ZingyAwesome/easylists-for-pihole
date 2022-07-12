@@ -1824,6 +1824,9 @@ cmp.dmgmediaprivacy.co.uk
 cmp.dreamlab.pl
 cmp.finn.no
 cmp.huffingtonpost.fr
+cmp.lavie.fr
+cmp.lemonde.fr
+cmp.lepoint.fr
 cmp.netzwelt.de
 cmp.nouvelobs.com
 cmp.tek.no
@@ -5397,6 +5400,7 @@ namrinfo.motorolasolutions.com
 nanostats.nanopress.it
 nappyattack.com
 nasi.etherscan.com
+native-track.com
 nautilus.net.zooplus.de
 navigation-timing.meinestadt.de
 nbcxa65t002z.net.zooplus.fr
