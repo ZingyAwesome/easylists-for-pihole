@@ -5844,6 +5844,7 @@ pixel.honestjohn.co.uk
 pixel.inforsea.com
 pixel.ionos.fr
 pixel.kknews.cc
+pixel.lilystyle.ai
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
@@ -6289,6 +6290,7 @@ reydrj.papilot.pl
 rezync.com
 rfk.biglots.com
 rflrlt.divano.ru
+rftslb.com
 rgiixp.sperry.com
 rh5i.tradingsat.com
 rhetoricalveil.com
