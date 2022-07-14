@@ -931,6 +931,7 @@ analytics.autozone.com
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.belgacom.be
+analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bigcommerce.com
 analytics.bitrix.info
@@ -7611,6 +7612,7 @@ solutions.dbschenker.com
 solutions.desertfinancial.com
 solutions.equifax.co.uk
 solutions.healthlinx.com
+solutions.invocacdn.com
 solutions.refinitiv.com
 solutions.risk.lexisnexis.com
 solutions.toolepeet.com
