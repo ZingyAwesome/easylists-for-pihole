@@ -2132,6 +2132,7 @@ crs.actonservice.com
 crsspxl.com
 crta.dailymail.co.uk
 crta.metro.co.uk
+crumbs.robinhood.com
 crwdcntrl.net
 cse3.chausport.com
 csi.gstatic.com
@@ -6093,6 +6094,7 @@ pudalz.gismeteo.by
 pulsar.ebay.com
 pulsarback.mail.ru
 pulse.delta.com
+pumpkin.abine.com
 punyplant.com
 purchasesuggestion.com
 pushmaster-cdn.xyz
