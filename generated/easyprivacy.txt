@@ -2236,7 +2236,6 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
-d2r1yp2w7bby2u.cloudfront.net
 d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
@@ -4247,6 +4246,7 @@ links2.chownowmail.com
 linktrace.diningcity.cn
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
+lite-cdn.com
 literally-analytics.appspot.com
 literatelight.com
 live.alljobs.co.il
@@ -8173,6 +8173,7 @@ stats.hugoreeves.com
 stats.huysmanbouw.be
 stats.iamzero.dev
 stats.ibtimes.co.in
+stats.ibtimes.sg
 stats.igevia.com
 stats.immunefi.com
 stats.inergizedigitalmedia.com
