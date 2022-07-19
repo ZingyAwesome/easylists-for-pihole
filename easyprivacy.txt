@@ -973,6 +973,7 @@ adpromo.peppynet.com
 adrtx.net
 adsdk.yandex.ru
 adstats.tencentmusic.com
+adstk.io
 ads-trk.vidible.tv
 ad.takasu.co.jp
 adtd.douglas.at
@@ -2200,7 +2201,6 @@ cmme.actonservice.com
 cm-mms.coachmag.co.uk
 cmp2.channelpartner.de
 cmp.courrierinternational.com
-cmp.dmgmediaprivacy.co.uk
 cmp.dreamlab.pl
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -12150,7 +12150,6 @@ verdantanswer.com
 verified.beefbooster.com
 verifier.live
 verifyvegetable.com
-vertebrae-axis.com
 vet0.carrefour-banque.fr
 vfd2dyn.vodafone.de
 vfo.voyage-prive.co.uk
