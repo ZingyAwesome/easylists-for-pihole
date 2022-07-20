@@ -11235,6 +11235,7 @@ tracking.lightingdirect.com
 tracking.lightingshowplace.com
 tracking.lindtusa.com
 tracking.listhub.net
+tracking.live.wetter.at
 tracking.livingsocial.com
 tracking.liwest.at
 tracking.lonnogpersonalabc.visma.no
@@ -11894,6 +11895,7 @@ tr.offrevip.floa.fr
 tr-op.datatrics.com
 tr.orange-lease.fr
 tr.orcamentos-companeo.pt
+tr.outbrain.com
 tr.panels-mediametrie.fr
 tr.pole-emploi-services.com
 tr.politicolive.eu
@@ -12391,6 +12393,7 @@ whisperingcrib.com
 whrsen.itemmania.com
 why3.inseec.education
 widgetbe.com
+widget-pixels.outbrain.com
 widget.quantcast.com
 wigglygeese.com
 wigglyindustry.com
