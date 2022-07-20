@@ -794,6 +794,7 @@ adrtx.net
 ads-trk.vidible.tv
 adsdk.yandex.ru
 adstats.tencentmusic.com
+adstk.io
 adtd.douglas.at
 adtd.douglas.be
 adtd.douglas.ch
@@ -1821,7 +1822,6 @@ cm-sg.americanexpress.com
 cmass.massmedian.co.jp
 cmme.actonservice.com
 cmp.courrierinternational.com
-cmp.dmgmediaprivacy.co.uk
 cmp.dreamlab.pl
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -9460,7 +9460,6 @@ verdantanswer.com
 verified.beefbooster.com
 verifier.live
 verifyvegetable.com
-vertebrae-axis.com
 vfd2dyn.vodafone.de
 vgo.vegaoo.de
 vgo.vegaoo.es
@@ -9661,6 +9660,7 @@ whisperingbadge.com
 whisperingcrib.com
 whrsen.itemmania.com
 why3.inseec.education
+widget-pixels.outbrain.com
 widget.quantcast.com
 widgetbe.com
 wigglygeese.com
