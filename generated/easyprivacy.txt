@@ -8545,6 +8545,7 @@ t570.wiltonbulletin.com
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tag-manager.playbuzz.com
+tag.agrvt.com
 tag.aticdn.net
 tag.atom.gamedistribution.com
 tag.aumago.com
