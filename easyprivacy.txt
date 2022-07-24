@@ -2961,6 +2961,7 @@ digital.att.com
 digital-engineering.de
 digital.opsbase.com
 digitalworkplace.ricoh.fr
+dig.lianjia.com
 dig.ultimedia.com
 di.ifolor.ch
 di.ifolor.de
@@ -5412,6 +5413,7 @@ logs.hotstar.com
 log.sina.cn
 log.snapdeal.com
 logs.naukri.com
+logs-partners.coupang.com
 logs.spilgames.com
 logstat.caixin.com
 logs.thebloggernetwork.com
@@ -10554,6 +10556,7 @@ t9k3a.jeanpaulfortin.com
 t.a3cloud.net
 t.ac.pandora.com
 t.adlpo.com
+tag.agrvt.com
 tag.aticdn.net
 tag.atom.gamedistribution.com
 tag.aumago.com
@@ -10902,6 +10905,7 @@ tm.vendemore.com
 tmy8.madeindesign.ch
 t.nativendo.de
 t.navysports.com
+tncid.app
 t.newsletter.thetimes.co.uk
 t.nhra.com
 tns.simba.taobao.com
