@@ -2449,6 +2449,7 @@ dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
 difficultfog.com
+dig.lianjia.com
 dig.ultimedia.com
 digital-engineering.de
 digital.att.com
@@ -4349,6 +4350,7 @@ logistics.osmworldwide.com
 loglady.skypicker.com
 logql.yahoo.co.jp
 logs-api.shoprunner.com
+logs-partners.coupang.com
 logs.animaapp.com
 logs.gaana.com
 logs.ggweb.nl
@@ -8722,6 +8724,7 @@ tms-st.cdn.ngenix.net
 tms.eharmony.ca
 tms.fmm.io
 tmy8.madeindesign.ch
+tncid.app
 tns.simba.taobao.com
 tock.weg.plus
 tocotronic.thomas.me
