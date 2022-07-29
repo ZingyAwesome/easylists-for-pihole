@@ -1239,6 +1239,7 @@ analytics.livesense.marketing
 analytics.livestream.com
 analytics.logsss.com
 analytics.lunge.de
+analytics.m7g.twitch.tv
 analytics.mail-corp.com
 analytics.mailmunch.co
 analytics.mambaui.com
@@ -2958,7 +2959,6 @@ dialogue.nl.mazda.be
 diamages.carte-gr.total.fr
 difficultfog.com
 digital.anicom-sompo.co.jp
-digital.att.com
 digital-engineering.de
 digital.opsbase.com
 digitalworkplace.ricoh.fr
