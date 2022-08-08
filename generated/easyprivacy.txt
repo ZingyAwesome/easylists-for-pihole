@@ -2922,6 +2922,7 @@ events.shareably.net
 events.sk.ht
 events.split.io
 events.splunk.com
+events.statsigapi.net
 events.tubecup.org
 events.turbosquid.com
 events.whisk.com
