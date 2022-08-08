@@ -2234,6 +2234,7 @@ col.idealista.pt
 collect.adplogger.no
 collect.alipay.com
 collect-ap2.attraqt.io
+collect.banggood.com
 collect.cloudsponge.com
 collect-eu.attraqt.io
 collect.helsana.ch
@@ -3693,6 +3694,7 @@ events.sk.ht
 events.splash-screen.net
 events.split.io
 events.splunk.com
+events.statsigapi.net
 events.strategic-i.com
 events-tracker.deliveroo.net
 eventstream.dodopizza.com
@@ -7429,6 +7431,7 @@ qljiop.allabout.co.jp
 qmiiln.tower.jp
 qmlzcm.petshop.ru
 qmoyfh.xcite.com.sa
+qm.redbull.com
 qoygsv.born2be.pl
 qpl9.destinia.dk
 qreport.qunar.com
