@@ -1842,6 +1842,7 @@ collect-ap2.attraqt.io
 collect-eu.attraqt.io
 collect.adplogger.no
 collect.alipay.com
+collect.banggood.com
 collect.cloudsponge.com
 collect.helsana.ch
 collect.meilleurtaux.com
@@ -8404,6 +8405,7 @@ supportmetrics.apple.com
 survey.interquest.com
 suspendseed.com
 svarcom.actonservice.com
+svibeacon.onezapp.com
 swa.and.co.uk
 swa.cofinoga.fr
 swa.consumentenbond.nl
