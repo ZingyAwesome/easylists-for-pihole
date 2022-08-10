@@ -3018,6 +3018,7 @@ ds.haaretz.co.il
 d.shareaholic.com
 d.skk.moe
 d.sourcepoint.capitalfm.com
+dtag.breadfinancial.com
 dt.nrjmobile.fr
 dttrk.com
 du2k.bhv.fr
@@ -10873,6 +10874,7 @@ track.91app.io
 track.99acres.com
 track.auckland.ac.nz
 track.bannedcelebs.com
+track.buyma.com
 track.cafu.com
 track.cedsdigital.it
 trackclicks.info
