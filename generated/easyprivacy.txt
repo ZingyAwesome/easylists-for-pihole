@@ -2488,6 +2488,7 @@ ds2.independer.nl
 dsbahmgppc0j4.cloudfront.net
 dseloqua.danskespil.dk
 dsg.interia.pl
+dtag.breadfinancial.com
 dttrk.com
 du2k.bhv.fr
 du4rq1xqh3i1k.cloudfront.net
@@ -8666,6 +8667,7 @@ track-srv.vietnamnet.vn
 track-visit.monday.com
 track.auckland.ac.nz
 track.bannedcelebs.com
+track.buyma.com
 track.cafu.com
 track.cedsdigital.it
 track.clubcar.com
