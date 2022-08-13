@@ -695,6 +695,7 @@ acclaro.actonservice.com
 accuride.actonservice.com
 accutrain.actonservice.com
 accuzip.actonservice.com
+acelogger.heraldcorp.com
 acendas.actonservice.com
 achieverknee.com
 acidpigs.com
@@ -1759,6 +1760,7 @@ clicktale.pantherssl.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-log.box.com
+client-metrics.chess.com
 clientservice.alphasimplex.com
 clinical.questdiagnostics.com
 clk.boulanger.com
@@ -4270,6 +4272,7 @@ log000.goo.ne.jp
 log2.sina.cn
 logbak.hicloud.com
 logg.kiwi.com
+logger.bzu.kr
 logger.kataweb.it
 logger.nerdwallet.com
 logger.rm.uol.com.br
