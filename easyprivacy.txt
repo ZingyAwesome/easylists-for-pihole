@@ -11862,6 +11862,7 @@ tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com
 tr.welcome.thelist-emirates.fr
 tr.welcome.vipmag.fr
+tr.www.cloudflare.com
 trx3.famousfix.com
 trx-hub.com
 try.abtasty.com
