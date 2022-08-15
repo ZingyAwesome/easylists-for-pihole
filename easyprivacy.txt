@@ -1495,6 +1495,7 @@ arizonapuzzle.com
 aromamirror.com
 arrayasolutions.actonservice.com
 arrietty.nrj.fr
+artemis-cdn.ocdn.eu
 artistchristinacarmel.ericksonbuilt.com
 asamgd.rossmann.de
 ascassociation.actonservice.com
@@ -3846,6 +3847,7 @@ fimyxg.haberturk.com
 finalizeforce.com
 financialeducation-info.uchicago.edu
 financialservices.teranet.ca
+fingerprinter-production.herokuapp.com
 finley.finleyusa.com
 fi.on-channel.com
 fiowtf.hyggee.com
@@ -4100,6 +4102,7 @@ glisteningsign.com
 globalbanking.wolterskluwer.com
 globalcommunications.sc.com
 globalmed.actonservice.com
+globo-ab.globo.com
 glookup.info
 gloriouscracker.com
 glossysense.com
@@ -5255,6 +5258,7 @@ lkvkgk.levis.com.tr
 llkdiu.chacos.com
 lltrck.com
 lmavci.eloquii.com
+lmepbq.com
 lmgvur.scbt.com
 l.m.naver.com
 lmnqof.littletoncoin.com
@@ -10949,6 +10953,7 @@ tracker.thinkermail.com
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tiu.ru
+tracker.tolvnow.com
 tracker.tubecj.com
 tracker.tv.sohu.com
 tracker.unbxdapi.com
@@ -12071,6 +12076,7 @@ visitor-microservice.ext.p-a.im
 visitors.asadis.net
 visitors.sourcingmap.com
 visitping.rossel.be
+visit-prod-us.occa.ocs.oraclecloud.com
 visits.quitsocialmedia.club
 visits.tommi.space
 visit.tafensw.edu.au
