@@ -3059,6 +3059,7 @@ fimyxg.haberturk.com
 finalizeforce.com
 financialeducation-info.uchicago.edu
 financialservices.teranet.ca
+fingerprinter-production.herokuapp.com
 finley.finleyusa.com
 fiowtf.hyggee.com
 firebaselogging-pa.googleapis.com
@@ -3288,6 +3289,7 @@ glisteningsign.com
 globalbanking.wolterskluwer.com
 globalcommunications.sc.com
 globalmed.actonservice.com
+globo-ab.globo.com
 glookup.info
 gloriouscracker.com
 glossysense.com
