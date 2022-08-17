@@ -1054,6 +1054,7 @@ analytics.pagefly.io
 analytics.pgatour.com
 analytics.pgncs.notion.so
 analytics.piksel.com
+analytics.pixels.ai
 analytics.plex.tv
 analytics.pointdrive.linkedin.com
 analytics.popsci.com
@@ -4745,7 +4746,6 @@ maz.zba.jp
 mbns.bruker.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
-mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mczpco.darty.com
 mdhv.io
