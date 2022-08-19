@@ -22,6 +22,7 @@
 2022welcome.com
 2829i2p88jx.www.csaladinet.hu
 2efj.up.coop
+2l6ddsmnm.de
 2qqfxz5kecr4.www.eldorado.gg
 2tty.overstappen.nl
 2znp09oa.com
@@ -1019,6 +1020,7 @@ afi.ssl.gmobb.jp
 afoykb.ebook.de
 agcs-knowledge.allianz.com
 a.gedidigital.it
+agent.contentsanalyst.com
 a.getaawp.com
 a.getflowbox.com
 agkn.com
@@ -1164,6 +1166,7 @@ analytics.codeforscience.org
 analytics.codeskulptor.org
 analytics.codigo.se
 analytics.cognyte.com
+analytics-coletor-site.ojc.com.br
 analytics.competitoor.com
 analytics.contentexchange.me
 analytics.contents.by-fw.jp
@@ -1337,6 +1340,7 @@ analytics.tiktok.com
 analytics.tio.ch
 analytics.tntdramma.com
 analytics.top10-charts.com
+analytics.touchnote.io
 analytics.tout.com
 analytics.tradedoubler.com
 analytics.traderlink.com
@@ -1583,6 +1587,7 @@ awesome.section.io
 awfzfs.kwantum.nl
 awogtl.1stopbedrooms.com
 axacqy.henderson.ru
+ax.babe.today
 ax.idg.se
 axikfy.dicksmith.com.au
 axion-biosystems.actonservice.com
@@ -1897,6 +1902,7 @@ c4contexture.actonservice.com
 c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
 ca.creditacceptance.com
+cadsuta.net
 cahf4eed.mooo.com
 calculatingcircle.com
 calculatingtoothbrush.com
@@ -1983,6 +1989,7 @@ cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
 cdnhst.xyz
 cdn-rum.ngenix.net
+cdn.stroeerdigitalgroup.de
 cdn.usefathom.com
 celigo.actonservice.com
 ce.lijit.com
@@ -3670,6 +3677,7 @@ events.demoup.com
 events.devcycle.com
 events.engage.cebglobal.com
 events.enigen.co.uk
+event-service.letslinc.com
 events.framer.com
 events.georgiancollege.ca
 events.gogoair.com
@@ -5868,6 +5876,7 @@ maz.zba.jp
 mbns.bruker.com
 m.bumrungrad1378.com
 mcad.mods-clinic.com
+mcangelus.com
 mc.bruker.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
@@ -6471,6 +6480,7 @@ mqldrm.lgcity.ru
 mqs.ioam.de
 mqvyob.vidaxl.fi
 mrksmm.yumegazai.com
+mrpdata.net
 mrpjcd.tensunits.com
 mrqpcy.biggreensmile.nl
 mseeru.faz.net
@@ -7210,6 +7220,7 @@ pluto.r.powuta.com
 pl.volunteeringauckland.org.nz
 pl.volunteeringwaikato.org.nz
 pl.volunteermarlborough.org.nz
+pm.boostintegrated.com
 pm.dailykos.com
 p.milliyet.com.tr
 pm.redbull.com
@@ -7452,6 +7463,7 @@ quaintborder.com
 quantserve.com
 quarterbean.com
 qubitanalytics.appspot.com
+quesid.com
 questintegrity.actonservice.com
 questions.theanswerco.com
 quickanalytics.ca
@@ -7559,6 +7571,7 @@ reports-api.sqreen.io
 reportsk.web.sdo.com
 reports.pagesuite-professional.co.uk
 reports.sdiapi.com
+reports-tsi.tangerine.io
 reports.tunein.com
 repo-ssl-global.net.zooplus.es
 representativeray.com
@@ -7618,6 +7631,7 @@ richreceipt.com
 righteouscrayon.com
 rightfulfall.com
 rigidrobin.com
+rigill.com
 riluwt.voxcinemas.com
 rimxqx.slickdeals.net
 ringplant.com
@@ -8096,6 +8110,7 @@ seek.intel.com
 seg.sharethis.com
 selectionship.com
 selfishsnake.com
+selphiu.com
 sem.triboomedia.it
 sendgridlinks.neuroflowsolution.com
 send.preply.com
@@ -10910,6 +10925,7 @@ track.docusign.mx
 track.dws.de
 track.e7r.com.br
 track.eadv.it
+track.emerse.com
 track.emeza.ch
 track.emeza.com
 tracker.520call.me
@@ -10963,6 +10979,7 @@ tracker.uprinting.com
 tracker.wigzopush.com
 tracker.winload.de
 tracker.wpserveur.net
+tracker.xgen.dev
 track.express.de
 track.ferrari.com
 track.ferraridealers.com
@@ -11157,7 +11174,6 @@ tracking.mizuhogroup.com
 tracking.mkt-email.samsungsds.com
 trackingmms.accenture.com
 tracking.mollyladies.de
-tracking.monsido.com
 tracking.motorolasolutions.com
 tracking.m.premier.info.shutterstock.com
 tracking.musixmatch.com
@@ -11338,6 +11354,7 @@ track.qoof.com
 track.ra.icast.cn
 track.realtimeboard.com
 track.recreativ.ru
+track.rheinpfalz.de
 track.roomster.com
 track.rundschau-online.de
 tracks3.ferrari.com
@@ -12823,6 +12840,7 @@ ymprove.web.de
 ynagqs.vidaxl.pl
 yoc.younited-credit.com
 yolo.phpliveregex.com
+yottlyscript.com
 youngmarble.com
 youthfulnoise.com
 ypcdbw.drive2.com
