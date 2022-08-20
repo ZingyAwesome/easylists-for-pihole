@@ -902,6 +902,7 @@ analytics-1.cavai.com
 analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
+analytics-coletor-site.ojc.com.br
 analytics-gw.games.wanmei.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
@@ -1566,6 +1567,7 @@ c4cm.actonservice.com
 c4contexture.actonservice.com
 c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
+cadsuta.net
 cahf4eed.mooo.com
 calculatingcircle.com
 calculatingtoothbrush.com
@@ -2871,6 +2873,7 @@ event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
 event-listener.air.tv
+event-service.letslinc.com
 event-stream.spot.im
 event.api.drift.com
 event.csdn.net
@@ -4749,6 +4752,7 @@ materialisticmark.com
 matheranalytics.com
 maz.zba.jp
 mbns.bruker.com
+mcangelus.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
 mcs-va.tiktokv.com
@@ -9006,7 +9010,6 @@ tracking.mindshare.de
 tracking.miui.com
 tracking.mizuhogroup.com
 tracking.mollyladies.de
-tracking.monsido.com
 tracking.motorolasolutions.com
 tracking.musixmatch.com
 tracking.myaupairinamerica.com
