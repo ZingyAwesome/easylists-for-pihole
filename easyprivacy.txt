@@ -1992,6 +1992,7 @@ cdnhst.xyz
 cdn-rum.ngenix.net
 cdn.stroeerdigitalgroup.de
 cdn.usefathom.com
+cdtm.cdiscount.com
 celigo.actonservice.com
 ce.lijit.com
 cellstats.mako.co.il
