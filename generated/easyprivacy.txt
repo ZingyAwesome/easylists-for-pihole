@@ -1639,6 +1639,7 @@ cdn.usefathom.com
 cdn1.pebx.pl
 cdn7.baunetz.de
 cdnhst.xyz
+cdtm.cdiscount.com
 celigo.actonservice.com
 cellstats.mako.co.il
 census.misterspex.at
@@ -2874,6 +2875,7 @@ event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
 event-listener.air.tv
+event-logger.tagboard.com
 event-service.letslinc.com
 event-stream.spot.im
 event.api.drift.com
