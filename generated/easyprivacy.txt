@@ -2108,6 +2108,7 @@ crm.casabaca.com
 crowdedmass.com
 crs.actonservice.com
 crsspxl.com
+crta.and.co.uk
 crta.dailymail.co.uk
 crta.metro.co.uk
 crumbs.robinhood.com
@@ -2896,6 +2897,7 @@ eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.usj.es
+events-logs.doctolib.com
 events-prod.autolist.com
 events-service.coinbase.com
 events-tracker.deliveroo.net
@@ -5289,6 +5291,7 @@ mond.post.ch
 mond.postauto.ch
 monitor.azure.com
 monitor.music.qq.com
+monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
 more.groups.be
 mors22.com
@@ -5978,7 +5981,6 @@ pricklydebt.com
 pricklyplastic.com
 primary.hasegawa.jp
 primate.dmarcdigests.com
-prime.rambler.ru
 printerplasma.com
 prism.pandora.tv
 prism.raumgleiter.com
