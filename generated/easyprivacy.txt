@@ -3126,6 +3126,7 @@ fp-cdn.azureedge.net
 fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
 fpa-events.decrypt.co
+fpapi.io
 fpaux.net
 fpavx.net
 fpaxu.net
@@ -4276,6 +4277,7 @@ log.popin.cc
 log.quora.com
 log.reformal.ru
 log.ren.tv
+log.rutube.ru
 log.seekda.com
 log.sina.cn
 log.snapdeal.com
@@ -4990,6 +4992,7 @@ metrics.apartments.com
 metrics.api.drift.com
 metrics.apple.com
 metrics.asdafinance.com
+metrics.audius.co
 metrics.autobytel.com
 metrics.automobilemag.com
 metrics.aviasales.ru
@@ -5857,6 +5860,7 @@ plausible.bearer.sh
 plausible.benscarblog.com
 plausible.bernheisel.com
 plausible.bostad.shop
+plausible.bots.gg
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
