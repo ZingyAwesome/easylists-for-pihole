@@ -2249,6 +2249,7 @@ col.idealista.pt
 collect.adplogger.no
 collect.alipay.com
 collect-ap2.attraqt.io
+collect.asics.com
 collect.banggood.com
 collect.cloudsponge.com
 collect-eu.attraqt.io
