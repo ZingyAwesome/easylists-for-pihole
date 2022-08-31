@@ -1856,6 +1856,7 @@ collect-ap2.attraqt.io
 collect-eu.attraqt.io
 collect.adplogger.no
 collect.alipay.com
+collect.asics.com
 collect.banggood.com
 collect.cloudsponge.com
 collect.helsana.ch
