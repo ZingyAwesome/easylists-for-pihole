@@ -2796,6 +2796,7 @@ dbzpek.nike.com
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dc.banggood.com
+dcbpm.suning.cn
 dccfog.petco.com
 dcclaa.bunte.de
 dcclaa.daskochrezept.de
@@ -9608,6 +9609,7 @@ srtb.msn.com
 sruk.srglobal.com
 ssa.asianfoodnetwork.com
 ssa.cookingchanneltv.com
+ssac.suning.com
 ssa.discovery.com
 ssa.discoveryplus.com
 ssa.discoveryplus.in
