@@ -1897,6 +1897,7 @@ bzqxze.remixshop.com
 c0012.brsimg.com
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
+c1hit.zerkalo.io
 c3metrics.medifast1.com
 c4cm.actonservice.com
 c4contexture.actonservice.com
@@ -3244,6 +3245,7 @@ ef.futuroscope.mobi
 efgam.actonservice.com
 efreecode.com
 efuxqe.tatilbudur.com
+egoi.site
 egscnq.erlich-textil.de
 ehtel.endress.com
 eht.endress.com
@@ -5469,6 +5471,7 @@ luegnh.sneakercage.gr
 lumenera.actonservice.com
 lumtjt.plumbingonline.ca
 lunametrics.wpengine.netdna-cdn.com
+lurker.olx.com.br
 luumhi.whatonearthcatalog.com
 luwfwc.trendhim.fi
 lxoemc.libero.it
@@ -7147,6 +7150,7 @@ plau.germantechjobs.de
 plau.hiringnearme.jobs
 plauplauplau.app.budg.co
 plauplauplau.budg.co
+plausible.ams.to
 plausible.as207960.net
 plausible.banovo.de
 plausible.bearer.sh
@@ -7402,6 +7406,7 @@ pv.udn.com
 pv.xcar.com.cn
 pvx.xcar.com.cn
 pw.gigazine.net
+pwk.nextinpact.com
 p.wren.co
 pxbnou.ig.com.br
 px.derstandard.at
@@ -7720,8 +7725,10 @@ rymhet.posudamart.ru
 rzgwpw.madeincookware.com
 s0.beyondonline.nl
 s1.carnext.com
+s1r.zerkalo.io
 s.360.cn
 s362693299.aon.com
+s3r.zerkalo.io
 s4e8.cascades.com
 s4.parkeren-amsterdam.com
 s4.parkeren-haarlem.nl
@@ -9571,6 +9578,7 @@ spuriousstranger.com
 sp.usatoday.com
 sp.vcstar.com
 sp.visaliatimesdelta.com
+sp.vtex.com
 sp.wausaudailyherald.com
 sp.wisconsinrapidstribune.com
 sp-wukong-tracker.b-cdn.net
@@ -10313,6 +10321,7 @@ stat.tiara.daum.net
 stat.tiara.kakao.com
 stat.tildacdn.com
 stat.tomdebruijn.com
+stat.turb.pw
 stat.tvigle.ru
 statuesquebrush.com
 stat.uuu9.com
@@ -11329,6 +11338,7 @@ tracking.zaertlicheladies.de
 tracking.zierlicheladies.de
 trackjay.cool3c.com
 track.juno.com
+track.kinetiksoft.com
 track.kueez.com
 track.kyoads.com
 trackla.stackla.com
