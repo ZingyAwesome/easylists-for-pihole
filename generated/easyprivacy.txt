@@ -1564,6 +1564,7 @@ c-c-l.actonservice.com
 c0012.brsimg.com
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
+c1hit.zerkalo.io
 c4cm.actonservice.com
 c4contexture.actonservice.com
 c4dv.copinesdevoyage.com
@@ -2586,6 +2587,7 @@ efficiency.visma.com
 efgam.actonservice.com
 efreecode.com
 efuxqe.tatilbudur.com
+egoi.site
 eht.endress.com
 ehtel.endress.com
 ejcgtv.spim.ru
@@ -4389,6 +4391,7 @@ ludicrousarch.com
 luegnh.sneakercage.gr
 lumenera.actonservice.com
 lumtjt.plumbingonline.ca
+lurker.olx.com.br
 luumhi.whatonearthcatalog.com
 luwfwc.trendhim.fi
 lxoemc.libero.it
@@ -5858,6 +5861,7 @@ plau.swissdevjobs.ch
 plauplauplau.app.budg.co
 plauplauplau.budg.co
 plaus.svelte.school
+plausible.ams.to
 plausible.banovo.de
 plausible.bearer.sh
 plausible.benscarblog.com
@@ -6056,6 +6060,7 @@ pvfbav.sportler.com
 pvoheg.bubbleroom.se
 pvtag.yahoo.co.jp
 pvx.xcar.com.cn
+pwk.nextinpact.com
 pxbnou.ig.com.br
 pxl.indeed.com
 pxlgnpgecom-a.akamaihd.net
@@ -6314,7 +6319,9 @@ rymhet.posudamart.ru
 rzgwpw.madeincookware.com
 s-onetag.com
 s-sitecatalyst.work.shiseido.co.jp
+s1r.zerkalo.io
 s362693299.aon.com
+s3r.zerkalo.io
 s4e8.cascades.com
 saa.insideedition.com
 saa.paramountplus.com
@@ -7931,6 +7938,7 @@ stat.tiara.daum.net
 stat.tiara.kakao.com
 stat.tildacdn.com
 stat.tomdebruijn.com
+stat.turb.pw
 stat.tvigle.ru
 stat.valica.it
 stat.vulkanvegas.com
@@ -8737,6 +8745,7 @@ track.ferraridealers.com
 track.hubspot.com
 track.hujiang.com
 track.juno.com
+track.kinetiksoft.com
 track.kueez.com
 track.kyoads.com
 track.leady.cz
