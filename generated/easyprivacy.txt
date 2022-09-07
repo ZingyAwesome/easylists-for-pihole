@@ -3980,6 +3980,7 @@ kon.mediaplatform.group
 kqmhog.tbmmarket.ru
 kropka.onet.pl
 krxd.net
+kspotson.de
 ktracker.kumparan.com
 kurazb.prisjakt.no
 kux5.raileurope.com
@@ -8535,6 +8536,7 @@ tags.globo.com
 tags.johnlewis.com
 tags.newscgp.com
 tagtracking.vibescm.com
+takingbackjuly.com
 talent.aonunited.com
 talentedsteel.com
 talenteq.intuit.com
