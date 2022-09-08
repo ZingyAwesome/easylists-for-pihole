@@ -21,9 +21,11 @@
 2efj.up.coop
 2l6ddsmnm.de
 2qqfxz5kecr4.www.eldorado.gg
+2smt6mfgo.de
 2tty.overstappen.nl
 2znp09oa.com
 31daa5lnq.de
+3gl.net
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 4jnzhl0d0.com
@@ -1518,6 +1520,7 @@ browser-updater.yandex.net
 browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 brqory.notino.sk
+brsrvr.com
 bruisebaseball.com
 brukernano.actonservice.com
 btez8.xyz
@@ -1617,6 +1620,7 @@ carolina.actonservice.com
 carreras.unisabana.edu.co
 carriagecan.com
 carswellmedia.thomsonreuterscanada.ca
+casalemedia.com
 cascadion.thermofisher.com
 cashbeet.com
 caspionlog.appspot.com
@@ -1624,6 +1628,7 @@ catalogdiscovery.com
 catracking.finning.com
 catschickens.com
 cb-mms.carbuyer.co.uk
+cbdatatracker.com
 cbmetrics.clickbank.com
 cbuvhv.desertcart.ae
 cc-api-data.adobe.io
@@ -3010,6 +3015,7 @@ f-log-at.grammarly.io
 f-log-test.grammarly.io
 f0nn.oney.fr
 f1tbit.com
+f27tltnd.de
 f362.nola.com
 f775.thehour.com
 f7ds.liberation.fr
@@ -3084,6 +3090,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
+fixel.ai
 fjqtyu.bethowen.ru
 fkmdky.lifehacker.ru
 fkwc.sfr.fr
@@ -3235,6 +3242,7 @@ g792337343.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+g9706132415.co
 g990421675.co
 g990421676.co
 ga-beacon.appspot.com
@@ -3407,6 +3415,7 @@ hby7.destinia.it
 hcjpbc.muscleandfitness.com
 hcjpbc.okmagazine.com
 hcjpbc.usmagazine.com
+hdmtools.com
 hdnagl.womensecret.com
 he6e.lavieimmo.com
 headyhook.com
@@ -3485,6 +3494,7 @@ hrm.healthgrades.com
 hruyiq.auction.co.kr
 hs-analytics.net
 hsadspixel.net
+hsleadflows.net
 hspbotdetection.azurewebsites.net
 hu-business.vodafone.com
 hub.hubfinancial.com
@@ -6563,6 +6573,7 @@ site.infosysbpm.com
 site.tdk.com
 site24x7rum.eu
 sitecatalyst.work.shiseido.co.jp
+sitedataprocessing.com
 siteinfo.libero.it
 siteintercept.allegiancetech.com
 sixscissors.com
