@@ -4,7 +4,8 @@
     "description": "Parsing easylist into Pi-hole importable files",
     "main": "index.js",
     "scripts": {
-        "postinstall": "git config --get core.hookspath || husky install",
+        "postinstall": "npm run husky-install && npx fix-lockfile-integrity package-lock.json",
+        "husky-install": "git config --get core.hookspath || husky install",
         "build": "npm run eslint && npm run type-check && npm run test",
         "preparse": "rimraf generated && rimraf raw && mkdir generated && mkdir raw",
         "parse": "node -r ts-node/register/transpile-only -r tsconfig-paths/register src/index.ts",
