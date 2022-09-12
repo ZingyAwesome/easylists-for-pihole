@@ -3020,6 +3020,7 @@ bombrw.netshoes.com.br
 boneregret.com
 bonne-terre-data-layer.com
 boomerang.dell.com
+boomtrain.com
 boqufs.2nn.jp
 boredborder.com
 boredcrown.com
@@ -3795,6 +3796,7 @@ count.munhwa.com
 count.paycounter.com
 count.rin.ru
 count.upc.rakuten.co.jp
+count.xxxssk.com
 count.yandeg.ru
 coverapparatus.com
 cpgo.avatacar.com
@@ -5318,7 +5320,6 @@ fascinatedfeather.com
 fastemu.co
 fastenermkt.averydennison.com
 fastenfather.com
-faster-trk.com
 fastfinch.co
 fastgull.io
 fasttiger.io
@@ -11849,11 +11850,13 @@ stats.motorcyclepartsireland.ie
 statsmp2.emol.com
 stats.muasamcong.gov.vn
 stats.muchbetteradventures.com
+stats.myangular.life
 stats.mysideproject.rocks
 stats.nddmed.com
 stats.nebula.fi
 stats.nerdbusiness.com
 stats.netbopdev.co.uk
+stats.netdna-storage.com
 stats-newyork1.bloxcms.com
 stats.nicolabricot.com
 stats.nrcaknights.com
@@ -12984,6 +12987,7 @@ track.info.pulmonologyadvisor.com
 track.info.renalandurologynews.com
 track.info.thecardiologyadvisor.com
 tracking1.brandmentions.com
+tracking1.filemoon.sx
 tracking2.channeladvisor.com
 trackingaa.hitachienergy.com
 tracking.aapa.org
@@ -13560,6 +13564,7 @@ trk.m1.stadiumgoods.com
 trk.m.libero.it
 trk.nuernberger.de
 trk.nuernberger.digital
+trkn.us
 tr.kommunikation.younited-credit.com
 tr.kontakt.younited-credit.com
 tr.kpyn.espmp-cufr.net
@@ -13940,6 +13945,7 @@ t.wayfair.ca
 t.wayfair.com
 t.wayfair.co.uk
 t.wayfair.de
+tw.cx
 t.wiz.meilleurtaux.com
 twiz.wizaly.fr
 twkbui.mansion-review.jp
@@ -14185,6 +14191,7 @@ vq1qi.pw
 vqp3.madeindesign.co.uk
 vry9.destinia.com
 v.shopify.com
+vstat.borderlessbd.com
 vst.sibnet.ru
 vtf2f.banque-casino.fr
 vt.mak.com
