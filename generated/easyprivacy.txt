@@ -2151,6 +2151,7 @@ bombrw.netshoes.com.br
 boneregret.com
 bonne-terre-data-layer.com
 boomerang.dell.com
+boomtrain.com
 boredborder.com
 boredcrown.com
 boringberry.com
@@ -3840,7 +3841,6 @@ events.il.fi
 events.ingatlan.com
 events.jokerly.com
 events.jotform.com
-events.mapbox.com
 events.matterport.com
 events.medio.com
 events.mercadolibre.com
@@ -10249,6 +10249,7 @@ trk.underarmour.com
 trk.us.underarmour.com
 trkbc.com
 trklink.luisaviaroma.com
+trkn.us
 trkpzz.dcinside.com
 tru.am
 tru.webelapp.com
