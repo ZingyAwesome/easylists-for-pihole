@@ -12,7 +12,7 @@
         "parse-and-test": "npm run parse && npm run test-generated",
         "eslint": "eslint src/ test/ resources/",
         "eslint:fix": "npm run eslint -- --fix",
-        "prettier": "prettier --write *.json .eslintrc.json .prettierrc tsconfig.json webpack.config.js",
+        "prettier": "prettier --write *.json .eslintrc.json .prettierrc tsconfig.json",
         "test": "jest --coverage ./test/",
         "test-generated": "jest --coverage ./test-generated/",
         "type-check": "tsc --build tsconfig.json",

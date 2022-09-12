@@ -14,10 +14,5 @@
         },
         "importsNotUsedAsValues": "error"
     },
-    "include": [
-        "./src/**/*",
-        "./test/**/*",
-        "./test-generated/**/*",
-        "./resources/**/*"
-    ]
+    "include": ["./src/**/*", "./test/**/*", "./test-generated/**/*", "./resources/**/*"]
 }
