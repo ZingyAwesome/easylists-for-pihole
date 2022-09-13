@@ -2764,6 +2764,7 @@ count.munhwa.com
 count.paycounter.com
 count.rin.ru
 count.upc.rakuten.co.jp
+count.xxxssk.com
 count.yandeg.ru
 count5.pconline.com.cn
 counter.blogoscoop.net
@@ -3932,7 +3933,6 @@ fascinatedfeather.com
 fastemu.co
 fastenermkt.averydennison.com
 fastenfather.com
-faster-trk.com
 fastfinch.co
 fastgull.io
 fasttiger.io
@@ -9210,6 +9210,7 @@ stats.mos.ru
 stats.motorcyclepartsireland.ie
 stats.muasamcong.gov.vn
 stats.muchbetteradventures.com
+stats.myangular.life
 stats.mysideproject.rocks
 stats.nddmed.com
 stats.nebula.fi
@@ -10196,6 +10197,7 @@ tracking.wlscripts.net
 tracking.zaertlicheladies.de
 tracking.zierlicheladies.de
 tracking1.brandmentions.com
+tracking1.filemoon.sx
 tracking2.channeladvisor.com
 trackingaa.hitachienergy.com
 trackingapi.cloudapp.net
@@ -10459,6 +10461,7 @@ vq1qi.pw
 vqp3.madeindesign.co.uk
 vry9.destinia.com
 vst.sibnet.ru
+vstat.borderlessbd.com
 vtrtl.de
 vwonwkaqvq-a.global.ssl.fastly.net
 vzal21mooz.hyperwrite.ai
