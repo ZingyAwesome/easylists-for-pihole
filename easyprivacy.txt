@@ -2470,6 +2470,7 @@ analytics.tribeca.vidavee.com
 analytics.trust.page
 analytics.trutv.com
 analytics.turnertv.com
+analytics.tver.jp
 analytics.twitter.com
 analytics.ubs.com
 analytics.underarmour.com
@@ -3245,7 +3246,6 @@ cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
 cdnhst.xyz
 cdn-rum.ngenix.net
-cdn.stroeerdigitalgroup.de
 cdn.usefathom.com
 cdtm.cdiscount.com
 ceggfe.msc-kreuzfahrten.de
@@ -4566,6 +4566,7 @@ d.omsnative.de
 donjigrad.viessmann.rs
 donkeyleaf.com
 doorbrazil.com
+doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dot-stat.radikal.ru
 doubtfulrainstorm.com
@@ -9001,7 +9002,6 @@ rimxqx.slickdeals.net
 ringplant.com
 ringsrecord.com
 riovdv.mustit.co.kr
-risk.clearbit.com
 ritzyveil.com
 riwkmo.spacemarket.com
 rjjynf.showcase-tv.com
@@ -13173,6 +13173,7 @@ track-mail.homage.co
 track.manawa-mai.ac.nz
 track.mituo.cn
 track.mp4.center
+track.mrgugu.com
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
