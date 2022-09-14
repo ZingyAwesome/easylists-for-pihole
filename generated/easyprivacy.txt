@@ -3185,7 +3185,6 @@ dejavu.mercadolivre.com.br
 delightfulhour.com
 deliver.ptgncdn.com
 delivery.hunterycity.com
-delivery.satr.jp
 demandgen.ptc.com
 demdex.net
 desa.fkapi.net
