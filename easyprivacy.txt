@@ -3330,6 +3330,7 @@ clamcelery.com
 clammytree.com
 clarium.global.ssl.fastly.net
 cl.canva.com
+clearbitscripts.com
 clearbrands.actonservice.com
 clearcabbage.com
 clerks.doccheck.com
@@ -6764,6 +6765,7 @@ log.gs3.goo.ne.jp
 loggychops.paulsmith.site
 log.hiiir.com
 log.hypebeast.com
+logicanalytics.io
 log.idnes.cz
 loginlog.sdo.com
 log.invodo.com
@@ -7327,6 +7329,7 @@ media.gotham.com
 mediametrics.mpsa.com
 media.pirtek.co.uk
 media.pirtek.nl
+mediapxv.com
 mediasolutions.netinsight.net
 mediasource.actonservice.com
 mediniku.viessmann.lt
@@ -8642,6 +8645,7 @@ pl.volunteermarlborough.org.nz
 pl.volunteersouth.org.nz
 pm.boostintegrated.com
 pm.dailykos.com
+pmetrics.performancing.com
 p.milliyet.com.tr
 pm.pmu.fr
 pm.redbull.com
