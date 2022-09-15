@@ -1716,6 +1716,7 @@ analytics.tribeca.vidavee.com
 analytics.trust.page
 analytics.trutv.com
 analytics.turnertv.com
+analytics.tver.jp
 analytics.twitter.com
 analytics.ubs.com
 analytics.underarmour.com
@@ -2320,7 +2321,6 @@ cdeatz.spartoo.it
 cdn-channels-pixel.ex.co
 cdn-rum.ngenix.net
 cdn.arcstudiopro.com
-cdn.stroeerdigitalgroup.de
 cdn.usefathom.com
 cdn1.pebx.pl
 cdn7.baunetz.de
@@ -2396,6 +2396,7 @@ ckpxtt.justfly.com
 clamcelery.com
 clammytree.com
 clarium.global.ssl.fastly.net
+clearbitscripts.com
 clearbrands.actonservice.com
 clearcabbage.com
 clerks.doccheck.com
@@ -3395,6 +3396,7 @@ dolphin.deliver.ifeng.com
 donjigrad.viessmann.rs
 donkeyleaf.com
 doorbrazil.com
+doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dot-stat.radikal.ru
 doubtfulrainstorm.com
@@ -5157,6 +5159,7 @@ logging.prefixbox.com
 logging.wilmaa.com
 loggingapi.spingo.com
 loggychops.paulsmith.site
+logicanalytics.io
 loginlog.sdo.com
 logistics.osmworldwide.com
 loglady.skypicker.com
@@ -5629,6 +5632,7 @@ media.gotham.com
 media.pirtek.co.uk
 media.pirtek.nl
 mediametrics.mpsa.com
+mediapxv.com
 mediasolutions.netinsight.net
 mediasource.actonservice.com
 mediniku.viessmann.lt
@@ -6737,6 +6741,7 @@ plsbl-staging.edison.se
 plsbl.edison.se
 pluckypocket.com
 pluckytaste.com
+pmetrics.performancing.com
 pnhesw.jtb.co.jp
 pnovfl.karaca.com
 pocketfaucet.com
@@ -7028,7 +7033,6 @@ rimxqx.slickdeals.net
 ringplant.com
 ringsrecord.com
 riovdv.mustit.co.kr
-risk.clearbit.com
 ritzyveil.com
 riwkmo.spacemarket.com
 rkdms.com
@@ -9930,6 +9934,7 @@ track.lexico.com
 track.listings.flyhomes.com
 track.mailerlite.com
 track.mituo.cn
+track.mrgugu.com
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
