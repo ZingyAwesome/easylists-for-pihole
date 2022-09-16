@@ -3223,6 +3223,7 @@ catalogdiscovery.com
 catracking.finning.com
 catschickens.com
 cats.d20.rs
+cautiouscredit.com
 cbc.pnc.com
 cbdatatracker.com
 c.bigmir.net
@@ -3328,6 +3329,7 @@ ckozwx.n11.com
 ckpxtt.justfly.com
 clamcelery.com
 clammytree.com
+clarity.ms
 clarium.global.ssl.fastly.net
 cl.canva.com
 clearbitscripts.com
@@ -7860,6 +7862,7 @@ monitor.channel4.com
 monitor.music.qq.com
 monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
+monu.delivery
 mon.us.tiktokv.com
 moomooz.co.kr
 more.socialflow.com
@@ -9263,6 +9266,7 @@ sales.avis.com
 sales.disneylandparis.com
 sal.isanook.com
 s.allbootdisks.com
+salsify-ecdn.com
 salzwerk.viessmann.de
 samc.frankly.ch
 samc.zkb.ch
@@ -11473,6 +11477,7 @@ stakingscrew.com
 stakingslope.com
 stakingsmile.com
 staleseat.com
+staleshow.com
 stalesummer.com
 standingnest.com
 standingsack.com
@@ -12649,6 +12654,7 @@ thinkablerice.com
 thinkabletrick.com
 think.phdinc.com
 thirdbranch.zulln.se
+thirdrespect.com
 thirstylettuce.com
 thirstyswing.com
 thomastorch.com
@@ -14991,6 +14997,7 @@ zdbb.net
 zealousfield.com
 zelten.fritz-berger.de
 zenaps.com
+zeronaught.com
 zestycrime.com
 zhctrack.net
 zhihu-web-analytics.zhihu.com
