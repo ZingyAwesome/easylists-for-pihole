@@ -2305,6 +2305,7 @@ caspionlog.appspot.com
 catalogdiscovery.com
 catracking.finning.com
 catschickens.com
+cautiouscredit.com
 cb-mms.carbuyer.co.uk
 cbc.pnc.com
 cbdatatracker.com
@@ -2395,6 +2396,7 @@ cjcqls.onbuy.com
 ckpxtt.justfly.com
 clamcelery.com
 clammytree.com
+clarity.ms
 clarium.global.ssl.fastly.net
 clearbitscripts.com
 clearbrands.actonservice.com
@@ -3188,6 +3190,7 @@ deliver.ptgncdn.com
 delivery.hunterycity.com
 demandgen.ptc.com
 demdex.net
+dep.hmgroup.com
 desa.fkapi.net
 desb.fkapi.net
 desertedbreath.com
@@ -6111,6 +6114,7 @@ monitor.azure.com
 monitor.music.qq.com
 monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
+monu.delivery
 moomooz.co.kr
 more.socialflow.com
 mors22.com
@@ -7243,6 +7247,7 @@ sailsuit.com
 sal.isanook.com
 sales.avis.com
 sales.disneylandparis.com
+salsify-ecdn.com
 salzwerk.viessmann.de
 samc.frankly.ch
 samc.zkb.ch
@@ -8858,6 +8863,7 @@ stakingscrew.com
 stakingslope.com
 stakingsmile.com
 staleseat.com
+staleshow.com
 stalesummer.com
 stan.xing.com
 standingnest.com
@@ -9817,6 +9823,7 @@ thinkablefloor.com
 thinkablerice.com
 thinkabletrick.com
 thirdbranch.zulln.se
+thirdrespect.com
 thirstylettuce.com
 thirstyswing.com
 thomastorch.com
@@ -10792,6 +10799,7 @@ zcih.clotureantifugue.com
 zdbb.net
 zealousfield.com
 zenaps.com
+zeronaught.com
 zestycrime.com
 zhctrack.net
 zhihu-web-analytics.zhihu.com
