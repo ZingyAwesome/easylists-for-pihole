@@ -2324,6 +2324,7 @@ cdn-rum.ngenix.net
 cdn.arcstudiopro.com
 cdn.usefathom.com
 cdn1.pebx.pl
+cdn1.skrill.com
 cdn7.baunetz.de
 cdnhst.xyz
 cdtm.cdiscount.com
@@ -9383,6 +9384,7 @@ stats2.glamour.com
 stats2.newyorker.com
 stats2.tune.pk
 stats2.videonow.ru
+statsbox.info
 statsd.zmags.com
 statse-omtrdc.deka.de
 statsmp2.emol.com
@@ -9671,6 +9673,7 @@ tags.fullcontact.com
 tags.globo.com
 tags.johnlewis.com
 tags.newscgp.com
+tags.soloway.ru
 tagtracking.vibescm.com
 takingbackjuly.com
 takqyi.laurenhi.jp
