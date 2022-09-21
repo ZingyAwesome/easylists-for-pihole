@@ -1,5 +1,8 @@
+crnsgngrpj.nl
+dntblckmpls.nl
+nojazz.eu
+viadata.store
 advertising-cdn.dpgmedia.cloud
-advertising-module.api.dpgmedia.cloud
 content1.pcmweb.nl
 content1.pu.nl
 content1.wasmachines.nl
@@ -9,7 +12,3 @@ content2.kieskeurig.nl
 content2.pu.nl
 content2.wasmachines.nl
 content2.zoom.nl
-crnsgngrpj.nl
-dntblckmpls.nl
-nojazz.eu
-viadata.store
