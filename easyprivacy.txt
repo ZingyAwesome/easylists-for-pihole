@@ -1050,6 +1050,7 @@ seashoresociety.com
 seatsmoke.com
 secretivecub.com
 secretspiders.com
+secretturtle.com
 seedscissors.com
 selectionship.com
 selfishsea.com
@@ -1476,6 +1477,7 @@ ape-tagit.timeinc.net
 api.autopilothq.com
 api.wipmania.com
 apple.www.letv.com
+applicationinsights.azure.com
 argos.citruserve.com
 ariane.abtasty.com
 attributiontrackingga.googlecode.com
@@ -3328,6 +3330,7 @@ t.imgur.com
 t.indeed.com
 t.jossandmain.com
 t.kck.st
+t.nypost.com
 t.perigold.com
 t.regionsjob.com
 t.wayfair.ca
