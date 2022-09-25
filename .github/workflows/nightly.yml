@@ -79,7 +79,7 @@ jobs:
 
       - name: Open Pull Request
         if: ${{ env.CHANGED == 'true' }}
-        uses: vsoch/pull-request-action@1.0.19
+        uses: vsoch/pull-request-action@1.0.20
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_PREFIX: 'generated'
