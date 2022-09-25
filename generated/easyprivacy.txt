@@ -1859,6 +1859,7 @@ app1.maatwerkonline.nl
 appanalysis.banggood.com
 apparatuslip.com
 apple.www.letv.com
+applicationinsights.azure.com
 applink.getbambu.com
 applog.yiche.com
 apply.bpost.be
