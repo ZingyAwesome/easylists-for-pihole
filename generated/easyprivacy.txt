@@ -1859,7 +1859,6 @@ app1.maatwerkonline.nl
 appanalysis.banggood.com
 apparatuslip.com
 apple.www.letv.com
-applicationinsights.azure.com
 applink.getbambu.com
 applog.yiche.com
 apply.bpost.be
@@ -4707,7 +4706,6 @@ ipcheck.blogsys.jp
 iphufr.circleline.com
 iqjwrk.crocodile.co.jp
 irqewz.vilebrequin.com
-irqs.ioam.de
 irs01.com
 isc-tracking.eventim.com
 isebis.takamiclinic.or.jp
@@ -6128,7 +6126,6 @@ motionlessbag.com
 motionlessbelief.com
 mountainouspear.com
 mpglie.apartmentguide.com
-mqs.ioam.de
 mqsicr.smiggle.co.uk
 mqvyob.vidaxl.fi
 mrpdata.net
