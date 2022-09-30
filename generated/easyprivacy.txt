@@ -1408,6 +1408,7 @@ analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics-sg.tiktok.com
 analytics-static.ugc.bazaarvoice.com
+analytics-zone-1.api.leadfamly.com
 analytics.aasaam.com
 analytics.aba.com
 analytics.academy.com
@@ -6748,6 +6749,7 @@ plsbl.edison.se
 pluckypocket.com
 pluckytaste.com
 pmetrics.performancing.com
+pnekru6pxrum-a.akamaihd.net
 pnhesw.jtb.co.jp
 pnovfl.karaca.com
 pocketfaucet.com
@@ -7048,7 +7050,6 @@ rlcdn.com
 rloddo.olx.bg
 rlog.popin.cc
 rmgdapfnccsharpprd.azurewebsites.net
-rndntpmgnj-a.akamaihd.net
 rnffgv.wemakeprice.com
 rnybul.gismeteo.kz
 rnybul.gismeteo.ru
@@ -7581,7 +7582,6 @@ sfp.safe.baidu.com
 sfpc.changehealthcare.com
 sftrack.searchforce.net
 sg3.notarize.com
-sgphctileh-a.akamaihd.net
 sgw-analytics.panasonic.com
 shaggytank.com
 shakegoldfish.com
@@ -10338,7 +10338,6 @@ uestat.video.qiyi.com
 ugdturner.com
 ugmarketing.smu.edu.sg
 uhm26jyr11zv.www.freecodecamp.org
-uhytajrtpo-a.akamaihd.net
 uid.mediacorp.sg
 uie.data.cbc.ca
 uijciz.gunze.jp
@@ -10854,7 +10853,6 @@ zucks.net.zimg.jp
 zudver.matsmart.se
 zug.sbb.ch
 zum7cc.oui.sncf
-zvsuhljiha-a.akamaihd.net
 zvvpcz.puravita.ch
 zwatgf.megaknihy.cz
 zwinqi.spartoo.pt
