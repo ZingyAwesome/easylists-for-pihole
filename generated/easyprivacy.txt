@@ -2731,6 +2731,7 @@ content.tatatelebusiness.com
 content.verint.com
 content.wacom.com
 content.xpublisher.com
+content22.bmoharris.com
 contents-tracking.beop.io
 continuenow.miami.edu
 controlswim.com
@@ -10703,6 +10704,7 @@ wttd.madeleine.com
 wttd.madeleine.de
 wttd.madeleine.fr
 wttd.madeleine.gr
+wup-content23.bmoharris.com
 wvvw.francemediasmonde.com
 wvvw.infomigrants.net
 wvvw.rfi.fr
