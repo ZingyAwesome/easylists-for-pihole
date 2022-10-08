@@ -1835,6 +1835,7 @@ metrics.kmsmep.com
 metrics.mdstrm.com
 metrics.pico.tools
 metrics.readme.io
+metrics.redgifs.com
 metrics.scribblelive.com
 metrix.emagister.com
 metrixlablw.customers.luna.net
@@ -1925,6 +1926,7 @@ px.excitedigitalmedia.com
 px.marchex.io
 px.mountain.com
 px.owneriq.net
+px.redgifs.com
 px.spiceworks.com
 pylon.micstatic.com
 qubitanalytics.appspot.com
@@ -2990,6 +2992,7 @@ d.getpocket.com
 d.skk.moe
 data.guide.photobucket.com
 data.younow.com
+datadome.patreon.com
 dc.banggood.com
 dd.auspost.com.au
 deliver.ptgncdn.com
