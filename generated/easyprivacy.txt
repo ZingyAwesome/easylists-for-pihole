@@ -3115,6 +3115,7 @@ data1.virginplus.ca
 data2.gosquared.com
 datacollector-dra.dt.hicloud.com
 datadog-service.mvfglobal.com
+datadome.patreon.com
 datag.polo.com
 datanoticias.prisasd.com
 datatechonert.com
@@ -5940,6 +5941,7 @@ metrics.readme.io
 metrics.reallymoving.com
 metrics.realsimple.com
 metrics.recunia.de
+metrics.redgifs.com
 metrics.refinitiv.com
 metrics.regions.com
 metrics.restockit.com
