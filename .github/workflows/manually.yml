@@ -94,7 +94,7 @@ jobs:
 
       - name: Merge Pull Request
         if: ${{ env.CHANGED == 'true' }}
-        uses: juliangruber/merge-pull-request-action@v1.1.0
+        uses: juliangruber/merge-pull-request-action@v1.1.1
         with:
           number: ${{ steps.find-pull-request.outputs.number }}
           method: squash
