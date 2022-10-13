@@ -1976,6 +1976,7 @@ service.trustpid.com
 session.timecommerce.net
 sftrack.searchforce.net
 shared.65twenty.com
+slackb.com
 smrt.as
 snowplow.swm.digital
 solutions.invocacdn.com
@@ -2173,6 +2174,7 @@ tracker.cdnbye.com
 tracker.data-vp.com
 tracker.downdetector.com
 tracker.financialcontent.com
+tracker.gleanview.com
 tracker.icerocket.com
 tracker.idocdn.com
 tracker.jkstremum.xyz
@@ -16087,6 +16089,7 @@ g.bit.pt
 g.bitmag.com.br
 geoip.ativo.com
 globo-ab.globo.com
+hits.letras.mus.br
 logger.rm.uol.com.br
 logger.uol.com.br
 metrics.uol.com.br
