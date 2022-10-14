@@ -119,6 +119,7 @@ geoedge.be
 glimr.io
 glookup.info
 go-mpulse.net
+gsght.com
 hdmtools.com
 hs-analytics.net
 hsadspixel.net
@@ -542,6 +543,7 @@ cosmosjackson.com
 coverapparatus.com
 crabbychin.com
 crafthenry.com
+crashchance.com
 cratecamera.com
 crawlclocks.com
 crayoncompetition.com
@@ -732,6 +734,7 @@ habitualhumor.com
 haltingbadge.com
 haltinggold.com
 handleteeth.com
+handsomehose.com
 handsomeindustry.com
 handsomelyhealth.com
 handyfield.com
@@ -2025,7 +2028,6 @@ stats.mituyu.com
 stats.myangular.life
 stats.nebula.fi
 stats.netbopdev.co.uk
-stats.netdna-storage.com
 stats.olark.com
 stats.ozwebsites.biz
 stats.phoenix-widget.com
@@ -3304,6 +3306,7 @@ spanids.thesaurus.com
 spectrum.gettyimages.com
 squirrel.malaynahocker.com
 srtb.msn.com
+srv.plesk.com
 ss.photospecialist.co.uk
 ssc.api.bbc.com
 st.sawlive.tv
