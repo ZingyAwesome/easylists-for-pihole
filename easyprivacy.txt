@@ -2720,7 +2720,6 @@ sync.shinobi.jp
 t.adlpo.com
 t.seesaa.net
 tag.cribnotes.jp
-torimochi.line-apps.com
 tr.slvrbullet.com
 track.span-smt.jp
 track.thebase.in
@@ -2938,6 +2937,7 @@ ats.alot.com
 bat.maydream.com
 bats.video.yahoo.com
 bdt.123rf.com
+beacon.dropbox.com
 beacon.samsclub.com
 beacon.shazam.com
 beacon.shutterfly.com
@@ -15809,6 +15809,7 @@ p.pagesjaunes.fr
 pixel.dugwood.com
 pixel.ionos.fr
 res.paruvendu.fr
+s5.charliehebdo.fr
 stat.ouedkniss.com
 stats.sexemodel.com
 t.blablacar.com
