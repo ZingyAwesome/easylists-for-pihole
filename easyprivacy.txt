@@ -46,6 +46,7 @@ casalemedia.com
 cbdatatracker.com
 cdnhst.xyz
 ciqtracking.com
+ckies.net
 clarity.ms
 clearbitscripts.com
 click360.io
@@ -198,7 +199,6 @@ r42tag.com
 raac33.net
 rapidpanda.io
 rapidzebra.io
-rezync.com
 rfpx1.com
 rftslb.com
 rigill.com
@@ -1646,6 +1646,7 @@ dig.ultimedia.com
 direct-events-collector.spot.im
 distillery.wistia.com
 djibeacon.djns.com
+dl.episerver.net
 doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
 doug1izaerwt3.cloudfront.net
@@ -2654,6 +2655,7 @@ videostat.index.hu
 analytics.competitoor.com
 analytics.eikondigital.it
 analytics00.meride.tv
+analytics2-meride-tv.akamaized.net
 audit.shaa.it
 click.kataweb.it
 cnt.iol.it
@@ -2768,6 +2770,7 @@ track.omgpl.com
 tracking.novem.pl
 analytics-coletor-site.ojc.com.br
 api.nobeta.com.br
+collect.chaordicsystems.com
 events.chaordicsystems.com
 hitserver.ibope.com.br
 lurker.olx.com.br
@@ -2809,6 +2812,7 @@ dbex-tracker-v2.driveback.ru
 delivery.hunterycity.com
 error.videonow.ru
 g4p.redtram.com
+log.kslogs.ru
 logs.viavideo.digital
 metrics.aviasales.ru
 piper.amocrm.ru
@@ -2921,6 +2925,7 @@ analytics.kraken.com
 analytics.mouthshut.com
 analytics.nike.com
 analytics.ovh.com
+analytics.oyorooms.com
 analytics.pgncs.notion.so
 analytics.plex.tv
 analytics.productreview.com.au
@@ -3175,6 +3180,7 @@ privacyfriendly.netlify.app
 pulsar.ebay.com
 pulse.delta.com
 pumpkin.abine.com
+px.srvcs.tumblr.com
 pxl.indeed.com
 qm.redbull.com
 r.bbci.co.uk
