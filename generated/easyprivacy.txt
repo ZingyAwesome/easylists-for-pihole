@@ -1618,6 +1618,7 @@ analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
+analytics.oyorooms.com
 analytics.paddle.com
 analytics.pagefly.io
 analytics.partcommunity.com
@@ -1761,6 +1762,7 @@ analytics.yomedia.vn
 analytics.yourbankcard.com
 analytics.ziftsolutions.com
 analytics00.meride.tv
+analytics2-meride-tv.akamaized.net
 analyticsresults.bildungsforum.datev.de
 analyticsresults.datev.de
 analyticsssl.forcepoint.com
@@ -1906,6 +1908,7 @@ asp.taishokunext.com
 aspiringattempt.com
 assets.garron.blog
 assets.garron.me
+assets.instacart.com
 assets.webmanufaktur.ch
 astat.nikkei.com
 asumi.shinobi.jp
@@ -2398,9 +2401,11 @@ ciszhp.gutefrage.net
 ciszhp.motorradfrage.net
 cjbdme.conquer.org
 cjcqls.onbuy.com
+ckies.net
 ckpxtt.justfly.com
 clamcelery.com
 clammytree.com
+clarice.streema.com
 clarity.ms
 clarium.global.ssl.fastly.net
 clearbitscripts.com
@@ -2574,6 +2579,7 @@ collect.allianzdriveincinema.ch
 collect.asics.com
 collect.banggood.com
 collect.cap.ch
+collect.chaordicsystems.com
 collect.cloudsponge.com
 collect.elvia.ch
 collect.helsana.ch
@@ -2793,6 +2799,7 @@ counter.photopulse.ru
 counter.powweb.com
 counter.proxycrawl.com
 counter.rambler.ru
+counter.reddigital.ru
 counter.scribblelive.com
 counter.sibnet.ru
 counter.snackly.co
@@ -5132,6 +5139,7 @@ log.hypebeast.com
 log.idnes.cz
 log.invodo.com
 log.kibboko.com
+log.kslogs.ru
 log.kuwo.cn
 log.mappy.net
 log.mediacategory.com
@@ -5930,6 +5938,7 @@ metrics.nutropin.com
 metrics.nvidia.com
 metrics.octanner.com
 metrics.omniture.com
+metrics.onshape.com
 metrics.optum.com
 metrics.parcelforce.com
 metrics.paysafecard.com
@@ -6021,6 +6030,7 @@ metrics.uhc.com
 metrics.uol.com.br
 metrics.ups.com
 metrics.us.playstation.com
+metrics.userguiding.com
 metrics.usopen.org
 metrics.valuecityfurniture.com
 metrics.vans.com.au
@@ -9792,6 +9802,7 @@ teenyvolcano.com
 teethfan.com
 teijgy.herveleger.com
 teijs.alcampo.es
+telem.sre.gopuff.com
 telemetrics.klaviyo.com
 telemetry.adobe.io
 telemetry.api.playstation.com
@@ -10419,6 +10430,7 @@ urs.metacritic.com
 usedexample.com
 useg.nextdigital.com.hk
 user-metrics.onthemarket.com
+user.userguiding.com
 userexperience.thehut.net
 userfly.com
 usersegment.wpdigital.net
