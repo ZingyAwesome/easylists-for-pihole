@@ -1657,6 +1657,7 @@ ecomm.events
 ecommstats.s3.amazonaws.com
 eel.transistor.fm
 ele26126.jscrambler.com
+eq.userneeds.com
 errors.snackly.co
 event-api.contactatonce.co.uk
 event-api.contactatonce.com
@@ -1839,10 +1840,12 @@ metrics.brightcove.com
 metrics.ctvdigital.net
 metrics.kmsmep.com
 metrics.mdstrm.com
+metrics.onshape.com
 metrics.pico.tools
 metrics.readme.io
 metrics.redgifs.com
 metrics.scribblelive.com
+metrics.userguiding.com
 metrix.emagister.com
 metrixlablw.customers.luna.net
 mlweb.dmlab.hu
@@ -2027,6 +2030,7 @@ stats.itweb.co.za
 stats.kaltura.com
 stats.lotlinx.com
 stats.mituyu.com
+stats.mpthemes.net
 stats.myangular.life
 stats.nebula.fi
 stats.netbopdev.co.uk
@@ -2264,6 +2268,7 @@ ts.tradetracker.net
 ucounter.ucoz.net
 uid.mediacorp.sg
 units.knotch.it
+user.userguiding.com
 userexperience.thehut.net
 usersegment.wpdigital.net
 utle.tech426.com
@@ -2805,6 +2810,7 @@ counter.megaindex.ru
 counter.nn.ru
 counter.photopulse.ru
 counter.pr-cy.ru
+counter.reddigital.ru
 counter.star.lg.ua
 crm-analytics.imweb.ru
 d.wi-fi.ru
@@ -2938,6 +2944,7 @@ analytics.tradedoubler.com
 analytics.vedantu.com
 anon-stats.eff.org
 appanalysis.banggood.com
+assets.instacart.com
 atrack.allposters.com
 ats.alot.com
 bat.maydream.com
@@ -2961,6 +2968,7 @@ c.x.oanda.com
 c.xbox.com
 cc-api-data.adobe.io
 cl.canva.com
+clarice.streema.com
 click.nudevista.com
 click.oneplus.com
 click.sinx.com
@@ -3369,7 +3377,9 @@ tags.johnlewis.com
 target.nationwide.com
 target.nejm.org
 targeting.washpost.nile.works
+td.airdroid.com
 ted.dailymail.co.uk
+telem.sre.gopuff.com
 telemetry.adobe.io
 telemetry.api.playstation.com
 telemetry.firez.one
