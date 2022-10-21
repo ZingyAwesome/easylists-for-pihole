@@ -10513,6 +10513,7 @@ voraciousgrip.com
 vortex.data.microsoft.com
 vortex.hulu.com
 voyagepotato.com
+vpdcp.com
 vpf4.euskaltelofertas.com
 vpn-ids-documents.net.zooplus.nl
 vpn-ids-latin.developer.net.zooplus.nl
