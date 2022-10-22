@@ -245,7 +245,6 @@ tryzens-analytics.com
 turboeagle.co
 turbolion.io
 tvpixel.com
-tzegilo.com
 ugdturner.com
 ustat.info
 v1sts.me
@@ -1998,6 +1997,7 @@ st.linkfire.com
 starman.fathomdns.com
 stas.outbrain.com
 stat.boredomtherapy.com
+stat.flytechb.com
 stat.glaze.ai
 stat.mixi.media
 stat.moevideo.net
