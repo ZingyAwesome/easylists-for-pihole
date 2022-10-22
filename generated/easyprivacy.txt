@@ -1103,6 +1103,7 @@ activemarketingcms.net.zooplus.it
 activemarketingowa-ns-productions.apiserver.accect.net.zooplus.it
 activeornorthamerica.tomcatactivemarketing.net.zooplus.it
 activity.asce.org
+activity.fiverr.com
 acton.iriworldwide.com
 acton.simpleviewinc.com
 acton.unifilabs.com
@@ -2594,6 +2595,7 @@ collector-px0py5pczn.octopart.com
 collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
+collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
 collector.githubapp.com
@@ -8943,6 +8945,7 @@ stat.clichehosting.de
 stat.cncenter.cz
 stat.dbschenker.com
 stat.eagleplatform.com
+stat.flytechb.com
 stat.funshion.net
 stat.glaze.ai
 stat.guiasjuridicas.es
@@ -10354,7 +10357,6 @@ tybfxw.puma.com
 typicalairplane.com
 tyvjyt.rivers.com.au
 tyvuwf.lameteoagricole.net
-tzegilo.com
 tzwaw.pw
 u0crsrah75fy.camberlion.com
 u47.pnc.com
