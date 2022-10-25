@@ -30,7 +30,7 @@
     },
     "homepage": "https://github.com/yoavain/easylists-for-pihole#readme",
     "engines": {
-        "node": ">=12 <17",
+        "node": ">=12 <19",
         "npm": "<9"
     },
     "dependencies": {
@@ -38,7 +38,7 @@
     },
     "devDependencies": {
         "@types/jest": "29.2.0",
-        "@types/node": "18.8.3",
+        "@types/node": "18.11.5",
         "@typescript-eslint/eslint-plugin": "5.41.0",
         "@typescript-eslint/parser": "5.41.0",
         "eslint": "8.26.0",
