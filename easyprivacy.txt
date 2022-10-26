@@ -1378,6 +1378,7 @@ analytics-sg.tiktok.com
 analytics.30m.com
 analytics.agoda.com
 analytics.aimtell.com
+analytics.algolia.com
 analytics.amakings.com
 analytics.apnewsregistry.com
 analytics.atomiconline.com
@@ -1824,6 +1825,7 @@ lps.qantas.com
 lucid.mjhassoc.com
 lunametrics.wpengine.netdna-cdn.com
 m.addthisedge.com
+m.stripe.com
 ma.logsss.com
 martech.condenastdigital.com
 mas.nth.ch
@@ -1940,6 +1942,7 @@ px.spiceworks.com
 pylon.micstatic.com
 qubitanalytics.appspot.com
 r.skimresources.com
+r.stripe.com
 ramp.purch.com
 reach-id.orbit.tm-awx.com
 realm.hearst3pcc.com
@@ -2545,6 +2548,7 @@ zs.dhl.de
 abs.proxistore.com
 analytics.freespee.com
 analytics.valiuz.com
+at.360.audion.fm
 btstats.devtribu.fr
 collect-v6.51.la
 compteur.websiteout.net
@@ -2561,6 +2565,7 @@ stats-dc1.frz.io
 stats-factory.digitregroup.io
 stats.ipmgroup.be
 stats.tipser.com
+t.360.audion.fm
 t.ofsys.com
 tag.agrvt.com
 tag.goldenbees.fr
@@ -2890,6 +2895,7 @@ informers.sinoptik.ua
 analytics.yomedia.vn
 f-emc.ngsp.gov.vn
 tracking.aita.gov.vn
+tracking3.vnncdn.net
 za.zdn.vn
 a-reporting.nytimes.com
 a.electerious.com
@@ -3119,6 +3125,7 @@ jfapiprod.optimonk.com
 jumbo.zomato.com
 l.ctrl.blog
 link.kogan.com
+lists.ccmbg.com
 log-api.newrelic.com
 log.china.cn
 log.ctrl.blog
@@ -16006,7 +16013,6 @@ ds2.independer.nl
 events.reclamefolder.nl
 logs.ggweb.nl
 metrics.nu.nl
-pipeline.rd.nl
 r.kleertjes.com
 sat.sanoma.fi
 stats.fd.nl
