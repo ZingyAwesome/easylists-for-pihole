@@ -1424,6 +1424,7 @@ analytics.ae.com
 analytics.agoda.com
 analytics.aimtell.com
 analytics.aita.gov.vn
+analytics.algolia.com
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.americanfunds.com
@@ -5098,6 +5099,7 @@ links2.chownowmail.com
 linktrace.diningcity.cn
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
+lists.ccmbg.com
 lite-cdn.com
 literally-analytics.appspot.com
 literatelight.com
@@ -10265,6 +10267,7 @@ tracking.zierlicheladies.de
 tracking1.brandmentions.com
 tracking1.filemoon.sx
 tracking2.channeladvisor.com
+tracking3.vnncdn.net
 trackingaa.hitachienergy.com
 trackingapi.cloudapp.net
 trackingssl.aginsurance.be
