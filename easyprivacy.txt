@@ -1596,6 +1596,7 @@ conversions.genieventures.co.uk
 cookie-guard-erdee.ey.r.appspot.com
 cookies.livepartners.com
 cookiex.ngd.yahoo.com
+count-server.sharethis.com
 count.asnetworks.de
 count.carrierzone.com
 count.me.uk
@@ -16098,6 +16099,7 @@ nil.naver.com
 pb.m.naver.com
 prism.pandora.tv
 sp.naver.com
+stat.i3.dmm.com
 stat.tiara.daum.net
 stat.tiara.kakao.com
 track.tiara.daum.net
