@@ -3113,7 +3113,6 @@ gtreus.aliexpress.com
 gurgle.pcmag.com
 hanaana.socialblade.com
 heap.drop.com
-hfp.intuit.com
 i.pokernews.com
 iedc.fitbit.com
 indmetric.rediff.com
@@ -3473,6 +3472,7 @@ weblog.strawberrynet.com
 wstats.e-wok.tv
 wtk.db.com
 xstats.evoload.io
+yfp.intuit.com
 z.cdp-dev.cnn.com
 zion-telemetry.api.cnn.io
 track.opentable.ae
