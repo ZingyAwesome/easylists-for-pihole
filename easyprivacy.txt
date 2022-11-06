@@ -5,7 +5,6 @@
 31daa5lnq.de
 3gl.net
 520886.xyz
-8672.site
 a1webstrategy.com
 a8723.com
 aaxwall.com
@@ -103,7 +102,6 @@ g1188506010.co
 g11885060100.co
 g12083144435.co
 g12281228770.co
-g12479313105.co
 g1584674682.co
 g1782759015.co
 g1782759016.co
@@ -198,7 +196,6 @@ pubtm.com
 pzapi-ij.com
 pzimff.com
 quesid.com
-quickanalytics.ca
 quickkoala.io
 r42tag.com
 raac33.net
@@ -251,7 +248,6 @@ turbolion.io
 tvpixel.com
 ugdturner.com
 ustat.info
-v1sts.me
 venusrevival.com
 videoplayerhub.com
 vkanalytics.net
@@ -284,11 +280,9 @@ adminer.com
 aleinvest.xyz
 analytics.blue
 andlache.com
-authcaptcha.com
 bablace.com
 baiduccdn1.com
 becanium.com
-berateveng.ru
 bewaslac.com
 biberukalap.com
 binarybusiness.de
@@ -329,7 +323,6 @@ minerad.com
 mwor.gq
 oei1.gq
 pampopholf.com
-play.mix.kinostuff.com
 rand.com.ru
 reauthenticator.com
 seed.bitcoin.sipa.be
@@ -341,10 +334,6 @@ serv1swork.com
 statdynamic.com
 str1kee.com
 tercabilis.info
-verifier.live
-videoplayer2.xyz
-wordc.ga
-zminer.zaloapp.com
 2znp09oa.com
 4jnzhl0d0.com
 5mcwl.pw
@@ -522,7 +511,6 @@ coatfood.com
 colossalchance.com
 colossalclouds.com
 combativedetail.com
-combbelief.com
 combbit.com
 combclover.com
 comfortablecheese.com
@@ -1034,7 +1022,6 @@ sablesmile.com
 sablesong.com
 sailsuit.com
 samestretch.com
-sandinsect.com
 satisfycork.com
 satisfyingshow.com
 satisfyingspark.com
@@ -1392,7 +1379,6 @@ analytics.avanser.com.au
 analytics.aweber.com
 analytics.bestreviews.com
 analytics.bitrix.info
-analytics.brandcrumb.com
 analytics.carambo.la
 analytics.chegg.com
 analytics.cincopa.com
@@ -1402,7 +1388,6 @@ analytics.cmn.com
 analytics.codigo.se
 analytics.contentexchange.me
 analytics.convertlanguage.com
-analytics.cynapse.com
 analytics.datahc.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
@@ -1410,7 +1395,6 @@ analytics.developer.riotgames.com
 analytics.digitalpfizer.com
 analytics.disneyinternational.com
 analytics.dvidshub.net
-analytics.edgesuite.net
 analytics.eggoffer.com
 analytics.erepublic.com
 analytics.favcy.com
@@ -1508,7 +1492,6 @@ axislogger.appspot.com
 az693360.vo.msecnd.net
 b.bedop.com
 b7tp47v2nb3x-a.akamaihd.net
-bab.frb.io
 bacon.getcarro.com
 bacon.section.io
 barium.cheezdev.com
@@ -1525,7 +1508,6 @@ beacon.searchspring.io
 beacon.securestudies.com
 beacon.sftoaa.com
 beacon.sojern.com
-beacon.squixa.net
 beacon.statful.com
 beacon.tingyun.com
 beacon.vertebrae-axis.com
@@ -3167,6 +3149,7 @@ metrics.spkt.io
 metrics.syf.com
 metricsishare.rediff.com
 miao.baidu.com
+midas.chase.com
 mktcs.cloudapps.cisco.com
 mms.cnn.com
 mon.us.tiktokv.com
