@@ -113,7 +113,6 @@
 8041691.engage.hipages.com.au
 8147563.thekingdom.bk.com
 82o9v830.com
-8672.site
 8ag8k205ppci.app.alpacafinance.org
 8ehhtsv9bo7i.monkeylearn.com
 8ezc.sfr.fr
@@ -1198,6 +1197,7 @@ adebiscname.auone.jp
 adebisu.wowow.co.jp
 adfooe.hofsilk.com
 adfox.yandex.ru
+adl.bankofthewest.com
 adless.io
 adlog.com.com
 adm-mail.net.zooplus.es
@@ -1450,7 +1450,6 @@ analytics.boing.es
 analytics.bolavip.com
 analytics.boomerangtv.co.uk
 analytics.box.com
-analytics.brandcrumb.com
 analytics.brave.com
 analytics.buoyweather.com
 analytics.canaltnt.es
@@ -1491,7 +1490,6 @@ analytics.concorsicartoonito.it
 analytics.contentexchange.me
 analytics.convertlanguage.com
 analytics.corusent.com
-analytics.cynapse.com
 analytics.daasrv.net
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
@@ -1508,8 +1506,6 @@ analytics.disneyplus.com
 analytics.dogecoin.gg
 analytics.dvidshub.net
 analytics.ecosia.org
-analytics.edgekey.net
-analytics.edgesuite.net
 analytics.eggoffer.com
 analytics.eikko.ai
 analytics.eikondigital.it
@@ -1946,7 +1942,6 @@ auriro.net
 aurora-d3.herokuapp.com
 ausclh.castlery.com
 auspiciousyard.com
-authcaptcha.com
 autoimmunity.thermofisher.com
 automate.opex.com
 automaticairplane.com
@@ -1985,7 +1980,6 @@ b2bmarketingsb.swisscom.com
 b2bmkt.lge.co.kr
 b5j6itccyluq.nofluffjobs.com
 b7tp47v2nb3x-a.akamaihd.net
-bab.frb.io
 bablace.com
 bacon.getcarro.com
 bacon.section.io
@@ -2046,7 +2040,6 @@ beacon.shazam.com
 beacon.shutterfly.com
 beacon.sina.com.cn
 beacon.sojern.com
-beacon.squixa.net
 beacon.statful.com
 beacon.tingyun.com
 beacon.viewlift.com
@@ -2075,7 +2068,6 @@ beneficialbeef.com
 beneficios.davivienda.hn
 benthose.com
 bento.agoda.com
-berateveng.ru
 bestboundary.com
 bestbuy.actonservice.com
 beuniquelyinsured.selective.com
@@ -2620,7 +2612,6 @@ colossalclouds.com
 colvk.viki.io
 com.econa.com
 combativedetail.com
-combbelief.com
 combbit.com
 combclover.com
 comfortablecheese.com
@@ -3803,6 +3794,7 @@ essdhn.makuake.com
 estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
 etgkbu.unieuro.it
+etop.ro
 etui.fs.ml.com
 etx.indiatimes.com
 euclid.kuula.co
@@ -4060,6 +4052,7 @@ foxitsoftware.actonsoftware.com
 fp-cdn.azureedge.net
 fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
+fpa-cdn.decrypt.co
 fpa-events.decrypt.co
 fpapi.io
 fpaux.net
@@ -4148,7 +4141,6 @@ g1188506010.co
 g11885060100.co
 g12083144435.co
 g12281228770.co
-g12479313105.co
 g1584674682.co
 g1782759015.co
 g1782759016.co
@@ -4555,6 +4547,7 @@ inbound-analytics.pixlee.co
 incompetentjoke.com
 indmetric.rediff.com
 industry.promo.skf.com
+ineed2s.ro
 inencr.woodhouseclothing.com
 infamousstream.com
 infinityid.condenastdigital.com
@@ -6095,6 +6088,7 @@ mhidwg.elgiganten.se
 mi-de-ner-nis3.info
 miao.baidu.com
 micpn.com
+midas.chase.com
 mightyspiders.com
 militaryverse.com
 mimosamajor.com
@@ -6781,7 +6775,6 @@ plausible.west.io
 plausible.wikiotics.org
 plausible.zest.dev
 plausible.zorin.com
-play.mix.kinostuff.com
 player-telemetry.vimeo.com
 plotparent.com
 plotrabbit.com
@@ -6940,7 +6933,6 @@ quarterbean.com
 qubitanalytics.appspot.com
 quesid.com
 questions.theanswerco.com
-quickanalytics.ca
 quickkoala.io
 quicksandear.com
 quidel.actonservice.com
@@ -7392,7 +7384,6 @@ sanalytics.visible.com
 sanalytics.washingtoncountybank.com
 sanalytics.wideroe.no
 sananalytics.prod.ori.hayneedle.com
-sandinsect.com
 sanl.champssports.ca
 sanl.champssports.com
 sanl.eastbay.com
@@ -10372,7 +10363,7 @@ tyvjyt.rivers.com.au
 tyvuwf.lameteoagricole.net
 tzwaw.pw
 u0crsrah75fy.camberlion.com
-u47.pnc.com
+u44.pnc.com
 u652.myplainview.com
 u927.sfgate.com
 u989.theweek.com
@@ -10470,7 +10461,6 @@ v1-preview-wwwowa.dockercert.net.zooplus.de
 v1-preview-wwwowa.frontpagedockertrial.net.zooplus.de
 v1-testing-wwwowa.net.zooplus.de
 v1owa.opsadmins.net.zooplus.it
-v1sts.me
 v1svcapiserver.marketing.account.net.zooplus.de
 v2api.alpha.net.zooplus.de
 v2nginxowaoid.development.net.zooplus.nl
@@ -10482,7 +10472,6 @@ vdrn.redplum.com
 venusgloria.com
 venusrevival.com
 verdantanswer.com
-verifier.live
 verifyvegetable.com
 verseballs.com
 vfd2dyn.vodafone.de
@@ -10496,7 +10485,6 @@ vgo.vegaoopro.com
 video-ad-stats.googlesyndication.com
 video-mia3-2.xx.fbcdn.net.iberostar.com
 videoevents.outbrain.com
-videoplayer2.xyz
 videoplayerhub.com
 videostat-new.index.hu
 videostat.index.hu
@@ -10718,7 +10706,6 @@ wl-analytics.tsp.li
 wl-pixel.index.digital
 wmgroup.us
 woodpeckerlog.com
-wordc.ga
 workableachiever.com
 workoperation.com
 workwonders.hallstar.com
@@ -10883,7 +10870,6 @@ zkmhhr1fr79z.dictionary.basabali.org
 zkxmhc.carcam.ru
 zlmapa.nestenn.com
 zmhsxr.hometogo.com
-zminer.zaloapp.com
 zmtqmp.shoestock.com.br
 znq9.destinia.mx
 znrgrd.johndog.pl
