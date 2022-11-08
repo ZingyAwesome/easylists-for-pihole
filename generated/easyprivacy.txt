@@ -8547,6 +8547,7 @@ smetrics.radioactiva.cl
 smetrics.radiole.com
 smetrics.ragsdaleair.com
 smetrics.ralphlauren.co.kr
+smetrics.ralphlauren.com
 smetrics.ralphlauren.com.au
 smetrics.ralphlauren.global
 smetrics.ralphlauren.nl
