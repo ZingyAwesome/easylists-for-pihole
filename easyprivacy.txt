@@ -2799,6 +2799,7 @@ banstat.nadavi.net
 browser-updater.yandex.net
 c.bigmir.net
 cdn-rum.ngenix.net
+client-analytics.mts.ru
 cnstats.cdev.eu
 cnt.logoslovo.ru
 cnt.nov.ru
