@@ -2481,6 +2481,7 @@ clicktale.pantherssl.com
 clicktrack.cmnetwork.co
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
+client-analytics.mts.ru
 client-log.box.com
 client-metrics.chess.com
 clientservice.alphasimplex.com
