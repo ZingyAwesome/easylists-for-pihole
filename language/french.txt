@@ -9007,6 +9007,7 @@ ba.jeux-gratuits.com
 ba.journaldesfemmes.com
 block.mediavenus.biz
 ca.xxxshame.com
+cdn.hqwa.xyz
 cdn1.lp.saboom.com
 cdn15.acloudimages.com
 cmp.vidcoin.com
