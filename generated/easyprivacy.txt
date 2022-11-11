@@ -6759,6 +6759,7 @@ plausible.reactpreview.com
 plausible.redchamp.net
 plausible.regex.help
 plausible.riok.ch
+plausible.safing.io
 plausible.simplelogin.io
 plausible.slope.io
 plausible.staging.sketch.com
