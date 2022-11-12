@@ -22,6 +22,7 @@ affvantage.com
 agkn.com
 allvideometrika.com
 altopd.com
+analys.live
 analysis.fi
 apeagle.io
 apenterprise.io
@@ -52,6 +53,7 @@ clearbitscripts.com
 click360.io
 cloudwp.io
 clrt.ai
+cntxtfl.com
 cpx.to
 crsspxl.com
 cvlb.dev
@@ -2494,6 +2496,7 @@ log.worldsoft-cms.info
 mastertag.kpcustomer.de
 mastertag.q-sis.de
 met.vgwort.de
+nexxtv-events.servicebus.windows.net
 omniture.eaeurope.eu
 orbidder.otto.de
 plausible.ams.to
@@ -2863,6 +2866,7 @@ analitica.webrpp.com
 contadores.miarroba.com
 contadores.miarroba.es
 creatives.sunmedia.tv
+ctx.citiservi.es
 datanoticias.prisasd.com
 g-stats.openhost.es
 hits.eluniversal.com.mx
@@ -3159,6 +3163,7 @@ mktcs.cloudapps.cisco.com
 mms.cnn.com
 mon.us.tiktokv.com
 monitor.channel4.com
+mstm.motorsport.com
 mxpl.9gag.com
 n26-trusted.n26.com
 nasi.etherscan.com
@@ -16130,6 +16135,7 @@ globo-ab.globo.com
 hits.letras.mus.br
 logger.rm.uol.com.br
 logger.uol.com.br
+matt.mercadolivre.com.br
 metrics.uol.com.br
 tags.globo.com
 tm.uol.com.br
