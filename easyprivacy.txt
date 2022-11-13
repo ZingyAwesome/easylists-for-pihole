@@ -54,6 +54,7 @@ click360.io
 cloudwp.io
 clrt.ai
 cntxtfl.com
+convead.io
 cpx.to
 crsspxl.com
 cvlb.dev
@@ -143,6 +144,7 @@ instantfox.co
 intelligenceretarget.com
 intellimizeio.com
 irs01.com
+jams.wiki
 jcpclick.com
 k5a.io
 krxd.net
@@ -1294,6 +1296,7 @@ unwrittenspot.com
 usedexample.com
 uttermosthobbies.com
 vanfireworks.com
+vengefulgrass.com
 venusgloria.com
 verdantanswer.com
 verifyvegetable.com
@@ -2870,6 +2873,7 @@ ctx.citiservi.es
 datanoticias.prisasd.com
 g-stats.openhost.es
 hits.eluniversal.com.mx
+mat.socy.es
 mtm.qdqmedia.com
 pub.servidoresge.com
 reachandrich.antevenio.com
@@ -3011,7 +3015,6 @@ collector.xhamster2.com
 colvk.viki.io
 confiant.msn.com
 console-telemetry.oci.oraclecloud.com
-contents2.00110.citi.com
 copilot-telemetry.githubusercontent.com
 count.rin.ru
 cpt.itv.com
