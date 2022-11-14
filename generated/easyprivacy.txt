@@ -1104,6 +1104,7 @@ activemarketingowa-ns-productions.apiserver.accect.net.zooplus.it
 activeornorthamerica.tomcatactivemarketing.net.zooplus.it
 activity.asce.org
 activity.fiverr.com
+activity.wisepops.com
 acton.iriworldwide.com
 acton.simpleviewinc.com
 acton.unifilabs.com
@@ -10274,6 +10275,7 @@ tracking.venturify.at
 tracking.voordeeluitjes.nl
 tracking.waterfrontmedia.com
 tracking.webtradecenter.com
+tracking.wisepops.com
 tracking.wlscripts.net
 tracking.zaertlicheladies.de
 tracking.zierlicheladies.de
