@@ -37,7 +37,7 @@
         "got": "11.8.5"
     },
     "devDependencies": {
-        "@types/jest": "29.2.2",
+        "@types/jest": "29.2.3",
         "@types/node": "18.11.9",
         "@typescript-eslint/eslint-plugin": "5.43.0",
         "@typescript-eslint/parser": "5.43.0",
