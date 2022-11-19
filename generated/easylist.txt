@@ -1236,6 +1236,7 @@ adrunnr.com
 adrwhdak.com
 ads-sg.tiktok.com
 ads-twitter.com
+ads-yallo-production.imgix.net
 ads.audio.thisisdax.com
 ads.leovegas.com
 ads.rd.linksynergy.com
