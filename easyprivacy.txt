@@ -3399,6 +3399,7 @@ t.indeed.com
 t.jossandmain.com
 t.kck.st
 t.nypost.com
+t.pagesix.com
 t.perigold.com
 t.regionsjob.com
 t.wayfair.ca
@@ -3503,6 +3504,7 @@ substation.confection.io
 gj.mmstat.com
 oneid.mmstat.com
 content22.bmoharris.com
+contents2.00110.citi.com
 drfdisvc.walmart.com
 event.evtm.53.com
 tmetrix.my.chick-fil-a.com
