@@ -9417,6 +9417,7 @@ stats.ubiwiz.com
 stats.ulixes.pl
 stats.unox.com
 stats.urbanfinn.com
+stats.uscreen.io
 stats.vanityprojects.com
 stats.varrando.com
 stats.vattenfall.se
@@ -10605,6 +10606,7 @@ wearywater.com
 web-player-tracker.biliapi.net
 web-reco-stage.ns.machinevision.net.zooplus.it
 web-trace.ksapisrv.com
+web-tracker.smsbump.com
 web.autobodytoolmart.com
 web.bankofscotland.de
 web.campaign.miriade.com
