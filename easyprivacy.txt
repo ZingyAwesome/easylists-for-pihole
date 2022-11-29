@@ -1645,6 +1645,7 @@ data.queryly.com
 data.woosmap.com
 data2.gosquared.com
 datadog-service.mvfglobal.com
+dcinfos-cache.abtasty.com
 dep.hmgroup.com
 detect.ergebnis-dienst.de
 dfanalytics.dealerfire.com
@@ -2040,6 +2041,7 @@ stats.heyoya.com
 stats.inergizedigitalmedia.com
 stats.itweb.co.za
 stats.kaltura.com
+stats.ksearchnet.com
 stats.lotlinx.com
 stats.mituyu.com
 stats.mpthemes.net
@@ -2589,6 +2591,7 @@ tim.nextinpact.com
 track.kyoads.com
 tracking.ecookie.fr
 tracking.kdata.fr
+tracking.lqm.io
 tracking.netvigie.com
 trk.adbutter.net
 visitping.rossel.be
