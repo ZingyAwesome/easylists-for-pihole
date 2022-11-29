@@ -2586,6 +2586,7 @@ collect.chaordicsystems.com
 collect.cloudsponge.com
 collect.elvia.ch
 collect.helsana.ch
+collect.igodigital.com
 collect.meilleurtaux.com
 collect.rewardstyle.com
 collect.tianya.cn
@@ -3154,6 +3155,7 @@ dcclaa.elle.de
 dcclaa.harpersbazaar.de
 dcclaa.instyle.de
 dcclaa.slowlyveggie.de
+dcinfos-cache.abtasty.com
 dcs.audi.com
 dcs.esprit.at
 dcs.esprit.be
@@ -9241,6 +9243,7 @@ stats.koehrer.de
 stats.kongressen.com
 stats.krauss.io
 stats.kryptoslogic.com
+stats.ksearchnet.com
 stats.larsroettig.dev
 stats.lastfm.matthiasloibl.com
 stats.laxallstars.com
