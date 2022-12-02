@@ -28,6 +28,7 @@ sda.quinews.net
 widget.promoqui.it
 widgets.shop.moda.it
 a.trend-online.it
+banner.moscarossa.biz
 click.html.it
 devaje.pourfemme.it
 extra.treddi.com
