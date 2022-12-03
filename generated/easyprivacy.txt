@@ -1403,7 +1403,6 @@ analytic.underarmour.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
-analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
@@ -1538,6 +1537,7 @@ analytics.geekyminds.net
 analytics.getshogun.com
 analytics.givealittle.co
 analytics.global.sky.com
+analytics.googlepeer.cloud
 analytics.greenmountainenergy.com
 analytics.growthphysics.com
 analytics.gvim.mobi
@@ -2059,6 +2059,7 @@ beam.bankrate.com
 beam.mjhlifesciences.com
 beamincrease.com
 beastbeef.com
+beat.yourtv.jp
 beaumont.actonservice.com
 beautifulhobbies.com
 becanium.com
@@ -2924,6 +2925,7 @@ cyohmj.catawiki.com
 cz-mktg.vodafone.com
 czvdlp.hgregoire.com
 czx5eyk0exbhwp43ya.biz
+d-log.asahi.co.jp
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
@@ -7032,6 +7034,8 @@ recommenddoor.com
 reconditeprison.com
 reconditerespect.com
 recordbutter.com
+recv-entry.tbs.co.jp
+recv-jnn.tbs.co.jp
 reeokx.reima.com
 reeyzk.momq.co.kr
 ref.dealerinspire.com
@@ -10076,6 +10080,7 @@ track.mailerlite.com
 track.mituo.cn
 track.mrgugu.com
 track.mycliplister.com
+track.myli.io
 track.netzero.net
 track.noddus.com
 track.nopaperforms.com
@@ -10581,6 +10586,7 @@ videostat-new.index.hu
 videostat.index.hu
 videostats.kakao.com
 vidstat.taboola.com
+view.fujitv.co.jp
 views.arabnews.com
 views.cancan.ro
 views.emikajewelry.com
