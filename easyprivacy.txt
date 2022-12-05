@@ -1414,6 +1414,7 @@ zippywind.com
 zlp6s.pw
 analytics.rechtslupe.org
 tracking.wlscripts.net
+1558334541.rsc.cdn77.org
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
@@ -3123,6 +3124,7 @@ dtag.breadfinancial.com
 dumpster.cam4.com
 e377.thestar.com
 ea.epochbase.com
+edge.staging.fullstory.com
 eec.crunchyroll.com
 ekg.riotgames.com
 engagefront.meteomedia.com
