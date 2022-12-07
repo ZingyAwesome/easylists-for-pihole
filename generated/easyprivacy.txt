@@ -1538,6 +1538,7 @@ analytics.getshogun.com
 analytics.givealittle.co
 analytics.global.sky.com
 analytics.googlepeer.cloud
+analytics.gooogol.com
 analytics.greenmountainenergy.com
 analytics.growthphysics.com
 analytics.gvim.mobi
@@ -2350,6 +2351,7 @@ census.misterspex.fr
 census.misterspex.nl
 census.misterspex.no
 census.misterspex.se
+cfa.fidelity.com
 cfpwood.actonservice.com
 cfsaze.retailmenot.com
 cfyhym.weightwatchers.fr
@@ -2746,6 +2748,7 @@ content.verint.com
 content.wacom.com
 content.xpublisher.com
 content22.bmoharris.com
+content22.citibank.com.au
 contents-tracking.beop.io
 continuenow.miami.edu
 controlswim.com
@@ -4246,6 +4249,7 @@ gfgcwf.vidaxl.lv
 gfgywe.abril.com.br
 gfn1.ugap.fr
 gfnokk.natro.com
+gfp.intuit.com
 gfv4.destinia.co.za
 ghdlry.greetz.nl
 ghrnbw.avocadostore.de
@@ -4523,6 +4527,7 @@ iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
 idg1.idgarages.com
 idqwqm.kkday.com
+idstatus.sky.com
 idx.lat
 iedc.fitbit.com
 ifnyop.priceline.com
@@ -4554,6 +4559,7 @@ img.bwin.com.mx
 img.bwin.it
 img.foodspring.dk
 img.foodspring.se
+imgs.signifyd.com
 imgstat.baidu.com
 imhwzc.blibli.com
 imjdmq.emcasa.com
@@ -9999,6 +10005,7 @@ tms.fmm.io
 tms.hft.everyplate.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
+tmx.td.com
 tmy8.madeindesign.ch
 tncid.app
 tniujy.natura.com.br
@@ -10920,7 +10927,6 @@ yandexadexchange.net
 yardianalytics.com
 yast.rutube.ru
 ydqv7yvf191i.www.logology.co
-yfp.intuit.com
 ygsoeu.size.co.uk
 yh6u.dealeusedevoyages.com
 yhpknxzspo8a.kvest.ee
