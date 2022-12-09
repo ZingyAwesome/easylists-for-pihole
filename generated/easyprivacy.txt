@@ -4114,6 +4114,7 @@ fresnel-events.vimeocdn.com
 fretfulfurniture.com
 friendwool.com
 frightenedpotato.com
+frog.editorx.com
 frog.yuanfudao.com
 froglytics.eventfrog.ch
 fronttoad.com
@@ -4422,6 +4423,7 @@ hit.meta.ua
 hit.mybestpro.com
 hit.skrz.cz
 hits-secure.guardian.co.uk
+hits.cyberdrop.me
 hits.dealer.com
 hits.eluniversal.com.mx
 hits.guardian.co.uk
@@ -6202,6 +6204,7 @@ mountainouspear.com
 mpglie.apartmentguide.com
 mqsicr.smiggle.co.uk
 mqvyob.vidaxl.fi
+mradx.net
 mrpdata.net
 ms-trackingapi.phenompeople.com
 msafoy.eyebuydirect.com
