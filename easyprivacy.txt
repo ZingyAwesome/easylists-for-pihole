@@ -1875,6 +1875,7 @@ log.go.com
 log.invodo.com
 log.kibboko.com
 log.mediacategory.com
+log.nordot.jp
 log.olark.com
 log.outbrain.com
 log.outbrainimg.com
@@ -2662,6 +2663,7 @@ tracking.lqm.io
 tracking.netvigie.com
 trk.adbutter.net
 visitping.rossel.be
+ws3.smartp.com
 analytics.styria.hr
 adv-sv-stat.focus.cn
 analytics.meituan.net
@@ -3268,6 +3270,7 @@ net.haier.com
 nm.newegg.com
 no9pldds1lmn3.soundcloud.com
 noodle.backmarket.io
+observe.metarouter.io
 ohm-dot-hackster-io.appspot.com
 ophan.theguardian.com
 optimize-stats.voxmedia.com
