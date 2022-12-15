@@ -4921,6 +4921,7 @@ kon.mediaplatform.group
 kpcyic.sportisimo.cz
 kqchxa.denizbutik.com
 kqscrl.bonprix.nl
+kraken.rambler.ru
 krfxvi.iconbydesign.com.au
 kristechwire.actonservice.com
 kropka.onet.pl
@@ -5177,6 +5178,7 @@ log.bitauto.com
 log.china.cn
 log.cizion.com
 log.codemarketing.cloud
+log.cookieyes.com
 log.cpex.cz
 log.ctrl.blog
 log.ecgh.dk
