@@ -1657,6 +1657,7 @@ collector.mazeberry.com
 collector.sspinc.io
 connect.idocdn.com
 connext-cdn.azureedge.net
+console.uxlens.com
 contents-tracking.beop.io
 conversions.genieventures.co.uk
 cookie-guard-erdee.ey.r.appspot.com
