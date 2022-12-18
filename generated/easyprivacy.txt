@@ -2663,6 +2663,7 @@ conditionchange.com
 conditioncrush.com
 conf.optum.com
 confiant-integrations.global.ssl.fastly.net
+confiant-integrations.net
 confiant.msn.com
 connect.acams.org
 connect.acspubs.org
@@ -2718,6 +2719,7 @@ consciouscheese.com
 consciousdirt.com
 consistpotato.com
 console-telemetry.oci.oraclecloud.com
+console.uxlens.com
 contact-us.adp.ca
 contact.adaptavist.com
 contact.coface.com
@@ -3473,6 +3475,7 @@ ds2.independer.nl
 dsbahmgppc0j4.cloudfront.net
 dsg.interia.pl
 dsoxjxin5jji.controlconceptsusa.com
+dspx.tv
 dtag.breadfinancial.com
 dtmssl.bobcat.com
 dttrk.com
