@@ -2282,6 +2282,7 @@ tracker.mrpfd.com
 tracker.myyschool.xyz
 tracker.nitropay.com
 tracker.roitesting.com
+tracker.services.vaix.ai
 tracker.softcube.com
 tracker.ssl0d.com
 tracker.timesgroup.com
@@ -16303,6 +16304,7 @@ xray.mail.ru
 yast.rutube.ru
 tracker.azet.sk
 analytics.bolavip.com
+analytics.emol.com
 analytics.infobae.com
 analytics.redlink.com.ar
 audiencies.ccma.cat
@@ -16317,6 +16319,7 @@ pixel.europapress.net
 rvv.emol.com
 statsmp2.emol.com
 t-pan.triodos.com
+unm.emol.com
 wssgmstats.vibbo.com
 wsstats.coches.net
 ai.idg.se
