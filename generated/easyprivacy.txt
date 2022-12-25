@@ -3258,6 +3258,7 @@ dfanalytics.dealerfire.com
 dfapvmql-q.global.ssl.fastly.net
 dgcollector.evidon.com
 dgemwx.whiteteak.com
+dggaenaawxe8z.cloudfront.net
 dgmolb.irishjobs.ie
 dgynnj.koctas.com.tr
 dhlsupplychain.dhl.com
@@ -10558,6 +10559,7 @@ verdantanswer.com
 verifyvegetable.com
 verseballs.com
 vfd2dyn.vodafone.de
+vfgte.com
 vgo.vegaoo.de
 vgo.vegaoo.es
 vgo.vegaoo.it
