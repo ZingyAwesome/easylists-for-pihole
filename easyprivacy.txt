@@ -15915,6 +15915,7 @@ analytics.allovoisins.com
 cdtm.cdiscount.com
 compteur.developpez.com
 events-logs.doctolib.com
+forecast.huffingtonpost.fr
 fsm.lapresse.ca
 hits.porn.fr
 k.kolplay.com
