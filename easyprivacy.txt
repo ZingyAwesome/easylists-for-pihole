@@ -44,7 +44,6 @@ brontops.com
 btloader.com
 bydst.com
 cadsuta.net
-casalemedia.com
 cbdatatracker.com
 cdnhst.xyz
 ciqtracking.com
@@ -200,6 +199,7 @@ pixel-tracker.com
 pixmg.com
 pixrealm.com
 pjstat.com
+plausiblecdn.co
 procroanalytics.com
 progmxs.com
 propeller-tracking.com
@@ -263,6 +263,7 @@ turbolion.io
 tvpixel.com
 tzegilo.com
 ugdturner.com
+uqd.io
 ustat.info
 venusrevival.com
 vfgte.com
@@ -1128,6 +1129,7 @@ slipperysack.com
 sloppycalculator.com
 sloppyearthquake.com
 smallbeginner.com
+smashquartz.com
 smashshoe.com
 smashsurprise.com
 smilingcattle.com
@@ -1736,6 +1738,7 @@ eel.transistor.fm
 ele26126.jscrambler.com
 eq.userneeds.com
 errors.snackly.co
+eu-mobile.events.data.microsoft.com
 ev.stellarlabs.ai
 event-api.contactatonce.co.uk
 event-api.contactatonce.com
@@ -1928,7 +1931,6 @@ metrixlablw.customers.luna.net
 mlweb.dmlab.hu
 mmi.bemobile.ua
 mon.domdog.io
-monorail-edge.shopifysvc.com
 mormont.gamer-network.net
 ms-trackingapi.phenompeople.com
 mv.treehousei.com
@@ -2774,6 +2776,7 @@ bvr.ast.snva.jp
 bvr.snva.jp
 cookie.sync.usonar.jp
 counter2.blog.livedoor.com
+crossees.com
 ip2c.landscape.co.jp
 ipcheck.blogsys.jp
 kitchen.juicer.cc
@@ -3455,6 +3458,7 @@ t.regionsjob.com
 t.wayfair.ca
 t.wayfair.co.uk
 t.wayfair.com
+t.y8.com
 t2.hulu.com
 tagger.ope.scmp.com
 tags.aljazeera.com
