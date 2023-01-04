@@ -2314,7 +2314,6 @@ cars.autopia.com.au
 cars.smartleasing.com.au
 carzbz.braincandy.net
 carzbz.triviatoday.com
-casalemedia.com
 cashbeet.com
 caspionlog.appspot.com
 catalogdiscovery.com
@@ -2859,6 +2858,7 @@ critictruck.com
 crm-analytics.imweb.ru
 crm.casabaca.com
 crocetta.viessmann.it
+crossees.com
 crowdedmass.com
 crsspxl.com
 crta.and.co.uk
@@ -3815,6 +3815,7 @@ etgkbu.unieuro.it
 etop.ro
 etui.fs.ml.com
 etx.indiatimes.com
+eu-mobile.events.data.microsoft.com
 euclid.kuula.co
 eule1.pmu.fr
 eule3.pmu.fr
@@ -3899,6 +3900,7 @@ events.split.io
 events.statsigapi.net
 events.tubecup.org
 events.turbosquid.com
+events.ubembed.com
 events.whisk.com
 events.yourcx.io
 eventstream.dodopizza.com
@@ -4489,6 +4491,7 @@ hs-analytics.net
 hsadspixel.net
 hsleadflows.net
 hspbotdetection.azurewebsites.net
+hstats.hepsiburada.com
 htmgrl.jollyroom.no
 hub.firestonecompleteautocare.com
 hub.hubinternational.com
@@ -5165,6 +5168,7 @@ lnvmxk.familyset.jp
 loader-cdn.azureedge.net
 loader.zeroform.com
 log-api.newrelic.com
+log-global.aliyuncs.com
 log.adplex.co.kr
 log.aimtell.com
 log.aliyuncs.com
@@ -6187,7 +6191,6 @@ mond.post.ch
 mond.postauto.ch
 monitor.azure.com
 monitor.music.qq.com
-monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
 monu.delivery
 moomooz.co.kr
@@ -6818,6 +6821,7 @@ plausible.west.io
 plausible.wikiotics.org
 plausible.zest.dev
 plausible.zorin.com
+plausiblecdn.co
 player-telemetry.vimeo.com
 plotparent.com
 plotrabbit.com
@@ -7753,6 +7757,7 @@ slryca.meyou.jp
 sls2.loisirsencheres.com
 slx.searchdiscovery.com
 smallbeginner.com
+smashquartz.com
 smashshoe.com
 smashsurprise.com
 smatning.volkswagen.se
@@ -8793,6 +8798,7 @@ somni.vikingrivercruises.com
 somniture.fitforfun.de
 somniture.yodlee.com
 somtr.financialengines.com
+sonar.viously.com
 songssmoke.com
 songsterritory.com
 sootheside.com
@@ -9014,6 +9020,7 @@ stat.bdc.ca
 stat.bill.harding.blog
 stat.boredomtherapy.com
 stat.caijing.com.cn
+stat.cdngeek.com
 stat.clichehosting.de
 stat.cncenter.cz
 stat.dbschenker.com
@@ -9423,6 +9430,7 @@ stats.strikogkod.dk
 stats.studypages.com
 stats.stylight.it
 stats.sublimesecurity.com
+stats.suedtirolerjobs.it
 stats.suenicholls.com
 stats.suf.one
 stats.sunpeaksstables.com
@@ -10511,6 +10519,7 @@ uploads.owa.net.zooplus.fr
 upstats.yadro.ru
 upwwgd.zentempel.com
 upz1.destinia.lt
+uqd.io
 urbanairship.com
 urc.taboolasyndication.com
 ureoaw.netthandelen.no
