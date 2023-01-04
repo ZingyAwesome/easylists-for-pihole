@@ -1775,6 +1775,7 @@ events.splash-screen.net
 events.split.io
 events.statsigapi.net
 events.tubecup.org
+events.ubembed.com
 events.whisk.com
 events.yourcx.io
 evt.houzz.com
@@ -2065,6 +2066,7 @@ slackb.com
 smrt.as
 snowplow.swm.digital
 solutions.invocacdn.com
+sonar.viously.com
 sp-wukong-tracker.b-cdn.net
 speedtrap.shopdirect.com
 ssa.stepstone.com
@@ -2615,6 +2617,7 @@ core.unit-sense.net
 e.viously.com
 events.newsroom.bi
 events.sk.ht
+ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 nws.naltis.com
 offer.slgnt.eu
 osd.oxygem.it
@@ -16142,6 +16145,7 @@ siteinfo.libero.it
 stats.dreamsub.cc
 stats.splinder.com
 stats.stylight.it
+stats.suedtirolerjobs.it
 track.tesiteca.it
 tracker.stileo.it
 tracking.gruppo.mps.it
