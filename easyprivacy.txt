@@ -244,6 +244,7 @@ statsbox.info
 stpmgo.com
 summerhamster.com
 superpointlesshamsters.com
+t13.io
 takingbackjuly.com
 tatpek.com
 test.vast
@@ -256,6 +257,7 @@ trkbc.com
 trkn.us
 tru.am
 truffle.bid
+trust-provider.com
 trx-hub.com
 tryzens-analytics.com
 turboeagle.co
@@ -1563,6 +1565,7 @@ ape-tagit.timeinc.net
 api.autopilothq.com
 api.wipmania.com
 apple.www.letv.com
+applets.ebxcdn.com
 argos.citruserve.com
 ariane.abtasty.com
 attributiontrackingga.googlecode.com
