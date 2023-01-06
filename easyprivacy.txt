@@ -2927,6 +2927,7 @@ tracking.gpm-rtv.ru
 tracking.retailrocket.net
 upstats.yadro.ru
 visitor-microservice.ext.p-a.im
+visor.sberbank.ru
 wl-analytics.tsp.li
 hits.tf.rs
 stat.ringier.sk
