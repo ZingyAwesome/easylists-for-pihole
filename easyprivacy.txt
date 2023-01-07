@@ -3018,6 +3018,7 @@ analytics.productreview.com.au
 analytics.realestate.com.au
 analytics.send.cm
 analytics.slashdotmedia.com
+analytics.synchrony.com
 analytics.synedat.com
 analytics.touchnote.io
 analytics.tradedoubler.com
@@ -3570,6 +3571,7 @@ event.evtm.53.com
 gfp.intuit.com
 idstatus.sky.com
 imgs.signifyd.com
+rsx.afterpay.com
 tmetrix.my.chick-fil-a.com
 tmx.td.com
 u44.pnc.com
