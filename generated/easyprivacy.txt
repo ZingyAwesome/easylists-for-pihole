@@ -1696,6 +1696,7 @@ analytics.surfline.com
 analytics.surov.fi
 analytics.sweep.net
 analytics.sydney.edu.au
+analytics.synchrony.com
 analytics.synedat.com
 analytics.tabichan.jp
 analytics.tbs.com
@@ -6192,6 +6193,7 @@ mond.post.ch
 mond.postauto.ch
 monitor.azure.com
 monitor.music.qq.com
+monitoring.iraiser.eu
 montpalatin.handicap.fr
 monu.delivery
 moomooz.co.kr
@@ -7154,6 +7156,7 @@ rqyxdk.myanimelist.net
 rqz4.supdigital.fr
 rrgiuy.jackroad.co.jp
 rsc.lepoint.fr
+rsx.afterpay.com
 rta.dailymail.co.uk
 rta2.inews.co.uk
 rta2.metro.co.uk
