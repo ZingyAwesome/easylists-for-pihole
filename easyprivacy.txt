@@ -257,7 +257,6 @@ trkbc.com
 trkn.us
 tru.am
 truffle.bid
-trust-provider.com
 trx-hub.com
 tryzens-analytics.com
 turboeagle.co
@@ -1431,6 +1430,7 @@ tracking.wlscripts.net
 a.getflowbox.com
 a.hcaptcha.com
 a.mobify.com
+actioniq.mr-in.com
 activity.wisepops.com
 ad.aloodo.com
 adlog.com.com
@@ -1662,6 +1662,7 @@ collector.clareity.net
 collector.getyourguide.com
 collector.mazeberry.com
 collector.sspinc.io
+commerce.bing.com
 connect.idocdn.com
 connext-cdn.azureedge.net
 console.uxlens.com
@@ -2467,6 +2468,7 @@ d3bj8nkfly20uo.cloudfront.net
 d3bo67muzbfgtl.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
+d3gi6isrskhoq.cloudfront.net
 d3iouejux1os58.cloudfront.net
 d3j1weegxvu8ns.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
