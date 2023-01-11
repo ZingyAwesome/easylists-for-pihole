@@ -2284,6 +2284,7 @@ tracker.wigzopush.com
 tracker.wpserveur.net
 tracker.xgen.dev
 trackerapi.truste.com
+tracking-api-4lasu2nlcq-ew.a.run.app
 tracking.adalyser.com
 tracking.ads.global-fashion-group.com
 tracking.aegpresents.com
