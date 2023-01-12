@@ -206,6 +206,7 @@ propeller-tracking.com
 pubtm.com
 push-sdk.net
 pzapi-ij.com
+pzapi-kg.com
 pzimff.com
 quesid.com
 quickkoala.io
@@ -2178,6 +2179,7 @@ tag.aumago.com
 tag.brandcdn.com
 tag.elevaate.io
 tag.flagship.io
+tag.lexer.io
 tag.mtrcs.samba.tv
 tag.myplay.com
 tag.rightmessage.com
@@ -3507,6 +3509,7 @@ track.thesaurus.com
 track.ultimate-guitar.com
 tracker.affiliate.iqbroker.com
 tracker.nbcuas.com
+tracker.ranker.com
 tracker.shopclues.com
 tracker.uprinting.com
 tracking.carsales.com.au
