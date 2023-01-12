@@ -6937,6 +6937,7 @@ pxmzlk.redfin.com
 pxsg.pandora.com
 pylon.micstatic.com
 pzapi-ij.com
+pzapi-kg.com
 pzd.rakuten.co.jp
 pzimff.com
 pzscub.prestiter.it
@@ -9785,6 +9786,7 @@ tag.elevaate.io
 tag.flagship.io
 tag.goldenbees.fr
 tag.leadplace.fr
+tag.lexer.io
 tag.mtrcs.samba.tv
 tag.myplay.com
 tag.rightmessage.com
