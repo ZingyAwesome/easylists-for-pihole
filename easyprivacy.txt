@@ -2075,6 +2075,7 @@ snowplow.swm.digital
 solutions.invocacdn.com
 sonar.viously.com
 sp-wukong-tracker.b-cdn.net
+sp.tinymce.com
 speedtrap.shopdirect.com
 ssa.stepstone.com
 ssr.streamrail.net
@@ -2852,6 +2853,7 @@ stats.media.onet.pl
 stats.ulixes.pl
 statystyki.panelek.com
 tracking.novem.pl
+trc.gpcdn.pl
 analytics-coletor-site.ojc.com.br
 api.nobeta.com.br
 collect.chaordicsystems.com
