@@ -6501,6 +6501,7 @@ opps.taboola.com
 oppuz.com
 opti-digital.com
 optimallimit.com
+optimeeze.appspot.com
 optimisation.data.lloydsbankinggroup.com
 optimize-stats.voxmedia.com
 oqr4.destinia.in
@@ -6888,6 +6889,7 @@ privacyfriendly.netlify.app
 private.roche.com
 processor.asccommunications.com
 procroanalytics.com
+prod-events.nykaa.com
 prod.ew.srp.navigacloud.com
 proditor.sparda.de
 productivepear.com
@@ -10167,6 +10169,7 @@ track2.dulingo.com
 track2.mycliplister.com
 trackclicks.info
 trackcommon.hujiang.com
+tracker-dot-optimeeze.appspot.com
 tracker.adbinead.com
 tracker.affiliate.iqbroker.com
 tracker.affiliate.iqoption.com
