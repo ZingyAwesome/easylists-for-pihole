@@ -25,6 +25,7 @@ allvideometrika.com
 altopd.com
 analys.live
 analysis.fi
+anonstat.pw
 apeagle.io
 apenterprise.io
 apxl.io
@@ -101,7 +102,9 @@ fpaux.net
 fpavx.net
 fpaxu.net
 fpcdn.io
+fpnpmcdn.net
 fptls.com
+fptls2.com
 fpxau.net
 fzlnk.com
 g10300385420.co
@@ -1615,6 +1618,7 @@ browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 bs.yandex.ru
 c.amazinglybrilliant.com.au
+c.bazo.io
 c.imedia.cz
 c.live.com
 c.mgid.com
@@ -1952,7 +1956,9 @@ oda.markitondemand.com
 olytics.omeda.com
 onespot-tracking.herokuapp.com
 open.delivery.net
+optimeeze.appspot.com
 p.placed.com
+p.typekit.net
 p.yotpo.com
 page-events-ustats.udemy.com
 pages-stats.rbl.ms
@@ -2260,6 +2266,7 @@ track.vscash.com
 track.wayin.com
 track.yfret.com
 track.yieldsoftware.com
+tracker-dot-optimeeze.appspot.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.arc.io
@@ -3114,6 +3121,7 @@ desa.fkapi.net
 desb.fkapi.net
 desr.fkapi.net
 discover-metrics.cloud.seek.com.au
+dp.coinbase.com
 dp.shoprunner.com
 dtag.breadfinancial.com
 dumpster.cam4.com
@@ -3285,6 +3293,7 @@ pm.dailykos.com
 prairiedog.hashnode.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
+prod-events.nykaa.com
 pulsar.ebay.com
 pulse.delta.com
 pumpkin.abine.com
