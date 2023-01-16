@@ -2974,6 +2974,7 @@ collector.schibsted.io
 pixel.smartmedia.tj
 sal.isanook.com
 stat.matichon.co.th
+analytics.kkb.com.tr
 statistics.daktilo.com
 tracking.venturify.at
 informers.sinoptik.ua
@@ -3084,6 +3085,7 @@ cnt.vivatube.com
 collect.alipay.com
 collect.asics.com
 collect.banggood.com
+collect.hollisterco.com
 collect.thunder-io.com
 collector-px0py5pczn.octopart.com
 collector.cint.com
@@ -3459,6 +3461,7 @@ stats.justpaste.it
 stats.pandora.com
 stats.paste2.org
 stats.pstream.net
+stats.sandberg.world
 stats.searchftps.net
 stats.suenicholls.com
 stats.trimbles.ie
