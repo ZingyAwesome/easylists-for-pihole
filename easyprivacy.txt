@@ -16126,7 +16126,6 @@ report.novinky.cz
 stat.novinky.cz
 stat.super.cz
 statistics.csob.cz
-aa.tweakers.nl
 analytics.rambla.be
 bc34.wijnvoordeel.nl
 ds2.independer.nl
