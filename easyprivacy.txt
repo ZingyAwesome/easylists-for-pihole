@@ -170,6 +170,7 @@ matheranalytics.com
 mcangelus.com
 mdhv.io
 mediamathrdrt.com
+mediapvx.com
 mediapxv.com
 micpn.com
 mm-api.agency
@@ -1240,6 +1241,7 @@ stoveseashore.com
 straightnest.com
 strangesink.com
 stretchsister.com
+stretchsquirrel.com
 stringsmile.com
 stripedburst.com
 strivesidewalk.com
@@ -1659,6 +1661,7 @@ collect-ap2.attraqt.io
 collect-eu.attraqt.io
 collect.cloudsponge.com
 collect.iteam-dress.com
+collect.rebelmouse.io
 collect.rewardstyle.com
 collect.usefathom.com
 collector-api.99designs.com
