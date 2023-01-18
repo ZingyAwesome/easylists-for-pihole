@@ -2601,6 +2601,7 @@ collect.helsana.ch
 collect.hollisterco.com
 collect.igodigital.com
 collect.meilleurtaux.com
+collect.rebelmouse.io
 collect.rewardstyle.com
 collect.tianya.cn
 collect.usefathom.com
@@ -5718,6 +5719,7 @@ media.pirtek.co.uk
 media.pirtek.nl
 mediamathrdrt.com
 mediametrics.mpsa.com
+mediapvx.com
 mediapxv.com
 mediasolutions.netinsight.net
 mediasource.actonservice.com
@@ -9577,6 +9579,7 @@ strangesink.com
 strawberry.basf.com
 streamstats.prd.dlive.tv
 stretchsister.com
+stretchsquirrel.com
 stringsmile.com
 stripedburst.com
 strivesidewalk.com
