@@ -4868,7 +4868,6 @@ jpaatr.astellas.jp
 jprbql.jdsports.fr
 jptobh.network.com.tr
 jrucbb.guestreservations.com
-js-agent.newrelic.com
 jscoinminer.com
 jslog.post.cz
 jswlpe.modainpelle.com
@@ -5179,7 +5178,6 @@ lntvby.banggood.com
 lnvmxk.familyset.jp
 loader-cdn.azureedge.net
 loader.zeroform.com
-log-api.newrelic.com
 log-global.aliyuncs.com
 log.adplex.co.kr
 log.aimtell.com
@@ -6510,6 +6508,7 @@ optimallimit.com
 optimeeze.appspot.com
 optimisation.data.lloydsbankinggroup.com
 optimize-stats.voxmedia.com
+optistats.ovh
 oqr4.destinia.in
 orangeoperation.com
 orbidder.otto.de
