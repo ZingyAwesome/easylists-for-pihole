@@ -191,6 +191,7 @@ omappapi.com
 openfpcdn.io
 oppuz.com
 opti-digital.com
+optistats.ovh
 ostrichesica.com
 p-analytics.life
 p2r14.com
@@ -2463,7 +2464,6 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
-d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -3224,7 +3224,6 @@ jumbo.zomato.com
 l.ctrl.blog
 link.kogan.com
 lists.ccmbg.com
-log-api.newrelic.com
 log.china.cn
 log.genyt.net
 log.hypebeast.com
