@@ -1075,7 +1075,6 @@ acelogger.heraldcorp.com
 acemetrics.aaa.com
 achieverknee.com
 acidpigs.com
-acousticairplane.com
 acousticsapparel.com
 acq-hk.americanexpress.com
 acq-sg.americanexpress.com
@@ -1285,7 +1284,6 @@ adtd.douglas.it
 adtd.douglas.nl
 adtd.douglas.pl
 adtech-events.bookmyshow.com
-adtm.chip.de
 adtmrs.delti.com
 adtrack.loracle.jp
 adultium.com
@@ -1537,7 +1535,6 @@ analytics.geekyminds.net
 analytics.getshogun.com
 analytics.givealittle.co
 analytics.global.sky.com
-analytics.googlepeer.cloud
 analytics.gooogol.com
 analytics.greenmountainenergy.com
 analytics.growthphysics.com
@@ -1580,7 +1577,6 @@ analytics.mailmunch.co
 analytics.makeitmeme.com
 analytics.mambaui.com
 analytics.matchbin.com
-analytics.mbga.jp
 analytics.meituan.net
 analytics.metro.be
 analytics.metro.co.in
@@ -1618,7 +1614,6 @@ analytics.nordea.se
 analytics.nrg.com
 analytics.oceanengine.com
 analytics.okazii.ro
-analytics.oneplus.cn
 analytics.onlyonlinemarketing.com
 analytics.ooyala.com
 analytics.optilead.co.uk
@@ -2203,7 +2198,6 @@ brands.lookfantastic.com
 brandybison.com
 brashbead.com
 bravebone.com
-bravecalculator.com
 bravo.israelweather.co.il
 brc.emails.rakuten.com
 breadbalance.com
@@ -2573,7 +2567,6 @@ cnt.rate.ru
 cnt.trvdp.com
 cnt.viptube.com
 cnt.vivatube.com
-cnt2.stroeerdp.de
 cntxtfl.com
 coachquartz.com
 coatfood.com
@@ -3441,7 +3434,6 @@ donkeyleaf.com
 doorbrazil.com
 doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
-dot-stat.radikal.ru
 doubtdrawer.com
 doubtfulrainstorm.com
 doug1izaerwt3.cloudfront.net
@@ -4233,7 +4225,6 @@ geo.emol.cl
 geo.ertya.com
 geo.gfycat.com
 geo.gorillanation.com
-geo.kontagent.net
 geo.mezr.com
 geo.mtvnn.com
 geo.nbcsports.com
@@ -4422,7 +4413,6 @@ hgf4.zanzicar.fr
 hhbxcs.tylko.com
 hhhedv.luxauto.lu
 hht8m6w8mnug.quine.sh
-hhytrace.sogoucdn.com
 hidjoi.perfumesclub.com
 highfalutinbox.com
 highfalutinhoney.com
@@ -4432,7 +4422,6 @@ hines.actonservice.com
 historicalbeam.com
 historicalrequest.com
 hit.interia.pl
-hit.meta.ua
 hit.mybestpro.com
 hit.skrz.cz
 hits-secure.guardian.co.uk
@@ -4906,7 +4895,6 @@ kfjxcw.immobilier.ch
 kfzhph.bonprix.pl
 khfzod.cmsnl.com
 kiki.rireetchansons.fr
-kiks.auto.ru
 kimkgj.bibloo.pl
 kistacity.viessmann.se
 kitchen.juicer.cc
@@ -5178,7 +5166,6 @@ lntvby.banggood.com
 lnvmxk.familyset.jp
 loader-cdn.azureedge.net
 loader.zeroform.com
-log-global.aliyuncs.com
 log.adplex.co.kr
 log.aimtell.com
 log.aliyuncs.com
@@ -5223,7 +5210,6 @@ log.sv.pandora.tv
 log.tagtic.cn
 log.targetpush.co.kr
 log.webnovel.com
-log.wilmaa.com
 log.zdnet.co.kr
 log.zongheng.com
 log000.goo.ne.jp
@@ -5239,7 +5225,6 @@ logger.uol.com.br
 logger.yp.ca
 logging.api.intuit.com
 logging.carambo.la
-logging.wilmaa.com
 loggingapi.spingo.com
 loggychops.paulsmith.site
 logicanalytics.io
@@ -5265,8 +5250,6 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logstat.caixin.com
 logtake.weidian.com
-logx.mtime.cn
-logx.mtime.com
 logx.optimizely.com
 loloclicks.biz
 longinglettuce.com
@@ -6131,7 +6114,6 @@ metricssecure.luna.com
 metricssecure.northwesternmutual.com
 metrix.emagister.com
 metrix.youravon.com
-metrixlablw.customers.luna.net
 metroaverage.com
 mfd.myfirstdressing.com
 mfio.cf
@@ -6558,7 +6540,6 @@ ozkkuy.fabianafilippi.com
 ozowis.ledger.com
 ozvlyz.justmusic.de
 p-analytics.life
-p-log.ykimg.com
 p2r14.com
 p8s.oxbowshop.com
 p9jhxqlkmn.miniso.com.gr
@@ -6843,12 +6824,10 @@ plotrabbit.com
 plsbl-staging.edison.se
 plsbl.edison.se
 pluckypocket.com
-pluckytaste.com
 pnekru6pxrum-a.akamaihd.net
 pnhesw.jtb.co.jp
 pnovfl.karaca.com
 pocketfaucet.com
-pocketsonic.com
 podiumpresto.com
 pointlesshour.com
 pointlesspocket.com
@@ -6864,7 +6843,6 @@ possibleboats.com
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
 powderprofit.com
-powercount.jswelt.de
 pplpiq.pricerunner.se
 ppp7.destinia.kr
 pqlcpm.kindoh.co.kr
@@ -7055,7 +7033,6 @@ realcomm.actonservice.com
 realtimely.io
 reauthenticator.com
 rebelsubway.com
-rec.udn.com
 receptivebranch.com
 receptiveink.com
 recommenddoor.com
@@ -7744,11 +7721,9 @@ sitecatalyst.work.shiseido.co.jp
 sitecatalysts.saisoncard.co.jp
 sitecats.troweprice.com
 sitedataprocessing.com
-siteinfo.libero.it
 siteintercept.allegiancetech.com
 six9e.canal.fr
 sixscissors.com
-sixtrk.com
 sizesidewalk.com
 sjardw.footlocker.fr
 sjourney.aarp.org
@@ -9054,7 +9029,6 @@ stat.matichon.co.th
 stat.mixi.media
 stat.moevideo.net
 stat.mydaddy.cc
-stat.novinky.cz
 stat.ouedkniss.com
 stat.ovh
 stat.pet
@@ -9206,7 +9180,6 @@ stats.divemap.uk
 stats.dnaindia.com
 stats.dominikmayer.com
 stats.doors.live
-stats.dreamsub.cc
 stats.drewbolles.com
 stats.drgomesp.dev
 stats.economist.com
@@ -9513,7 +9486,6 @@ stats.wp.com
 stats.wpmucdn.com
 stats.wvs.org.uk
 stats.wwitv.com
-stats.yinyuetai.com
 stats.yourfone.de
 stats.zenquiries.com
 stats.zotabox.com
@@ -10220,7 +10192,6 @@ tracker.swedish.org
 tracker.thinkermail.com
 tracker.thinkindot.com
 tracker.timesgroup.com
-tracker.tiu.ru
 tracker.tolvnow.com
 tracker.tubecj.com
 tracker.tv.sohu.com
@@ -10825,7 +10796,6 @@ wildernesscamera.com
 win.staticstuff.net
 wirecomic.com
 wissen.sage.de
-wisteria-js.excite.co.jp
 wistfulflight.com
 wiz.ghostbed.com
 wjq.ma.tarnkappe.info
@@ -10850,7 +10820,6 @@ wrongpotato.com
 wryfinger.com
 ws3.smartp.com
 wsmcdn.audioeye.com
-wspeed.qq.com
 wssgmstats.vibbo.com
 wsstats.coches.net
 wstats.gameblog.fr
