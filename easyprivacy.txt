@@ -236,7 +236,6 @@ selphiu.com
 seoab.io
 site24x7rum.eu
 sitedataprocessing.com
-sixtrk.com
 sjpf.io
 snptrk.com
 soapfighters.com
@@ -378,7 +377,6 @@ abstractedauthority.com
 absurdwater.com
 achieverknee.com
 acidpigs.com
-acousticairplane.com
 acousticsapparel.com
 acquireattention.com
 actoramusement.com
@@ -474,7 +472,6 @@ bouncyproperty.com
 brandybison.com
 brashbead.com
 bravebone.com
-bravecalculator.com
 breadbalance.com
 breakableinsurance.com
 briefbears.com
@@ -971,9 +968,7 @@ plantrelation.com
 plotparent.com
 plotrabbit.com
 pluckypocket.com
-pluckytaste.com
 pocketfaucet.com
-pocketsonic.com
 podiumpresto.com
 pointlesshour.com
 pointlesspocket.com
@@ -1493,7 +1488,6 @@ analytics.favcy.com
 analytics.firespring.com
 analytics.foresee.com
 analytics.formstack.com
-analytics.googlepeer.cloud
 analytics.gooogol.com
 analytics.groupe-seb.com
 analytics.growthphysics.com
@@ -1819,7 +1813,6 @@ gateway.foresee.com
 gemius.mgr.consensu.org
 genesis.malwarebytes.com
 geo.ertya.com
-geo.kontagent.net
 geo.mezr.com
 geo.q5media.net
 geo.thehindu.com
@@ -1888,7 +1881,6 @@ livecounter.theyosh.nl
 livestats.kaltura.com
 loader-cdn.azureedge.net
 loader.zeroform.com
-log-global.aliyuncs.com
 log.aimtell.com
 log.cookieyes.com
 log.go.com
@@ -1941,7 +1933,6 @@ metrics.readme.io
 metrics.scribblelive.com
 metrics.userguiding.com
 metrix.emagister.com
-metrixlablw.customers.luna.net
 mlweb.dmlab.hu
 mmi.bemobile.ua
 mon.domdog.io
@@ -2560,7 +2551,6 @@ artemis-cdn.ocdn.eu
 beagle.prod.tda.link
 blacktri-a.akamaihd.net
 cgicounter.onlinehome.de
-cnt2.stroeerdp.de
 collector.ozeex.com
 collector.rn.de
 com.econa.com
@@ -2570,7 +2560,6 @@ counter.webmart.de
 ctr-iwb.nmg.de
 ctr-opc.nmg.de
 d.adlpo.com
-d.finative.eu
 d.nativendo.de
 d.omsnative.de
 data.econa.com
@@ -2579,7 +2568,6 @@ events.onet.pl
 geo.mtvnn.com
 geo.xcel.io
 hbx.df-srv.de
-im.aol.de
 live.cxo.name
 liveviewer.ez.no
 log.worldsoft-cms.info
@@ -2875,7 +2863,6 @@ nctrk.abmail.com.br
 neurotrack.neurolake.io
 segmentor.snowfox-ai.com
 tags.cmp.tail.digital
-track.e7r.com.br
 track.noddus.com
 tracker.tolvnow.com
 visit-prod-us.occa.ocs.oraclecloud.com
@@ -15847,7 +15834,6 @@ url7674.fitgenieapp.com
 url7962.careerkarma.io
 url8196.mindrise.app
 url9609.account.experience-muse.com
-adtm.chip.de
 agnes.waz.de
 analytics.daasrv.net
 analytics.deutscher-apotheker-verlag.de
@@ -15869,8 +15855,6 @@ fc.vodafone.de
 froglytics.eventfrog.ch
 geoip.finanzen.net
 hokuspokus.tarnkappe.info
-log.wilmaa.com
-logging.wilmaa.com
 ma.tarnkappe.info
 metrics.n-tv.de
 mlm-tracking-service.meinestadt.de
@@ -15878,7 +15862,6 @@ navigation-timing.meinestadt.de
 nct.ui-portal.de
 oxifwsabgd.nzz.ch
 pi.technik3d.com
-powercount.jswelt.de
 px.derstandard.at
 pxc.otto.de
 rem-track.bild.de
@@ -15958,7 +15941,6 @@ events-logs.doctolib.com
 forecast.huffingtonpost.fr
 fsm.lapresse.ca
 hits.porn.fr
-k.kolplay.com
 l.franceculture.fr
 logstash-3.radio-canada.ca
 p.kolplay.com
@@ -15985,7 +15967,6 @@ c1hit.zerkalo.io
 s1r.zerkalo.io
 s3r.zerkalo.io
 tags.aljazeera.net
-tracking.alarabiya.net
 insight.olx.ba
 4399stat.5054399.com
 adstats.tencentmusic.com
@@ -15995,7 +15976,6 @@ analytics.126.net
 analytics.163.com
 analytics.cnblogs.com
 analytics.oceanengine.com
-analytics.oneplus.cn
 analytics.shop.hisense.com
 applog.yiche.com
 audit.qiuwen.wiki
@@ -16028,11 +16008,9 @@ gentian-frd.hjapi.com
 gia.jd.com
 gk.sina.cn
 h5log.zongheng.com
-hhytrace.sogoucdn.com
 imgstat.baidu.com
 improving.wuzhuiso.com
 lg.tr.pandora.tv
-log.51cto.com
 log.aliyuncs.com
 log.bitauto.com
 log.flight.qunar.com
@@ -16047,16 +16025,12 @@ loginlog.sdo.com
 logs.51cto.com
 logstat.caixin.com
 logtake.weidian.com
-logx.mtime.cn
-logx.mtime.com
 mar.vip.com
 metric.huya.com
 monitor.music.qq.com
-mp.huangye.miui.com
 msg.qy.net
 mtrace.qq.com
 nex.163.com
-p-log.ykimg.com
 p.data.cctv.com
 pb.i.sogou.com
 pcapp-data-collect.youku.com
@@ -16065,12 +16039,10 @@ pingback.sogou.com
 pingjs.qq.com
 pixel.kknews.cc
 pv.ltn.com.tw
-pv.udn.com
 pv.xcar.com.cn
 pvx.xcar.com.cn
 qreport.qunar.com
 rcgi.video.qq.com
-rec.udn.com
 referer.pixplug.in
 reportsk.web.sdo.com
 retcode.taobao.com
@@ -16085,7 +16057,6 @@ sngmta.qq.com
 sofire.bdstatic.com
 ssp.hinet.net
 stadig.ifeng.com
-stat.1688.com
 stat.caijing.com.cn
 stat.funshion.net
 stat.iteye.com
@@ -16098,7 +16069,6 @@ stat.zol.com.cn
 statistic.qzone.qq.com
 statistic.takungpao.com
 stats.autohome.com.cn
-stats.yinyuetai.com
 sugar.zhihu.com
 tf.360.cn
 tongji.mafengwo.cn
@@ -16120,14 +16090,12 @@ web-player-tracker.biliapi.net
 webstat.kuwo.cn
 wkctj.baidu.com
 wl.jd.com
-wspeed.qq.com
 ylog.huya.com
 zhihu-web-analytics.zhihu.com
 zio.xcar.com.cn
 zz.bdstatic.com
 jslog.post.cz
 report.novinky.cz
-stat.novinky.cz
 stat.super.cz
 statistics.csob.cz
 analytics.rambla.be
@@ -16144,7 +16112,6 @@ topspin.npo.nl
 track.pexi.nl
 tracking.voordeeluitjes.nl
 u299.libelle-lekker.be
-webstatistieken.xs4all.nl
 analytics.sanoma.fi
 data.reactandshare.com
 events.il.fi
@@ -16173,8 +16140,6 @@ insights.cdt.ch
 livestats.la7.tv
 ma.register.it
 sa.sky.it
-siteinfo.libero.it
-stats.dreamsub.cc
 stats.splinder.com
 stats.stylight.it
 stats.suedtirolerjobs.it
@@ -16182,10 +16147,8 @@ tla.traderlink.com
 track.tesiteca.it
 tracker.stileo.it
 tracking.gruppo.mps.it
-trk.m.libero.it
 analytics.cocolog-nifty.com
 analytics.ikyu.com
-analytics.mbga.jp
 analytics.tver.jp
 analyzer.fc2.com
 analyzer2.fc2.com
@@ -16213,7 +16176,6 @@ sy.ameblo.jp
 track.buyma.com
 tracking.game8.jp
 view.fujitv.co.jp
-wisteria-js.excite.co.jp
 x.allabout.co.jp
 yjtag.yahoo.co.jp
 ad-log.dable.io
@@ -16226,7 +16188,6 @@ log.etoday.co.kr
 log.sv.pandora.tv
 log.zdnet.co.kr
 nil.naver.com
-pb.m.naver.com
 prism.pandora.tv
 sp.naver.com
 stat.i3.dmm.com
@@ -16251,7 +16212,6 @@ pixel.wp.pl
 rek.www.wp.pl
 stats.teledyski.info
 audience-mostread.r7.com
-audiencia.r7.com
 click.uol.com.br
 dejavu.mercadolivre.com.br
 dna.uol.com.br
@@ -16279,8 +16239,6 @@ counter.drom.ru
 counter.sibnet.ru
 cvt1.sibnet.ru
 data.glamour.ru
-dot-stat.radikal.ru
-kiks.auto.ru
 link.subscribe.ru
 log.ren.tv
 log.rutube.ru
@@ -16295,7 +16253,6 @@ stat.russianfood.com
 stat.stars.ru
 stats.mos.ru
 sync.rambler.ru
-tracker.tiu.ru
 xapi.ozon.ru
 xray.mail.ru
 yast.rutube.ru
@@ -16334,7 +16291,6 @@ mark.isbank.com.tr
 p.milliyet.com.tr
 stats.birgun.net
 counter.ukr.net
-hit.meta.ua
 target.ukr.net
 analytics.aita.gov.vn
 log.ttbc-hcm.gov.vn
