@@ -275,6 +275,7 @@ vfgte.com
 videoplayerhub.com
 vkanalytics.net
 vpdcp.com
+wct-2.com
 widgetbe.com
 wknd.ai
 wmgroup.us
@@ -3483,6 +3484,7 @@ t2.hulu.com
 tagger.ope.scmp.com
 tags.aljazeera.com
 tags.johnlewis.com
+tao.barstoolsports.com
 target.nationwide.com
 target.nejm.org
 targeting.washpost.nile.works
