@@ -2602,6 +2602,7 @@ collect.usefathom.com
 collect.vans.com.cn
 collection.saga.co.uk
 collector-px0py5pczn.octopart.com
+collector.api.video
 collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
