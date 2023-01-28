@@ -1660,6 +1660,7 @@ collect.rebelmouse.io
 collect.rewardstyle.com
 collect.usefathom.com
 collector-api.99designs.com
+collector.api.video
 collector.automote.co.nz
 collector.clareity.net
 collector.getyourguide.com
