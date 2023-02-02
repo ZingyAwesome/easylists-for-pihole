@@ -39,6 +39,7 @@ bonne-terre-data-layer.com
 boomtrain.com
 bounceexchange.com
 bqstreamer.com
+bringmethehats.com
 briskeagle.io
 briskpelican.io
 brontops.com
@@ -294,6 +295,7 @@ zhctrack.net
 zippyfrog.co
 zononi.com
 zqtk.net
+ztrack.online
 aswpsdkus.com
 pushmaster-cdn.xyz
 urbanairship.com
@@ -2279,6 +2281,7 @@ tracker.data-vp.com
 tracker.downdetector.com
 tracker.financialcontent.com
 tracker.gleanview.com
+tracker.hdtvcloud.com
 tracker.icerocket.com
 tracker.idocdn.com
 tracker.jkstremum.xyz
@@ -15951,6 +15954,7 @@ ia.ekstrabladet.dk
 analytics.allovoisins.com
 cdtm.cdiscount.com
 compteur.developpez.com
+e.legalstart.fr
 events-logs.doctolib.com
 forecast.huffingtonpost.fr
 fsm.lapresse.ca
@@ -15961,6 +15965,7 @@ p.kolplay.com
 p.pagesjaunes.fr
 pixel.dugwood.com
 pixel.ionos.fr
+pt.legalstart.fr
 res.paruvendu.fr
 s5.charliehebdo.fr
 stat.ouedkniss.com
@@ -16025,7 +16030,6 @@ gk.sina.cn
 h5log.zongheng.com
 imgstat.baidu.com
 improving.wuzhuiso.com
-lg.tr.pandora.tv
 log.aliyuncs.com
 log.bitauto.com
 log.flight.qunar.com
@@ -16200,10 +16204,8 @@ hits.zdnet.co.kr
 kyson.kakao.com
 l.m.naver.com
 log.etoday.co.kr
-log.sv.pandora.tv
 log.zdnet.co.kr
 nil.naver.com
-prism.pandora.tv
 sp.naver.com
 stat.i3.dmm.com
 stat.tiara.daum.net
