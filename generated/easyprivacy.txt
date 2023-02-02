@@ -2206,6 +2206,7 @@ breakableinsurance.com
 brickworks.viessmann.sg
 briefbears.com
 briefstem.com
+bringmethehats.com
 briskeagle.io
 briskpelican.io
 brjjkd.calzedonia.com
@@ -5212,7 +5213,6 @@ log.seekda.com
 log.sina.cn
 log.snapdeal.com
 log.suumo.jp
-log.sv.pandora.tv
 log.tagtic.cn
 log.targetpush.co.kr
 log.webnovel.com
@@ -6872,7 +6872,6 @@ primate.dmarcdigests.com
 printerplasma.com
 prism.buerokrucker.ch
 prism.drivingkyoto.com
-prism.pandora.tv
 prism.raumgleiter.com
 privacy.outdoorsg.com
 privacyfriendly.netlify.app
@@ -10181,6 +10180,7 @@ tracker.downdetector.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.gleanview.com
+tracker.hdtvcloud.com
 tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
@@ -11009,6 +11009,7 @@ ztfjtn.liujo.com
 ztgblo.vidaxl.lt
 ztoash.cyberpuerta.mx
 ztqnls.lojasrenner.com.br
+ztrack.online
 zudver.matsmart.se
 zug.sbb.ch
 zum7cc.oui.sncf
