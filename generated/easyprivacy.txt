@@ -1114,6 +1114,7 @@ actuallysnake.com
 ad-ebis.bookpass.auone.jp
 ad-log.dable.io
 ad-track.paravi.jp
+ad-tracker-api.luizalabs.com
 ad1.tone.ne.jp
 ad7.bigmir.net
 adb-secured.kijk.nl
@@ -2588,6 +2589,7 @@ collect.alipay.com
 collect.allianz.ch
 collect.allianzcinema.ch
 collect.allianzdriveincinema.ch
+collect.alphastream.io
 collect.asics.com
 collect.banggood.com
 collect.cap.ch
@@ -5173,6 +5175,7 @@ lntvby.banggood.com
 lnvmxk.familyset.jp
 loader-cdn.azureedge.net
 loader.zeroform.com
+log-gateway.zoom.us
 log.adplex.co.kr
 log.aimtell.com
 log.aliyuncs.com
@@ -5206,6 +5209,7 @@ log.outbrainimg.com
 log.pinterest.com
 log.popin.cc
 log.quora.com
+log.rabobank.nl
 log.reformal.ru
 log.ren.tv
 log.rutube.ru
@@ -5787,6 +5791,7 @@ metrics.baitorupro.com
 metrics.bakeryandsnacks.com
 metrics.bakeryinfo.co.uk
 metrics.bangbros.com
+metrics.bankmonitor.hu
 metrics.barclaycardus.com
 metrics.bcbsnc.com
 metrics.beatsbydre.com
@@ -7126,6 +7131,7 @@ rightfulfall.com
 rigidrobin.com
 rigill.com
 rimxqx.slickdeals.net
+ring.staticmoly.me
 ringplant.com
 ringsrecord.com
 riovdv.mustit.co.kr
@@ -7643,6 +7649,7 @@ sentry.arc.io
 seoab.io
 separateshow.com
 sephora-qa.branchstaging.com
+serpentshampoo.com
 serv1swork.com
 server.japanbyrivercruise.com
 server.olliehorn.com
@@ -10645,6 +10652,7 @@ vqp3.madeindesign.co.uk
 vry9.destinia.com
 vst.sibnet.ru
 vstat.borderlessbd.com
+vstats.me
 vtrtl.de
 vwonwkaqvq-a.global.ssl.fastly.net
 vzal21mooz.hyperwrite.ai
