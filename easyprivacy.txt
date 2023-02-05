@@ -278,6 +278,7 @@ vfgte.com
 videoplayerhub.com
 vkanalytics.net
 vpdcp.com
+vstats.me
 wct-2.com
 widgetbe.com
 wknd.ai
@@ -2867,6 +2868,7 @@ stats.ulixes.pl
 statystyki.panelek.com
 tracking.novem.pl
 trc.gpcdn.pl
+ad-tracker-api.luizalabs.com
 analytics-coletor-site.ojc.com.br
 analytics.spun.com.br
 api.nobeta.com.br
@@ -3319,6 +3321,7 @@ relay.fiverr.com
 reports.tunein.com
 retargeting.vistaprint.com
 rfk.biglots.com
+ring.staticmoly.me
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
 rs.mail.ru
@@ -16144,6 +16147,7 @@ cellstats.mako.co.il
 ds.haaretz.co.il
 stats.mako.co.il
 events.ingatlan.com
+metrics.bankmonitor.hu
 outal.origo.hu
 analytic20.detik.com
 ktracker.kumparan.com
