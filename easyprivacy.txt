@@ -2769,6 +2769,7 @@ limone.iltrovatore.it
 livestats.matrix.it
 logger.kataweb.it
 nanostats.nanopress.it
+plausible.citynews.ovh
 rd.alice.it
 sem.triboomedia.it
 stat.acca.it
