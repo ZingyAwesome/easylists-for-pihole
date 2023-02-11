@@ -43,6 +43,7 @@ ajkcdpm.cn
 aliyun6969.cn
 aol32.cn
 aqtcw.cn
+aqylmil.cn
 arejug.xyz
 aswtai.xyz
 atuhi.cyou
@@ -119,12 +120,14 @@ fyfvaxi.cn
 fyzbvwb.cn
 fzbkgni.cn
 g2qb.top
+g8ld.fun
 gadscc.xyz
 gaiqgs.xyz
 geiaxbk.cn
 gfqsded.cn
 ggrhsx.cn
 glzniuy.cn
+gomhn.cn
 grndhkd.cn
 gskbzle.cn
 guge.red
@@ -132,6 +135,7 @@ guuds.cyou
 guyu8855.club
 gvqrclx.cn
 gxkoci.xyz
+gzqgaq.xyz
 hangchen.icu
 happi.cyou
 hcqsuqq.cn
@@ -301,7 +305,9 @@ qgazysq.cn
 qgermm.xyz
 qiegoa.xyz
 qingfengxq.com
+qingganlan.ltd
 qinkuai.top
+qkoio.cyou
 qliiom.xyz
 qsezjy.cn
 qtbzeey.cn
@@ -343,6 +349,7 @@ shikongbb.com
 sige20221230.xyz
 siuscs.xyz
 sixarwr.cn
+skzlz.cn
 slowbeat.fun
 soqikbe.cn
 soulsoul.xyz
@@ -363,6 +370,7 @@ thraerqol.com
 tianmel.xyz
 timothy.wang
 tjxafmo.cn
+ttzhongbao.com
 tuape.xyz
 tuyqiolni.cyou
 tvxqdp.xyz
@@ -395,6 +403,7 @@ vbgr7.cn
 vcinwqw.cn
 vec4o.fun
 vfsdgjrr.xyz
+vilki.cn
 viope.cyou
 vokmhydy.xyz
 w80n.fun
@@ -472,16 +481,20 @@ zhiwan.club
 zlfthh.xyz
 zmdtcw.cn
 znktkt.cn
+znllfp.xyz
 zodvlr.xyz
 zoute.cyou
 zsjyuet.cn
 ztwrnpd.cn
 ztxstudy.club
 zunnnh.xyz
+zxfas56.com
 zxtkfvm.cn
-gzqgaq.xyz
-vilki.cn
-skzlz.cn
+0vkkf.cn
+etkht.cn
+asoeasy.cn
+zkdmdf.xyz
+owihyg.xyz
 001adafg.xyz
 0024aaaa.com
 004fsdljasd.xyz
@@ -6687,6 +6700,7 @@ huazitupian.oss-cn-hongkong.aliyuncs.com
 lu.sogou.com
 lu.sogoucdn.com
 mgtv-bbqn.oss-cn-beijing.aliyuncs.com
+mobantong.oss-cn-hangzhou.aliyuncs.com
 qwe0231141.bj.bcebos.com
 re.taotaosou.com
 show.kc.taotaosou.com
