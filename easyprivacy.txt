@@ -464,6 +464,7 @@ bizarrebaseball.com
 blotburn.com
 blushingbeast.com
 blushingboundary.com
+blushingbread.com
 blushingwar.com
 boilingcredit.com
 boilingumbrella.com
@@ -2684,6 +2685,7 @@ datacollector-dra.dt.hicloud.com
 dcbpm.suning.cn
 dup.baidustatic.com
 epro.sogou.com
+experiments.sparanoid.net
 fourier.taobao.com
 g.yccdn.com
 haostat.qihoo.com
@@ -16143,6 +16145,7 @@ tdep.kvk.nl
 topspin.npo.nl
 track.pexi.nl
 tracking.voordeeluitjes.nl
+txrx.bol.com
 u299.libelle-lekker.be
 analytics.sanoma.fi
 data.reactandshare.com
