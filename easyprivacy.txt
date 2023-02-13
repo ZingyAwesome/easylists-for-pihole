@@ -877,6 +877,7 @@ massivebasket.com
 materialexample.com
 materialisticfan.com
 materialisticmark.com
+measlymiddle.com
 measurecaption.com
 meatydime.com
 medusasailor.com
@@ -3030,6 +3031,7 @@ analytics.adfreetime.com
 analytics.archive.org
 analytics.brave.com
 analytics.chase.com
+analytics.dashboard.fingerprint.com
 analytics.designspiration.com
 analytics.ecosia.org
 analytics.faceitanalytics.com
