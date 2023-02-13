@@ -1491,6 +1491,7 @@ analytics.contentexchange.me
 analytics.convertlanguage.com
 analytics.corusent.com
 analytics.daasrv.net
+analytics.dashboard.fingerprint.com
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
 analytics.dephibank.com
@@ -5705,6 +5706,7 @@ mdws.ccunl.ca
 mdws.chinookfinancial.com
 mdws.kawarthacu.com
 mdws.vermilioncreditunion.com
+measlymiddle.com
 measure.ameblo.jp
 measurecaption.com
 meatydime.com
