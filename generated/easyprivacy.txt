@@ -2307,6 +2307,7 @@ candid.zone
 cannonjudo.com
 capablecows.com
 capablecup.com
+capping.sirius.press
 captcha-display.com
 capture.condenastdigital.com
 carefuldolls.com
@@ -2501,6 +2502,7 @@ clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-analytics.mts.ru
 client-log.box.com
+client-logger.salemove.com
 client-metrics.chess.com
 clientservice.alphasimplex.com
 clinical.questdiagnostics.com
@@ -6162,6 +6164,7 @@ mit.postbank.de
 mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
+mitour.de
 mixedreading.com
 mjca-yijws.global.ssl.fastly.net
 mjnpya.marktplaats.nl
@@ -7695,6 +7698,7 @@ shallowblade.com
 shallowsmile.com
 shinesavage.com
 shinestuart.com
+shiveringspot.com
 shockingship.com
 shop.iwantclips.com
 shopbreakfast.com
@@ -9141,6 +9145,7 @@ stats.blogoscoop.net
 stats.bluebillywig.com
 stats.bmxdevils.be
 stats.boscabeatha.ie
+stats.bouyguestelecom.fr
 stats.breathly.app
 stats.briskoda.net
 stats.broddin.be
