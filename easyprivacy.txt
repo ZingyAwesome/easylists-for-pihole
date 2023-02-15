@@ -2643,6 +2643,7 @@ analytics.freespee.com
 analytics.valiuz.com
 at.360.audion.fm
 btstats.devtribu.fr
+capping.sirius.press
 collect-v6.51.la
 compteur.websiteout.net
 core.unit-sense.net
@@ -15988,6 +15989,7 @@ pt.legalstart.fr
 res.paruvendu.fr
 s5.charliehebdo.fr
 stat.ouedkniss.com
+stats.bouyguestelecom.fr
 stats.sexemodel.com
 t.blablacar.com
 tc2.hometogo.net
