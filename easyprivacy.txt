@@ -2570,6 +2570,7 @@ dfapvmql-q.global.ssl.fastly.net
 vwonwkaqvq-a.global.ssl.fastly.net
 siteintercept.allegiancetech.com
 trusted-web-seal.cybertrust.ne.jp
+advantage.digitalsunray.com
 analytics.audionow.de
 analytics.gameforge.de
 analytics.media-proweb.de
@@ -3159,6 +3160,7 @@ eec.crunchyroll.com
 ekg.riotgames.com
 engagefront.meteomedia.com
 engagefront.theweathernetwork.com
+engine.traceparts.com
 enlightenment.secureshoppingbasket.com
 eproof.drudgereport.com
 error-collector.ted.com
