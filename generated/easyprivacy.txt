@@ -7183,6 +7183,7 @@ rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
 rtactivate.com
+rtg-adroute.focas.jp
 rtxlni.doclasse.com
 rtxpx-a.akamaihd.net
 ruddycast.com
@@ -9881,6 +9882,7 @@ target.veeam.com
 target.visitsingapore.com
 target.walgreens.com
 target.zeiss.com
+targeting.focas.jp
 targeting.voxus.tv
 targeting.washpost.nile.works
 tarttendency.com
