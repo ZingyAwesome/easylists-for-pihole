@@ -11,7 +11,6 @@ a8723.com
 aaxwall.com
 acsbapp.com
 act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
-adbp.online
 adcontroll.com
 adnext.co
 adrtx.net
@@ -30,7 +29,6 @@ apeagle.io
 apenterprise.io
 apxl.io
 ayc0zsm69431gfebd.info
-ayc0zsm69431gfebd.xyz
 bfmio.com
 bidswitch.net
 bkrtx.com
@@ -318,7 +316,6 @@ baiduccdn1.com
 becanium.com
 bewaslac.com
 biberukalap.com
-binarybusiness.de
 bitclub.network
 bitclubnetwork.com
 bitcoin-cashcard.com
@@ -354,7 +351,6 @@ mi-de-ner-nis3.info
 mine.nahnoji.cz
 minerad.com
 mwor.gq
-oei1.gq
 pampopholf.com
 rand.com.ru
 reauthenticator.com
@@ -437,6 +433,7 @@ automaticairplane.com
 automaticflock.com
 avalonalbum.com
 averageamusement.com
+awarealley.com
 awesomeagreement.com
 awesomeattack.com
 bagbeam.com
@@ -490,7 +487,6 @@ briefstem.com
 broadboundary.com
 brothersbucket.com
 bruisebaseball.com
-btez8.xyz
 bucketbean.com
 bulbbait.com
 bunchance.com
@@ -503,6 +499,7 @@ calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
 calendarrate.com
+calmcactus.com
 calmcough.com
 calypsocapsule.com
 cannonjudo.com
@@ -517,6 +514,7 @@ catschickens.com
 cautiouscredit.com
 chairscrack.com
 channelcamp.com
+chargecracker.com
 cheerfulrange.com
 chemicalcoach.com
 chemicalsnake.com
@@ -863,6 +861,7 @@ livelumber.com
 livelylaugh.com
 livelyreward.com
 longinglettuce.com
+longingtrees.com
 lovelydrum.com
 lp3tdqle.com
 ludicrousarch.com
@@ -917,6 +916,7 @@ mysteriousmonth.com
 nappyattack.com
 necessarywax.com
 negotiatetime.com
+nervoussummer.com
 niftyhospital.com
 niftyjelly.com
 noiselessplough.com
@@ -957,6 +957,7 @@ paradoxfactor.com
 parchedangle.com
 parchedsofa.com
 pardonpopular.com
+partplanes.com
 passengerpage.com
 pastepot.com
 pastoralcorn.com
@@ -1022,12 +1023,14 @@ quizzicalzephyr.com
 rabbitbreath.com
 rabbitrifle.com
 railwayrainstorm.com
+railwayreason.com
 rainydirt.com
 rainyhand.com
 rainyrule.com
 rainystretch.com
 rambunctiousvoyage.com
 rapidkittens.com
+raresummer.com
 readgoldfish.com
 readingguilt.com
 readingopera.com
@@ -1445,6 +1448,7 @@ zippywind.com
 zlp6s.pw
 analytics.rechtslupe.org
 tracking.wlscripts.net
+naanalle.pl
 1558334541.rsc.cdn77.org
 3p-geo.yahoo.com
 3p-udc.yahoo.com
@@ -1628,7 +1632,6 @@ bee.tc.easebar.com
 behavior.tongdun.net
 bento.agoda.com
 bi.medscape.com
-bizsolutions.strands.com
 bmrg.reflected.net
 botdetection.hbrsd.com
 browser-intake-datadoghq.com
@@ -2073,7 +2076,6 @@ rum.azion.com
 rum.azioncdn.net
 rum.ingress.layer0.co
 rum.layer0.co
-rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.uptime.com
 s.autopilotapp.com
@@ -2271,7 +2273,6 @@ track.mycliplister.com
 track.nopaperforms.com
 track.pnicnik.live
 track.pricespider.com
-track.qcri.org
 track.qoof.com
 track.realtimeboard.com
 track.searchignite.com
@@ -2371,7 +2372,6 @@ tracking.waterfrontmedia.com
 tracking.wisepops.com
 tracking1.brandmentions.com
 tracking2.channeladvisor.com
-trackingapi.cloudapp.net
 trackla.stackla.com
 traffic.acwebconnecting.com
 traffic.prod.cobaltgroup.com
@@ -2383,7 +2383,6 @@ trends.newsmaxwidget.com
 triggers.wfxtriggers.com
 trk.clinch.co
 trk.techtarget.com
-tru.webelapp.com
 try.abtasty.com
 ts.tradetracker.net
 ucounter.ucoz.net
@@ -2928,7 +2927,6 @@ cnt.rate.ru
 count.yandeg.ru
 counter.insales.ru
 counter.megaindex.ru
-counter.nn.ru
 counter.photopulse.ru
 counter.pr-cy.ru
 counter.reddigital.ru
@@ -2941,7 +2939,6 @@ error.videonow.ru
 g4p.redtram.com
 ip.up66.ru
 kraken.rambler.ru
-log.kslogs.ru
 logs.viavideo.digital
 metrics.aviasales.ru
 piper.amocrm.ru
@@ -2956,7 +2953,6 @@ stat.rum.cdnvideo.ru
 stat.sputnik.ru
 stat.tvigle.ru
 statistics.fppressa.ru
-stats.seedr.com
 stats.tazeros.com
 stats2.videonow.ru
 t1.trex.media
@@ -3073,7 +3069,6 @@ analytics.send.cm
 analytics.slashdotmedia.com
 analytics.synchrony.com
 analytics.synedat.com
-analytics.touchnote.io
 analytics.tradedoubler.com
 analytics.vedantu.com
 analytics.yugen.to
@@ -3283,9 +3278,11 @@ metrics.hackerrank.com
 metrics.roblox.com
 metrics.spkt.io
 metrics.syf.com
+metrics.ted.com
 metricsishare.rediff.com
 miao.baidu.com
 midas.chase.com
+mixpanel-proxy.ted.com
 mktcs.cloudapps.cisco.com
 mms.cnn.com
 mon.us.tiktokv.com
@@ -3294,7 +3291,6 @@ mr.homedepot.ca
 mstm.motorsport.com
 mxpl.9gag.com
 n26-trusted.n26.com
-n511.thestar.com
 nasi.etherscan.com
 net.haier.com
 nm.newegg.com
@@ -3477,7 +3473,6 @@ squirrel.malaynahocker.com
 srtb.msn.com
 srv.plesk.com
 ss.photospecialist.co.uk
-ssc.api.bbc.com
 st.sawlive.tv
 stan.xing.com
 stat.cdngeek.com
@@ -3606,6 +3601,7 @@ wstats.e-wok.tv
 wtk.db.com
 xstats.evoload.io
 z.cdp-dev.cnn.com
+z737.thestar.com
 zion-telemetry.api.cnn.io
 track.opentable.ae
 track.opentable.ca
@@ -16022,7 +16018,6 @@ c1hit.zerkalo.io
 s1r.zerkalo.io
 s3r.zerkalo.io
 tags.aljazeera.net
-tracking.alarabiya.net
 insight.olx.ba
 4399stat.5054399.com
 adstats.tencentmusic.com
@@ -16191,7 +16186,6 @@ click.tv.repubblica.it
 clickserver.libero.it
 compare.easyviaggio.com
 data.segugio.it
-emng.libero.it
 execution-ci360.rai.it
 insights.cdt.ch
 livestats.la7.tv
