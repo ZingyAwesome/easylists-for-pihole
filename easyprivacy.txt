@@ -66,6 +66,7 @@ datatechonert.com
 directavenue.tech
 dispatchunique.com
 dispatchvegasplus.com
+dkotrack.com
 dlxpix.net
 dm-event.net
 dmpxs.com
@@ -239,6 +240,7 @@ seadform.net
 securedvisit.com
 selphiu.com
 seoab.io
+sgstats.com
 site24x7rum.eu
 sitecounter.site
 sitedataprocessing.com
@@ -1891,6 +1893,7 @@ inbound-analytics.pixlee.co
 infinityid.condenastdigital.com
 informer.yandex.ru
 ingest.make.rvapps.io
+ins.connatix.com
 insights.algolia.io
 insights.sitesearch360.com
 insitez.blob.core.windows.net
@@ -1919,6 +1922,7 @@ lcs.naver.com
 leadtracking.plumvoice.com
 link.informer.com
 links.voyeurweb.com
+lit.connatix.com
 literally-analytics.appspot.com
 livecounter.theyosh.nl
 livestats.kaltura.com
@@ -1968,6 +1972,7 @@ metrics.api.drift.com
 metrics.beyondwords.io
 metrics.brightcove.com
 metrics.ctvdigital.net
+metrics.gs-chat.com
 metrics.kmsmep.com
 metrics.mdstrm.com
 metrics.onshape.com
@@ -2042,6 +2047,7 @@ pixel.wp.com
 pixel.yabidos.com
 pixel.yola.com
 pixels.afcdn.com
+pl.connatix.com
 platform.iteratehq.com
 pm.boostintegrated.com
 porpoise.azettl.net
