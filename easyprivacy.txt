@@ -3057,6 +3057,7 @@ adc.nine.com.au
 adl.bankofthewest.com
 adtech-events.bookmyshow.com
 adv.drtuber.com
+aegis.trovo.live
 affiliates.treasureisland.com
 affiliates.vpn.ht
 ai.iol.io
@@ -15926,6 +15927,7 @@ d.rp-online.de
 dv.chemie.de
 ens.luzernerzeitung.ch
 ens.tagblatt.ch
+event-collector.prd.data.s.joyn.de
 fc.vodafone.de
 froglytics.eventfrog.ch
 geoip.finanzen.net
