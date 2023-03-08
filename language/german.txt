@@ -28,6 +28,7 @@ ad.putenbrust.net
 as.chartsurfer.de
 banner.click-tt.de
 code.bergsteigen.com
+hybrid-prd.ad-prd.s.joyn.de
 network.gofeminin.de
 network2.aufeminin.com
 ox.gassi-tv.de
