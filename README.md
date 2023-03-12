@@ -2,7 +2,7 @@
 
 Hello there!
 
-Here you can find EasyLists for the excellent ad-blocking Pi-Hole! This repo contains EasyList, EasyPrivacy and some language specific lists (in the language folder). The lists are pre-parsed and ready to use. All you have to do is add them to your blocklists.
+Here you can find EasyLists for the excellent ad-blocking Pi-Hole! This repo contains EasyList, EasyPrivacy, EasyList Cookies and some language specific lists (in the language folder). The lists are pre-parsed and ready to use. All you have to do is add them to your blocklists.
 
 Read the instructions below for how to add these lists.
 
