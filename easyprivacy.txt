@@ -332,6 +332,7 @@ bitcoin-pocket.eu
 bmcm.pw
 bmnr.pw
 bmst.pw
+bmwebm.org
 candid.zone
 cashbeet.com
 chmproxy.bid
@@ -470,6 +471,7 @@ bhcumsc.com
 billowybead.com
 bitterbear.com
 bizarrebaseball.com
+blackbrake.com
 bleachbubble.com
 blotburn.com
 blushingbeast.com
@@ -2428,6 +2430,7 @@ userexperience.thehut.net
 usersegment.wpdigital.net
 v.shopify.com
 vdrn.redplum.com
+vercel-vitals.axiom.co
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
 visit.webhosting.yahoo.com
