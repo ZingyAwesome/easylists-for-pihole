@@ -2777,6 +2777,7 @@ contents-tracking.beop.io
 continuenow.miami.edu
 controlswim.com
 convead.io
+conversion.mooncard.co
 conversions.genieventures.co.uk
 convocation.uwindsor.ca
 convsgmp.taboola.com
@@ -3531,6 +3532,7 @@ e1e.io
 e5obq1v261.www.lurkit.com
 e62ndy5gz80q.bitdomain.biz
 e77lmzbqou0n-a.akamaihd.net
+eagle-insight.com
 eagle.kudzu.com
 earthquakeend.com
 earthquakescarf.com
@@ -4145,6 +4147,7 @@ frdoki.liquidfoundation.work
 frdoki.teaceremony.work
 fresnel-events.vimeocdn.com
 fretfulfurniture.com
+friendlyfold.com
 friendwool.com
 frightenedpotato.com
 frog.editorx.com
@@ -4529,6 +4532,7 @@ hub.firestonecompleteautocare.com
 hub.hubinternational.com
 hubmetric.samsclub.com
 hubmetrics.samsclub.com
+hubty.network
 hulpmiddel.fvw.de
 humdrumhat.com
 hurricane.tinybird.co
@@ -4717,7 +4721,6 @@ info.telstra.com
 info.telstra.com.au
 info.tetravx.com
 info.theaba.org
-info.themyersbriggs.com
 info.thomsonlinear.com
 info.tmlt.org
 info.tpctraining.com
@@ -5203,6 +5206,7 @@ lnvmxk.familyset.jp
 loader-cdn.azureedge.net
 loader.zeroform.com
 log-gateway.zoom.us
+log-lb.skyperfectv.co.jp
 log.adplex.co.kr
 log.aimtell.com
 log.aliyuncs.com
@@ -5714,6 +5718,7 @@ matheranalytics.com
 matrix.hbo.com
 matrix42.actonservice.com
 matt.mercadolivre.com.br
+maxtrafixx.tech
 maz.zba.jp
 mb-tracking.com
 mbainfo.ust.hk
@@ -7615,6 +7620,7 @@ sdjthl.tvguide.dk
 sdtagging.azureedge.net
 seadform.net
 seahorseinfo.agilent.com
+search.anonymous.ads.brave.com
 seashoresociety.com
 seatsmoke.com
 secmetrics.leggmason.com
@@ -9637,6 +9643,7 @@ stt.dell.com
 stt.lenovo.com
 stt.nvidia.com
 stt.pluralsight.com
+stt.wawacity.onl
 stupendousselection.com
 stupendoussleet.com
 stupendoussnow.com
