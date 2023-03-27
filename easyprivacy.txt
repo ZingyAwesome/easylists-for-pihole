@@ -263,6 +263,7 @@ summerhamster.com
 superpointlesshamsters.com
 t13.io
 takingbackjuly.com
+targetemsecure.blob.core.windows.net
 tatpek.com
 test.vast
 testingmetriksbre.ru
@@ -1618,6 +1619,7 @@ analytics.ynap.biz
 analytics.yola.net
 analytics.yolacdn.net
 analytics.ziftsolutions.com
+analyticsehnwe.servicebus.windows.net
 analyze.full-marke.com
 ao-freegeoip.herokuapp.com
 aorta.clickagy.com
@@ -16045,6 +16047,7 @@ events-logs.doctolib.com
 forecast.huffingtonpost.fr
 fsm.lapresse.ca
 hits.porn.fr
+l.bfmtv.com
 l.franceculture.fr
 logstash-3.radio-canada.ca
 p.kolplay.com
