@@ -1775,6 +1775,7 @@ analytics.ziftsolutions.com
 analytics00.meride.tv
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
+analyticsehnwe.servicebus.windows.net
 analyticsresults.bildungsforum.datev.de
 analyticsresults.datev.de
 analyticsssl.forcepoint.com
@@ -9925,6 +9926,7 @@ target.veeam.com
 target.visitsingapore.com
 target.walgreens.com
 target.zeiss.com
+targetemsecure.blob.core.windows.net
 targeting.focas.jp
 targeting.voxus.tv
 targeting.washpost.nile.works
