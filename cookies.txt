@@ -2,6 +2,7 @@ analytics-consent-manager.azureedge.net
 cc.anytrack.de
 ccpa-script.psg.nexstardigital.net
 ccpa.sp-prod.net
+cmp.setupcmp.com
 consent.digiapi.com
 consent.prointernet.com
 cookie.consents.app

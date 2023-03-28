@@ -2297,6 +2297,7 @@ tr.snapchat.com
 tr.webantenna.info
 tr1.mailperformance.com
 traccoon.intellectsoft.net
+track.360playvid.info
 track.91app.io
 track.99acres.com
 track.bannedcelebs.com
@@ -3083,6 +3084,7 @@ alb.reddit.com
 als-svc.nytimes.com
 amethyst.zappos.com
 ampltd.top.gg
+ampltd2.medal.tv
 analyselog.dx.com
 analytics-proxy.springboard.com
 analytics-tracking.meetup.com
@@ -3281,6 +3283,7 @@ heap.drop.com
 hits.cyberdrop.me
 i.pokernews.com
 iedc.fitbit.com
+ih.newegg.com
 indmetric.rediff.com
 ingress.linktr.ee
 intent.cmo.com.au
@@ -3325,6 +3328,7 @@ mcs-va.tiktokv.com
 metrics.audius.co
 metrics.freemake.com
 metrics.hackerrank.com
+metrics.newegg.com
 metrics.roblox.com
 metrics.spkt.io
 metrics.syf.com
@@ -16274,7 +16278,6 @@ d.tv-asahi.co.jp
 j1.ax.xrea.com
 ln.ameba.jp
 log-lb.skyperfectv.co.jp
-log.suumo.jp
 logql.yahoo.co.jp
 measure.ameblo.jp
 pw.gigazine.net
