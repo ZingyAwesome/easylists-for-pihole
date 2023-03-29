@@ -1379,6 +1379,7 @@ ametrics.web.dnbbank.no
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
 ampltd.top.gg
+ampltd2.medal.tv
 amusementmorning.com
 amusinggirls.com
 amvtwk.thebottleclub.com
@@ -5249,7 +5250,6 @@ log.rutube.ru
 log.seekda.com
 log.sina.cn
 log.snapdeal.com
-log.suumo.jp
 log.tagtic.cn
 log.targetpush.co.kr
 log.webnovel.com
@@ -6015,6 +6015,7 @@ metrics.nab.com.au
 metrics.nba.com
 metrics.nero.com
 metrics.nespresso.com
+metrics.newegg.com
 metrics.news.com.au
 metrics.nfl.com
 metrics.nfm.com
