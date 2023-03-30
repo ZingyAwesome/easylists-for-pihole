@@ -51,6 +51,7 @@ ckies.net
 clarity.ms
 clearbitscripts.com
 click360.io
+cliquelead.com
 cloudwp.io
 clrt.ai
 cntxtfl.com
@@ -70,6 +71,7 @@ dkotrack.com
 dlxpix.net
 dm-event.net
 dmpxs.com
+doublestat.info
 dratingmaject.com
 dspx.tv
 dttrk.com
@@ -271,6 +273,7 @@ the-ozone-project.com
 thefontzone.com
 tncid.app
 trackclicks.info
+triplestat.online
 trk-maiorum.com
 trkbc.com
 trkn.us
@@ -444,6 +447,7 @@ auspiciousyard.com
 automaticairplane.com
 automaticflock.com
 avalonalbum.com
+averageactivity.com
 averageamusement.com
 awarealley.com
 awesomeagreement.com
@@ -3407,6 +3411,7 @@ ring.staticmoly.me
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
 rs.mail.ru
+rstat.rockmostbet.com
 rt.newswire.ca
 rt.prnewswire.com
 rta.dailymail.co.uk
@@ -15940,6 +15945,7 @@ url7962.careerkarma.io
 url8196.mindrise.app
 url9609.account.experience-muse.com
 agnes.waz.de
+analytics.adliners.de
 analytics.daasrv.net
 analytics.deutscher-apotheker-verlag.de
 analytics.moviepilot.de
