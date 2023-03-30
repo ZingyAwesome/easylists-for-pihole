@@ -2515,6 +2515,7 @@ client-logger.salemove.com
 client-metrics.chess.com
 clientservice.alphasimplex.com
 clinical.questdiagnostics.com
+cliquelead.com
 clk.mindfulsuite.com
 clk.ubi.com
 clnbze.dziennikbaltycki.pl
@@ -3003,6 +3004,7 @@ d25ezbwokoefx6.cloudfront.net
 d276.ourmidland.com
 d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
+d2ef20sk9hi1u3.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
@@ -3461,6 +3463,7 @@ donkeyleaf.com
 doorbrazil.com
 doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
+doublestat.info
 doubtdrawer.com
 doubtfulrainstorm.com
 doug1izaerwt3.cloudfront.net
@@ -3475,6 +3478,7 @@ dpdety.jingus.com
 dppublishinginc.actonservice.com
 dqqfrs.qatarairways.com
 dqs3.darjeeling.fr
+dr3fr5q4g2ul9.cloudfront.net
 drabsize.com
 draconiancurve.com
 dragon.moneycoach.io
@@ -7216,6 +7220,7 @@ rqyxdk.myanimelist.net
 rqz4.supdigital.fr
 rrgiuy.jackroad.co.jp
 rsc.lepoint.fr
+rstat.rockmostbet.com
 rsx.afterpay.com
 rta.dailymail.co.uk
 rta2.inews.co.uk
@@ -10481,6 +10486,7 @@ tremendoustreatment.com
 trends.newsmaxwidget.com
 trickycelery.com
 triggers.wfxtriggers.com
+triplestat.online
 triton.companyegg.com
 trk-maiorum.com
 trk.adbutter.net
