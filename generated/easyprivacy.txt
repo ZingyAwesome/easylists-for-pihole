@@ -2341,7 +2341,6 @@ cbc.pnc.com
 cbdatatracker.com
 cbmetrics.clickbank.com
 cbpgpg.bombshellsportswear.com
-cc-api-data.adobe.io
 ccaas.avaya.com
 ccexperimentsstatic.oracleoutsourcing.com
 cclink.carfax.com
@@ -7071,6 +7070,7 @@ r4nds.absorba.com
 raac33.net
 rabbitbreath.com
 rabbitrifle.com
+rac.ruutu.fi
 radar.imgsmail.ru
 railwayrainstorm.com
 railwayreason.com
@@ -7757,6 +7757,7 @@ shallowsmile.com
 shinesavage.com
 shinestuart.com
 shiveringspot.com
+shiverscissors.com
 shockingship.com
 shop.iwantclips.com
 shopbreakfast.com
