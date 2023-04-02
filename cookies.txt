@@ -15,6 +15,7 @@ crta.and.co.uk
 d2eucw4fxv7nil.cloudfront.net
 gdpr-settings.s3.amazonaws.com
 gdpr.studybreakmedia.com
+message.maven.io
 optanon.blob.core.windows.net
 plugin.management
 privacy-cdn.sixfifty.com
@@ -106,7 +107,6 @@ cmp.pcwelt.de
 cmp.tvspielfilm.de
 consent-wrapper.jameda.de
 consent.berliner-kurier.de
-consent.faz.net
 consent.gutefrage.net
 consent.perry-rhodan.net
 consent.werner-mertz.de
