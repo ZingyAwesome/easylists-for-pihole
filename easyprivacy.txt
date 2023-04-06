@@ -1815,6 +1815,7 @@ eel.transistor.fm
 ele26126.jscrambler.com
 eq.userneeds.com
 errors.snackly.co
+etl.springbot.com
 eu-mobile.events.data.microsoft.com
 ev.stellarlabs.ai
 event-api.contactatonce.co.uk
@@ -2147,6 +2148,7 @@ sftrack.searchforce.net
 sgali-mcs.byteoversea.com
 shared.65twenty.com
 slackb.com
+smart-data-systems.com
 smrt.as
 snowplow.swm.digital
 solutions.invocacdn.com
@@ -2900,6 +2902,7 @@ s.dc-tag.jp
 script-sh.d2cdm.jp
 speee-ad.akamaized.net
 sync.shinobi.jp
+sysmon.kakaku.com
 t.adlpo.com
 t.seesaa.net
 tag.cribnotes.jp
