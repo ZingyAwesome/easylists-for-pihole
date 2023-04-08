@@ -15967,6 +15967,7 @@ data.sportdeutschland.tv
 dv.chemie.de
 ens.luzernerzeitung.ch
 ens.tagblatt.ch
+epimetheus.navigator.web.de
 event-collector.prd.data.s.joyn.de
 fc.vodafone.de
 froglytics.eventfrog.ch
