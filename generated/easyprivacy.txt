@@ -2065,6 +2065,7 @@ beacon.viewlift.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon2.indieclick.com
+beaconcdn.qq.com
 beacons.mediamelon.com
 beadbears.com
 beafdf.restaupro.com
