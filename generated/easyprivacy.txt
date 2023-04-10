@@ -1754,6 +1754,7 @@ analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
+analytics.wavebox.io
 analytics.webgains.io
 analytics.webpushr.com
 analytics.websolute.it
@@ -2837,6 +2838,7 @@ counter.maases.com
 counter.megaindex.ru
 counter.people.cn
 counter.photopulse.ru
+counter.powr.io
 counter.powweb.com
 counter.proxycrawl.com
 counter.rambler.ru
@@ -5470,7 +5472,6 @@ marketing.discoversaratoga.org
 marketing.discoverx.com
 marketing.diverseco.com.au
 marketing.dnacenter.com
-marketing.dropbox.com
 marketing.dryvit.com
 marketing.egsifinancial.com
 marketing.electroquip.co.nz
