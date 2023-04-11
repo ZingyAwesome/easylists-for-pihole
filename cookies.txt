@@ -21,7 +21,6 @@ privacy-cdn.sixfifty.com
 webcache-eu.datareporter.eu
 webcache.datareporter.eu
 widgets.openli.com
-appconsent.io
 cdn259.talksport.com
 cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
