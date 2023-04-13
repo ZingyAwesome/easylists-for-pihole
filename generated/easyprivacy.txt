@@ -3412,7 +3412,6 @@ discover-metrics.cloud.seek.com.au
 discover.clarivate.com
 discover.conversantmedia.com
 discover.dignityhealth.org
-discover.interlochen.org
 discover.parker.com
 discover.phenomenex.com
 discover.proshipinc.com
@@ -3941,7 +3940,6 @@ events.santander.co.uk
 events.shareably.net
 events.sk.ht
 events.split.io
-events.statsigapi.net
 events.tubecup.org
 events.turbosquid.com
 events.ubembed.com
