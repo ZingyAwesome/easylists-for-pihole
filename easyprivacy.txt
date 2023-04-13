@@ -144,6 +144,7 @@ hsadspixel.net
 hsleadflows.net
 hubty.network
 i218435.net
+icanhazip.com
 id5-sync.com
 idx.lat
 impactcdn.com
@@ -465,6 +466,7 @@ bawdybeast.com
 bawdypets.com
 beadbears.com
 beamincrease.com
+beamvolcano.com
 beastbeef.com
 beautifulhobbies.com
 bedsberry.com
@@ -1054,6 +1056,7 @@ quacksquirrel.com
 quaintborder.com
 quarterbean.com
 quicksandear.com
+quillkick.com
 quizzicalzephyr.com
 rabbitbreath.com
 rabbitrifle.com
@@ -1379,6 +1382,7 @@ throattrees.com
 thunderingrose.com
 ticketaunt.com
 ticklesign.com
+tightpowder.com
 timeterritory.com
 timetwig.com
 tinytendency.com
@@ -1818,6 +1822,7 @@ eel.transistor.fm
 ele26126.jscrambler.com
 eq.userneeds.com
 errors.snackly.co
+et.educationdynamics.com
 etl.springbot.com
 eu-mobile.events.data.microsoft.com
 ev.stellarlabs.ai
@@ -1986,7 +1991,6 @@ lore.circulate.com
 lps.qantas.com
 lucid.mjhassoc.com
 m.addthisedge.com
-m.stripe.com
 ma.logsss.com
 martech.condenastdigital.com
 mas.nth.ch
@@ -2666,6 +2670,7 @@ met.vgwort.de
 nexxtv-events.servicebus.windows.net
 omniture.eaeurope.eu
 orbidder.otto.de
+pixel.poptok.com
 plausible.ams.to
 px.staticfiles.at
 retrack.q-divisioncdn.de
@@ -10541,7 +10546,6 @@ devotionalclicks.amazingfacts.org
 digitalmarketing.smu.edu.sg
 direct.t-mobile.com
 discover.dignityhealth.org
-discover.interlochen.org
 discover.proshipinc.com
 dppublishinginc.actonservice.com
 durst-group.actonservice.com
