@@ -3,6 +3,7 @@ cc.anytrack.de
 ccpa-script.psg.nexstardigital.net
 ccpa.sp-prod.net
 cmp.setupcmp.com
+collector.appconsent.io
 consent.digiapi.com
 consent.prointernet.com
 cookie.consents.app
