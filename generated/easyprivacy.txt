@@ -2074,6 +2074,7 @@ beagle.prod.tda.link
 beam.bankrate.com
 beam.mjhlifesciences.com
 beamincrease.com
+beamvolcano.com
 beastbeef.com
 beat.socialblade.com
 beat.yourtv.jp
@@ -4571,6 +4572,7 @@ iabusprivacy.pmc.com
 iazwzp.lyst.com
 iberian.promo.skf.com
 ibkups.rci.com
+icanhazip.com
 icas.ikea.com
 icas.ikea.net
 icebergindigo.com
@@ -6761,6 +6763,7 @@ pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
 pixel.nine.com.au
+pixel.poptok.com
 pixel.redgifs.com
 pixel.roymorgan.com
 pixel.smartmedia.tj
@@ -7052,6 +7055,7 @@ questions.theanswerco.com
 quickkoala.io
 quicksandear.com
 quidel.actonservice.com
+quillkick.com
 quizzicalzephyr.com
 quk9.destinia.com.ar
 qumaef.conects.com
@@ -10076,6 +10080,7 @@ ticketaunt.com
 ticklesign.com
 tics.seeker.gg
 tics.techdirt.com
+tightpowder.com
 tiglck.technopolis.bg
 tilanalytics.timesinternet.in
 tim.nextinpact.com
