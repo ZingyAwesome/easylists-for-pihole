@@ -2123,6 +2123,7 @@ bidswitch.net
 bigdata.aspiresys.com
 bilahh.feuvert.fr
 billowybead.com
+bin.vinted.net
 bisko.mall.tv
 bismetrics.experian.com
 bit.beformance.com
@@ -7754,6 +7755,7 @@ sentry.arc.io
 seoab.io
 separateshow.com
 sephora-qa.branchstaging.com
+serioussuit.com
 serpentshampoo.com
 serv1swork.com
 server.japanbyrivercruise.com
