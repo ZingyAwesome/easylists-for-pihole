@@ -144,7 +144,6 @@ hsadspixel.net
 hsleadflows.net
 hubty.network
 i218435.net
-icanhazip.com
 id5-sync.com
 idx.lat
 impactcdn.com
@@ -208,6 +207,7 @@ optistats.ovh
 ostrichesica.com
 p-analytics.life
 p2r14.com
+p7cloud.net
 pageid.info
 pdflive.org
 permutive.app
@@ -16110,6 +16110,7 @@ events-logs.doctolib.com
 forecast.huffingtonpost.fr
 fsm.lapresse.ca
 hits.porn.fr
+hlms.ecologie.gouv.fr
 l.bfmtv.com
 l.franceculture.fr
 logstash-3.radio-canada.ca
@@ -16128,6 +16129,7 @@ t.blablacar.com
 tc2.hometogo.net
 tracker.mspy.com
 tracking.bd4travel.com
+wrhv.education.gouv.fr
 wstats.gameblog.fr
 wt.oscaro.com
 edmi.nextinpact.com
