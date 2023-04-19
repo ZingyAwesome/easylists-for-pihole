@@ -6,4 +6,5 @@ triggy-banners.web.app
 minube.click
 bannersweb.s3.amazonaws.com
 do67etikr7pwz.cloudfront.net
+plx.pornes.xxx
 ra.poringa.net

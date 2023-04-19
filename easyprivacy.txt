@@ -42,6 +42,7 @@ briskeagle.io
 briskpelican.io
 brontops.com
 btloader.com
+bx-cloud.com
 bydst.com
 cadsuta.net
 cbdatatracker.com
@@ -178,6 +179,8 @@ maxtrafixx.tech
 mb-tracking.com
 mcangelus.com
 mdhv.io
+medaipvx.com
+medaipxv.com
 mediamathrdrt.com
 mediapvx.com
 mediapxv.com
@@ -3178,6 +3181,7 @@ analytics.tradedoubler.com
 analytics.vedantu.com
 analytics.wavebox.io
 analytics.yugen.to
+analytics2.dashboard.fingerprint.com
 anon-stats.eff.org
 api-js.mixpanel.com
 appanalysis.banggood.com
@@ -3200,6 +3204,7 @@ bin.vinted.net
 binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 boomerang.dell.com
+c.fingerprint.com
 c.wort-suche.com
 c.x.oanda.com
 c.xbox.com
@@ -3307,6 +3312,7 @@ fp.measure.office.com
 fpa-cdn.arstechnica.com
 fpa-cdn.decrypt.co
 fpa-events.decrypt.co
+fpa.fingerprint.com
 fpt.microsoft.com
 fresnel-events.vimeocdn.com
 g.ign.com
