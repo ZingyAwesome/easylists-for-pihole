@@ -3209,6 +3209,7 @@ c.wort-suche.com
 c.x.oanda.com
 c.xbox.com
 cl.canva.com
+clanker-events.squarespace.com
 clarice.streema.com
 click.nudevista.com
 click.oneplus.com
@@ -3300,6 +3301,7 @@ events.privy.com
 events.reddit.com
 events.redditmedia.com
 events.santander.co.uk
+events.squarespace.com
 events.turbosquid.com
 exr-mms.expertreviews.co.uk
 f362.nola.com
@@ -3701,6 +3703,7 @@ u989.theweek.com
 ua.indianexpress.com
 ubuyanalytics.ubuy.com
 uie.data.cbc.ca
+um.contentstudio.io
 umami.wakarimasen.moe
 urs.metacritic.com
 user-metrics.onthemarket.com
@@ -16109,6 +16112,7 @@ ymprove.gmx.net
 ymprove.web.de
 ia.ekstrabladet.dk
 analytics.allovoisins.com
+bmly.impots.gouv.fr
 cdtm.cdiscount.com
 compteur.developpez.com
 e.legalstart.fr
