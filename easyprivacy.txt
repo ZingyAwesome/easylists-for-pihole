@@ -1621,6 +1621,7 @@ analytics.myfidevs.io
 analytics.myfinance.com
 analytics.newscred.com
 analytics.onlyonlinemarketing.com
+analytics.ooyala.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
@@ -2315,6 +2316,7 @@ tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.statshop.fr
+tagger.opecloud.com
 tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
@@ -2695,6 +2697,7 @@ d.adlpo.com
 d.nativendo.de
 d.omsnative.de
 data.econa.com
+data.kameleoon.io
 et.twyn.com
 events.onet.pl
 geo.mtvnn.com
@@ -18449,6 +18452,7 @@ bravo.israelweather.co.il
 cellstats.mako.co.il
 ds.haaretz.co.il
 stats.mako.co.il
+beam.telex.hu
 events.ingatlan.com
 outal.origo.hu
 analytic20.detik.com
@@ -18520,6 +18524,7 @@ sp.naver.com
 stat.i3.dmm.com
 stat.tiara.daum.net
 stat.tiara.kakao.com
+stat.tiara.tistory.com
 track.tiara.daum.net
 track.tiara.kakao.com
 tracker.cauly.co.kr
@@ -18533,6 +18538,7 @@ analytics.gazeta.pl
 collect.state.centrum24.pl
 entryhit.wp.pl
 eventstream.dodopizza.com
+kropka.onet.pl
 mklik.gazeta.pl
 p.gazeta.pl
 pixel.wp.pl
