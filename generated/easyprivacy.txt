@@ -3056,6 +3056,7 @@ beadbears.com
 beagle.prod.tda.link
 beam.bankrate.com
 beam.mjhlifesciences.com
+beam.telex.hu
 beamincrease.com
 beamvolcano.com
 beastbeef.com
@@ -3341,7 +3342,6 @@ bronxvanilla.openapp.link
 brothersbucket.com
 browser-intake-datadoghq.com
 browser-updater.yandex.net
-browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 brrecordgo.eccocar.com
 brrentalservicefinland.eccocar.com
@@ -4418,6 +4418,7 @@ data.gosquared.com
 data.guide.photobucket.com
 data.inbank.it
 data.janvanderstorm.de
+data.kameleoon.io
 data.leipzig.de
 data.mainpost.de
 data.mapp.com
@@ -9431,6 +9432,7 @@ quaintborder.com
 quantserve.com
 quarterbean.com
 qubitanalytics.appspot.com
+query.petametrics.com
 quesid.com
 quhdnr.musiciansfriend.com
 quickkoala.io
@@ -11034,6 +11036,7 @@ stat.stheadline.com
 stat.super.cz
 stat.tiara.daum.net
 stat.tiara.kakao.com
+stat.tiara.tistory.com
 stat.tildacdn.com
 stat.tomdebruijn.com
 stat.turb.pw
