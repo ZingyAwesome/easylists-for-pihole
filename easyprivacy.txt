@@ -1547,6 +1547,7 @@ a.mobify.com
 actioniq.mr-in.com
 activity.wisepops.com
 ad.aloodo.com
+adfox.yandex.ru
 adlog.com.com
 ads-trk.vidible.tv
 affiliates.minglematch.com
@@ -2820,6 +2821,7 @@ p.tencentmind.com
 pos.baidu.com
 pv.hd.sohu.com
 pv.kuaizhan.com
+pv.sohu.com
 px.effirst.com
 r.sax.sina.com.cn
 report.meituan.com
@@ -3089,6 +3091,7 @@ ctx.citiservi.es
 datanoticias.prisasd.com
 g-stats.openhost.es
 hits.eluniversal.com.mx
+mat.socy.es
 mtm.qdqmedia.com
 pub.servidoresge.com
 sp.vtex.com
@@ -18529,6 +18532,7 @@ track.tiara.daum.net
 track.tiara.kakao.com
 tracker.cauly.co.kr
 uts.auction.co.kr
+wcs.naver.com
 weblog.eseoul.go.kr
 weblog2.eseoul.go.kr
 stats.tunt.lv
@@ -18579,6 +18583,7 @@ log.rutube.ru
 pixels.boxberry.ru
 pulsarback.mail.ru
 radar.imgsmail.ru
+ssp.rambler.ru
 stat.5-tv.ru
 stat.api.2gis.ru
 stat.bankiros.ru
