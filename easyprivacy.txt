@@ -1564,6 +1564,7 @@ analytic.rollout.io
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
 analytics-cms.whitebeard.me
+analytics-consent-manager-v2-prod.azureedge.net
 analytics-production.hapyak.com
 analytics-scripts.cablelabs.com
 analytics-sg.tiktok.com
@@ -3698,7 +3699,6 @@ treatment.grammarly.com
 tredir.go.com
 trx3.famousfix.com
 ts.delfi.lt
-u989.theweek.com
 ua.indianexpress.com
 ubuyanalytics.ubuy.com
 uie.data.cbc.ca
@@ -3787,7 +3787,6 @@ z492.ctinsider.com
 z680.beaumontenterprise.com
 zion.qbo.intuit.com
 cb-mms.carbuyer.co.uk
-cdn-alliancegravity.s3.amazonaws.com
 cmp.courrierinternational.com
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -3799,17 +3798,12 @@ cmp.nouvelobs.com
 cmp.tech426.com
 cmp.tek.no
 d.sourcepoint.capitalfm.com
-eurogamer-it.eurogamer.it
-eurogamer-pl.eurogamer.pl
-eurogamer-pt.eurogamer.pt
 fuse.forbes.com
-mms.wwe.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
-twus-mms.theweek.com
-usgamer-us.usgamer.net
 vg247-p2.vg247.com
+vg247-uk.vg247.com
 cdn1.pebx.pl
 piti.bplaced.net
 primate.dmarcdigests.com
