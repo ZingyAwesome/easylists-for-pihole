@@ -1615,6 +1615,7 @@ analytics.kongregate.io
 analytics.live.com
 analytics.livestream.com
 analytics.m7g.twitch.tv
+analytics.maikel.pro
 analytics.mailmunch.co
 analytics.matchbin.com
 analytics.midwesternmac.com
@@ -1725,6 +1726,7 @@ behavior.tongdun.net
 bento.agoda.com
 bi.medscape.com
 bmrg.reflected.net
+bonfire.spklw.com
 botdetection.hbrsd.com
 browser-intake-datadoghq.com
 browser.pipe.aria.microsoft.com
@@ -1783,6 +1785,7 @@ collector.clareity.net
 collector.getyourguide.com
 collector.mazeberry.com
 collector.sspinc.io
+collector5.zipy.ai
 commerce.bing.com
 connect.idocdn.com
 connext-cdn.azureedge.net
@@ -1913,6 +1916,7 @@ f-log-at.grammarly.io
 f-log-test.grammarly.io
 fcmatch.google.com
 fcmatch.youtube.com
+felix.data.tm-awx.com
 filament-stats.herokuapp.com
 fingerprinter-production.herokuapp.com
 firebaselogging-pa.googleapis.com
@@ -2381,7 +2385,6 @@ track.searchiq.co
 track.shop2market.com
 track.sitetag.us
 track.social.com
-track.sprinklecontent.com
 track.strife.com
 track.tcppu.com
 track.td3x.com
