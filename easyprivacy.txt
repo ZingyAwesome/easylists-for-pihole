@@ -2358,6 +2358,7 @@ tr.snapchat.com
 tr.vitals.co
 tr.webantenna.info
 traccoon.intellectsoft.net
+track-dark-bz.b-cdn.net
 track.360playvid.info
 track.91app.io
 track.99acres.com
@@ -3258,6 +3259,7 @@ crta.metro.co.uk
 crumbs.robinhood.com
 cstats.sankakucomplex.com
 d.skk.moe
+data.allstate.com
 data.guide.photobucket.com
 data.younow.com
 datadome.patreon.com
@@ -18280,7 +18282,6 @@ res.paruvendu.fr
 s5.charliehebdo.fr
 sta.zone-telechargement.day
 stat.ouedkniss.com
-stats.bouyguestelecom.fr
 stats.sexemodel.com
 stt.wawacity.onl
 t.blablacar.com
