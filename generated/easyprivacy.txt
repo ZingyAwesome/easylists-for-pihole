@@ -1730,6 +1730,7 @@ analytics-1.cavai.com
 analytics-api.samsunghealthcn.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
+analytics-consent-manager-v2-prod.azureedge.net
 analytics-gw.games.wanmei.com
 analytics-lgs.corebridgefinancial.com
 analytics-nssl.bradyid.com
@@ -1894,6 +1895,7 @@ analytics.livestream.com
 analytics.logsss.com
 analytics.lunge.de
 analytics.macklin.me
+analytics.maikel.pro
 analytics.mailmunch.co
 analytics.makeitmeme.com
 analytics.mambaui.com
@@ -3192,6 +3194,7 @@ boirza.idealista.pt
 bold.windstreamwholesale.com
 bombrw.netshoes.com.br
 boneregret.com
+bonfire.spklw.com
 bonne-terre-data-layer.com
 boobs.aridjaya.com
 book.londonsoundacademy.com
@@ -3813,6 +3816,7 @@ collector.wawlabs.com
 collector.xhamster.com
 collector.xhamster.desi
 collector2c.zhihuishu.com
+collector5.zipy.ai
 college.business.oregonstate.edu
 college.marketingcube.com.au
 colossalchance.com
@@ -5276,9 +5280,6 @@ eumeainfo.motorolasolutions.com
 euqsfp.belluna.jp
 eureka-app.eurekaplatform.org
 eurofiber.actonservice.com
-eurogamer-it.eurogamer.it
-eurogamer-pl.eurogamer.pl
-eurogamer-pt.eurogamer.pt
 eurogamer-uk.eurogamer.net
 eurotax-es.autovistagroup.com
 eurotax-pl.autovistagroup.com
@@ -8478,7 +8479,6 @@ mlweb.dmlab.hu
 mm-api.agency
 mmi.bemobile.ua
 mms.cnn.com
-mms.wwe.com
 mnrddc.journeys.com
 mobile-event.cvent.me
 mobile.btgpactual.com
@@ -12478,7 +12478,6 @@ track.slickinbox.com
 track.social.com
 track.sohu.com
 track.spothero.com
-track.sprinklecontent.com
 track.strife.com
 track.sunmedia.tv
 track.tappx.com
@@ -13088,7 +13087,6 @@ twjobq.sixt.com
 twn36gx4109r.loveisblank.com
 twoeej.carrefour.fr
 twsdne.petenkoiratarvike.com
-twus-mms.theweek.com
 txkipz.bellacor.com
 txmmdl.lampy.pl
 txrx.bol.com
@@ -13105,7 +13103,6 @@ u44.pnc.com
 u47.pnc.com
 u652.myplainview.com
 u927.sfgate.com
-u989.theweek.com
 uaemarketing.sedgwick.com
 uarrdg.landsofamerica.com
 uat-client.intact.ca
@@ -13215,7 +13212,6 @@ user.userguiding.com
 userexperience.thehut.net
 userfly.com
 usersegment.wpdigital.net
-usgamer-us.usgamer.net
 usgzei.vidaxl.ch
 usmetric.rediff.com
 ustat.info
