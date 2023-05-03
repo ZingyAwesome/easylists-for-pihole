@@ -3087,6 +3087,7 @@ wl-analytics.tsp.li
 hits.tf.rs
 stat.ringier.sk
 1to1.bbva.com
+ab.blogs.es
 analitica.webrpp.com
 collector-videoplayer.5centscdn.net
 contadores.miarroba.com
@@ -18266,6 +18267,7 @@ cdtm.cdiscount.com
 compteur.developpez.com
 e.legalstart.fr
 events-logs.doctolib.com
+flow.kiloutou.fr
 forecast.huffingtonpost.fr
 fsm.lapresse.ca
 hits.porn.fr
