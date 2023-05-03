@@ -4397,6 +4397,7 @@ data-basics.actonservice.com
 data.adlermode.com
 data.aik.in
 data.alexa.com
+data.allstate.com
 data.avid.com
 data.bilibili.com
 data.blog.swicket.io
@@ -5552,6 +5553,7 @@ flimsythought.com
 flockflame.com
 flog.pressplay.cc
 floodprincipal.com
+flow.kiloutou.fr
 flower.aridjaya.com
 flowerstreatment.com
 floweryflavor.com
@@ -9497,6 +9499,7 @@ recommenddoor.com
 reconditeprison.com
 reconditerespect.com
 recordbutter.com
+recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
 redditstream.arborapps.io
@@ -11153,7 +11156,6 @@ stats.bookingbuddy.com
 stats.booncon.com
 stats.bordspel.org
 stats.boscabeatha.ie
-stats.bouyguestelecom.fr
 stats.breathly.app
 stats.brennholzauktion.com
 stats.briskoda.net
