@@ -1678,6 +1678,7 @@ aloofmetal.com
 aloofvest.com
 alp1.drimki.fr
 alpha.go.levelbank.com
+alpha1trk.com
 alpineactor.com
 alquiler.aldflex.es
 alquiler.carflex.es
@@ -6143,6 +6144,7 @@ honorablehall.com
 honorablehydrant.com
 hop.dttd.app
 hoplaugh.com
+horizon.globo.com
 horizoneurope.ukri.org
 hosenews.com
 hospitality.pga.org
@@ -8482,6 +8484,7 @@ mm-api.agency
 mmi.bemobile.ua
 mms.cnn.com
 mnrddc.journeys.com
+moa.mediaoutcast.com
 mobile-event.cvent.me
 mobile.btgpactual.com
 mobile.clickastro.com
@@ -9748,6 +9751,7 @@ sanl.sidestepstore.nl
 sappmetrics.sprint.com
 sasc.solidworks.com
 sat.sanoma.fi
+sat.soluall.net
 satarget.csu.edu.au
 satgt.grafana.com
 satisfycork.com
@@ -12596,6 +12600,7 @@ tracking.audio.thisisdax.com
 tracking.aupairinamerica.com
 tracking.avladies.de
 tracking.axis.onl
+tracking.bababam.com
 tracking.badeladies.de
 tracking.bankofoklahoma.com
 tracking.bankoftexas.com
