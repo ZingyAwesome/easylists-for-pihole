@@ -425,6 +425,7 @@ aloofvest.com
 alpineactor.com
 ambiguousalarm.com
 ambiguousanger.com
+ambiguousdinosaurs.com
 ambiguousincome.com
 ambiguousquilt.com
 ambitiousagreement.com
@@ -3766,6 +3767,7 @@ gfp.intuit.com
 idstatus.sky.com
 imgs.signifyd.com
 rsx.afterpay.com
+svc2.sc.com
 tmetrix.my.chick-fil-a.com
 tmx.td.com
 u44.pnc.com
@@ -18271,6 +18273,7 @@ bmly.impots.gouv.fr
 cdtm.cdiscount.com
 compteur.developpez.com
 e.legalstart.fr
+eum2.caisse-epargne.fr
 events-logs.doctolib.com
 flow.kiloutou.fr
 forecast.huffingtonpost.fr

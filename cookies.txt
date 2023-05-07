@@ -86,6 +86,7 @@ idstatus.sky.com
 imgs.signifyd.com
 rba-screen.healthsafe-id.com
 rsx.afterpay.com
+svc2.sc.com
 tmetrix.my.chick-fil-a.com
 tmx.bestbuy.com
 tmx.td.com
