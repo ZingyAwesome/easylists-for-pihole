@@ -301,6 +301,7 @@ vkanalytics.net
 vpdcp.com
 vstats.me
 wct-2.com
+whale3.io
 widgetbe.com
 wknd.ai
 wmgroup.us
@@ -1761,6 +1762,7 @@ ck.connatix.com
 click.appinthestore.com
 click360v2-ingest.azurewebsites.net
 clicks.dealer.com
+clicks.tyuwq.com
 clicktale.pantherssl.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
