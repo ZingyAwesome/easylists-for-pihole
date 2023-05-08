@@ -1693,6 +1693,7 @@ am3s622gcd6m.tt.live
 ama.wdr.de
 ambiguousalarm.com
 ambiguousanger.com
+ambiguousdinosaurs.com
 ambiguousincome.com
 ambiguousquilt.com
 ambitiousagreement.com
@@ -3679,6 +3680,7 @@ clicks.shakeshack.com
 clicks.staging.worldremit.com
 clicks.tableau.com
 clicks.tunein.com
+clicks.tyuwq.com
 clickserver.libero.it
 clicktale.pantherssl.com
 clicktracker.iscan.nl
@@ -11876,6 +11878,7 @@ suspendseed.com
 sustainable.optum.com
 sut.dailyfx.com
 sut.iggroup.com
+svc2.sc.com
 svibeacon.onezapp.com
 svmarketing.destinationtoronto.com
 svpury.sizeofficial.de
@@ -13563,6 +13566,7 @@ wetr.sportscheck.at
 wetr.sportscheck.ch
 wetr.sportscheck.com
 wevbgr.vidaxl.it
+whale3.io
 whatif.it.adobe.com
 whineattempt.com
 whirlwealth.com
