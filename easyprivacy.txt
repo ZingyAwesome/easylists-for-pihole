@@ -2053,6 +2053,7 @@ metrics.api.drift.com
 metrics.beyondwords.io
 metrics.brightcove.com
 metrics.ctvdigital.net
+metrics.doppiocdn.org
 metrics.gs-chat.com
 metrics.kmsmep.com
 metrics.mdstrm.com
@@ -2421,6 +2422,7 @@ tracker.mrpfd.com
 tracker.myyschool.xyz
 tracker.nitropay.com
 tracker.novage.com.ua
+tracker.openwebtorrent.com
 tracker.roitesting.com
 tracker.services.vaix.ai
 tracker.softcube.com
@@ -2856,7 +2858,6 @@ a.centrum.cz
 bisko.mall.tv
 bnr.alza.cz
 counter.cnw.cz
-h.imedia.cz
 hit.skrz.cz
 i.imedia.cz
 log.cpex.cz
@@ -3188,6 +3189,7 @@ analytics.plex.tv
 analytics.productreview.com.au
 analytics.realestate.com.au
 analytics.send.cm
+analytics.similarweb.com
 analytics.slashdotmedia.com
 analytics.synchrony.com
 analytics.synedat.com
@@ -3281,7 +3283,6 @@ desa.fkapi.net
 desb.fkapi.net
 desr.fkapi.net
 discover-metrics.cloud.seek.com.au
-dp.coinbase.com
 dp.shoprunner.com
 dtag.breadfinancial.com
 dumpster.cam4.com
@@ -3306,7 +3307,6 @@ event-api.reverb.com
 event-collector.moviesanywhere.com
 eventlog.jackpot.de
 events-prod.autolist.com
-events-service.coinbase.com
 events-tracker.deliveroo.net
 events.api.godaddy.com
 events.framer.com
@@ -3722,6 +3722,7 @@ urs.metacritic.com
 user-metrics.onthemarket.com
 userfly.com
 usmetric.rediff.com
+v.adblockultimate.net
 views.arabnews.com
 visit.theglobeandmail.com
 visitors.sourcingmap.com
@@ -3770,6 +3771,7 @@ idstatus.sky.com
 imgs.signifyd.com
 rsx.afterpay.com
 svc2.sc.com
+tm-eps.neutrino.nu
 tmetrix.my.chick-fil-a.com
 tmx.td.com
 u44.pnc.com
