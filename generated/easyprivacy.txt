@@ -1984,6 +1984,7 @@ analytics.send.cm
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shopncaasports.com
+analytics.similarweb.com
 analytics.simplii.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
