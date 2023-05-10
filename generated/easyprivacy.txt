@@ -5320,7 +5320,6 @@ eventlog.inspsearchapi.com
 eventlog.jackpot.de
 events-logs.doctolib.com
 events-prod.autolist.com
-events-service.coinbase.com
 events-tracker.deliveroo.net
 events.air.tv
 events.apester.com
@@ -8295,6 +8294,7 @@ metrics.creit.tech
 metrics.ctvdigital.net
 metrics.damart.fr
 metrics.datapipe.com
+metrics.doppiocdn.org
 metrics.drsfostersmith.com
 metrics.earrieta.dev
 metrics.eiu.com
@@ -12313,6 +12313,7 @@ tkelq.genesys.com
 tkppvr.freshfarm.it
 tla.traderlink.com
 tltpyy.saatchiart.com
+tm-eps.neutrino.nu
 tms-st.cdn.ngenix.net
 tms.eharmony.ca
 tms.fmm.io
@@ -12548,6 +12549,7 @@ tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.novage.com.ua
+tracker.openwebtorrent.com
 tracker.providence.org
 tracker.publico.pt
 tracker.ranker.com
