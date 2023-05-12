@@ -2994,6 +2994,7 @@ teralog.techhub.co.kr
 tracker.adbinead.com
 tracker.digitalcamp.co.kr
 counter.hackers.lv
+cis.schibsted.com
 collect.adplogger.no
 ish.tumedia.no
 log.medietall.no
@@ -13203,7 +13204,6 @@ admin.smartgroup.com.au
 cars.autopia.com.au
 cars.smartleasing.com.au
 connect.telstrawholesale.com.au
-connect.telstrawholesale.com
 gc.titans.com.au
 save.salary.com.au
 save.smartsalary.com.au
