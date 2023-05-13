@@ -1711,6 +1711,7 @@ amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
 ampltd.top.gg
 ampltd2.medal.tv
+ams.lelong.com.my
 ams.oraclecloud.com
 amusementmorning.com
 amusinggirls.com
@@ -3602,6 +3603,7 @@ cimarketingforms.aig.com
 cinepolis.trailervote.com
 ciqtracking.com
 circlelevel.com
+cis.schibsted.com
 ciszhp.finanzfrage.net
 ciszhp.gutefrage.net
 cjcqls.onbuy.com
@@ -3980,7 +3982,6 @@ connect.schoolmessenger.com
 connect.senecacollege.ca
 connect.shoprentone.com
 connect.stihl.info
-connect.telstrawholesale.com
 connect.telstrawholesale.com.au
 connect.tommyroxmusic.com
 connect.uniti.com
