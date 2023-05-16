@@ -85,6 +85,7 @@ easycompute.systems
 efreecode.com
 egoi.site
 emycewiw.xyz
+envato.market
 eqy.link
 etop.ro
 everesttech.net
@@ -145,6 +146,7 @@ hsadspixel.net
 hsleadflows.net
 hubty.network
 i218435.net
+iconnode.com
 id5-sync.com
 idx.lat
 impactcdn.com
@@ -190,6 +192,7 @@ micpn.com
 mitour.de
 ml-sys.xyz
 mm-api.agency
+monicaatron.com
 monu.delivery
 mors22.com
 mrpdata.net
@@ -1937,6 +1940,7 @@ fourmtagservices.appspot.com
 fp-cdn.azureedge.net
 frog.editorx.com
 fs-client-logger.herokuapp.com
+ftm.fluencyinc.co
 future-fie-assets.co.uk
 future-price.co.uk
 g.msn.com
@@ -2185,6 +2189,7 @@ rest.wildstar-online.com
 retargeting.newsmanapp.com
 rs.sinajs.cn
 rt.flix360.com
+rtc.multiscreensite.com
 rtxpx-a.akamaihd.net
 rum.azion.com
 rum.azioncdn.net
@@ -2299,6 +2304,7 @@ svibeacon.onezapp.com
 sync.adap.tv
 t.91syun.com
 t.a3cloud.net
+t.adx.opera.com
 t.auditedmedia.org.au
 t.beop.io
 t.bimvid.com
@@ -2326,6 +2332,7 @@ tag-manager.playbuzz.com
 tag.atom.gamedistribution.com
 tag.aumago.com
 tag.brandcdn.com
+tag.digops.sincro.io
 tag.elevaate.io
 tag.flagship.io
 tag.imagino.com
@@ -2500,7 +2507,6 @@ traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trap.skype.com
 traxex.gannettdigital.com
-trc.pushnami.com
 trends.newsmaxwidget.com
 triggers.wfxtriggers.com
 trk.clinch.co
@@ -2636,6 +2642,8 @@ d3l3lkinz3f56t.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
+d3oodlxb1rw3kg.cloudfront.net
+d3pi0tys5sdysl.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
@@ -18208,6 +18216,7 @@ s3r.zerkalo.io
 tags.aljazeera.net
 insight.olx.ba
 4399stat.5054399.com
+a.itsmore.cn
 adstats.tencentmusic.com
 al.autohome.com.cn
 ams.lelong.com.my
@@ -18394,6 +18403,7 @@ analytics.tver.jp
 analyzer.fc2.com
 analyzer2.fc2.com
 astat.nikkei.com
+astral.nicovideo.jp
 beacon.watch.impress.co.jp
 beat.yourtv.jp
 count.upc.rakuten.co.jp
