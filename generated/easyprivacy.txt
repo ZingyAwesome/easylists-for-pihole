@@ -3604,7 +3604,6 @@ click.sinx.com
 click.totallymoney.com
 click.transactional.carousell.com
 click.tv.repubblica.it
-click.udimg.com
 click.uol.com.br
 click.vgnett.no
 click.vocus.com
@@ -3758,7 +3757,6 @@ collector.pi.spectrum.net
 collector.rn.de
 collector.schibsted.io
 collector.sspinc.io
-collector.statowl.com
 collector.wawlabs.com
 collector.xhamster.com
 collector.xhamster.desi
@@ -4467,14 +4465,11 @@ demdex.net
 demo3.management.testandtarget.omniture.com
 dep.hmgroup.com
 des.me.coact.org.au
-desa.fkapi.net
-desb.fkapi.net
 desertedbreath.com
 desertedrat.com
 designsforhealth.actonservice.com
 desirebucket.com
 deskdecision.com
-desr.fkapi.net
 detailedglue.com
 detailedgovernment.com
 detailedkitten.com
@@ -5112,7 +5107,6 @@ engine.traceparts.com
 engineertrick.com
 eniobs.moncler.com
 enlbus.casavo.com
-enlightenment.secureshoppingbasket.com
 enormousearth.com
 ens.luzernerzeitung.ch
 ens.nzz.ch
@@ -5766,7 +5760,6 @@ get.peoople.co
 get.pintpass.com
 get.printtapp.com
 get.prismapp.com
-get.revolut.com
 get.reward.me
 get.riyazapp.com
 get.roomiapp.com
@@ -8386,7 +8379,6 @@ mlqzau.koffer.com
 mlweb.dmlab.hu
 mm-api.agency
 mmi.bemobile.ua
-mms.cnn.com
 mnrddc.journeys.com
 moa.mediaoutcast.com
 mobile-event.cvent.me
@@ -11420,7 +11412,6 @@ stats.oursky.com
 stats.owre.se
 stats.oxygem.com
 stats.ozwebsites.biz
-stats.pandora.com
 stats.pascalafleur.com
 stats.passwordyeti.com
 stats.pasteapp.io
@@ -12423,7 +12414,6 @@ tracker.tolvnow.com
 tracker.tubecj.com
 tracker.tv.sohu.com
 tracker.unbxdapi.com
-tracker.uprinting.com
 tracker.upstreamintel.com
 tracker.wigzopush.com
 tracker.winload.de
@@ -13071,7 +13061,6 @@ usedexample.com
 user-metrics.onthemarket.com
 user.userguiding.com
 userexperience.thehut.net
-userfly.com
 usersegment.wpdigital.net
 usgzei.vidaxl.ch
 usmetric.rediff.com
@@ -13161,7 +13150,6 @@ visit.webhosting.yahoo.com
 visit.xchina.pics
 visite.scambi.org
 visitors.asadis.net
-visitors.sourcingmap.com
 visitors.winecountrygiftbaskets.com
 visitping.rossel.be
 visits.quitsocialmedia.club
@@ -13371,7 +13359,6 @@ webinars.att.com
 webinars.coface.com
 weblog.eseoul.go.kr
 weblog.flyasiana.com
-weblog.strawberrynet.com
 weblog2.eseoul.go.kr
 webmet.creditreform.de
 webmetrics.zebra.com
