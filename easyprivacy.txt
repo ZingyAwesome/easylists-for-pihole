@@ -1836,6 +1836,7 @@ csi.gstatic.com
 csp-collector.appspot.com
 csp-reporting.cloudflare.com
 csr.onet.pl
+ct.capterra.com
 ct.corpusapp.com
 ct.needlive.com
 ct.pinterest.com
@@ -17126,7 +17127,6 @@ get.peoople.co
 get.pintpass.com
 get.printtapp.com
 get.prismapp.com
-get.revolut.com
 get.reward.me
 get.riyazapp.com
 get.roomiapp.com
