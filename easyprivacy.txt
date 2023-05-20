@@ -29,6 +29,7 @@ anonstat.pw
 apeagle.io
 apenterprise.io
 apxl.io
+awmonitor.com
 ayc0zsm69431gfebd.info
 bfmio.com
 bidswitch.net
@@ -413,6 +414,7 @@ acquireattention.com
 actoramusement.com
 actuallysheep.com
 actuallysnake.com
+adamantsnail.com
 adorableanger.com
 advertisementafterthought.com
 afraidlanguage.com
@@ -2061,6 +2063,7 @@ metrics.brightcove.com
 metrics.ctvdigital.net
 metrics.doppiocdn.com
 metrics.doppiocdn.org
+metrics.futureplc.engineering
 metrics.gs-chat.com
 metrics.kmsmep.com
 metrics.mdstrm.com
@@ -2884,6 +2887,7 @@ dnt-userreport.com
 insight.fonecta.fi
 tags.op-palvelut.fi
 links.boom.ge
+heartbeat.pmd.444.hu
 rum.marquardmedia.hu
 videostat-new.index.hu
 videostat.index.hu
@@ -18111,6 +18115,16 @@ bravo.israelweather.co.il
 cellstats.mako.co.il
 ds.haaretz.co.il
 stats.mako.co.il
+adat.borsonline.hu
+adat.ingatlanbazar.hu
+adat.koponyeg.hu
+adat.life.hu
+adat.mandiner.hu
+adat.mindmegette.hu
+adat.origo.hu
+adat.travelo.hu
+adat.veol.hu
+adat.videa.hu
 beam.telex.hu
 events.ingatlan.com
 outal.origo.hu
@@ -18145,6 +18159,7 @@ analyzer.fc2.com
 analyzer2.fc2.com
 astat.nikkei.com
 astral.nicovideo.jp
+bc.nhk.jp
 beacon.watch.impress.co.jp
 beat.yourtv.jp
 count.upc.rakuten.co.jp
@@ -18164,6 +18179,7 @@ rat.rakuten.co.jp
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
 scis.tbs.co.jp
+stats.nhk.or.jp
 sy.amebame.com
 sy.ameblo.jp
 track.buyma.com
