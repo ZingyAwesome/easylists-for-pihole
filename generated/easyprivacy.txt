@@ -1474,6 +1474,17 @@ ad-tracker-api.luizalabs.com
 ad1.tone.ne.jp
 ad7.bigmir.net
 ada8.ampleur.jp
+adamantsnail.com
+adat.borsonline.hu
+adat.ingatlanbazar.hu
+adat.koponyeg.hu
+adat.life.hu
+adat.mandiner.hu
+adat.mindmegette.hu
+adat.origo.hu
+adat.travelo.hu
+adat.veol.hu
+adat.videa.hu
 adbq.bk.mufg.jp
 adbsmetrics.ep.hmc.co.kr
 adbsmetrics.genesis.com
@@ -2901,6 +2912,7 @@ awarealley.com
 awesome.section.io
 awesomeagreement.com
 awesomeattack.com
+awmonitor.com
 awsexam.quantresear.ch
 awst.aviationweek.com
 axentis.arclogics.com
@@ -8201,6 +8213,7 @@ metrics.euler.kr
 metrics.fnac.com
 metrics.freemake.com
 metrics.freightquote.com
+metrics.futureplc.engineering
 metrics.gap.com
 metrics.globalscape.com
 metrics.globetrotter.net
@@ -8968,6 +8981,7 @@ pixel.wp.com
 pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
+pixel2.realclever.com
 pixel6.wp.pl
 pixels.afcdn.com
 pixels.boxberry.ru
@@ -11386,6 +11400,7 @@ stats.netbopdev.co.uk
 stats.new.sublimesecurity.com
 stats.newslit.co
 stats.newsweek.com
+stats.nhk.or.jp
 stats.niceshitforbitcoiners.com
 stats.nicolabricot.com
 stats.nikkei.com
