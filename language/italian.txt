@@ -31,7 +31,6 @@ unifiedads.magellanotech.it
 widget.promoqui.it
 widgets.shop.moda.it
 adserver.ilgazzettinovesuviano.com
-banner.moscarossa.biz
 click.html.it
 devaje.pourfemme.it
 extra.treddi.com
