@@ -1967,7 +1967,6 @@ green-griffin-860.appspot.com
 gsp1.baidu.com
 gtrk.s3.amazonaws.com
 happen.spkt.io
-harpocrates.ethyca.com
 hb.vhsrv.com
 hello.staticstuff.net
 hi.hellobar.com
@@ -2084,6 +2083,7 @@ mormont.gamer-network.net
 ms-trackingapi.phenompeople.com
 mv.treehousei.com
 neocounter.neoworx-blog-tools.net
+ninja.onap.io
 noflake-aggregator-http.narvar.com
 nol.yahoo.com
 nova.dice.net
@@ -2950,6 +2950,7 @@ cookie.codemarketing.cloud
 cookie.sync.usonar.jp
 counter2.blog.livedoor.com
 crossees.com
+cs.nakanohito.jp
 ip2c.landscape.co.jp
 ipcheck.blogsys.jp
 kitchen.juicer.cc
@@ -2980,6 +2981,7 @@ track.thebase.in
 tracker-rec.smart-bdash.com
 tracker.520call.me
 trk.fensi.plus
+uh.nakanohito.jp
 webbc.fivecdm.com
 x9.shinobi.jp
 acelogger.heraldcorp.com
@@ -3307,6 +3309,7 @@ events.api.godaddy.com
 events.framer.com
 events.mercadolibre.com
 events.practo.com
+events.prd.api.max.com
 events.privy.com
 events.reddit.com
 events.redditmedia.com
@@ -3553,6 +3556,7 @@ target.nejm.org
 targeting.washpost.nile.works
 td.airdroid.com
 ted.dailymail.co.uk
+telegraph.prd.api.max.com
 telem.sre.gopuff.com
 telemetry.adobe.io
 telemetry.api.playstation.com
@@ -18265,7 +18269,6 @@ stat.stars.ru
 stats.mos.ru
 sync.rambler.ru
 top-staging.mail.ru
-trk.mail.ru
 xapi.ozon.ru
 xray.mail.ru
 yast.rutube.ru
