@@ -1879,6 +1879,8 @@ ea.youmaker.com
 ec.walkme.com
 ecomm.events
 ecommstats.s3.amazonaws.com
+edge-hls.doppiocdn.com
+edge-hls.doppiocdn.org
 eel.transistor.fm
 ele26126.jscrambler.com
 eq.userneeds.com
@@ -18170,6 +18172,8 @@ d-log.asahi.co.jp
 d-log.bs-asahi.tv
 d-log.tv-asahi.co.jp
 d.tv-asahi.co.jp
+eq-beacon.stream.co.jp
+eq-player-log.cdnext.stream.ne.jp
 j1.ax.xrea.com
 ln.ameba.jp
 log-lb.skyperfectv.co.jp
