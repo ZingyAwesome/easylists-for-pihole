@@ -5142,6 +5142,8 @@ epm.mailperformance.com
 epro.sogou.com
 eproof.drudgereport.com
 epwa.europarl.europa.eu
+eq-beacon.stream.co.jp
+eq-player-log.cdnext.stream.ne.jp
 eqclicks.movember.com
 eqingl.ivet.bg
 eqkwat.histoiredor.com
@@ -5277,6 +5279,7 @@ events.nuance.com
 events.ocdn.eu
 events.onet.pl
 events.practo.com
+events.prd.api.max.com
 events.privy.com
 events.realgravity.com
 events.reclamefolder.nl
@@ -5949,7 +5952,6 @@ happenhistory.com
 harborcub.com
 hardtofindmilk.com
 harmantest.epoise.com
-harpocrates.ethyca.com
 harriscomputer.actonservice.com
 hasslefree.redwingshoes.com
 hatefulrequest.com
@@ -12079,6 +12081,7 @@ teenytinytongue.com
 teenyvolcano.com
 teethfan.com
 teijs.alcampo.es
+telegraph.prd.api.max.com
 telem.sre.gopuff.com
 telemetrics.klaviyo.com
 telemetry.adobe.io
@@ -12867,7 +12870,6 @@ trk.krebsversicherung.de
 trk.logistics.coyote.com
 trk.lookbook.westernunion.com
 trk.magicfashionevents.com
-trk.mail.ru
 trk.mddionline.com
 trk.meetingsnet.com
 trk.metronet.com
