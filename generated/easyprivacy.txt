@@ -3003,6 +3003,7 @@ beacon.cdnma.com
 beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
+beacon.klm.com
 beacon.qq.com
 beacon.riskified.com
 beacon.samsclub.com
@@ -5486,7 +5487,6 @@ fltuyy.philippemodel.com
 fly.caljetelite.com
 flznib.weblio.jp
 fmbankva.actonservice.com
-fme.safe.com
 fmqidg.letras.com
 fmqidg.letras.mus.br
 fmqidg.ouvirmusica.com.br
@@ -7492,7 +7492,6 @@ mapp.jysk.nl
 mapp.yesstyle.com
 mar.vip.com
 marcomm.woodward.com
-mark.isbank.com.tr
 markedcrayon.com
 markedpail.com
 market-keyade.macif.fr
