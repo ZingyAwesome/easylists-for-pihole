@@ -12183,7 +12183,6 @@ experience2013.elliemae.com
 ezgo.advancedtech.com
 featured.bradyid.com
 feedback.aon.com
-fme.safe.com
 form.harvardbusiness.org
 form.vocalink.com
 forms-emea.lenovo.com
@@ -17937,9 +17936,6 @@ forecast.huffingtonpost.fr
 fsm.lapresse.ca
 hits.porn.fr
 hlms.ecologie.gouv.fr
-l.bfmtv.com
-l.franceculture.fr
-l.gentside.com
 logstash-3.radio-canada.ca
 p.kolplay.com
 p.pagesjaunes.fr
@@ -18307,7 +18303,6 @@ ta.sanook.com
 c.gazetevatan.com
 d.haberler.com
 hstats.hepsiburada.com
-mark.isbank.com.tr
 p.milliyet.com.tr
 stats.birgun.net
 counter.ukr.net
