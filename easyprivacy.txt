@@ -35,6 +35,7 @@ bfmio.com
 bidswitch.net
 bkrtx.com
 bluekai.com
+blueoyster.click
 bonne-terre-data-layer.com
 boomtrain.com
 bounceexchange.com
@@ -234,6 +235,7 @@ push-sdk.net
 pzapi-ij.com
 pzapi-kg.com
 pzimff.com
+quantserve.com
 quesid.com
 quickkoala.io
 r42tag.com
@@ -295,6 +297,7 @@ tryzens-analytics.com
 turboeagle.co
 turbolion.io
 tvpixel.com
+tw.cx
 tzegilo.com
 ugdturner.com
 uqd.io
@@ -1628,6 +1631,7 @@ analytics.kapost.com
 analytics.kongregate.io
 analytics.live.com
 analytics.livestream.com
+analytics.logsss.com
 analytics.m7g.twitch.tv
 analytics.maikel.pro
 analytics.mailmunch.co
@@ -1956,6 +1960,7 @@ gemius.mgr.consensu.org
 genesis.malwarebytes.com
 geo.ertya.com
 geo.mezr.com
+geo.ngtv.io
 geo.q5media.net
 geo.thehindu.com
 geobar.ziffdavisinternational.com
@@ -2122,6 +2127,7 @@ pixel-a.basis.net
 pixel.ampry.com
 pixel.archipro.co.nz
 pixel.blivenyc.com
+pixel.condenastdigital.com
 pixel.inforsea.com
 pixel.lilystyle.ai
 pixel.locker2.com
@@ -2318,6 +2324,7 @@ t.pointandplace.com
 t.pswec.com
 t.raptorsmartadvisor.com
 t.rentcafe.com
+t.screeb.app
 t.sharethis.com
 t.signalayer.com
 t.skimresources.com
@@ -3650,6 +3657,7 @@ event.evtm.53.com
 gfp.intuit.com
 idstatus.sky.com
 imgs.signifyd.com
+rba-screen.healthsafe-id.com
 rsx.afterpay.com
 svc2.sc.com
 tm-eps.neutrino.nu

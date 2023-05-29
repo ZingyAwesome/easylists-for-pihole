@@ -140,6 +140,7 @@ cmp.lepoint.fr
 consent.prismamedia.com
 consentement.ouest-france.fr
 cookies.leadplace.fr
+privacy.footmercato.net
 consent.t-mobile.cz
 cmp.deondernemer.nl
 cookie.vrt.be
