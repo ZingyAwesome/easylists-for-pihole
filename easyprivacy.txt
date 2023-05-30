@@ -623,6 +623,7 @@ cratecamera.com
 crawlclocks.com
 crayoncompetition.com
 critictruck.com
+crookedcreature.com
 crowdedmass.com
 cubchannel.com
 cuddlycake.com
@@ -1959,6 +1960,7 @@ gateway.foresee.com
 gemius.mgr.consensu.org
 genesis.malwarebytes.com
 geo.ertya.com
+geo.gorillanation.com
 geo.mezr.com
 geo.ngtv.io
 geo.q5media.net
@@ -2199,6 +2201,7 @@ rum.azion.com
 rum.azioncdn.net
 rum.ingress.layer0.co
 rum.layer0.co
+rum.perfops.net
 rum.uptime.com
 rw.marchex.io
 s.autopilotapp.com
@@ -17940,7 +17943,6 @@ e.legalstart.fr
 eum2.caisse-epargne.fr
 events-logs.doctolib.com
 flow.kiloutou.fr
-forecast.huffingtonpost.fr
 fsm.lapresse.ca
 hits.porn.fr
 hlms.ecologie.gouv.fr
