@@ -58,7 +58,6 @@
 2l6ddsmnm.de
 2rid9fii9chx.www.atlaslane.com
 2smt6mfgo.de
-2tty.overstappen.nl
 2yqcaqbfnv.nextgen.shareablee.com
 2znp09oa.com
 31daa5lnq.de
@@ -1065,7 +1064,6 @@ a8clk.skyoffice.info
 a8clk.solideajapan.com
 a8clk.staff.mynavi.jp
 a8clk.starwifi.jp
-a8clk.store.healthcare.omron.co.jp
 a8clk.store.kadokawa.co.jp
 a8clk.stylestore.jp
 a8clk.sumafuri.jp
@@ -1505,14 +1503,12 @@ adebis.bathclin.jp
 adebis.chojyu.com
 adebis.crowdcredit.jp
 adebis.daiwahouse.co.jp
-adebis.datumow.com
 adebis.entetsu.co.jp
 adebis.gogin.co.jp
 adebis.hotstaff.co.jp
 adebis.juku.st
 adebis.kamada.co.jp
 adebis.kirin.co.jp
-adebis.kodomohamigaki.com
 adebis.lifestylemag.jp
 adebis.livable.co.jp
 adebis.logoshome.jp
@@ -1751,7 +1747,6 @@ analytics.architectum.com
 analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
-analytics.atomiconline.com
 analytics.audioeye.com
 analytics.audionow.de
 analytics.autozone.com
@@ -1894,7 +1889,6 @@ analytics.midwesternmac.com
 analytics.ml.homedepot.ca
 analytics.mlstatic.com
 analytics.mobile.yandex.net
-analytics.mondoweiss.net
 analytics.mouthshut.com
 analytics.moviepilot.de
 analytics.myapstore.com
@@ -2586,7 +2580,6 @@ app.scrpbx.co
 app.seminoles.com
 app.semusi.com
 app.sephora.com
-app.sheepclash.com
 app.shopback.com
 app.shopeefood.vn
 app.shouta.co
@@ -3461,8 +3454,6 @@ cars.autopia.com.au
 cars.smartleasing.com.au
 cartoon.hardalist.com
 carvecakes.com
-carzbz.braincandy.net
-carzbz.triviatoday.com
 cascadion.thermo.com
 cascadion.thermofisher.com
 cashbeet.com
@@ -4154,6 +4145,7 @@ crm-analytics.imweb.ru
 crm.childrens.com
 crm.velocify.com
 crocetta.viessmann.it
+crookedcreature.com
 crossees.com
 crowdedmass.com
 crrm.onjoyri.de
@@ -4660,7 +4652,6 @@ download.sendstack.africa
 download.sharexpere.com
 download.shiftsmart.com
 download.spotangels.com
-download.tglapp.com
 download.usehero.com
 download.withu.fit
 downloads.coface.com
@@ -4705,7 +4696,6 @@ dsoxjxin5jji.controlconceptsusa.com
 dspx.tv
 dtag.breadfinancial.com
 dttrk.com
-du2k.bhv.fr
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 dufbut.wtennis.com.br
@@ -4760,8 +4750,6 @@ ebc1.capifrance.fr
 ebgagg.novi.ba
 ebgagg.pink.rs
 ebhjhw.bonprix.es
-ebis.aibashiro.jp
-ebis.ayura.co.jp
 ebis.belta.co.jp
 ebis.coyori.com
 ebis.cp.claudia.co.jp
@@ -5500,8 +5488,6 @@ foamyfood.com
 fog.pixual.co
 foodland.birdzi.com
 foodpackaging.kpfilms.com
-forecast.huffingtonpost.fr
-forecast.lemonde.fr
 forecasttiger.com
 foregoingfowl.com
 foretellfifth.com
@@ -5833,7 +5819,6 @@ global-mktg.transunion.com
 globalmed.actonservice.com
 globo-ab.globo.com
 glookup.info
-gloriouscracker.com
 glossysense.com
 glue.evansadhesive.com
 gmfbjv.beautyblender.com
@@ -7057,7 +7042,6 @@ link.email.tajawal.com
 link.eventconnect.io
 link.everlance.com
 link.fanzapp.io
-link.farm.seedz.ag
 link.fitwell.co
 link.foodnetwork.com
 link.freetrade.io
@@ -7146,7 +7130,6 @@ link.support.discovery.plus
 link.swa.info
 link.taptapapp.com
 link.tastemade.com
-link.tbcbank.uz
 link.testbook.com
 link.thegourmetplus.net
 link.thesecurityteam.rocks
@@ -7336,7 +7319,6 @@ log.hiiir.com
 log.hypebeast.com
 log.idnes.cz
 log.invodo.com
-log.kibboko.com
 log.kuwo.cn
 log.mediacategory.com
 log.medietall.no
@@ -7672,7 +7654,6 @@ marketing.idquantique.com
 marketing.igel.com
 marketing.iloveny.com
 marketing.imagination.com
-marketing.income.com.sg
 marketing.incrediwear.com
 marketing.industrialspec.com
 marketing.influitive.com
@@ -8103,7 +8084,6 @@ meds.lilettahcp.com
 meds.rapaflo.com
 meds.savella.com
 meds.viibrydhcp.com
-medusasailor.com
 medxm1.actonservice.com
 mefo1.zdf.de
 megadata.co.kr
@@ -8534,7 +8514,6 @@ news.bridgetowermedia.com
 news.chiefexecutive.net
 news.dailyreporter.com
 news.djcoregon.com
-news.income.com.sg
 news.libn.com
 news.masslawyersweekly.com
 news.mecktimes.com
@@ -10911,7 +10890,6 @@ stat.kiwibank.co.nz
 stat.laley.es
 stat.laleynext.es
 stat.landingpro.pl
-stat.livesportbar.net
 stat.matichon.co.th
 stat.mixi.media
 stat.moevideo.net
@@ -11482,7 +11460,6 @@ stats.rocketvalidator.com
 stats.roderickduenas.com
 stats.ruhrfestspiele.de
 stats.rushilperera.me
-stats.ruthmontenegro.com
 stats.rymawby.com
 stats.safeway.com
 stats.sahpa.co.za
@@ -11532,6 +11509,7 @@ stats.streamhub.io
 stats.stylight.it
 stats.suedtirolerjobs.it
 stats.suenicholls.com
+stats.sumikai.com
 stats.sunpeaksstables.com
 stats.suominaikidoacademy.com
 stats.swedishmatch.com
@@ -13391,7 +13369,6 @@ webstats.volvoce.com
 webstats.volvopenta.com
 webt.aqipa.com
 webt.eleonto.com
-webt.pure.com
 webt.store.okmilo.com
 webtarget.astrogaming.com
 webtarget.logicool.co.jp
@@ -13549,7 +13526,6 @@ www1.drwilsons.com
 www1.mcsrentalsoftware.com
 www15.jtv.com
 www2.arvig.com
-www2.azimuthpsych.com
 www2.bimobject.com
 www2.citizensclimatelobby.org
 www2.extensis.com
@@ -13705,7 +13681,6 @@ ymvikp.estadao.com.br
 ynagqs.vidaxl.pl
 ynemmp.goertz.de
 yolo.philipbjorge.com
-yolo.phpliveregex.com
 yottlyscript.com
 you.pixellot.link
 youborafds01.com
