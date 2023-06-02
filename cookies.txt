@@ -51,6 +51,7 @@ consent.amateurphotographer.co.uk
 consent.canalboat.co.uk
 consent.nationalworld.com
 consent.pilotweb.aero
+consent.stuff.tv
 consent.thecountrysmallholder.com
 consent.thegreatoutdoorsmag.com
 consent.unilad.com
