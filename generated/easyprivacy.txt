@@ -2060,6 +2060,7 @@ analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
 analytics4.dashboard.fingerprint.com
 analyticsehnwe.servicebus.windows.net
+analyticssec.overwolf.com
 ancientact.com
 andlache.com
 android-analytics-prodhome1.mysoluto.com
@@ -6108,6 +6109,7 @@ hzzyhl.jobs.ch
 i-dev.villa.ge
 i218435.net
 i9w8p.pw
+ia-dmp.com
 iaalxo.vans.ru
 iabusprivacy.pmc.com
 iatoex.kahve.com
@@ -12147,6 +12149,7 @@ tim.nextinpact.com
 timber.sendtonews.com
 timeterritory.com
 timetwig.com
+timing.uhrforum.de
 tinytendency.com
 tipstats.onepagelove.com
 tiresomethunder.com
