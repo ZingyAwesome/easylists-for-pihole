@@ -847,6 +847,7 @@ handsomeindustry.com
 handsomelyhealth.com
 handyfield.com
 happenhistory.com
+harborcaption.com
 harborcub.com
 hardtofindmilk.com
 hatefulrequest.com
@@ -895,6 +896,7 @@ incompetentjoke.com
 infamousstream.com
 informengine.com
 innocentwax.com
+inputicicle.com
 inquisitiveice.com
 instrumentinsect.com
 instrumentsponge.com
@@ -937,6 +939,7 @@ livelylaugh.com
 livelyreward.com
 longinglettuce.com
 longingtrees.com
+looseloaf.com
 losslace.com
 lovelydrum.com
 lp3tdqle.com
@@ -1362,6 +1365,7 @@ stretchsquirrel.com
 stringsmile.com
 stripedburst.com
 strivesidewalk.com
+strivesquirrel.com
 structurerod.com
 stupendousselection.com
 stupendoussleet.com
@@ -1628,6 +1632,7 @@ analytics.iraiser.eu
 analytics.jst.ai
 analytics.kaltura.com
 analytics.kapost.com
+analytics.klickly.com
 analytics.kongregate.io
 analytics.live.com
 analytics.livestream.com
@@ -1940,6 +1945,7 @@ f-log-at.grammarly.io
 f-log-test.grammarly.io
 fcmatch.google.com
 fcmatch.youtube.com
+fennec.atp.fox
 filament-stats.herokuapp.com
 fingerprinter-production.herokuapp.com
 firebaselogging-pa.googleapis.com
@@ -2906,6 +2912,7 @@ insight.fonecta.fi
 tags.op-palvelut.fi
 links.boom.ge
 heartbeat.pmd.444.hu
+pixel.barion.com
 rum.marquardmedia.hu
 videostat-new.index.hu
 videostat.index.hu
