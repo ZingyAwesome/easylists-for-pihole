@@ -2988,7 +2988,6 @@ bderbn.foxtrot.com.ua
 bdj5.terrassesmontecarlosbm.com
 bdkuth.smartbuyglasses.co.uk
 bdoaustralia.bdo.com.au
-bdwblog.eastmoney.com
 bdzcck.stadiumgoods.com
 be-go.experian.com
 beacon.affil.walmart.com
@@ -3318,7 +3317,6 @@ btaenrolment.americanexpress.at
 btkbei.courir.com
 btloader.com
 btn.listonic.com
-btrace.qq.com
 btstats.benakt.com
 btstats.devtribu.fr
 bttmkj.diesel.com
@@ -3687,7 +3685,6 @@ cmp.nouvelobs.com
 cmp.tek.no
 cmp.telerama.fr
 cmp2.channelpartner.de
-cmstool.youku.com
 cn-go.experian.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
@@ -4364,6 +4361,7 @@ data.decathlon.it
 data.decathlon.pl
 data.digitalks.az
 data.econa.com
+data.eetech.com
 data.engelhorn.com
 data.engelhorn.de
 data.glamour.ru
@@ -4779,7 +4777,6 @@ ebisfracora.fracora.com
 ebisstore.tamagokichi.com
 ebony.black.news
 ecefyu.geox.com
-eclick.baidu.com
 ecomm.atea.com
 ecomm.events
 ecommhpi.ext.hp.com
@@ -5070,6 +5067,7 @@ emetrics.bose.ca
 emlink.hermo.my
 emptyescort.com
 emrdnt.sumaity.com
+ems.youku.com
 emycewiw.xyz
 enablis.actonservice.com
 enawsu.adzuna.co.uk
@@ -5140,6 +5138,7 @@ eqclicks.movember.com
 eqingl.ivet.bg
 eqkwat.histoiredor.com
 eqy.link
+era.easyvoyage.com
 erb.tremblant.ca
 erepublic.actonservice.com
 erkili.kaporal.com
@@ -5250,6 +5249,7 @@ events.demoup.com
 events.devcycle.com
 events.elliemae.com
 events.engage.cebglobal.com
+events.flagship.io
 events.forddirectdealers.com
 events.framer.com
 events.georgiancollege.ca
@@ -5471,6 +5471,7 @@ floodprincipal.com
 flow.kiloutou.fr
 flower.aridjaya.com
 flowerstreatment.com
+flowerycreature.com
 floweryflavor.com
 floweryoperation.com
 flqjny.supplementler.com
@@ -7322,7 +7323,6 @@ log.hiiir.com
 log.hypebeast.com
 log.idnes.cz
 log.invodo.com
-log.kuwo.cn
 log.mediacategory.com
 log.medietall.no
 log.mix.sina.com.cn
@@ -7362,7 +7362,6 @@ logging.carambo.la
 loggingapi.spingo.com
 loggychops.paulsmith.site
 logicanalytics.io
-loginlog.sdo.com
 logistics.dbschenker.com
 logistics.osmworldwide.com
 loglady.kiwi.com
@@ -7382,7 +7381,6 @@ logs1257.at.pagesjaunes.fr
 logsbin.dantri.com.vn
 logservice.hicloud.com
 logservice1.hicloud.com
-logstat.caixin.com
 logtake.weidian.com
 logx.optimizely.com
 loloclicks.biz
@@ -7476,7 +7474,6 @@ mapp.ewm.co.uk
 mapp.jysk.dk
 mapp.jysk.nl
 mapp.yesstyle.com
-mar.vip.com
 marcomm.woodward.com
 markedcrayon.com
 markedpail.com
@@ -8854,7 +8851,6 @@ pbox.photobox.it
 pbox.photobox.nl
 pbox.photobox.se
 pc-cr.net.easyjet.com
-pcapp-data-collect.youku.com
 pci.aon.com
 pcm.symantec.com
 pcykgc.onetravel.com
@@ -8898,7 +8894,6 @@ ping.naturadapt.com
 ping.resoluteoil.com
 pingback.giphy.com
 pingback.issuu.com
-pingback.sogou.com
 pingjs.qq.com
 pingo.staticmoly.me
 pings.conviva.com
@@ -8943,6 +8938,7 @@ pixel.facebook.com
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
+pixel.ionos.de
 pixel.ionos.fr
 pixel.kknews.cc
 pixel.lilystyle.ai
@@ -9520,6 +9516,7 @@ rkdms.com
 rlcdn.com
 rloddo.olx.bg
 rlog.popin.cc
+rlogs.youdao.com
 rmgdapfnccsharpprd.azurewebsites.net
 rmp4.destinia.uy
 rnffgv.wemakeprice.com
@@ -9684,7 +9681,6 @@ scientificsneeze.com
 scintillatingsilver.com
 scis.tbs.co.jp
 scjlpq.navitime.co.jp
-sclick.baidu.com
 scmetrics.shell.com
 scnt.rambler.ru
 scode.randomhouse.com
@@ -10939,7 +10935,6 @@ states.neweggbusiness.com
 static-tracking.klaviyo.com
 static.fengkongcloud.com
 statistic.qzone.qq.com
-statistic.takungpao.com
 statistic2.reichelt.de
 statistics.csob.cz
 statistics.daktilo.com
@@ -10990,7 +10985,6 @@ stats.astrr.ru
 stats.asymptotic.io
 stats.athleteswith.com
 stats.autofarm.network
-stats.autohome.com.cn
 stats.autoscholarwithmrb.com
 stats.babymatras.net
 stats.balticgruppen.se
@@ -12907,7 +12901,9 @@ trust.zebra.com
 trusted-web-seal.cybertrust.ne.jp
 trustisimportant.fun
 trwtvj.parkseed.com
+trx-cdn.zip.co
 trx-hub.com
+trx.zip.co
 trx3.famousfix.com
 try.abtasty.com
 try.jaranda.kr
