@@ -3251,6 +3251,7 @@ binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 boomerang.dell.com
 c.fingerprint.com
+c.thredup.com
 c.wort-suche.com
 c.xbox.com
 cl.canva.com
@@ -3309,6 +3310,7 @@ dp.shoprunner.com
 dtag.breadfinancial.com
 dumpster.cam4.com
 ea.epochbase.com
+ec.thredup.com
 edge.staging.fullstory.com
 eec.crunchyroll.com
 engagefront.meteomedia.com
@@ -9008,7 +9010,6 @@ hahnemuehle.actonservice.com
 halo.actonservice.com
 harriscomputer.actonservice.com
 hcacentralwesttexas.hrm.healthgrades.com
-hfd.bridgetowermedia.com
 hotel-marketing.hrs.com
 hub.hubinternational.com
 ibamolecular.actonservice.com
