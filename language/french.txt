@@ -7540,6 +7540,7 @@ partners.cmptch.com
 partners.pmu.fr
 partners.tremorhub.com
 pixel-secure.solvemedia.com
+pm.gamedistribution.com
 prebid-dev.reworldmediafactory.com
 prodownload.newbetakey.com
 promo.asiatique.org
