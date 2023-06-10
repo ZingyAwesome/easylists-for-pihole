@@ -51,7 +51,7 @@ jobs:
       ## FIX: https://github.com/github-actions-x/commit/issues/16
       ## https://github.com/rlespinasse/git-commit-data-action
       - name: Expose git commit data
-        uses: rlespinasse/git-commit-data-action@v1.4.0
+        uses: rlespinasse/git-commit-data-action@v1.5.0
       - name: Set git author
         run: git config user.email "${{ env.GIT_COMMIT_AUTHOR_EMAIL }}" && git config user.name "${{ env.GIT_COMMIT_AUTHOR_NAME }}"
       ## /FIX
