@@ -32,7 +32,6 @@ unifiedads.magellanotech.it
 widget.promoqui.it
 widgets.shop.moda.it
 adserver.ilgazzettinovesuviano.com
-devaje.pourfemme.it
 extra.treddi.com
 giornalisti.vivere.srl
 napolimagazine.biz
