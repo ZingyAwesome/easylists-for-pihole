@@ -3491,6 +3491,7 @@ cdn7.baunetz.de
 cdnhst.xyz
 cdrive.compellent.com
 cdtm.cdiscount.com
+cefgo.com
 cellstats.mako.co.il
 cen.acspubs.org
 cenbrandlab.acspubs.org
@@ -4624,6 +4625,7 @@ dogsshoes.com
 doja.worten.es
 dolldetail.com
 dolphin.deliver.ifeng.com
+domaincontrol.com
 domino.flycl.ps
 domorewithless.adp.ca
 donjigrad.viessmann.rs
@@ -5402,6 +5404,7 @@ faucons.viessmann.fr
 faultycanvas.com
 faultyfowl.com
 fazphz.theiconic.com.au
+fbi.com
 fbu8.hoteldeparismontecarlo.com
 fbu8.hotelhermitagemontecarlo.com
 fbu8.montecarlobay.com
@@ -6916,6 +6919,7 @@ la-sync.taboola.com
 laboredlocket.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
+lacolhost.com
 lagoonolivia.com
 laheyhealth.hrm.healthgrades.com
 lakerspreferences.gleague.nba.com
@@ -7303,6 +7307,7 @@ lltrck.com
 lmavci.eloquii.com
 lmepbq.com
 lmldvr.centauro.net
+lndo.site
 lnk-stg.welthee.com
 lnk.welthee.com
 lntvby.banggood.com
@@ -7310,6 +7315,11 @@ loader-cdn.azureedge.net
 loader.zeroform.com
 loansales.cbre.com
 local-shares.ri.la
+local.computer
+local.qinlili.bid
+local.sisteminha.com
+localho.st
+localtest.me
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
 log.adplex.co.kr
@@ -7441,6 +7451,7 @@ lumpylumber.com
 lurker.olx.com.br
 lusgle.hudabeauty.com
 lv6od3a4sz12.www.logology.co
+lvh.me
 lwozzk.legacy.com
 lxiaho.lesfurets.com
 lxoemc.libero.it
@@ -8109,6 +8120,7 @@ memorycobweb.com
 mentorsticks.com
 mer.stdout.cz
 meremark.com
+merequartz.com
 meriwest.actonservice.com
 message.alldata.com
 message.sonicwall.com
@@ -8550,6 +8562,7 @@ nimblebird.co
 nimbleswan.io
 ninja.akamaized.net
 ninja.onap.io
+nip.io
 nkwvwb.fluevog.com
 nlgzhd.yoox.com
 nltihf.fashiondays.ro
@@ -10663,6 +10676,7 @@ ssc.vmware.com
 ssc.wa.gto.db.com
 ssdc.bawag.com
 ssfllp.actonservice.com
+ssh.town
 ssite.johnlewis.com
 ssite.waitrose.com
 ssitecat.eset.com
@@ -11726,6 +11740,7 @@ summary.instaread.co
 summerhamster.com
 summerobject.com
 suncanny.marvel.com
+supercalifragilisticexpialidocious.co.uk
 superficialeyes.com
 superficialspring.com
 superficialsquare.com
@@ -13595,6 +13610,7 @@ xgefvi.iteshop.com
 xgspzv.troyestore.com
 xhxmhs.ounass.ae
 xibspj.komehyo.jp
+xip.io
 xiqvza.dickblick.com
 xitvce.webtretho.com
 xivafk.armut.com
@@ -13694,6 +13710,7 @@ ymvikp.estadao.com.br
 ynagqs.vidaxl.pl
 ynemmp.goertz.de
 yolo.philipbjorge.com
+yoogle.com
 yottlyscript.com
 you.pixellot.link
 youborafds01.com
