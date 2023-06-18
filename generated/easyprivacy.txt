@@ -1492,8 +1492,7 @@ adbsmetrics.kia.com
 adbsmetrics.koreanair.com
 adbsmetrics.kt.com
 adbsmetrics.lotterentacar.net
-adc.api.nine.com.au
-adc.nine.com.au
+adc-js.nine.com.au
 adcontroll.com
 adebis-52667624.wowma.jp
 adebis-dojyo.dojyo.jp
@@ -1597,7 +1596,6 @@ affilate.hh.ru
 affiliate.kgcshop.jp
 affiliate.petitwedding.com
 affiliates.minglematch.com
-affiliates.treasureisland.com
 affiliates.vpn.ht
 affvantage.com
 afhjxb.flaconi.de
@@ -1804,7 +1802,6 @@ analytics.directenergy.com
 analytics.discountpowertx.com
 analytics.disneyinternational.com
 analytics.dvidshub.net
-analytics.ecosia.org
 analytics.edgekey.net
 analytics.eggoffer.com
 analytics.eikko.ai
@@ -2005,7 +2002,6 @@ analytics.traderlink.com
 analytics.tribeca.vidavee.com
 analytics.trust.page
 analytics.tver.jp
-analytics.twitter.com
 analytics.unibuddy.co
 analytics.unilogcorp.com
 analytics.unive.nl
