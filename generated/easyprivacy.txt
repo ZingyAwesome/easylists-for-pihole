@@ -3673,6 +3673,7 @@ cm-jp.americanexpress.com
 cm-mms.coachmag.co.uk
 cm-sg.americanexpress.com
 cmp.courrierinternational.com
+cmp.datasign.co
 cmp.dreamlab.pl
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -3707,7 +3708,6 @@ cnt.iol.it
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.nov.ru
-cnt.nuvid.com
 cnt.rambler.ru
 cnt.rate.ru
 cnt.trvdp.com
@@ -4243,7 +4243,6 @@ d1cdnlzf6usiff.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
-d1igp3oop3iho5.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
@@ -4282,7 +4281,6 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
-d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
@@ -4291,7 +4289,6 @@ d2tgfbvjf3q6hn.cloudfront.net
 d2u.dauphinquebec.com
 d2wa5sea6guof0.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
-d2wy8f7a9ursnm.cloudfront.net
 d2zjlj1vewrxcj.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d31y97ze264gaa.cloudfront.net
@@ -4776,6 +4773,7 @@ ebisfracora.fracora.com
 ebisstore.tamagokichi.com
 ebony.black.news
 ecefyu.geox.com
+eclick.baidu.com
 ecomm.atea.com
 ecomm.events
 ecommhpi.ext.hp.com
@@ -5272,6 +5270,7 @@ events.onet.pl
 events.practo.com
 events.prd.api.max.com
 events.privy.com
+events.qortex.ai
 events.realgravity.com
 events.reclamefolder.nl
 events.reddit.com
@@ -5688,7 +5687,6 @@ gct.americanexpress.com
 gda1.coworkimmo.com
 gdm1.toner.fr
 gefkkw.cyberport.de
-gekko.spiceworks.com
 gemius.mgr.consensu.org
 genesis.malwarebytes.com
 genesishealth.hrm.healthgrades.com
@@ -5709,13 +5707,11 @@ geobar.ziffdavisinternational.com
 geoedge.be
 geoip.ativo.com
 geoip.boredpanda.com
-geoip.cookieyes.com
 geoip.finanzen.net
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.instiengage.com
 geoip.nekudo.com
-geoip.viamichelin.com
 geolocation.forbes.com
 geolocation.outreach.com
 geoservice.curse.com
@@ -5912,6 +5908,7 @@ guitarlearning.deplike.com
 gullibleguitar.com
 gundersenhealth.hrm.healthgrades.com
 gurgle.pcmag.com
+gurgle.spiceworks.com
 gvsivx.multinet.com.tr
 gwtc.sfr.fr
 gyradiko.openapp.link
@@ -6571,6 +6568,7 @@ infos.whitepages.com.au
 infos.yellow.com.au
 infos.yellowpages.com.au
 ingest.make.rvapps.io
+ingest.make.rvohealth.com
 ingress.linktr.ee
 inhalt.bild.de
 innerskinresearch.com
@@ -6595,6 +6593,7 @@ insights.bodog.co.uk
 insights.bodoglife.co.uk
 insights.cdt.ch
 insights.compagnon.com
+insights.decathlon.net
 insights.documill.com
 insights.frenchtogether.com
 insights.golubcapital.com
@@ -8247,7 +8246,6 @@ metrics.mindshareworld.com
 metrics.mzstatic.com
 metrics.nationalgeographic.com
 metrics.nba.com
-metrics.newegg.com
 metrics.nissanusa.com
 metrics.northwesternmutual.com
 metrics.nu.nl
@@ -8255,6 +8253,7 @@ metrics.nycgo.com
 metrics.oanda.com
 metrics.ogilvy.com
 metrics.omniture.com
+metrics.onewegg.com
 metrics.onshape.com
 metrics.optimum.net
 metrics.oreilly.com
@@ -8727,7 +8726,6 @@ oppuz.com
 opti-digital.com
 optimallimit.com
 optimeeze.appspot.com
-optimize-stats.voxmedia.com
 optistats.ovh
 oqr4.destinia.in
 oracle.marketingcube.com.au
@@ -8958,6 +8956,7 @@ pixel.facebook.com
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
+pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
 pixel.kknews.cc
@@ -9587,6 +9586,7 @@ ruthlessmilk.com
 ruthlessrobin.com
 ruvdkw.turk.net
 rvbqze.albamoda.de
+rvo-cohesion.healthline.com
 rvv.emol.com
 rvz9.destinia.co.ro
 rwdito.carsguide.com.au
@@ -11059,7 +11059,6 @@ stats.byma.com.br
 stats.cable.tech
 stats.cafepress.com
 stats.callnowbutton.com
-stats.cardschat.com
 stats.carecredit.com
 stats.carrotsearch.com
 stats.cartoonnetwork.com
@@ -13161,7 +13160,6 @@ visit.donateblood.com.au
 visit.hypertherm.com
 visit.lifeblood.com.au
 visit.tafensw.edu.au
-visit.theglobeandmail.com
 visit.webhosting.yahoo.com
 visit.xchina.pics
 visite.scambi.org
@@ -13493,7 +13491,6 @@ wtaccesscontrol.com
 wtbevents.pricespider.com
 wtgnmr.golfdigest.co.jp
 wthugv.sportpro.co
-wtk.db.com
 wttd.douglas.at
 wttd.douglas.ch
 wttd.douglas.de
