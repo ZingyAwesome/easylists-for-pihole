@@ -48,6 +48,7 @@ network.gofeminin.de
 network2.aufeminin.com
 ox.gassi-tv.de
 partner.schalke04.de
+pear.focus.de
 plus.tourispo.com
 saas.valuetech.de
 wbbanner.mrn-news.de

@@ -33,7 +33,6 @@ widget.promoqui.it
 widgets.shop.moda.it
 adserver.ilgazzettinovesuviano.com
 adv-img.edilportale.com
-extra.treddi.com
 giornalisti.vivere.srl
 napolimagazine.biz
 oas.repubblica.it
