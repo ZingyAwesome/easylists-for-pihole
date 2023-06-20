@@ -4397,6 +4397,7 @@ datas.connectingthreads.com
 datatechonert.com
 datum.appfleet.com
 dauvwl.cottonink.co.id
+dax.yle.fi
 dba4.pandasuite.io
 dbex-tracker-v2.driveback.ru
 dbhsejcg-meetup-com.cdnjs.network
@@ -7300,7 +7301,6 @@ lltrck.com
 lmavci.eloquii.com
 lmepbq.com
 lmldvr.centauro.net
-lndo.site
 lnk-stg.welthee.com
 lnk.welthee.com
 lntvby.banggood.com
@@ -8557,7 +8557,6 @@ nimblebird.co
 nimbleswan.io
 ninja.akamaized.net
 ninja.onap.io
-nip.io
 nkwvwb.fluevog.com
 nlgzhd.yoox.com
 nltihf.fashiondays.ro
