@@ -3487,7 +3487,6 @@ cdn7.baunetz.de
 cdnhst.xyz
 cdrive.compellent.com
 cdtm.cdiscount.com
-cefgo.com
 cellstats.mako.co.il
 cen.acspubs.org
 cenbrandlab.acspubs.org
@@ -4617,7 +4616,6 @@ dogsshoes.com
 doja.worten.es
 dolldetail.com
 dolphin.deliver.ifeng.com
-domaincontrol.com
 domino.flycl.ps
 domorewithless.adp.ca
 donjigrad.viessmann.rs
@@ -5398,7 +5396,6 @@ faucons.viessmann.fr
 faultycanvas.com
 faultyfowl.com
 fazphz.theiconic.com.au
-fbi.com
 fbu8.hoteldeparismontecarlo.com
 fbu8.hotelhermitagemontecarlo.com
 fbu8.montecarlobay.com
@@ -6913,7 +6910,6 @@ la-sync.taboola.com
 laboredlocket.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
-lacolhost.com
 lagoonolivia.com
 laheyhealth.hrm.healthgrades.com
 lakerspreferences.gleague.nba.com
@@ -7308,12 +7304,6 @@ loader-cdn.azureedge.net
 loader.zeroform.com
 loansales.cbre.com
 local-shares.ri.la
-local.computer
-local.qinlili.bid
-local.sisteminha.com
-localho.st
-localhost.direct
-localtest.me
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
 log.adplex.co.kr
@@ -7445,7 +7435,6 @@ lumpylumber.com
 lurker.olx.com.br
 lusgle.hudabeauty.com
 lv6od3a4sz12.www.logology.co
-lvh.me
 lwozzk.legacy.com
 lxiaho.lesfurets.com
 lxoemc.libero.it
@@ -8077,6 +8066,7 @@ med.savella.com
 medaipvx.com
 medaipxv.com
 meddleplant.com
+media-platform.com
 media.elementsbehavioralhealth.com
 media.pirtek.co.uk
 media.pirtek.de
@@ -8520,7 +8510,6 @@ net.zooplus.nl
 net.zooroyal.de
 net1.netski.com
 netc.sfr.fr
-netfinity.hostedrmm.com
 networkingexchange.att.com
 networkprotection.mcafee.com
 networks.balluff.com
@@ -8561,6 +8550,8 @@ nkwvwb.fluevog.com
 nlgzhd.yoox.com
 nltihf.fashiondays.ro
 nmetrics.samsungmobile.com
+nmgassets.com
+nmgplatform.com
 nmiodk.promiflash.de
 nmo1.orpi.com
 nmu3.destinia.be
@@ -10671,7 +10662,6 @@ ssc.vmware.com
 ssc.wa.gto.db.com
 ssdc.bawag.com
 ssfllp.actonservice.com
-ssh.town
 ssite.johnlewis.com
 ssite.waitrose.com
 ssitecat.eset.com
@@ -11734,7 +11724,6 @@ summary.instaread.co
 summerhamster.com
 summerobject.com
 suncanny.marvel.com
-supercalifragilisticexpialidocious.co.uk
 superficialeyes.com
 superficialspring.com
 superficialsquare.com
@@ -13601,7 +13590,6 @@ xgefvi.iteshop.com
 xgspzv.troyestore.com
 xhxmhs.ounass.ae
 xibspj.komehyo.jp
-xip.io
 xiqvza.dickblick.com
 xitvce.webtretho.com
 xivafk.armut.com
@@ -13701,7 +13689,6 @@ ymvikp.estadao.com.br
 ynagqs.vidaxl.pl
 ynemmp.goertz.de
 yolo.philipbjorge.com
-yoogle.com
 yottlyscript.com
 you.pixellot.link
 youborafds01.com
