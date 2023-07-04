@@ -2957,7 +2957,6 @@ ccztgy.elgiganten.dk
 cdl.booksy.com
 cdl.lvsafe.io
 cdn-channels-pixel.ex.co
-cdn-pci.optimizely.com
 cdn-rum.ngenix.net
 cdn.arcstudiopro.com
 cdn.net.elogia.net
