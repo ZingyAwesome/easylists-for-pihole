@@ -1865,6 +1865,7 @@ analytics.send.cm
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shopncaasports.com
+analytics.silktide.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
 analytics.skinit.com
@@ -8850,6 +8851,7 @@ optimallimit.com
 optimeeze.appspot.com
 optimisation.coop.co.uk
 optimisation.data.lloydsbankinggroup.com
+optimizely.techtarget.com
 optis-world.actonservice.com
 optistats.ovh
 oqidne.itaka.pl
@@ -14102,6 +14104,7 @@ track-visit.monday.com
 track.abrdn.com
 track.abrdnaod.com
 track.abrdnifn.com
+track.americansongwriter.com
 track.auckland.ac.nz
 track.bannedcelebs.com
 track.bestbuy.ca
