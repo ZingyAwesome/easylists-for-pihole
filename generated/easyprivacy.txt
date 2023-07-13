@@ -14392,6 +14392,7 @@ tracking.gameforge.de
 tracking.gartner.com
 tracking.gelia.com
 tracking.getapp.com
+tracking.gnavi.co.jp
 tracking.go.provident.bank
 tracking.go.toyobo.co.jp
 tracking.godatafeed.com
@@ -15437,7 +15438,6 @@ wozdcc.vidaxl.at
 wpauvu.obuvki.bg
 wpgobx.marcusoscarsson.se
 wph2.destinia.us
-wpshsdk.com
 wqfflc.plantopedia.de
 wqkcsg.armandthiery.fr
 wqudcv.finnishdesignshop.com
