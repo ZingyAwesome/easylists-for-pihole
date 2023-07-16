@@ -1528,7 +1528,6 @@ affiliate.taihoshop.jp
 affiliate.tripact.jp
 affiliates.minglematch.com
 affiliates.vpn.ht
-affvantage.com
 afhjxb.flaconi.de
 afi.ssl.gmobb.jp
 afraidlanguage.com
@@ -1551,7 +1550,6 @@ ahhrtt.pixnet.net
 ahima.coniferhealth.com
 ahngxh.palladiumhotelgroup.com
 aikrir.lcwaikiki.com
-air.audioeye.com
 airportcargo-test.inthere.link
 ajaralarm.com
 ajbeqy.delfi.lt
@@ -1578,6 +1576,7 @@ aliasanvil.com
 alikeaddition.com
 alikearm.com
 aliveachiever.com
+aliveappliance.com
 allergy.thermo.com
 allergy.thermofisher.com
 alleyskin.com
@@ -1783,7 +1782,6 @@ analytics.kerns.co
 analytics.kkb.com.tr
 analytics.klickly.com
 analytics.kongregate.io
-analytics.kraken.com
 analytics.krieselreihe.com
 analytics.laregione.ch
 analytics.lifestyledemocracy.com
@@ -2300,6 +2298,7 @@ ast-en.adp.ca
 ast-fr.adp.ca
 astage.dailynumber.app
 astat.nikkei.com
+astonishingfood.com
 astral.nicovideo.jp
 asttcp.vatera.hu
 asumi.shinobi.jp
@@ -2634,6 +2633,7 @@ bqacmp.vidaxl.no
 bqstreamer.com
 bractivacar.eccocar.com
 brainlands.stonefalcon.com
+brainynut.com
 bran.sightdots.com
 branch-4567w2a56q-test.salesfloor.net
 branch-4567w2a56q.salesfloor.net
@@ -2797,6 +2797,7 @@ btstats.benakt.com
 btstats.devtribu.fr
 bttmkj.diesel.com
 buasmk.earthshoes.com
+bubblebedroom.com
 bucketbean.com
 budibu.saksfifthavenue.com
 buf.lemonde.fr
@@ -2823,8 +2824,10 @@ businessmaking.progress.com
 businessprocess.ricoh.de
 bustlinganimal.com
 bustlingbath.com
+bustlingbook.com
 butterbulb.com
 butterburst.com
+buttonladybug.com
 buyer.okiela.com
 buzz.logility.com
 buzz.vocus.com
@@ -2917,7 +2920,6 @@ carefuldolls.com
 carelesshat.com
 caringcast.com
 caringzinc.com
-carl.pubsvs.com
 carpentercomparison.com
 carreras.unisabana.edu.co
 carriagecan.com
@@ -2941,6 +2943,7 @@ catracking.finning.com
 catschickens.com
 causecherry.com
 cautiouscamera.com
+cautiouscherries.com
 cautiouscrate.com
 cautiouscredit.com
 cavecurtain.com
@@ -3012,6 +3015,7 @@ childlikecrowd.com
 childlikeform.com
 chingovernment.com
 chinsnakes.com
+chivalrouscord.com
 chmproxy.bid
 choose.adelaide.edu.au
 chubbycreature.com
@@ -3021,6 +3025,7 @@ cihnqp6p65.koinly.io
 cijfers.tweakers.nl
 cimage.adobe.com
 cimarketingforms.aig.com
+cinemabonus.com
 cinepolis.trailervote.com
 ciqtracking.com
 circle.pandasuite.io
@@ -3131,6 +3136,7 @@ clnbze.gazetawroclawska.pl
 clnbze.gloswielkopolski.pl
 clnbze.naszemiasto.pl
 cloisteredcord.com
+cloisteredcurve.com
 cloisteredhydrant.com
 closedcows.com
 cloud-miner.de
@@ -3143,6 +3149,7 @@ cloudfront-labs.amazonaws.com
 cloudhosting-business.vodafone.com
 cloudsdestruction.com
 cloudwp.io
+clovercabbage.com
 cloverleaf.infor.com
 clp-mms.cloudpro.co.uk
 clrt.ai
@@ -3516,6 +3523,7 @@ counter.wikiwiki.jp
 counter.yadro.ru
 counter2.blog.livedoor.com
 counters.freewebs.com
+courageousbaby.com
 coverapparatus.com
 cowscrayon.com
 cpgo.avatacar.com
@@ -3606,7 +3614,9 @@ curiouschalk.com
 curlycannon.com
 currentcollar.com
 curtaincows.com
+curvedhoney.com
 curvedsquirrel.com
+curvycord.com
 curvycry.com
 cushiondrum.com
 cushionpig.com
@@ -3644,9 +3654,7 @@ czvdlp.hgregoire.com
 czx5eyk0exbhwp43ya.biz
 d-log.asahi.co.jp
 d-staging.groc.press
-d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
-d11a2fzhgzqe7i.cloudfront.net
 d11bdev7tcn7wh.cloudfront.net
 d15kdaxu5c0hfw.cloudfront.net
 d169bbxks24g2u.cloudfront.net
@@ -3671,7 +3679,6 @@ d1r55yzuc1b1bw.cloudfront.net
 d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
-d1uanozc5el74n.cloudfront.net
 d1wix2gc2cgqis.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
@@ -3682,10 +3689,8 @@ d21o24qxwf7uku.cloudfront.net
 d21y75miwcfqoq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
-d23pi6hvdpcc5i.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
-d25ezbwokoefx6.cloudfront.net
 d276.ourmidland.com
 d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
@@ -3700,15 +3705,11 @@ d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
-d2san7t27xb2pn.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
-d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2u.dauphinquebec.com
 d2wa5sea6guof0.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
-d2zjlj1vewrxcj.cloudfront.net
-d31qbv1cthcecs.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
@@ -3731,8 +3732,6 @@ d3n6i6eorggdxk.cloudfront.net
 d3oodlxb1rw3kg.cloudfront.net
 d3pi0tys5sdysl.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
-d3q7vxy7usqoub.cloudfront.net
-d3qxwzhswv93jk.cloudfront.net
 d3qztsm17pgxue.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
@@ -3741,7 +3740,6 @@ d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6ek.pandasuite.io
-d6jkenny8w8yo.cloudfront.net
 d761erxl2qywg.cloudfront.net
 d810.mysanantonio.com
 d81mfvml8p5ml.cloudfront.net
@@ -3901,6 +3899,7 @@ de-nis-ner-mi-5.info
 deadpanmarble.com
 deadpantruck.com
 deafeningdock.com
+deafeningdowntown.com
 dealfastfood.openapp.link
 debonairdust.com
 debonairtree.com
@@ -3935,6 +3934,7 @@ deeplinks.myyogateacher.com
 deeplinks.padmapper.com
 deeplinks.pebblebee.com
 deeplinks.zumper.com
+deerbeginner.com
 defectivedress.com
 defectivesun.com
 defiantrice.com
@@ -4052,6 +4052,7 @@ directavenue.tech
 directlink.aridjaya.com
 directlink.hasdukmerahputih.com
 directlink.indonesiya.com
+direfuldesk.com
 discover-metrics.cloud.seek.com.au
 discover.conversantmedia.com
 discover.jll.com
@@ -4215,7 +4216,6 @@ dwin2.com
 dwuzxuvwlq.winticket.jp
 dxaop.bcbsla.com
 dxe2.heip.fr
-dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dyqebg.aboutyou.hr
 dyv1bugovvq1g.cloudfront.net
@@ -4658,7 +4658,6 @@ evadav.indonesiya.com
 evaluateend.com
 evaluatestream.com
 evanescentedge.com
-event-api.contactatonce.co.uk
 event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
@@ -4792,6 +4791,7 @@ extmaps-api.yandex.net
 extramilefloorcare.ericksonbuilt.com
 exuberanteyes.com
 exuberantsoda.com
+exultantdrop.com
 eymiwj.cancan.ro
 eyypxz.canifa.com
 eyzubm.gooutdoors.co.uk
@@ -4932,6 +4932,7 @@ fmqidg.letras.com
 fmqidg.letras.mus.br
 fn-pz.com
 foamyfood.com
+foamypain.com
 fog.pixual.co
 fokbrd.impo.ch
 food.informaengage.com
@@ -5358,6 +5359,7 @@ grado.ufv.es
 gramombird.com
 grandioseguide.com
 grandmotherunit.com
+grayoranges.com
 grayreceipt.com
 greasegarden.com
 greasemotion.com
@@ -5413,12 +5415,14 @@ h78xb.pw
 habitualhumor.com
 hal.courrierinternational.com
 haltingbadge.com
+haltingdivision.com
 haltinggold.com
 hammerhearing.com
 handleteeth.com
 handsomehose.com
 handsomeindustry.com
 handsomelyhealth.com
+handsomeyam.com
 handyfield.com
 handyfireman.com
 haostat.qihoo.com
@@ -6444,6 +6448,7 @@ library.daptiv.com
 lieudetravail.ricoh.fr
 lifestyle.tradeshow.globalsources.com
 lift.acquia.com
+liftedknowledge.com
 lightcushion.com
 limone.iltrovatore.it
 lincoln-financial.lfd.com
@@ -7084,7 +7089,6 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logtake.weidian.com
 logx.optimizely.com
-loloclicks.biz
 longinglettuce.com
 longingtrees.com
 looseloaf.com
@@ -7094,6 +7098,7 @@ losslace.com
 lotte.myomee.com
 loudlunch.com
 lovelydrum.com
+loveseashore.com
 lowlocket.com
 lozano.net.anwalt.de
 lp3tdqle.com
@@ -8446,6 +8451,7 @@ mortgage.inform.equifax.com
 mortgage.velocify.com
 mortgagefamily.actonservice.com
 motion.kollmorgen.com
+motionflowers.com
 motionlessbag.com
 motionlessbelief.com
 motista.actonservice.com
@@ -8837,6 +8843,7 @@ open.uzitapp.com
 open.wynk.in
 openfpcdn.io
 openshop.oshp.io
+operationchicken.com
 ophan.theguardian.com
 opinionsurprise.com
 opportunity.businessbroker.net
@@ -9357,6 +9364,7 @@ pointlessrifle.com
 poisedpig.com
 polhvf.bootbarn.com
 politegoldfish.com
+politeplanes.com
 ponyo.cheriefm.fr
 pool.onjoyri.de
 pop3.happ.social
@@ -9916,6 +9924,7 @@ rollbar.actonservice.com
 romotur.actonservice.com
 roofrelation.com
 roomyreading.com
+roseincome.com
 rottenray.com
 roughroll.com
 roulette.abzorbagames.com
@@ -10453,6 +10462,7 @@ sg3.notarize.com
 sgali-mcs.byteoversea.com
 sgms.greatschools.org
 sgstats.com
+shadeship.com
 shaggytank.com
 shakegoldfish.com
 shakesuggestion.com
@@ -10576,6 +10586,7 @@ sig.nadex.com
 silentcredit.com
 silentwrench.com
 siliconslow.com
+silkysoda.com
 silkysquirrel.com
 sillyscrew.com
 simg.discovery.com
@@ -10610,6 +10621,7 @@ sitedataprocessing.com
 siteintercept.allegiancetech.com
 siusmv.coraltravel.pl
 six9e.canal.fr
+sixauthority.com
 sixscissors.com
 sizesidewalk.com
 sjms.actonservice.com
@@ -12386,6 +12398,7 @@ sophisticatedstory.com
 sophisticatedstove.com
 soptimize.southwest.com
 sordidsmile.com
+soresidewalk.com
 soresneeze.com
 sorethunder.com
 soretrain.com
@@ -12411,6 +12424,7 @@ sparklingshelf.com
 specialscissors.com
 specialsnake.com
 specialstatement.com
+spectacularstamp.com
 spectrum.gettyimages.com
 speedtrap.shopdirect.com
 speedyfox.io
@@ -12709,6 +12723,7 @@ stakingsmile.com
 staleseat.com
 staleshow.com
 stalesummer.com
+stampknot.com
 stan.xing.com
 stanburns.actonservice.com
 standingnest.com
@@ -13473,6 +13488,7 @@ statt-collect.herokuapp.com
 statuesquebrush.com
 statystyki.panelek.com
 stay.lottehotel.com
+stayaction.com
 steadfastseat.com
 steadfastsound.com
 steadfastsystem.com
@@ -13528,6 +13544,7 @@ stracking.myomee.com
 stracking.rogers.com
 straightnest.com
 strangeclocks.com
+strangersponge.com
 strangesink.com
 strawberry.basf.com
 streamstats.prd.dlive.tv
@@ -13819,6 +13836,7 @@ tastefulsongs.com
 tastelesstoes.com
 tastelesstrees.com
 tastelesstrucks.com
+tastesnake.com
 tatehj.nylaarp.com
 tatpek.com
 tawdryson.com
@@ -13888,6 +13906,7 @@ telemetry.tableausoftware.com
 telemetry.tradingview.com
 telephoneapparatus.com
 telsmith.actonservice.com
+tempertrick.com
 tempttalk.com
 temptteam.com
 tendersugar.com
@@ -14653,6 +14672,7 @@ treatment.grammarly.com
 trecker.aklamio.com
 tredir.go.com
 tree.indot.nl
+tremendousearthquake.com
 tremendousplastic.com
 tremendoustime.com
 tremendoustreatment.com
@@ -14786,6 +14806,7 @@ trk.solution.desjardins.com
 trk.sourcingatmagic.com
 trk.speedbumpsandhumps.com
 trk.squeezemassage.com
+trk.storyly.io
 trk.techtarget.com
 trk.theaisummit.com
 trk.thebatteryshow.com
@@ -15013,6 +15034,7 @@ us-go.experian.com
 use.fvr.to
 use.lunos.app
 usedexample.com
+uselesslumber.com
 user-metrics.onthemarket.com
 user.userguiding.com
 userexperience.thehut.net
