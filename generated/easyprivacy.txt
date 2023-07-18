@@ -2464,14 +2464,12 @@ beaconcdn.qq.com
 beacons.mediamelon.com
 beadbears.com
 beagle.prod.tda.link
-beam.bankrate.com
 beam.mjhlifesciences.com
 beam.telex.hu
 beamincrease.com
 beamvolcano.com
 bears.daigostudio.com
 beastbeef.com
-beat.socialblade.com
 beat.yourtv.jp
 beautifulhobbies.com
 becanium.com
@@ -2518,7 +2516,6 @@ bigdata.aspiresys.com
 bikini.hasdukmerahputih.com
 bikini.indonesiya.com
 billowybead.com
-bin.vinted.net
 bint.openapp.link
 bio.chups.co
 bisko.mall.tv
@@ -3567,6 +3564,7 @@ crta.dailymail.co.uk
 crta.metro.co.uk
 crumbs.robinhood.com
 crwdcntrl.net
+cryo.socialblade.com
 crypto.egghead.link
 cse3.chausport.com
 csi.gstatic.com
@@ -4999,7 +4997,6 @@ fpc.trimarkusa.com
 fpc.utexas.edu
 fpcdn.io
 fpghll.rossmann.hu
-fpnpmcdn.net
 fpt.inxinternational.com
 fpt.microsoft.com
 fptls.com
@@ -9340,6 +9337,7 @@ player-telemetry.vimeo.com
 plbcsd.vidaxl.se
 ple.pearlinsurance.com
 pleasantpump.com
+plenty.vidio.com
 plo.pearlinsurance.com
 plotparent.com
 plotrabbit.com
@@ -14194,21 +14192,6 @@ track.netzero.net
 track.noddus.com
 track.nopaperforms.com
 track.noz.de
-track.opentable.ae
-track.opentable.ca
-track.opentable.co.th
-track.opentable.co.uk
-track.opentable.com
-track.opentable.com.au
-track.opentable.com.mx
-track.opentable.de
-track.opentable.es
-track.opentable.hk
-track.opentable.ie
-track.opentable.it
-track.opentable.jp
-track.opentable.nl
-track.opentable.sg
 track.pexi.nl
 track.pnicnik.live
 track.pricespider.com
@@ -15611,7 +15594,6 @@ xlvvy4msxr.coolinastore.com
 xovq5nemr.com
 xray.mail.ru
 xseedwealth.actonservice.com
-xstats.evoload.io
 xuc.monteleone.fr
 xvantage.ingrammicro.com
 xwsbxv.noracora.com
