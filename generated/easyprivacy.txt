@@ -1782,6 +1782,7 @@ analytics.kerns.co
 analytics.kkb.com.tr
 analytics.klickly.com
 analytics.kongregate.io
+analytics.kooapp.com
 analytics.krieselreihe.com
 analytics.laregione.ch
 analytics.lifestyledemocracy.com
@@ -3245,6 +3246,7 @@ collector.appconsent.io
 collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
+collector.dmp.cnna.io
 collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
@@ -3824,6 +3826,7 @@ data.newsletter.italia.it
 data.nexxt.com
 data.notificaciones.ficohsa.com
 data.notifications.portal.cooperlighting.com
+data.nrk.no
 data.onlyyou.palladiumhotelgroup.com
 data.ouigo.com
 data.pepephone.com
@@ -5001,6 +5004,7 @@ fpt.inxinternational.com
 fpt.microsoft.com
 fptls.com
 fptls2.com
+fptls3.com
 fpxewa.ilmeteo.it
 fq9vy0muyqi3.www.madrigalmaps.com
 fqcqnb.dwr.com
@@ -8287,6 +8291,7 @@ metrics.yellowbook.com
 metrics1.thankyou.com
 metricsishare.rediff.com
 metricssecure.northwesternmutual.com
+metrika.kontur.ru
 metrix.emagister.com
 metrix.publix.com
 metroaverage.com
@@ -9772,6 +9777,7 @@ remaja.indonesiya.com
 remarketing.oncourselearning.com
 remnkv.doda.jp
 removeads.workers.dev
+remp.nv.ua
 rent.mgrc.com
 renting.aldautomotive.es
 repeatsweater.com
@@ -14360,6 +14366,7 @@ tracking.dealeranalytics.com
 tracking.deutscheladies.de
 tracking.devoteladies.de
 tracking.dfinsolutions.com
+tracking.diginetica.net
 tracking.digitalocean.com
 tracking.direxion.com
 tracking.dominanteladies.de
@@ -15404,6 +15411,7 @@ whispermeeting.com
 whrsen.itemmania.com
 why3.inseec.education
 widget-pixels.outbrain.com
+widget.educationdynamics.com
 widgetbe.com
 wigglygeese.com
 wigglyindustry.com
