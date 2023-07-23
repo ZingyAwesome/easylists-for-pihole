@@ -1988,6 +1988,7 @@ api.dt.gl
 api.elliehuxtable.com
 api.fuck.education
 api.nobeta.com.br
+api.privacyguides.net
 api.ryanyao.design
 api.wipmania.com
 apm.tnet.nl
@@ -4875,7 +4876,6 @@ feedback.aon.com
 feedback.campbellmetal.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
-fennec.atp.fox
 fetch.gethuan.com
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffe390afd658c19dcbf707e0597b846d.de
@@ -4974,6 +4974,7 @@ fourarithmetic.com
 fourfork.com
 fourier.taobao.com
 fourmtagservices.appspot.com
+fourtimessmelly.com
 fp-cdn.azureedge.net
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
@@ -6135,7 +6136,6 @@ iopxiu.wingly.io
 ios.asktagapp.com
 iot-business.vodafone.com
 ip2c.landscape.co.jp
-ipapi.tmbi.com
 ipcfgw.pieces.com
 ipcheck.blogsys.jp
 ipixsi.aboutyou.fi
@@ -6322,7 +6322,6 @@ kjdfho.eidaihouse.com
 kjjuuy.icaniwill.fi
 kjmaoi.babor.com
 kkzpde.aboutyou.lt
-klm-ea.jscrambler.com
 kn81kivjwwc7.www.logology.co
 knapia.weightwatchers.com
 knorzj.wearfigs.com
@@ -7094,7 +7093,6 @@ logx.optimizely.com
 longinglettuce.com
 longingtrees.com
 looseloaf.com
-lore.circulate.com
 lorenzourban.com
 losslace.com
 lotte.myomee.com
@@ -8528,6 +8526,7 @@ myopia.gocheckkids.com
 mypowur.eyecue.io
 myprofile.panasonic.eu
 myprofile.technics.eu
+mysingleromance.com
 mysite.webroot.com
 mysteriousmonth.com
 mywebpage.ni.com
@@ -9442,6 +9441,7 @@ processor.asccommunications.com
 procroanalytics.com
 prod-events.nykaa.com
 prod.ew.srp.navigacloud.com
+prod.fennec.atp.fox
 prod.nitrosniffer.ottogroup.io
 prod.tracking.refinitiv.com
 prodhome1analyticslistener.mysoluto.com
@@ -9524,7 +9524,6 @@ puffypull.com
 puffypurpose.com
 puiwrs.misterspex.de
 pulsar.ebay.com
-pulsarback.mail.ru
 pulse.delta.com
 pumlmb.netcologne.de
 pumpedpancake.com
@@ -12786,7 +12785,6 @@ stat.mydaddy.cc
 stat.ouedkniss.com
 stat.ovh
 stat.pet
-stat.ppstream.com
 stat.pravmir.ru
 stat.ringier.sk
 stat.rum.cdnvideo.ru
@@ -13246,7 +13244,6 @@ stats.mpthemes.net
 stats.mt.com
 stats.muchbetteradventures.com
 stats.multiply.cloud
-stats.myangular.life
 stats.navedislam.com
 stats.nddmed.com
 stats.nebula.fi
@@ -14293,7 +14290,6 @@ tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tolvnow.com
 tracker.tubecj.com
-tracker.tv.sohu.com
 tracker.unbxdapi.com
 tracker.wigzopush.com
 tracker.winload.de
@@ -15129,7 +15125,6 @@ visit.donateblood.com.au
 visit.lifeblood.com.au
 visit.sendheirloom.com
 visit.tafensw.edu.au
-visit.webhosting.yahoo.com
 visit.xchina.pics
 visitorcenter.srwild.com
 visitors.gigianddavid.com
