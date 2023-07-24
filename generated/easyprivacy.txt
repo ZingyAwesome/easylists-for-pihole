@@ -5593,6 +5593,7 @@ ibf.smrtp.link
 ibmtechnology.arrow.com
 icaubf.casamundo.de
 icebergindigo.com
+iconmediapixel.com
 iconnode.com
 icu.getstorybox.com
 id5-sync.com
@@ -12719,6 +12720,7 @@ stageapplink.reki.tv
 staging-go.getsquire.com
 staging-link.docyt.com
 staging-links.thriveglobal.com
+staging-pt.ispot.tv
 staging-refer.rooam.co
 staging.narrateapp.com
 staging.refer.wagr.us
