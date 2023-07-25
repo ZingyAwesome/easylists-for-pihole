@@ -2334,6 +2334,7 @@ audit.shaa.it
 auforex.americanexpress.com
 auntants.com
 aurora-d3.herokuapp.com
+aurum.tirto.id
 aus.amexforbusiness.com.au
 ausclh.castlery.com
 auspiciousyard.com
@@ -12921,6 +12922,7 @@ stats.buttondown.email
 stats.byma.com.br
 stats.byterocket.dev
 stats.cable.tech
+stats.calcalist.co.il
 stats.callnowbutton.com
 stats.canadapost.ca
 stats.carrotsearch.com
@@ -14805,6 +14807,7 @@ trk.thebatteryshow.eu
 trk.thebenchfactory.com
 trk.themspsummit.com
 trk.thomaspumps.com
+trk.tirto.id
 trk.trashcontainers.com
 trk.treetopproducts.com
 trk.tricontinent.com
