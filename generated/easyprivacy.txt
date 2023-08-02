@@ -3243,6 +3243,7 @@ collect.rewardstyle.com
 collect.usefathom.com
 collections.equifax.com
 collector-px0py5pczn.octopart.com
+collector-soompi.viki.io
 collector.api.video
 collector.appconsent.io
 collector.automote.co.nz
@@ -8588,6 +8589,7 @@ net.zooroyal.de
 net1.netski.com
 netc.sfr.fr
 netinsight.actonservice.com
+netlify-rum.netlify.app
 netmailcsr11.net.anwalt.de
 network.armycadets.com
 network.cogentco.com
