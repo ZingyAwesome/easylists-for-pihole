@@ -277,7 +277,6 @@ ad.h-vip.ru
 ad.hutor.ru
 ad.liveburst.com
 ad.luxnet.ua
-ad.moe.video
 ad.starlightmedia.ua
 adblockmetrics.ru
 adfun.ru
