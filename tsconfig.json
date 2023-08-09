@@ -1,5 +1,7 @@
 {
+    "extends": "@tsconfig/node18",
     "compilerOptions": {
+        "strict": false,
         "moduleResolution": "node",
         "esModuleInterop": true,
         "allowJs": true,
@@ -12,7 +14,7 @@
             "~test/*": ["test/*"],
             "~resources/*": ["resources/*"]
         },
-        "importsNotUsedAsValues": "error"
+        "verbatimModuleSyntax": false
     },
-    "include": ["./src/**/*", "./test/**/*", "./test-generated/**/*", "./resources/**/*"]
+    "include": ["./src/**/*", "./test/**/*", "./test-generated/**/*", "./resources/**/*", "./*.ts"]
 }
