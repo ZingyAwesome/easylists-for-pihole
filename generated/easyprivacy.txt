@@ -7024,6 +7024,7 @@ log.codemarketing.cloud
 log.cognex.com
 log.cookieyes.com
 log.cpex.cz
+log.dpa.com
 log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
@@ -9296,6 +9297,7 @@ plausible.lesbianromantic.com
 plausible.mattpruitt.com
 plausible.mcj.co
 plausible.moncefbelyamani.com
+plausible.motorpresse.de
 plausible.myvirtualsuper.com
 plausible.nickmazuk.com
 plausible.nova.app
@@ -9377,6 +9379,7 @@ poisedpig.com
 polhvf.bootbarn.com
 politegoldfish.com
 politeplanes.com
+politicalporter.com
 ponyo.cheriefm.fr
 pool.onjoyri.de
 pop3.happ.social
