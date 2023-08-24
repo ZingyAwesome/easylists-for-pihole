@@ -2,7 +2,7 @@
     "extends": "@tsconfig/node18",
     "compilerOptions": {
         "strict": false,
-        "moduleResolution": "node",
+        "moduleResolution": "node16",
         "esModuleInterop": true,
         "allowJs": true,
         "target": "es6",
