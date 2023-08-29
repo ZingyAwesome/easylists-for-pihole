@@ -3242,9 +3242,11 @@ collect.ezidox.com
 collect.hollisterco.com
 collect.igodigital.com
 collect.meilleurtaux.com
+collect.reagroupdata.com.au
 collect.rebelmouse.io
 collect.rewardstyle.com
 collect.usefathom.com
+collections-api.realestate.com.au
 collections.equifax.com
 collector-px0py5pczn.octopart.com
 collector-soompi.viki.io
@@ -6455,6 +6457,7 @@ lettucecopper.com
 lettucelimit.com
 level.badlandgame.com
 levelbehavior.com
+lexa.realestate.com.au
 leynqj.newport.se
 lfmhcb.sefamerve.com
 lgzkzp.bauhaus.at
@@ -8493,6 +8496,7 @@ mroprospector.aviationweek.com
 mrpdata.net
 ms-trackingapi.phenompeople.com
 ms1.morganstanley.com
+msadsscale.azureedge.net
 mseeru.faz.net
 msg.qy.net
 msi.msigts.com
@@ -15420,6 +15424,7 @@ webtracking.oncourselearning.com
 webtrackingvet.rossu.edu
 webtraffic.mastercontrol.com
 webts.adac.de
+webvitals.luxnet.ua
 wellgroomedapparel.com
 wellgroomedbat.com
 wellgroomedhydrant.com
