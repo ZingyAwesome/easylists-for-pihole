@@ -3724,6 +3724,7 @@ d2tgfbvjf3q6hn.cloudfront.net
 d2u.dauphinquebec.com
 d2wa5sea6guof0.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
@@ -4152,6 +4153,7 @@ domino.flycl.ps
 donjigrad.viessmann.rs
 donkeyleaf.com
 doorbrazil.com
+doppler-beacon.cbsivideo.com
 doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
 doublestat.info
@@ -4746,6 +4748,7 @@ events.newsroom.bi
 events.nuance.com
 events.ocdn.eu
 events.onet.pl
+events.paramount.tech
 events.practo.com
 events.prd.api.max.com
 events.privy.com
@@ -9818,6 +9821,7 @@ reporting.cdndex.io
 reporting.singlefeed.com
 reports-api.sqreen.io
 reports-tsi.tangerine.io
+reports.hibu.com
 reports.sdiapi.com
 reports.tunein.com
 reportsk.web.sdo.com
@@ -14386,6 +14390,7 @@ tracking.cengage.com
 tracking.cerdmann.com
 tracking.changehealthcare.com
 tracking.chilipiper.com
+tracking.christianpost.com
 tracking.coldspringusa.com
 tracking.compactappliance.com
 tracking.connect.nicklaushealth.org
