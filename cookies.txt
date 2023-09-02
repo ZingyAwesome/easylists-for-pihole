@@ -140,8 +140,6 @@ cookies.ptj.de
 fc.vodafone.de
 up-cookiemon.wavecdn.net
 cmp.histoire-et-civilisations.com
-cmp.lavie.fr
-cmp.lepoint.fr
 consent.prismamedia.com
 consentement.ouest-france.fr
 cookies.leadplace.fr
@@ -159,7 +157,6 @@ cookie.aerostatonet.it
 cookies.gardena.net
 privacyportal.fatergroup.com
 gdpr.laxd.com
-cmp.tek.no
 cookie.gazeta.pl
 cookies.fakt.pl
 cookies.forbes.pl
