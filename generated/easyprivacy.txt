@@ -2934,6 +2934,7 @@ cars.autopia.com.au
 cars.smartfleetaustralia.com.au
 cars.smartleasing.com.au
 carscannon.com
+cartkitten.com
 cartoon.hardalist.com
 carvecakes.com
 cascadion.thermo.com
@@ -3681,6 +3682,7 @@ d1af033869koo7.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
+d1f0tbk1v3e25u.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
@@ -6465,7 +6467,6 @@ lettucecopper.com
 lettucelimit.com
 level.badlandgame.com
 levelbehavior.com
-lexa.realestate.com.au
 leynqj.newport.se
 lfmhcb.sefamerve.com
 lgzkzp.bauhaus.at
@@ -6473,6 +6474,7 @@ lhp-mortgage.loanzify.com
 li3k4d70ig52.resourceya.com
 liadm.com
 library.daptiv.com
+librato-collector.genius.com
 lieudetravail.ricoh.fr
 lifestyle.tradeshow.globalsources.com
 lift.acquia.com
@@ -7121,6 +7123,7 @@ logtake.weidian.com
 logx.optimizely.com
 longinglettuce.com
 longingtrees.com
+loopcybersec.com
 looseloaf.com
 lorenzourban.com
 losslace.com
@@ -8971,6 +8974,7 @@ p8s.oxbowshop.com
 pa-stats.encore.dev
 pabgey.siepomaga.pl
 pabxoe.olx.ua
+pac.thescottishsun.co.uk
 pac.thesun.co.uk
 packagingsolutions.filamatic.com
 pacstainless.actonservice.com
@@ -10256,6 +10260,7 @@ screechingslip.com
 screechingstove.com
 scribblestring.com
 scribe.wongnai.com
+script.ac
 scripts.psyma.com
 scrollservice.com
 scrubswim.com
@@ -14067,6 +14072,7 @@ ticklesign.com
 ticomix.actonservice.com
 tics.seeker.gg
 tidymitten.com
+tif.ionos.com
 tightpowder.com
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
