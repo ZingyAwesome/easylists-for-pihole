@@ -8093,6 +8093,7 @@ metrics.diynetwork.com
 metrics.dollargeneral.com
 metrics.doppiocdn.com
 metrics.doppiocdn.org
+metrics.doppiostreams.com
 metrics.drklein.de
 metrics.drsfostersmith.com
 metrics.earrieta.dev
@@ -9105,7 +9106,7 @@ pdsgaj.piquadro.com
 pedropanther.com
 pegasus.unifygroup.com
 pegasusplate.com
-peiq.de
+peiq.services
 pemskb.unitedcinemas.jp
 penspade.com
 people.mbtionline.com
@@ -15738,6 +15739,7 @@ zelle.odencat.com
 zenaps.com
 zenedge.actonservice.com
 zestycrime.com
+zfctrack.net
 zhctrack.net
 zhihu-web-analytics.zhihu.com
 zimadifirenze.net.anwalt.de
