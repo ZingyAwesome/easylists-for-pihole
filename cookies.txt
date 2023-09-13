@@ -19,6 +19,7 @@ gdpr.studybreakmedia.com
 optanon.blob.core.windows.net
 plugin.management
 privacy-cdn.sixfifty.com
+smarteucookiebanner.upsell-apps.com
 truyoproductionuscdn.truyo.com
 webcache-eu.datareporter.eu
 webcache.datareporter.eu
