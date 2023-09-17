@@ -1988,6 +1988,7 @@ ape-tagit.timeinc.net
 apeagle.io
 apenterprise.io
 api-analytics-prd.pelcro.com
+api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 api.autopilothq.com
 api.bunzlaucastle.com
@@ -5660,6 +5661,7 @@ iconnode.com
 icu.getstorybox.com
 id5-sync.com
 iddu1vvb7sk8-a.akamaihd.net
+identification.hotmart.com
 idg1.idgarages.com
 idianw.warmteservice.nl
 idstatus.sky.com
@@ -14409,6 +14411,7 @@ tracker.winload.de
 tracker.wpserveur.net
 tracker.xgen.dev
 trackerapi.truste.com
+tracking-api.hotmart.com
 tracking-explore.agilent.com
 tracking-secure.csob.cz
 tracking-test.esearchvision.com
