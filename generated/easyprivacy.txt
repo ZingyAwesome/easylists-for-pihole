@@ -8116,6 +8116,7 @@ metrics.bostonscientific.com
 metrics.brightcove.com
 metrics.calgary.ca
 metrics.camperboerse.com
+metrics.camsoda.com
 metrics.care.com
 metrics.cartoonnetworkla.com
 metrics.cbc.ca
