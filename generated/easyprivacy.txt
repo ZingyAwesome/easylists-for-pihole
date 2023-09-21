@@ -1661,6 +1661,7 @@ analytics-ssl.bradyid.com
 analytics-stamp.confi.com.vc
 analytics-static.ugc.bazaarvoice.com
 analytics-tracking.meetup.com
+analytics-wcms.joins.net
 analytics-zone-1.api.leadfamly.com
 analytics.aasaam.com
 analytics.academy.com
@@ -5361,6 +5362,7 @@ gksqdt.reitmans.com
 gksqfw.reverso.net
 gkxaay.tontarellishop.com
 gl5g98t0vfjb.panprices.com
+glamipixel.com
 glassmoni.researchgate.net
 gleamingcow.com
 gleamingtrade.com
