@@ -3237,6 +3237,7 @@ cnt.rate.ru
 cnt.trvdp.com
 cnt.viptube.com
 cnt.vivatube.com
+cnt.xhamster.com
 cntxtfl.com
 cnxddc.lodenfrey.com
 coachquartz.com
@@ -3271,7 +3272,6 @@ collect.rebelmouse.io
 collect.rewardstyle.com
 collect.stepstone.co.uk
 collect.usefathom.com
-collections-api.realestate.com.au
 collections.equifax.com
 collector-px0py5pczn.octopart.com
 collector-soompi.viki.io
