@@ -1647,6 +1647,7 @@ analytic20.detik.com
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
 analytics-api.samsunghealthcn.com
+analytics-batch.blitz.gg
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
 analytics-consent-manager-v2-prod.azureedge.net
