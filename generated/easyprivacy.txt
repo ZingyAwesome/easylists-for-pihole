@@ -1757,6 +1757,7 @@ analytics.freemake.com
 analytics.freespee.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
+analytics.gamesdrive.net
 analytics.gazeta.pl
 analytics.geekyminds.net
 analytics.geoutletstore.com
@@ -2864,7 +2865,6 @@ bxumze.chieftain.com
 bydst.com
 bykwtf.victoriassecret.ae
 byqdtp.interpark.com
-byspotify.com
 bzclk.baidu.com
 bzqxze.remixshop.com
 c-app.heroes.jobs
@@ -3912,6 +3912,7 @@ datadog-service.mvfglobal.com
 datadome.patreon.com
 datag.polo.com
 datanoticias.prisasd.com
+dataofpages.com
 datas.connectingthreads.com
 datas.knitpicks.com
 datatechonert.com
@@ -9241,6 +9242,7 @@ pixel.barion.com
 pixel.biano.cz
 pixel.biano.ro
 pixel.blivenyc.com
+pixel.byspotify.com
 pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.convertize.io
@@ -14242,6 +14244,7 @@ tr6.mperf.com
 trac.roomster.com
 traccoon.intellectsoft.net
 trace.qq.com
+trace.swaven.com
 track-e.infineon.com
 track-e.infineoncommunity.com
 track-selectmedia.com
@@ -14951,6 +14954,7 @@ trk.welchvacuum.com
 trk.wellsfargocenterphilly.com
 trk.williamspumps.com
 trk01.informaconnect.com
+trk2-wtb.swaven.com
 trkbc.com
 trklink.luisaviaroma.com
 trkn.us
@@ -15769,6 +15773,7 @@ yjtag.yahoo.co.jp
 ylog.huya.com
 ymprove.gmx.net
 ymprove.web.de
+yndhi.com
 yolo.philipbjorge.com
 yottlyscript.com
 you.pixellot.link
