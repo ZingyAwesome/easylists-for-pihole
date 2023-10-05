@@ -7096,6 +7096,7 @@ log.cookieyes.com
 log.cpex.cz
 log.dpa.com
 log.ecgh.dk
+log.edidomus.it
 log.etoday.co.kr
 log.flight.qunar.com
 log.genyt.net
@@ -14325,6 +14326,7 @@ track.netzero.net
 track.noddus.com
 track.nopaperforms.com
 track.noz.de
+track.olx.com.br
 track.pexi.nl
 track.pnicnik.live
 track.pricespider.com
