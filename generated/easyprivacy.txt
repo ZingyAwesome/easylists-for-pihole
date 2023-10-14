@@ -2003,6 +2003,7 @@ api.nobeta.com.br
 api.privacyguides.net
 api.ryanyao.design
 api.wipmania.com
+apilog-web.acfun.cn
 apm.tnet.nl
 app-clicks-corporate.firstrepublic.com
 app-clicks.firstrepublic.com
@@ -3593,6 +3594,7 @@ creditcreature.com
 crepemania.openapp.link
 crew-qa.zubie.com
 crew.zubie.com
+crimsonmeadow.com
 critictruck.com
 crm-analytics.imweb.ru
 crocetta.viessmann.it
@@ -3608,6 +3610,7 @@ crumbs.robinhood.com
 crwdcntrl.net
 cryo.socialblade.com
 crypto.egghead.link
+crystalboulevard.com
 cse3.chausport.com
 csi.gstatic.com
 csm.magnetintell.com
@@ -12949,6 +12952,7 @@ statistics.streamdav.com
 statistics.tattermedia.com
 statistics.tuv.com
 statistics.wibiya.com
+statisticsplatform.com
 statistik.mitmischen.de
 statistik.simaja.de
 stats-bq.stylight.net
@@ -15585,6 +15589,7 @@ wl-pixel.index.digital
 wlct-one.de
 wlct-two.de
 wlkojk.orange.ro
+wlog.kuaishou.com
 wlp3.aegon.es
 wlptux.habitaclia.com
 wlt-alice.de
