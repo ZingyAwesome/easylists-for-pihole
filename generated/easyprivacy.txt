@@ -3814,6 +3814,7 @@ dash.getsitecontrol.com
 dashingdirt.com
 dashingdrop.com
 dashingsweater.com
+data-logdelivery.wconcept.co.kr
 data.adlermode.com
 data.allstate.com
 data.avid.com
@@ -4232,7 +4233,6 @@ download.withu.fit
 download.zikirapp.com
 downloads.mcgladrey.com
 downtowndirection.com
-dp64mxip2za0c.cloudfront.net
 dq95d35.com
 dqs3.darjeeling.fr
 dr3fr5q4g2ul9.cloudfront.net
@@ -4828,6 +4828,7 @@ events.ubembed.com
 events.verticurl.com
 events.whisk.com
 events.yourcx.io
+events2.www.edenfantasys.com
 eventstream.dodopizza.com
 everesttech.net
 evivdj.novasol.fi
@@ -5121,6 +5122,8 @@ ftm.fluencyinc.co
 ftnnce.autodoc.dk
 ftp.happ.social
 ftwnwght.net.anwalt.de
+ftwo-feedback.autohome.com.cn
+ftwo-receiver.autohome.com.cn
 ftysya.aboutyou.de
 fudezz.kompas.com
 fudezz.kompas.tv
@@ -5681,11 +5684,13 @@ icebergindigo.com
 iconmediapixel.com
 iconnode.com
 icu.getstorybox.com
+id-ward.com
 id5-sync.com
 iddu1vvb7sk8-a.akamaihd.net
 identification.hotmart.com
 idg1.idgarages.com
 idianw.warmteservice.nl
+idm.api.autohome.com.cn
 idstatus.sky.com
 idx.lat
 iedc.fitbit.com
@@ -9168,6 +9173,7 @@ pdmsmrt.buick.ca
 pdmsmrt.cadillaccanada.ca
 pdmsmrt.chevrolet.ca
 pdmsmrt.gmccanada.ca
+pds.auction.co.kr
 pdsgaj.piquadro.com
 pedropanther.com
 pegasus.unifygroup.com
@@ -9818,6 +9824,7 @@ reauthenticator.com
 rebelhen.com
 rebelsubway.com
 rebelswing.com
+rec.banggood.com
 receptivebranch.com
 receptiveink.com
 receptivereaction.com
@@ -12938,6 +12945,7 @@ stat.tvigle.ru
 stat.umsu.de
 stat.valica.it
 stat.vulkanvegas.com
+stat.wanted.jobs
 stat.wolterskluwer.es
 stat.wolterskluwer.pt
 stat.zol.com.cn
@@ -15205,6 +15213,7 @@ utm.semilab.hu
 utm.shireburn.com
 utrack.hexun.com
 uts.auction.co.kr
+utsssl.auction.co.kr
 uttermosthobbies.com
 uudbvq.skuola.net
 uue2.destinia.ir
@@ -15234,6 +15243,7 @@ vdtpuw.yellowoctopus.com.au
 vedznh.cumhuriyet.com.tr
 velvetnova.com
 vengefulgrass.com
+venture-365-inspired.com
 venusgloria.com
 venusrevival.com
 veosfi.woonexpress.nl
