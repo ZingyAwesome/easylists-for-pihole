@@ -7146,6 +7146,7 @@ log.outbrainimg.com
 log.pinterest.com
 log.popin.cc
 log.quora.com
+log.qvb.qcloud.com
 log.rabobank.nl
 log.recommend.nicovideo.jp
 log.reformal.ru
@@ -14420,6 +14421,7 @@ track2.dulingo.com
 track2.mycliplister.com
 trackclicks.info
 trackcommon.hujiang.com
+tracker-00.qvb.qcloud.com
 tracker-aa.pafbetscore.lv
 tracker-dot-optimeeze.appspot.com
 tracker.adbinead.com
