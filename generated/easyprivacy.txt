@@ -4842,6 +4842,7 @@ eventstream.dodopizza.com
 everesttech.net
 evivdj.novasol.fi
 evnt.iol.it
+evt-api.ntm.eu
 evt.houzz.com
 eworfe.babyartikel.de
 exchange.happ.social
@@ -5590,6 +5591,7 @@ hit.mybestpro.com
 hit.skrz.cz
 hits.cyberdrop.me
 hits.dealer.com
+hits.getelevar.com
 hits.informer.com
 hits.letras.mus.br
 hits.porn.fr
@@ -8554,6 +8556,7 @@ mond.post.ch
 mond.postauto.ch
 money.clerkie.io
 monicaatron.com
+monitor-api.blackcrow.ai
 monitor.azure.com
 monitor.music.qq.com
 monitoring.iraiser.eu
@@ -14494,6 +14497,7 @@ trackerapi.truste.com
 tracking-api.hotmart.com
 tracking-api.mangopulse.net
 tracking-explore.agilent.com
+tracking-na.hawksearch.com
 tracking-secure.csob.cz
 tracking-test.esearchvision.com
 tracking-uat.veritas.com
