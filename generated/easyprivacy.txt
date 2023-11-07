@@ -3285,6 +3285,7 @@ collect.rewardstyle.com
 collect.stepstone.co.uk
 collect.usefathom.com
 collections.equifax.com
+collector-api.frspecifics.com
 collector-px0py5pczn.octopart.com
 collector-soompi.viki.io
 collector.api.video
