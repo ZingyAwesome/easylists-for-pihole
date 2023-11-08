@@ -1725,6 +1725,7 @@ analytics.cookiefirst.dev
 analytics.crowdkeep.com
 analytics.cycleworld.com
 analytics.daasrv.net
+analytics.data.visenze.com
 analytics.designspiration.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
@@ -3069,6 +3070,7 @@ cis.schibsted.com
 ciszhp.finanzfrage.net
 citizenship.quantresear.ch
 cityrobotflower.com
+ck123.io
 ckies.net
 cksfgh.jaycar.com.au
 clamcelery.com
@@ -7139,6 +7141,7 @@ log.codemarketing.cloud
 log.cognex.com
 log.cookieyes.com
 log.cpex.cz
+log.dance
 log.dpa.com
 log.ecgh.dk
 log.edidomus.it
