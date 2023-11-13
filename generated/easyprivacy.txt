@@ -2820,6 +2820,7 @@ brwanacars.eccocar.com
 brwerental.eccocar.com
 bsytzb.hago.kr
 btaenrolment.americanexpress.at
+btdmp.com
 btloader.com
 btn.listonic.com
 btstats.benakt.com
@@ -3184,7 +3185,6 @@ closedcows.com
 cloud-miner.de
 cloud-miner.eu
 cloud.aspiresys.com
-cloud.degoo.com
 cloud.webtrack.online
 clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
@@ -15839,7 +15839,6 @@ wzyjup.patch.com
 x2l5lsn8rvsq.li.finance
 x88s.pandasuite.io
 xait.actonservice.com
-xapi.ozon.ru
 xbwpfs.fotocasa.es
 xcelsior.net.anwalt.de
 xdaoxa.footasylum.com
