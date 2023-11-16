@@ -4851,6 +4851,7 @@ events.verticurl.com
 events.whisk.com
 events.yourcx.io
 events2.www.edenfantasys.com
+eventsproxy.gargantuan.futureplc.com
 eventstream.dodopizza.com
 everesttech.net
 evivdj.novasol.fi
@@ -5671,6 +5672,7 @@ hstats.askmiso.com
 hstats.hepsiburada.com
 html.net.jumia.com
 htqfxh.vuch.cz
+htrace.wetvinfo.com
 hu-business.vodafone.com
 huaxiang.eastmoney.com
 hubty.network
@@ -6806,7 +6808,6 @@ link.marketing.bleacherreport.com
 link.marketing.churchomeglobal.org
 link.mbtihell.com
 link.medibuddy.app
-link.medium.com
 link.metronaut.app
 link.meumulti.com.br
 link.mindsetapp.com
@@ -9580,6 +9581,7 @@ pricklydebt.com
 pricklyjourney.com
 pricklypies.com
 pricklyplastic.com
+pricklypollution.com
 primary-app.hotdoc.com.au
 primary.hasegawa.jp
 primate.dmarcdigests.com
@@ -10139,6 +10141,7 @@ rum.marquardmedia.hu
 rum.perfops.net
 rum.uptime.com
 rumstat.cdnvideo.ru
+rumt-sg.com
 rup5.destinia.ru
 ruralrobin.com
 rusticprice.com
@@ -14112,6 +14115,7 @@ telegraph.prd.api.max.com
 telem.sre.gopuff.com
 telemetrics.klaviyo.com
 telemetry.adobe.io
+telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.firez.one
 telemetry.jivosite.com
@@ -15320,6 +15324,7 @@ verifyvegetable.com
 verizon-branch.locationlabs.com
 verseballs.com
 vfd2dyn.vodafone.de
+vfghe.com
 vfgte.com
 vfmahn.slevomat.cz
 vfzxaz.bloomingdales.ae
