@@ -946,7 +946,6 @@ webweb.picforall.ru
 wt.lovfot.ru
 1k-shop.ru
 24onlinesmi.net
-24reporter.ru
 academyun.ru
 adiabetic.ru
 ads.bid
@@ -1095,7 +1094,6 @@ shock-news.net
 shoko-slim.biz
 shop-blogs.org
 shopblog.org
-show.novostionline.net
 smi-inform.ru
 smibooks.ru
 smiru.ru
@@ -1108,7 +1106,6 @@ tft-test.ru
 tivinot.ru
 top-rutor.eu
 top-stores.ru
-topnews.novostionline.net
 topnews.smi.one
 topnews2.ru
 tops-blogs.ru

@@ -18,6 +18,7 @@ stat.novinky.cz
 stat.super.cz
 tracker.cncenter.cz
 videoad.cz
+0af2a962b0102942d9a7df351b20be55.com
 adb.azet.sk
 api-exponea.o2.sk
 bannersector.sector.sk
