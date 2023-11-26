@@ -168,6 +168,7 @@ cmp.soundis.gr
 cookie.aerostatonet.it
 cookies.gardena.net
 privacyportal.fatergroup.com
+cmp.impress.co.jp
 gdpr.api.bcdn.jp
 gdpr.laxd.com
 cookie.gazeta.pl
