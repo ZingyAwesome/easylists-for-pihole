@@ -9526,6 +9526,7 @@ plausible.zest.dev
 plausible.zorin.com
 plausiblecable.com
 plausiblecdn.co
+play.adtonos.com
 play.fanslide.com
 play.rheo.tv
 play.scavos.com
@@ -12529,7 +12530,6 @@ snptrk.com
 snr4.canalplus.com
 so8.hyatt.com
 soapfighters.com
-soapps.net
 soaprange.com
 soapsmoke.com
 soccajoeys.actonservice.com
