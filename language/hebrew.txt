@@ -5,7 +5,6 @@ wrtm.walla.co.il
 totalmedia2.ynet.co.il
 adserv.mako.co.il
 sdc.mako.co.il
-houdini.haaretz.co.il
 ads.one.co.il
 banners.news1.co.il
 alipim.net
