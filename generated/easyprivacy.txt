@@ -1891,7 +1891,6 @@ analytics.silktide.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
 analytics.skinit.com
-analytics.skroutz.gr
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
@@ -13221,6 +13220,7 @@ stats.cmcigroup.com
 stats.coachingcourses.pro
 stats.coachinghive.com
 stats.codeexposed.com
+stats.codeur.com
 stats.codinginfinity.me
 stats.codis.io
 stats.coditia.com
