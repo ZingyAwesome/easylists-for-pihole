@@ -1,20 +1,16 @@
 {
-    "extends": "@tsconfig/node18",
+    "extends": "./node_modules/@tsconfig/node20/tsconfig.json",
     "compilerOptions": {
         "strict": false,
-        "moduleResolution": "node16",
-        "esModuleInterop": true,
+        "verbatimModuleSyntax": false,
         "allowJs": true,
-        "target": "es6",
-        "lib": ["es6", "es2017"],
         "noEmit": true,
         "baseUrl": ".",
         "paths": {
             "~src/*": ["src/*"],
             "~test/*": ["test/*"],
             "~resources/*": ["resources/*"]
-        },
-        "verbatimModuleSyntax": false
+        }
     },
     "include": ["./src/**/*", "./test/**/*", "./test-generated/**/*", "./resources/**/*", "./*.ts"]
 }
