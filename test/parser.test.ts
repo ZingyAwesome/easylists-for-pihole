@@ -8,18 +8,13 @@ jest.mock("~resources/input", function() {
         })
     };
 });
-jest.mock("got", () => ({
-    get: (url) => ({
-        text: () => [`||aaa.bb.cc.${url}^`, `||xxx.yy.zz.${url}^$`].join("\n")
-    })
-}));
-jest.mock("fs", function() {
+
+jest.mock("fs/promises", function() {
     return {
-        promises: {
-            writeFile: mockWriteFile
-        }
+        writeFile: mockWriteFile
     };
 });
+
 jest.mock("path", function() {
     return {
         join: (rootPath, ...paths) => {
@@ -32,6 +27,16 @@ import type { Stats } from "~src/parser";
 import { filterDomains, parse } from "~src/parser";
 
 describe("Test parser", () => {
+    beforeEach(() => {
+        jest.spyOn(globalThis, "fetch").mockImplementation(async (url: string) => {
+            return {
+                text: async () => {
+                    return [`||aaa.bb.cc.${url}^`, `||xxx.yy.zz.${url}^$`].join("\n");
+                }
+            } as Response;
+        });
+    });
+    
     describe("Test filterDomains", () => {
         it("Should opt-in only domains with leading '||'", () => {
             const content: string = [

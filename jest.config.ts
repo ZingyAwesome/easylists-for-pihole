@@ -3,7 +3,10 @@ import type { Config } from "@jest/types";
 const config: Config.InitialOptions = {
     clearMocks: true,
     transform: {
-        "^.+\\.ts$": "ts-jest"
+        "^.+\\.ts$": ["ts-jest", {
+            tsconfig: "tsconfig.jest.json",
+            isolatedModules: true
+        }]
     },
     testRegex: "(test|test-generated)/.*.test.ts$",
     moduleFileExtensions: ["ts", "js", "json", "node"],

@@ -1,10 +1,8 @@
 import type { InputType } from "~resources/input";
 import { getInput } from "~resources/input";
-import got from "got";
 import * as path from "path";
-import * as fs from "fs";
+import { writeFile } from "fs/promises";
 
-const fsPromises = fs.promises;
 
 export type Stats = Record<string, number>;
 
@@ -15,9 +13,10 @@ const getUniqueLinesSorted = (input: string | string[]): string[] => {
 
 const fetchAllDomainsForSingleTarget = async (targetFile: string, inputUrls: string[], stats?: Stats): Promise<string> => {
     const domains: string[] = await Promise.all(inputUrls.map(async (inputUrl: string, index:number): Promise<string> => {
-        const text: string = await got.get(inputUrl).text();
+        const response: Response = await fetch(inputUrl);
+        const text: string = await response.text();
         const rawFilePath: string = path.join(__dirname, "..", "raw", `${targetFile}-input${index}.txt`);
-        await fsPromises.writeFile(rawFilePath, text, { encoding: "utf8" });
+        await writeFile(rawFilePath, text, { encoding: "utf8" });
         const filteredDomains: string[] = filterDomains(text);
         stats[inputUrl] = filteredDomains.length;
         return filteredDomains.join("\n");
@@ -47,7 +46,7 @@ export const parse = async (): Promise<Stats> => {
         const targetFilename = `${targetFile}.txt`;
         const targetFilePath: string = path.join(__dirname, "..", "generated", targetFilename);
         const filteredDomains: string = await fetchAllDomainsForSingleTarget(targetFile, input[targetFile], stats);
-        await fsPromises.writeFile(targetFilePath, filteredDomains, "utf-8");
+        await writeFile(targetFilePath, filteredDomains, "utf-8");
     }));
     return stats;
 };
