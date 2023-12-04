@@ -1788,6 +1788,7 @@ analytics.hollywoodlife.com
 analytics.homes.com
 analytics.hotelclub.com
 analytics.humanautomation.ai
+analytics.idfnet.net
 analytics.ikyu.com
 analytics.infobae.com
 analytics.iraiser.eu
@@ -4404,6 +4405,7 @@ ebs.viosalon.com
 ecctjf.leroymerlin.com.br
 echoinghaven.com
 eclick.baidu.com
+ecn-ldr.de
 ecomm.events
 economicpizzas.com
 ed-sys.net
@@ -8549,6 +8551,7 @@ mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
 mitour.de
+mitself.net
 mittencattle.com
 mix-omniture.rbs.com
 mixedreading.com
@@ -10390,6 +10393,7 @@ sanl.footlocker.fr
 sanl.footlocker.hk
 sanl.footlocker.kr
 sanl.footlocker.nl
+sapphire-api.target.com
 sappmetrics.sprint.com
 sasc.solidworks.com
 sat.sanoma.fi
@@ -10874,6 +10878,7 @@ simplesidewalk.com
 simplisticstem.com
 simply.lucanet.com
 simscale.actonservice.com
+simulateswing.com
 sincerebuffalo.com
 sincereseashore.com
 sinceresubstance.com
@@ -14128,6 +14133,7 @@ tangycover.com
 tao.barstoolsports.com
 tap.carling.com
 taplytics-umami.grubhub.com
+target-us.samsung.com
 target.connect.nicklaushealth.org
 target.mirtesen.ru
 target.mixi.media
@@ -15364,6 +15370,7 @@ urs.metacritic.com
 urxbvw.tui.nl
 us-central1-markuphero.cloudfunctions.net
 us-go.experian.com
+usaoptimizedby.increasingly.co
 use.fvr.to
 use.lunos.app
 usedexample.com
