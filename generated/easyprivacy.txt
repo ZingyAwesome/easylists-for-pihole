@@ -3155,6 +3155,7 @@ click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
 click360.io
 click360v2-ingest.azurewebsites.net
+clickcount.cnool.net
 clicks.burgerking.co.uk
 clicks.dealer.com
 clicks.drizly.com
@@ -7199,6 +7200,7 @@ lntvby.banggood.com
 loader-cdn.azureedge.net
 loader.zeroform.com
 loadsurprise.com
+log-api.cli.im
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
 log.adplex.co.kr
