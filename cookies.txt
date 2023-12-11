@@ -173,6 +173,7 @@ privacyportal.fatergroup.com
 cmp.impress.co.jp
 gdpr.api.bcdn.jp
 gdpr.laxd.com
+consensu.infor.pl
 cookie.gazeta.pl
 cookies.fakt.pl
 cookies.forbes.pl

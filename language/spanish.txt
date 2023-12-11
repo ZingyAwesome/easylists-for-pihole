@@ -5,6 +5,7 @@ cdnpublicidad.milenio.com
 news.grm.cl
 pub.tappx.com
 publyads.jstag.space
+trafico.prensaiberica.es
 triggy-banners.web.app
 minube.click
 bannersweb.s3.amazonaws.com
