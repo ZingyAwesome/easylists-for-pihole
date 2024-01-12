@@ -6,10 +6,9 @@ totalmedia2.ynet.co.il
 adserv.mako.co.il
 sdc.mako.co.il
 ads.one.co.il
-avoda-mehabait.co.il
 banners.news1.co.il
-saphiretelavivisrael.com
 alipim.net
+avoda-mehabait.co.il
 fringantlarn8.live
 hasdarot.cc
 hasdarot.club
@@ -29,5 +28,6 @@ lauyn.info
 losittooday.info
 mporli.info
 pinukim.net
+saphiretelavivisrael.com
 sdarotil.top
 seret.live
