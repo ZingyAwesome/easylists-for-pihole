@@ -101,6 +101,7 @@ consent.werner-mertz.de
 consent2.rheinische-anzeigenblaetter.de
 consenttool.haendlerbund.de
 cookies.ptj.de
+cookies.tanke-guenstig.de
 fc.vodafone.de
 up-cookiemon.wavecdn.net
 cmp.histoire-et-civilisations.com
