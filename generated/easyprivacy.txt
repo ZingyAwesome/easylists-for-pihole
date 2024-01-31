@@ -3860,6 +3860,7 @@ aspa8.ozmall.co.jp
 aspiringapples.com
 aspiringattempt.com
 assets.channelplay.in
+assets.datarize.ai
 assets.eafit.edu.co
 assets.estudioseconomicos.co
 assets.garron.blog
@@ -6762,6 +6763,7 @@ dsoxjxin5jji.controlconceptsusa.com
 dspx.tv
 dtag.breadfinancial.com
 dtestpromo.fiat.it
+dtr-onsite-feed.datarize.ai
 dttrk.com
 dtxtngytz5im1.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
@@ -11268,6 +11270,7 @@ log.olark.com
 log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
+log.pipeline.datarize.io
 log.popin.cc
 log.quora.com
 log.qvb.qcloud.com
@@ -15528,6 +15531,7 @@ play.staging.underdogfantasy.com
 play.underdogfantasy.com
 play.wavelength.zone
 playbook.convio.com
+player-metrics.instaread.co
 player-telemetry.vimeo.com
 plbcsd.vidaxl.se
 plbusiness.samsung.com
@@ -15999,6 +16003,7 @@ realogicinc.actonservice.com
 realsolutions.americanexpress.fr
 realsolutions.americanexpress.it
 realsolutions.americanexpress.se
+realtime-profiling.datarize.ai
 realtimely.io
 reauthenticator.com
 rebelclover.com
