@@ -3753,6 +3753,7 @@ applinks.tarrakki.com
 applinks.truckersnearby.com
 applinks.xdressr.com
 applinks.zerista.com
+applog.ssgdfs.com
 applog.yiche.com
 apply.maxlend.com
 appmetrics.sprint.com
@@ -5964,6 +5965,7 @@ d810.mysanantonio.com
 d81mfvml8p5ml.cloudfront.net
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 dacocorp.actonservice.com
+dadispapi.gmarket.co.kr
 daifez.thebay.com
 dailydivision.com
 dallas-content.cresa.com
@@ -8865,6 +8867,7 @@ hubert.branch.rocks
 hubty.network
 humdrumhat.com
 humdrumhobbies.com
+humdrumtouch.com
 hunterindustries.actonservice.com
 hurricane.tinybird.co
 hurtgrape.com
@@ -14263,6 +14266,7 @@ monitor.music.qq.com
 monitoring.iraiser.eu
 monorail-edge.shopifysvc.com
 monster.branch.rocks
+montelena.auction.co.kr
 montpalatin.handicap.fr
 monu.delivery
 moodlerooms.blackboard.com
@@ -23352,6 +23356,7 @@ utm.semilab.hu
 utm.shireburn.com
 utrack.hexun.com
 uts.auction.co.kr
+utsgw.auction.co.kr
 utsssl.auction.co.kr
 uttermosthobbies.com
 uue2.destinia.ir
