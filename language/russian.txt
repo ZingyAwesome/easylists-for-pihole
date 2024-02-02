@@ -27,7 +27,6 @@ adpix.ru
 adpro.com.ua
 adru.net
 adsellers.net
-adsplius.lt
 adtime.ru
 adunit.chango.ca
 advaction.ru
@@ -47,7 +46,6 @@ avifilm.ru
 b-one.com.ua
 b.acpr.su
 b.candy.vl.ru
-b.itvnet.lv
 b.madplace99.com
 b.nwave.de
 b2bvideo.ru
@@ -338,7 +336,6 @@ clickscloud.net
 clickspay.ru
 clme.biz
 clme.net
-clo.lv
 clunder.net
 codata.ru
 codeextrarich.net
@@ -708,7 +705,6 @@ promoboom.org
 promobuster.org
 proravenstvo.ru
 proravnovesie.ru
-proxy.dlf.lt
 prozapas.dn.ua
 pwfb7w87ov.ru
 qcvdwtpnit.ru
@@ -1144,7 +1140,6 @@ ad.f1cd.ru
 ad.webnext.ru
 ado.delfi.ee
 ap.delfi.ee
-b.inbox.lv
 b.netall.ru
 banner.lbs.km.ru
 banner.osp-ua.info
