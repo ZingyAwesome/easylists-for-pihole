@@ -2996,6 +2996,7 @@ analys.live
 analyse.bcovery.com
 analyse.hinemos.info
 analysis.fi
+analyt.ir
 analytic.ae.com
 analytic.americanfunds.com
 analytic.buoyweather.com
@@ -18423,6 +18424,7 @@ ping.hedlund.xyz
 ping.hungama.com
 ping.instantsearchplus.com
 ping.naturadapt.com
+ping.paidy.com
 ping.resoluteoil.com
 pingback.giphy.com
 pingback.issuu.com
@@ -28138,6 +28140,7 @@ training.indigobusiness.co.uk
 training.thunderhead.com
 tranquilamulet.com
 tranquilcanyon.com
+tranquilplume.com
 tranquilside.com
 transact.blackboard.com
 transcentra.actonservice.com
@@ -28629,7 +28632,6 @@ ubmups.houseofindya.com
 ubmwua.maisonsetappartements.fr
 ubpekn.sivillage.com
 ubrihx.allbirds.jp
-ubt.tracking.shopee.ph
 ubuyanalytics.ubuy.com
 ubvsjh.pointtown.com
 ubyjor.distrelec.ch
