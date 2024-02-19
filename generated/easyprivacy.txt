@@ -3101,6 +3101,7 @@ analytics.cartoonnetwork.jp
 analytics.cartoonnetworkasia.com
 analytics.cartoonnetworkindia.com
 analytics.cartoonnetworkmena.com
+analytics.castel.jp
 analytics.cdf.cl
 analytics.ceneo.pl
 analytics.certifriedit.com
