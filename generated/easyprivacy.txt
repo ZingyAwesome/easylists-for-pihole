@@ -3160,6 +3160,7 @@ analytics.egernsund.de
 analytics.eggoffer.com
 analytics.eikko.ai
 analytics.eikondigital.it
+analytics.eip.telegraph.co.uk
 analytics.emol.com
 analytics.erepublic.com
 analytics.ericafischerphotography.com
@@ -26059,6 +26060,7 @@ stingyshoe.com
 stingyspoon.com
 stjoe.psjhealth.org
 stliom.vidaxl.cz
+stm.komplett.no
 stmetrics.bbva.com.ar
 stmetrics.bbva.com.co
 stmetrics.bbva.es
@@ -27489,6 +27491,7 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
+tracker.oval.id
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
