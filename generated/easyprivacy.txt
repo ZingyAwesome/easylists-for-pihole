@@ -12972,7 +12972,6 @@ link.nextaveapp.com
 link.nextlevelsports.com
 link.nilclub.com
 link.notifications.busuu.app
-link.nubank.com.br
 link.nutty.chat
 link.offers.kodakmoments.com
 link.olympya.com
@@ -25779,6 +25778,7 @@ stats.retofunctional.com
 stats.revitfamily.app
 stats.rideinpeace.ie
 stats.rightourhistoryhawaii.com
+stats.rip
 stats.robotika.ax
 stats.rocketbeans.tv
 stats.rocketvalidator.com
@@ -27491,7 +27491,6 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
-tracker.oval.id
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
@@ -27535,6 +27534,7 @@ tracking.adpinfo.com
 tracking.adpri.org
 tracking.aegpresents.com
 tracking.agora.io
+tracking.ai.rakuten.co.jp
 tracking.aifsabroad.com
 tracking.aita.gov.vn
 tracking.allopneus.com
@@ -28306,6 +28306,7 @@ trk.daimlertruck.com
 trk.darkreading.com
 trk.datacenterknowledge.com
 trk.datacenterworld.com
+trk.decido.io
 trk.delma.hu
 trk.delma.ro
 trk.delphiquest.com
