@@ -18310,6 +18310,7 @@ paynewest.actonservice.com
 payqjd.subito.it
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
+pbjs-stream.bydata.com
 pbm-email.rightwayhealthcare.com
 pbox.no.photobox.com
 pbox.photobox.at
@@ -28967,6 +28968,7 @@ vibranthaven.com
 vibrantsundown.com
 victoriousrequest.com
 video-ad-stats.googlesyndication.com
+video-analytics-api.cloudinary.com
 video.bzfd.it
 video.funnelbox.com
 video.verintsystemsinc.com
