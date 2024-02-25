@@ -2980,6 +2980,7 @@ aminks.underarmour.com.tr
 amo.myoyster.mx
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
+ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
 ams.lelong.com.my
@@ -13518,7 +13519,6 @@ log.mofa.go.kr
 log.nordot.jp
 log.olark.com
 log.outbrain.com
-log.outbrainimg.com
 log.pinterest.com
 log.pipeline.datarize.io
 log.popin.cc
