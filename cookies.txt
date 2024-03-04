@@ -25,7 +25,6 @@ optanon.blob.core.windows.net
 plugin.management
 privacy-cdn.sixfifty.com
 privacy.digimedia.com
-privacy.wum.rocks
 ressource.gdpr-banner.awsmpsa.com
 smarteucookiebanner.upsell-apps.com
 truyoproductionuscdn.truyo.com
