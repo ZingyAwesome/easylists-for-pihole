@@ -3263,6 +3263,7 @@ analytics.martinandosa.com
 analytics.matchbin.com
 analytics.mattmcadams.com
 analytics.maxroll.gg
+analytics.mbga.jp
 analytics.meituan.net
 analytics.metro.be
 analytics.metro.co.in
@@ -18845,6 +18846,7 @@ prismtest.epoise.com
 privacy.outdoorsg.com
 privacyfriendly.netlify.app
 private.roche.com
+privateapi.click
 privateclient.hubinternational.com
 prkvlr.camper.com
 prnzxf.glamira.se
