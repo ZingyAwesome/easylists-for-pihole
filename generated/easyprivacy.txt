@@ -8885,6 +8885,7 @@ event-api.reverb.com
 event-collector.moviesanywhere.com
 event-listener.air.tv
 event-logger.tagboard.com
+event-router.olympics.com
 event-service.letslinc.com
 event-stream.spot.im
 event.api.drift.com
@@ -19301,6 +19302,7 @@ rebelsubway.com
 rebelswing.com
 rec.banggood.com
 receiptcent.com
+receive.wmcdp.io
 receptivebranch.com
 receptiveink.com
 receptivereaction.com
