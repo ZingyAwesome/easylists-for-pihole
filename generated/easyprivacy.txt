@@ -9872,6 +9872,7 @@ getapp.myhappyforce.com
 getapp.priceza.com
 getconnected.infor.com
 getdev.payso.ca
+getdeviceinf.com
 getinfo.fullsail.edu
 getl4w.lookout.com
 getpxq.rivolishop.com
