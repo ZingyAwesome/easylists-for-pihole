@@ -2828,6 +2828,7 @@ agcs-knowledge.allianz.com
 agentcomm.mercuryinsurance.com
 agexpo.americanexpress.com
 aggelakia.openapp.link
+aggle.net
 agkn.com
 agma-analytics.de
 agnes.waz.de
@@ -6021,6 +6022,7 @@ cnameforitp.dermed.jp
 cnebis.chocola.com
 cnebis.eisai.jp
 cnlbxi.zoopla.co.uk
+cnna.io
 cnpxwl.cheapcaribbean.com
 cns-service.actonservice.com
 cnsecurity.actonservice.com
@@ -8876,7 +8878,6 @@ eurotax-si.autovistagroup.com
 eurotax-sk.autovistagroup.com
 eurotaxsrbija-si.autovistagroup.com
 eusdbk.philosophyofficial.com
-eval.privateapi.click
 evaluateend.com
 evanescentedge.com
 evenement.ricoh.fr
@@ -9672,6 +9673,7 @@ gccmembershiprewards.americanexpress.it
 gcn.tuv.com
 gcoiys.cutsclothing.com
 gcowhi.thesalarycalculator.co.uk
+gcprivacy.com
 gct.americanexpress.com
 gcudsn.tradetested.co.nz
 gcwubi.happypancake.fi
