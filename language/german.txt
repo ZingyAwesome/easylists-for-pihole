@@ -44,6 +44,7 @@ ad.dslr-forum.de
 ad.games.ch
 as.chartsurfer.de
 banner.click-tt.de
+code.alpin.de
 code.bergsteigen.com
 hybrid-prd.ad-prd.s.joyn.de
 lad.sumikai.com
@@ -54,6 +55,7 @@ partner.schalke04.de
 pear.focus.de
 plus.tourispo.com
 saas.valuetech.de
+w.alpin.de
 wbbanner.mrn-news.de
 werbemanager.w24.at
 x.sumikai.com
