@@ -3138,6 +3138,7 @@ analytics.contentexchange.me
 analytics.convertlanguage.com
 analytics.cookiefirst.dev
 analytics.corusent.com
+analytics.crazygames.com
 analytics.crowdkeep.com
 analytics.cycleworld.com
 analytics.cyrillus.be
