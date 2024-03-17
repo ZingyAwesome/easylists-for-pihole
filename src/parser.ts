@@ -6,6 +6,10 @@ import { writeFile } from "fs/promises";
 
 export type Stats = Record<string, number>;
 
+const isHebrewFile = (inputUrl: string): boolean => {
+    return inputUrl.endsWith("EasyListHebrew.txt");
+};
+
 const getUniqueLinesSorted = (input: string | string[]): string[] => {
     const lines: string[] = (typeof input === "string") ? input.split("\n") : input.join("\n").split("\n");
     return Array.from(new Set(lines)).sort();
@@ -18,6 +22,11 @@ const fetchAllDomainsForSingleTarget = async (targetFile: string, inputUrls: str
         const rawFilePath: string = path.join(__dirname, "..", "raw", `${targetFile}-input${index}.txt`);
         await writeFile(rawFilePath, text, { encoding: "utf8" });
         const filteredDomains: string[] = filterDomains(text);
+
+        if (isHebrewFile(inputUrl)) {
+            filteredDomains.push("buyme.co.il");
+        }
+
         stats[inputUrl] = filteredDomains.length;
         return filteredDomains.join("\n");
     }));
