@@ -55,8 +55,8 @@ partner.schalke04.de
 pear.focus.de
 plus.tourispo.com
 saas.valuetech.de
-w.alpin.de
-w.kicker.de
+t.alpin.de
+t.kicker.de
 wbbanner.mrn-news.de
 werbemanager.w24.at
 x.sumikai.com
