@@ -295,7 +295,6 @@ api-marketolog.mts.ru
 api.smartadv.ru
 arigami.ru
 az708531.vo.msecnd.net
-azartplay.casino
 b.digital-tv.com.ua
 bachmedia.ru
 barpe.ru
@@ -961,7 +960,6 @@ blogs-shop.org
 blogs-stars.org
 blogshop.org
 blogss-stars.org
-browserextensions.net
 buyfordreams.ru
 cifaceg.gos-arhiv.ru
 cobrax.ru
@@ -984,6 +982,7 @@ fastmoment.ru
 filebase.me
 films.ws
 fin-vector.ru
+find-it.pro
 flebolab.ru
 fly-shops.ru
 fsb-russia.dtdns.net
@@ -1058,7 +1057,6 @@ pogodis.ru
 portal-info.org
 propolis-shungit.biz
 rcforme.biz
-readtoday.ru
 readvesti.ru
 real-blog.name
 realblog.biz
@@ -1069,7 +1067,6 @@ reallblog.info
 reallblog.net
 reals-story.ru
 rightroundark.ru
-runews-time.xyz
 rus-news.biz
 rus-news.club
 rusnews.biz
@@ -1129,7 +1126,6 @@ zdravosite.ru
 zodiac-game.info
 zpppstop.ru
 zqwjpxow7boc.ru
-a.meteonova.ru
 a.multik-online.net
 a.velvet.by
 abs.firstvds.ru
