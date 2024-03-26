@@ -4989,7 +4989,6 @@ bewaslac.com
 bewilderedbattle.com
 bewilderedblade.com
 beyond.bluewolf.com
-beyondmeasure.rigoltech.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfeagv.chicwish.com
 bfg.loanzify.app
@@ -7514,6 +7513,7 @@ dgd.okiela.com
 dggaenaawxe8z.cloudfront.net
 dgmolb.irishjobs.ie
 dgztiz.conrad.se
+dh0c1bz67fuho.cloudfront.net
 dhdaa.duke.edu
 dhlsupplychain.dhl.com
 dhmdja.trueprotein.com.au
@@ -8936,7 +8936,6 @@ events-prod.autolist.com
 events-tracker.deliveroo.net
 events.accuity.com
 events.air.tv
-events.apester.com
 events.api.godaddy.com
 events.attentivemobile.com
 events.audiate.me
@@ -19732,6 +19731,7 @@ rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
 rum.condenastdigital.com
+rum.corewebvitals.io
 rum.kobo.com
 rum.marquardmedia.hu
 rum.perfops.net
