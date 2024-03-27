@@ -4,7 +4,6 @@ ccpa-script.psg.nexstardigital.net
 ccpa.sp-prod.net
 cmp.gemius.com
 cmp.setupcmp.com
-cmp.sibbo.net
 consent.dadoslegais.com
 consent.digiapi.com
 consent.prointernet.com
