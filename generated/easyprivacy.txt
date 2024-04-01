@@ -17740,6 +17740,7 @@ ocmxbu.hanatour.com
 ocozzio.actonservice.com
 ocpi.americanexpress.ca
 ocs.hagerty.com
+ocular.dealabs.com
 ocwlhv.ecid.com.br
 oda.markitondemand.com
 odc.weather.com
@@ -26612,6 +26613,7 @@ tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tagger.ope.scmp.com
 tagger.opecloud.com
+tagging.steelseries.com
 tagm.eduscho.at
 tagm.tchibo.de
 tagourounakia.openapp.link
