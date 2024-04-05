@@ -2983,6 +2983,7 @@ aminks.underarmour.com.tr
 amo.myoyster.mx
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
+amplitude.chess.com
 ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
