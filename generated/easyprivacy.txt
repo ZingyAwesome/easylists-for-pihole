@@ -4585,7 +4585,6 @@ ast-fr.adp.ca
 astat.nikkei.com
 astonishingair.com
 astonishingfood.com
-astral.nicovideo.jp
 astrallullaby.com
 astromed.actonservice.com
 asttcp.vatera.hu
