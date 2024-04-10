@@ -2,6 +2,7 @@ analytics-consent-manager.azureedge.net
 cc.anytrack.de
 ccpa-script.psg.nexstardigital.net
 ccpa.sp-prod.net
+cmp.datasign.co
 cmp.gemius.com
 cmp.setupcmp.com
 consent.dadoslegais.com

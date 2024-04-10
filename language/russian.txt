@@ -1158,7 +1158,6 @@ static2.rutracker.org
 str.eshzdorovo.ru
 submitred.freezpic.ru
 v.tranzistor-harakteristiki.ru
-xf.xyu.tv
 zen-test.yandex.ru
 trafffgen.rambler.ru
 be.vtomske.ru
