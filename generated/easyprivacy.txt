@@ -4585,6 +4585,7 @@ ast-fr.adp.ca
 astat.nikkei.com
 astonishingair.com
 astonishingfood.com
+astral.nicovideo.jp
 astrallullaby.com
 astromed.actonservice.com
 asttcp.vatera.hu
@@ -5639,6 +5640,7 @@ cashbeet.com
 caspionlog.appspot.com
 cast.net.anwalt.de
 castcream.com
+castify-trk.playitviral.com
 cat.fonecta.fi
 catalogdiscovery.com
 catalogs.printplace.com
@@ -13599,6 +13601,7 @@ logs.ggweb.nl
 logs.hotstar.com
 logs.mezmo.com
 logs.naukri.com
+logs.netflix.com
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.theccaa.com
@@ -18056,6 +18059,7 @@ opsveda.actonservice.com
 opt.delta.com
 opti-digital.com
 opticca.actonservice.com
+opticksprotection.com
 optimallimit.com
 optimeeze.appspot.com
 optimisation.coop.co.uk
@@ -28502,6 +28506,7 @@ trk.planta.be
 trk.planta.pt
 trk.plantafin.fr
 trk.plasticstoday.com
+trk.playitviral.com
 trk.powderandbulkshow.com
 trk.powderandbulksolids.com
 trk.powerdms.com
