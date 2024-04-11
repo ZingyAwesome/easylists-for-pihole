@@ -5987,7 +5987,6 @@ cmhmpr.lolaliza.com
 cmme.actonservice.com
 cmon.congress.gov
 cmp.courrierinternational.com
-cmp.datasign.co
 cmp.dreamlab.pl
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -24569,6 +24568,7 @@ srepdata.yorkdispatch.com
 sreport.mitsubishicars.com
 srglobal.actonservice.com
 srm4.destinia.co.no
+srmdata-eur.com
 srmdvb.ekohealth.com
 srmy.srglobal.com
 srnzdl.morhipo.com
