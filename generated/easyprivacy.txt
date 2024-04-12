@@ -6699,6 +6699,7 @@ csm.magnetintell.com
 csmetrics.wilton.com
 csp-collector.appspot.com
 csp-reporting.cloudflare.com
+csp.secureserver.net
 cspmkl.gruppal.com
 csr.onet.pl
 csr11.net.asambeauty.com
@@ -8943,6 +8944,7 @@ events-tracker.deliveroo.net
 events.accuity.com
 events.air.tv
 events.api.godaddy.com
+events.api.secureserver.net
 events.attentivemobile.com
 events.audiate.me
 events.auth.gid.ru
