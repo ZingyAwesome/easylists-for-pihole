@@ -5173,6 +5173,7 @@ bot.asksyllable.com
 bot.stackbots.com
 bot.streaktrivia.com
 botdetection.hbrsd.com
+botsrv2.com
 bounceexchange.com
 bouncyfront.com
 bouncyproperty.com
@@ -8874,6 +8875,7 @@ eschsupply.actonservice.com
 eservices.lubetech.com
 espaniapizza.openapp.link
 espressoroom.openapp.link
+espy.boehs.org
 esqjac.costakreuzfahrten.de
 estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
@@ -8953,6 +8955,7 @@ event-logger.tagboard.com
 event-router.olympics.com
 event-service.letslinc.com
 event-stream.spot.im
+event-tracking.hellohealthgroup.com
 event.api.drift.com
 event.boozallen.com
 event.clubcorp.com
@@ -9415,6 +9418,7 @@ fnajvu.framingsuccess.com
 fnfhgj.secretsales.com
 fnlvhy.wowma.jp
 fnoqgg.roninwear.com
+fnvma.milanuncios.com
 foamyfood.com
 foamypain.com
 fog.pixual.co
@@ -11187,6 +11191,7 @@ impossibleglue.com
 impossiblemove.com
 impress.vcita.com
 impression.clickinc.com
+improve.tempest.com
 improving.wuzhuiso.com
 impulsehands.com
 impulsejewel.com
@@ -12117,6 +12122,7 @@ isoplexis.actonservice.com
 isovav.akomeya.jp
 it-business.vodafone.com
 it-go.experian.com
+itemslice.com
 iterable.convoy.com
 itp.phoebebeautyup.com
 itservices.ricoh.ch
@@ -13618,6 +13624,7 @@ lodlww.carcon.co.jp
 log-api.cli.im
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
+log-pq.shopfully.cloud
 log.adplex.co.kr
 log.aimtell.com
 log.bitauto.com
@@ -27471,6 +27478,7 @@ track.asiadragontrust.co.uk
 track.auckland.ac.nz
 track.bannedcelebs.com
 track.bestbuy.ca
+track.bestpornsites.tv
 track.biz.lguplus.com
 track.btdmp.com
 track.buyma.com
@@ -29196,6 +29204,7 @@ vhpabx.herffjones.com
 vhrbxb.vidaxl.nl
 vibranthaven.com
 vibrantsundown.com
+vibrantvale.com
 victoriousrequest.com
 video-ad-stats.googlesyndication.com
 video-analytics-api.cloudinary.com
