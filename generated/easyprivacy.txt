@@ -3254,6 +3254,7 @@ analytics.live.com
 analytics.livesense.marketing
 analytics.livestream.com
 analytics.logsss.com
+analytics.lunaweb.cloud
 analytics.lunge.de
 analytics.maikel.pro
 analytics.mailmunch.co
@@ -5175,7 +5176,6 @@ bot.asksyllable.com
 bot.stackbots.com
 bot.streaktrivia.com
 botdetection.hbrsd.com
-botsrv2.com
 bounceexchange.com
 bouncyfront.com
 bouncyproperty.com
