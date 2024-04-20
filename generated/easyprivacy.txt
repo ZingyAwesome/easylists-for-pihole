@@ -4683,6 +4683,7 @@ autspe.notino.hr
 auwdff.dyfashion.ro
 aux.lansator.ro
 av6fm8zw2cvz.furucombo.app
+avads.net
 availablerest.com
 avalere.actonservice.com
 avalonalbum.com
@@ -7297,6 +7298,7 @@ data1.virginplus.ca
 data2.gosquared.com
 datacollector-dra.dt.hicloud.com
 datadog-service.mvfglobal.com
+datadome.maisonsdumonde.com
 datadome.patreon.com
 datafiletechnologies.actonservice.com
 datanoticias.prisasd.com
@@ -7887,6 +7889,7 @@ dncxgm.pegadorfashion.com
 dnews.alfaromeo.it
 dnews.fiat.it
 dngpzy.bfmtv.com
+dniyppubkuut7.cloudfront.net
 dnkeyt.svetsochtillbehor.se
 dnltkp.lampeetlumiere.fr
 dnn506yrbagrg.cloudfront.net
@@ -15389,6 +15392,7 @@ mcrmqv.joiasprime.com.br
 mcs-ie.tiktokw.eu
 mcs-va.tiktokv.com
 mcs.tiktokv.us
+mcs.tiktokw.us
 mcs.us.tiktokv.com
 mcs.zijieapi.com
 mcw.actonservice.com
@@ -25834,6 +25838,7 @@ stats.media.onet.pl
 stats.meetnfly.com
 stats.meijer.com
 stats.memberdrive.org
+stats.mempool.space
 stats.meno.science
 stats.merx.com
 stats.mesenvies.fr
@@ -27661,6 +27666,7 @@ trackcommon.hujiang.com
 tracker-00.qvb.qcloud.com
 tracker-aa.paf.es
 tracker-aa.pafbetscore.lv
+tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
 tracker.adbinead.com
 tracker.affiliate.iqbroker.com
