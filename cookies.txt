@@ -12,7 +12,6 @@ cookie.consents.app
 cookie.pearshealthcyber.com
 cookieapi.incomit.dk
 cookieapi2.incomit.dk
-cookiemanager.onm.de
 cookies.innershed.co.uk
 cookiesregister.deltacommerce.com
 crta.and.co.uk
