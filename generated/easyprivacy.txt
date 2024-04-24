@@ -3535,6 +3535,7 @@ analyticsresults.datev.de
 analyticsresults.dev.datev.de
 analyticssec.overwolf.com
 analyticsssl.forcepoint.com
+analyzecorona.com
 anapp.adobe.com
 ancientact.com
 andlache.com
