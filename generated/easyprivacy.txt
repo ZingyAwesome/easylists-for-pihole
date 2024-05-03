@@ -6065,7 +6065,6 @@ cnt.mastorage.net
 cnt.nov.ru
 cnt.rambler.ru
 cnt.rate.ru
-cnt.trvdp.com
 cnt.viptube.com
 cnt.vivatube.com
 cnt.wetteronline.de
@@ -18737,6 +18736,7 @@ pkimbc.bestsecret.com
 pktbag.flighthub.com
 pktytp.membershop.lv
 pl-go.experian.com
+pla.fwdcdn.com
 pla.wigglepixel.nl
 placeframe.com
 placidactivity.com
@@ -19909,6 +19909,7 @@ ruddycast.com
 ruddywash.com
 rugttt.robinson.com
 ruhpbn.zhigaojixie.com
+rum-ingress-coralogix.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
@@ -20444,6 +20445,7 @@ scanalytics.wral.com
 scanner-link.covve.com
 scanoptics.actonservice.com
 scarcecard.com
+scarceshock.com
 scarcesign.com
 scarcesurprise.com
 scarecrowslip.com
@@ -26368,6 +26370,7 @@ straightnest.com
 strangeclocks.com
 strangersponge.com
 strangesink.com
+strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 stratitude.actonservice.com
 strawberry.basf.com
@@ -27706,6 +27709,7 @@ tracker-aa.paf.es
 tracker-aa.pafbetscore.lv
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
+tracker-v4.gamedock.io
 tracker.adbinead.com
 tracker.affiliate.iqbroker.com
 tracker.affirm.com
@@ -27736,6 +27740,7 @@ tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
 tracker.insurancenexus.com
+tracker.jkplayers.com
 tracker.jkstremum.xyz
 tracker.keywordintent.com
 tracker.marinsoftware.com
@@ -30502,6 +30507,7 @@ zhqcir.netage.ne.jp
 zhyeqw.mercury.ru
 zimadifirenze.net.anwalt.de
 zio.xcar.com.cn
+zion-telemetry-nonprod.api.cnn.io
 zion-telemetry.api.cnn.io
 zion.qbo.intuit.com
 zipperxray.com
