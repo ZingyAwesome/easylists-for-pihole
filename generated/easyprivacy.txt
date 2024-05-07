@@ -3198,6 +3198,7 @@ analytics.gamesdrive.net
 analytics.gazeta.pl
 analytics.geastore.com
 analytics.geekyminds.net
+analytics.genial.ly
 analytics.geoutletstore.com
 analytics.gestore.com
 analytics.getshogun.com
