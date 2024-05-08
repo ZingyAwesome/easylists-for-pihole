@@ -27184,6 +27184,7 @@ telemetry.moveworks.com
 telemetry.navispherecarrier.com
 telemetry.phenixrts.com
 telemetry.reembed.com
+telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.stryker.com
 telemetry.tableausoftware.com
@@ -27762,6 +27763,7 @@ tracker.publico.pt
 tracker.ranker.com
 tracker.services.vaix.ai
 tracker.shopclues.com
+tracker.smartframe.io
 tracker.smartseminar.jp
 tracker.softcube.com
 tracker.stileo.it
