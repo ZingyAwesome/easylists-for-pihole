@@ -1945,6 +1945,7 @@ log.codemarketing.cloud
 log.f-tra.com
 log.gs3.goo.ne.jp
 log.popin.cc
+logger.torimochi-ad.net
 omt.shinobi.jp
 panda.kasika.io
 ping.paidy.com
