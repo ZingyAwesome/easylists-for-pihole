@@ -875,6 +875,7 @@ gi-client-tracking.goodgamestudios.com
 go.activengage.com
 green-griffin-860.appspot.com
 gsp1.baidu.com
+gtmfsstatic.getgoogletagmanager.com
 gtrk.s3.amazonaws.com
 happen.spkt.io
 hb.vhsrv.com
@@ -1965,6 +1966,7 @@ t.adlpo.com
 t.seesaa.net
 tag.cribnotes.jp
 targeting.focas.jp
+tm.msgs.jp
 tr.c-tag.net
 tr.slvrbullet.com
 track.list-finder.jp
