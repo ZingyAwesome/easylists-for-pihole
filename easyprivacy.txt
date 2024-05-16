@@ -898,6 +898,7 @@ iabusprivacy.pmc.com
 icu.getstorybox.com
 iddu1vvb7sk8-a.akamaihd.net
 identification.hotmart.com
+ihi.flowplayer.com
 imp.pvnsolutions.com
 impress.vcita.com
 impression.clickinc.com
@@ -1352,6 +1353,7 @@ track.td3x.com
 track.uc.cn
 track.untd.com
 track.uppromote.com
+track.us.org
 track.venatusmedia.com
 track.vscash.com
 track.yfret.com
@@ -1870,6 +1872,7 @@ statistics.rbi-nl.com
 trkr.shoppingminds.net
 dnt-userreport.com
 tags.op-palvelut.fi
+analytics.palitra.ge
 links.boom.ge
 stats-real-clients.zentech.gr
 heartbeat.pmd.444.hu
@@ -37516,6 +37519,7 @@ sync.rambler.ru
 top-staging.mail.ru
 xray.mail.ru
 yast.rutube.ru
+harvester.cms.markiza.sk
 go-usertrack-importer.pub.24ur.si
 tracker.azet.sk
 analytics.bolavip.com
