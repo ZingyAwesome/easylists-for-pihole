@@ -20,10 +20,10 @@
         "ecmaVersion": 2018,
         "sourceType": "module"
     },
-    "plugins": ["node", "@typescript-eslint", "import", "jest", "security"],
+    "plugins": ["n", "@typescript-eslint", "import", "jest", "security"],
     "extends": [
         "eslint:recommended",
-        "plugin:node/recommended",
+        "plugin:n/recommended",
         "plugin:import/errors",
         "plugin:import/warnings",
         "plugin:@typescript-eslint/eslint-recommended",
@@ -82,20 +82,20 @@
         "no-eval": "error",
         "no-implied-eval": "error",
         "no-prototype-builtins": "error",
-        "node/no-sync": 0,
-        "node/exports-style": ["error", "module.exports"],
-        "node/no-unpublished-require": 0,
-        "node/no-extraneous-import": 0,
-        "node/no-deprecated-api": ["warn"],
-        "node/no-missing-require": [
+        "n/no-sync": 0,
+        "n/exports-style": ["error", "module.exports"],
+        "n/no-unpublished-require": 0,
+        "n/no-extraneous-import": 0,
+        "n/no-deprecated-api": ["warn"],
+        "n/no-missing-require": [
             "error",
             {
                 "tryExtensions": [".ts", ".js", ".d.ts", ".json", ".node"]
             }
         ],
-        "node/no-missing-import": 0,
-        "node/no-unpublished-import": 0,
-        "node/no-unsupported-features/es-syntax": 0,
+        "n/no-missing-import": 0,
+        "n/no-unpublished-import": 0,
+        "n/no-unsupported-features/es-syntax": 0,
         "import/extensions": [
             "error",
             {
