@@ -34,7 +34,7 @@
         "npm": ">= 9"
     },
     "devDependencies": {
-        "@tsconfig/node20": "20.1.4",
+        "@tsconfig/node22": "22.0.0",
         "@types/jest": "29.5.12",
         "@types/node": "20.12.12",
         "@typescript-eslint/eslint-plugin": "7.9.0",
