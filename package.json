@@ -4,8 +4,8 @@
     "description": "Parsing easylist into Pi-hole importable files",
     "main": "index.js",
     "scripts": {
-        "postinstall": "npm run husky-install && npx fix-lockfile-integrity package-lock.json",
-        "husky-install": "git config --get core.hookspath || husky install",
+        "postinstall": "npm run husky-install && npx -y fix-lockfile-integrity package-lock.json",
+        "husky-install": "git config --get core.hookspath || husky",
         "build": "npm run eslint && npm run type-check && npm run test",
         "preparse": "rimraf generated && rimraf raw && mkdir generated && mkdir raw",
         "parse": "node -r ts-node/register/transpile-only -r tsconfig-paths/register src/index.ts",
@@ -34,25 +34,25 @@
         "npm": ">= 9"
     },
     "devDependencies": {
-        "@tsconfig/node20": "20.1.2",
+        "@tsconfig/node22": "22.0.0",
         "@types/jest": "29.5.12",
-        "@types/node": "20.11.28",
-        "@typescript-eslint/eslint-plugin": "7.2.0",
-        "@typescript-eslint/parser": "7.2.0",
+        "@types/node": "20.12.12",
+        "@typescript-eslint/eslint-plugin": "7.9.0",
+        "@typescript-eslint/parser": "7.9.0",
         "eslint": "8.57.0",
         "eslint-import-resolver-typescript": "3.6.1",
         "eslint-plugin-import": "2.29.1",
-        "eslint-plugin-jest": "27.9.0",
+        "eslint-plugin-jest": "28.5.0",
         "eslint-plugin-node": "11.1.0",
-        "eslint-plugin-security": "1.7.1",
-        "husky": "8.0.3",
+        "eslint-plugin-security": "1.4.0",
+        "husky": "9.0.11",
         "jest": "29.7.0",
         "lint-staged": "15.2.2",
         "prettier": "3.2.5",
-        "rimraf": "5.0.5",
+        "rimraf": "5.0.7",
         "ts-jest": "29.1.2",
         "ts-node": "10.9.2",
-        "typescript": "5.4.2"
+        "typescript": "5.4.5"
     },
     "lint-staged": {
         "*.ts": [
