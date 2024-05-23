@@ -29275,6 +29275,7 @@ veqvek.thebeaverton.com
 veqvek.tsn.ca
 vercel-vitals.axiom.co
 verdantanswer.com
+verdantlabyrinth.com
 verdantsculpture.com
 verify.spin.app
 verify.test.spin.app
@@ -29537,6 +29538,7 @@ wat.gogoinflight.com
 watch.jawwy.tv
 watch.stctv.com
 watch.vipa.me
+watchtower.graindata.com
 water.tetrapak.com
 waterlooberlin.viessmann.ca
 wateryvan.com
@@ -29762,6 +29764,7 @@ website-security.geotrust.com
 website-security.rapidssl.com
 website-security.thawte.com
 website-tracking.smartx.com
+websitesdude.com
 webstat.garanti.com.tr
 webstat.kuwo.cn
 webstat.qiumibao.com
