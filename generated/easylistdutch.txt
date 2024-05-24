@@ -12,5 +12,6 @@ content2.wasmachines.nl
 content2.zoom.nl
 crnsgngrpj.nl
 dntblckmpls.nl
+mt67.net
 nojazz.eu
 viadata.store
