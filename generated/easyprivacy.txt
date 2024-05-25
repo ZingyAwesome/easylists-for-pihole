@@ -3359,6 +3359,7 @@ analytics.pointdrive.linkedin.com
 analytics.pollardwater.com
 analytics.prezly.com
 analytics.productreview.com.au
+analytics.qogita.com
 analytics.qualcomm.com
 analytics.qualityquestions.co
 analytics.qualityunit.com
@@ -3528,6 +3529,7 @@ analytics1.dillards.com
 analytics1.vdo.ai
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
+analyticsapi.qogita.com
 analyticsbusiness.ing.ro
 analyticsehnwe.servicebus.windows.net
 analyticsnarc.ro.ing.net
@@ -5804,6 +5806,7 @@ childlikeexample.com
 childlikeform.com
 chingovernment.com
 chinsnakes.com
+chipperisle.com
 chivalrouscord.com
 chmproxy.bid
 choose.adelaide.edu.au
@@ -10317,6 +10320,7 @@ haplessland.com
 happen.spkt.io
 happenhistory.com
 happyholidays.coniferhealth.com
+happysponge.com
 harborcaption.com
 harborcub.com
 hardinet.actonservice.com
@@ -13722,6 +13726,7 @@ log.sina.cn
 log.snapdeal.com
 log.tagtic.cn
 log.targetpush.co.kr
+log.tossinvest.com
 log.webnovel.com
 log.zdnet.co.kr
 log.zongheng.com
@@ -18181,6 +18186,7 @@ onlineshop.ricoh.lu
 onlineshop.ricoh.no
 onlineshop.ricoh.pl
 onlinevacationcenter.actonservice.com
+onlywoofs.com
 oopt.norauto.es
 oopt.norauto.fr
 opalquill.com
@@ -18474,6 +18480,7 @@ pampopholf.com
 panda.kasika.io
 panickycurtain.com
 panickypancake.com
+panorama.wixapps.net
 panoramicbutter.com
 panoramicplane.com
 papemz.rcwilley.com
