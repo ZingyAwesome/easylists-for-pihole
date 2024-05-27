@@ -3,9 +3,9 @@ dntblckmpls.nl
 mt67.net
 nojazz.eu
 viadata.store
-ads.nextday.media
 advertising-cdn.dpgmedia.cloud
 go2.go2cloud.org
+nextdaymedia-ads.s3.amazonaws.com
 traffic.12flirt.com
 aa.tweakers.nl
 content1.pcmweb.nl
