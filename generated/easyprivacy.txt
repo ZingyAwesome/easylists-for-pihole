@@ -3141,6 +3141,7 @@ analytics.contentexchange.me
 analytics.convertlanguage.com
 analytics.cookiefirst.dev
 analytics.corusent.com
+analytics.cosmonova.net
 analytics.crazygames.com
 analytics.crowdkeep.com
 analytics.cycleworld.com
