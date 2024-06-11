@@ -57,6 +57,8 @@ pear.focus.de
 plus.tourispo.com
 res.ki.de
 saas.valuetech.de
+t.alpin.de
+t.kicker.de
 w.alpin.de
 w.kicker.de
 wbbanner.mrn-news.de
