@@ -13774,6 +13774,7 @@ logs.hotstar.com
 logs.mezmo.com
 logs.naukri.com
 logs.netflix.com
+logs.openbank.com
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.theccaa.com
