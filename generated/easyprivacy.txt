@@ -7328,6 +7328,7 @@ datadog-service.mvfglobal.com
 datadome.maisonsdumonde.com
 datadome.patreon.com
 datafiletechnologies.actonservice.com
+datalayer.orange.fr
 datanoticias.prisasd.com
 dataofpages.com
 datas.connectingthreads.com
