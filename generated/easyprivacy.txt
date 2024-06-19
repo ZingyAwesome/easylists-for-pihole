@@ -18900,6 +18900,7 @@ plausible.regex.help
 plausible.retune.de
 plausible.safing.io
 plausible.sbw.org
+plausible.server.hakai.app
 plausible.shadygrovepca.org
 plausible.simplelogin.io
 plausible.srijn.net
