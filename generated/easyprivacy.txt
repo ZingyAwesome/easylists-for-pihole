@@ -4882,6 +4882,7 @@ balloontexture.com
 ballsbanana.com
 ballymoregroup.actonservice.com
 banana.le.com
+bananabarrel.com
 bancopostapremia.bancoposta.it
 bandborder.com
 bank.svb.com
@@ -12673,6 +12674,7 @@ lapiana.actonservice.com
 laplink.actonservice.com
 largebrass.com
 laserconcepts.actonservice.com
+lasttaco.com
 latam.thomsonreuters.com
 laughablecopper.com
 laughablelizards.com
@@ -19227,6 +19229,7 @@ ptsc.shoplocal.com
 ptw-i.actonservice.com
 pub.servidoresge.com
 pub.sheknows.com
+pubfs.com
 pubimgs.com
 publications.nomination.fr
 publicidad.davivienda.com.pa
