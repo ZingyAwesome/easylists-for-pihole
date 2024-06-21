@@ -6653,6 +6653,7 @@ counter.rambler.ru
 counter.reddigital.ru
 counter.scribblelive.com
 counter.sibnet.ru
+counter.smotrim.ru
 counter.snackly.co
 counter.subtitlebee.com
 counter.tldw.me
@@ -9331,6 +9332,7 @@ fearfulfish.com
 fearfulmint.com
 fearlessfaucet.com
 featherstage.com
+feature-flag-edge.live.clickbus.net
 featured.bradyid.com
 fec1.optimhome.com
 fedexfield.redskins.com
@@ -10467,6 +10469,7 @@ hipkqt.contorion.de
 hirsung.de
 historicalbeam.com
 historicalrequest.com
+hit.cnbce.com
 hit.interia.pl
 hit.mybestpro.com
 hit.skrz.cz
