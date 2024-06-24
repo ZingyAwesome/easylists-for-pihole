@@ -6991,6 +6991,7 @@ d81mfvml8p5ml.cloudfront.net
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 dabu.askmediagroup.com
 dacocorp.actonservice.com
+dadalytics.it
 dadispapi.gmarket.co.kr
 daifez.thebay.com
 dailydivision.com
@@ -10614,6 +10615,7 @@ hssyje.theathletesfoot.com.au
 hst2-invite.ander.ai
 hstats.askmiso.com
 hstats.hepsiburada.com
+hstatstest.hepsiburada.com
 htc.oaken.com
 htcnbx.odkarla.cz
 htmgrl.jollyroom.no
@@ -13996,6 +13998,7 @@ mandrillapp.zola.com
 maniacalappliance.com
 manufacturing.autodeskcommunications.com
 map.rockwellautomation.com
+mapixl.com
 mapp.biryanibykilo.com
 mapp.ewm.co.uk
 mapp.jysk.dk
@@ -17198,6 +17201,7 @@ mgdmqr.parfium.bg
 mgefhu.seiska.fi
 mggakg.littleblack.co.kr
 mgixgn.wittchen.com
+mgln.ai
 mgptul.finson.com
 mgt7.madeindesign.it
 mh9qqwotr890.koelewijn.nl
@@ -18747,6 +18751,7 @@ pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
+pixel.driveniq.com
 pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
