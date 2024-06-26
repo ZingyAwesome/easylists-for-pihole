@@ -2555,6 +2555,7 @@ acxajt.jimmykey.com
 ad-ebis.bookpass.auone.jp
 ad-ebis.toysub.jp
 ad-log.dable.io
+ad-platform.jmty.jp
 ad-track.paravi.jp
 ad-tracker-api.luizalabs.com
 ad1.tone.ne.jp
@@ -17384,6 +17385,7 @@ mon.domdog.io
 mon.ingservices.nl
 mon.us.tiktokv.com
 mon.zijieapi.com
+monacobeatles.com
 money.clerkie.io
 monicaatron.com
 monitor-api.blackcrow.ai
@@ -18565,6 +18567,7 @@ pastoralroad.com
 patientpay.actonservice.com
 patrikios.openapp.link
 paupud.meillandrichardier.com
+pawsnug.com
 pawsplus.actonservice.com
 pay.truemoney.me
 paydashboard.actonservice.com
