@@ -26,6 +26,8 @@ privacy-cdn.sixfifty.com
 privacy.digimedia.com
 ressource.gdpr-banner.awsmpsa.com
 smarteucookiebanner.upsell-apps.com
+sync-transcend-cdn.com
+transcend-cdn.com
 truyoproductionuscdn.truyo.com
 webcache-eu.datareporter.eu
 webcache.datareporter.eu
