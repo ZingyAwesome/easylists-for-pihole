@@ -13225,7 +13225,6 @@ insights.att.com
 insights.biallo.de
 insights.bodogaffiliate.com
 insights.cdt.ch
-insights.decathlon.net
 insights.golubcapital.com
 insights.goodandprosper.com
 insights.harvardbusiness.org
@@ -15297,6 +15296,7 @@ magicaljoin.com
 magnetairport.com
 magnificentmeasure.com
 magnificentmist.com
+mail-count.matsui.co.jp
 mail-rite.actonservice.com
 mail.academyforconsciousleadership.net
 mail.blueapronwine.com
@@ -29053,6 +29053,7 @@ track.yellostrom.de
 track.yfret.com
 track.yieldsoftware.com
 track.youniversalmedia.com
+track.zapimoveis.com.br
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
