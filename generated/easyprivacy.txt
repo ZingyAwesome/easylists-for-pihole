@@ -3469,6 +3469,7 @@ adpia130611.adpinfo.com
 adppartner.solutions.adpinfo.com
 adpromo.peppynet.com
 adrtx.net
+ads-collector.luizalabs.com
 ads-trk.vidible.tv
 ads.dandelionchocolate.jp
 ads.tikpage.com
@@ -6289,6 +6290,7 @@ brvallsrentacar.eccocar.com
 brvelocity.eccocar.com
 brwanacars.eccocar.com
 brwerental.eccocar.com
+brwsrfrm.com
 bryurent.eccocar.com
 bs-pro-origin-pull.kwai.net.iberostar.com
 bsbmex.flaschenpost.ch
@@ -18489,6 +18491,7 @@ mhwbhn.tohapi.fr
 mhz-design.actonservice.com
 mi-de-ner-nis3.info
 miao.baidu.com
+michiganrobotflower.com
 micro.workplaceinvesting.fidelity.com
 microlearning.att.com
 microlise.actonservice.com
