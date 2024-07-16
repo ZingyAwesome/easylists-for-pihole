@@ -7,6 +7,7 @@ cmp.gemius.com
 cmp.setupcmp.com
 consent.dadoslegais.com
 consent.digiapi.com
+consent.nitrocnct.com
 consent.prointernet.com
 cookie.consents.app
 cookie.pearshealthcyber.com
