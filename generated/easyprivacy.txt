@@ -4030,6 +4030,7 @@ analytics.idfnet.net
 analytics.ihg.com
 analytics.ikyu.com
 analytics.infobae.com
+analytics.inquisitr.com
 analytics.iraiser.eu
 analytics.ishopchangi.com
 analytics.jazel.net
@@ -4430,6 +4431,7 @@ apeagle.io
 apenterprise.io
 aperio.leicabiosystems.com
 apfbrk.butorline.hu
+apharponloun.com
 api-analytics-prd.pelcro.com
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
@@ -6266,6 +6268,7 @@ brothersbucket.com
 brotherslocket.com
 browser-intake-datadoghq.com
 browser-updater.yandex.net
+browser.covatic.io
 browser.pipe.aria.microsoft.com
 brpayless.eccocar.com
 brqory.notino.sk
@@ -8938,6 +8941,7 @@ dmc.romotur.com
 dmcc.actonservice.com
 dmcnyf.nevzatonay.com
 dmdgdu.atmosphera.com
+dmepyodjotcuks.com
 dmkt.solutions.cas.org
 dmpmetrics.rcsmetrics.it
 dmpxs.com
@@ -9926,6 +9930,7 @@ enrolldi.glic.com
 ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
+enterombacerick.com
 enterprise.dnb.ca
 enterprise2.secureforms.mcafee.com
 enterprisehive.actonservice.com
@@ -10923,6 +10928,7 @@ gallerysouvlakeri.openapp.link
 gameplanfinancial.actonservice.com
 gammamaximum.com
 ganon.yahoo.com
+gardenovens.com
 garvum.julesb.co.uk
 gastdn.wolfandbadger.com
 gatan.actonservice.com
@@ -11285,6 +11291,7 @@ gocertiport.pearsonvue.com
 gocuxy.baycrews.jp
 god.vsee.me
 godev.steps.me
+godiciardstia.com
 godlygeese.com
 gogaej.momastore.jp
 gogofunding.actonservice.com
@@ -16780,6 +16787,7 @@ mbaco.actonservice.com
 mbainfo.ust.hk
 mbelia.underarmour.co.uk
 mbeoxt.perfumesclub.pt
+mbmgivexdvpajr.com
 mbna.bruker.com
 mbns.bruker.com
 mbopt.bruker.com
@@ -20660,6 +20668,7 @@ pzapi-kg.com
 pzd.rakuten.co.jp
 pzimff.com
 pzxhyp.aeropostale.com
+q0losid.com
 q20jqurls0y7gk8.info
 q4l5gz6lqog6.www.eventus.io
 q777.sfchronicle.com
@@ -28057,6 +28066,7 @@ sxjfhh.vcstar.com
 sxmxpm.nectarsleep.com
 sxp.allianz.de
 sxwxswg8z1xe.www.arnowebtv.com
+sy57d8wi.com
 syllablesight.com
 symantec.ecs.arrow.com
 symbio.actonservice.com
@@ -28126,6 +28136,7 @@ t810.ctpost.com
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tablesafe.actonservice.com
+tackytrains.com
 taduhy.timberland.co.uk
 tag-manager.playbuzz.com
 tag.agrvt.com
@@ -28567,6 +28578,7 @@ tendersugar.com
 tendertest.com
 tengointernet.actonservice.com
 tenilstats.turner.com
+tepatonol.com
 teracom.actonservice.com
 teraes.hgreg.com
 teralog.techhub.co.kr
@@ -30655,6 +30667,7 @@ venusgloria.com
 venusrevival.com
 veoci.actonservice.com
 veosfi.woonexpress.nl
+veozn3f.com
 veqvek.bnnbloomberg.ca
 veqvek.ctv.ca
 veqvek.ctvnews.ca
@@ -30793,6 +30806,7 @@ vmgihu.gelatopique.com
 vmjdpk.repairclinic.com
 vmsspl.tenamall.co.kr
 vmsxzx.buienradar.nl
+vmzqqmlpwwmazjnio.com
 vnlvxi.vivastreet.co.uk
 vnmopn.brax.com
 vnqcyq.noon.co.kr
