@@ -142,5 +142,4 @@ rodo.agora.pl
 zgody.infor.pl
 cookies.teraz.sk
 cookies.unidadeditorial.es
-privacy.schibsted.com
 consent.themeteocompany.com
