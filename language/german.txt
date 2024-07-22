@@ -39,8 +39,8 @@ trafico.prensaiberica.es
 webinstaller.gartenplanze.de
 widget.marktjagd.de
 wm-space.youero.com
-1t2.alpin.de
-1t2.kicker.de
+2t3.alpin.de
+2t3.kicker.de
 a.zdg.de
 a3.zdg.de
 ad.dl.dewezet.de
@@ -60,10 +60,6 @@ pear.focus.de
 plus.tourispo.com
 res.ki.de
 saas.valuetech.de
-t.alpin.de
-t.kicker.de
-w.alpin.de
-w.kicker.de
 wbbanner.mrn-news.de
 werbemanager.w24.at
 x.sumikai.com
