@@ -7583,6 +7583,7 @@ count-server.sharethis.com
 count.asnetworks.de
 count.candou.com
 count.carrierzone.com
+count.darkreader.app
 count.me.uk
 count.munhwa.com
 count.paycounter.com
@@ -15487,6 +15488,7 @@ managedpush.com
 mandant.net.anwalt.de
 mandrillapp.zola.com
 maniacalappliance.com
+mantrafox.com
 manufacturing.autodeskcommunications.com
 map.rockwellautomation.com
 mapixl.com
@@ -22067,6 +22069,7 @@ savorystructure.com
 sawap.equifax.com
 say.hello.navan.com
 say.hello.tripactions.com
+sayac.kapital.com.tr
 saysidewalk.com
 sbc-app-links.specialized.com
 sbcomniture.focus.de
@@ -28692,6 +28695,7 @@ telemetry.sdk.inmobi.com
 telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.stryker.com
+telemetry.stytch.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 telemetry.vtex.com
