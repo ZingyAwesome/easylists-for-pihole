@@ -141,4 +141,5 @@ rodo.agora.pl
 zgody.infor.pl
 cookies.teraz.sk
 cookies.unidadeditorial.es
+consent.dermogrup.com
 consent.themeteocompany.com
