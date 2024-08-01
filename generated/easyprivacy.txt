@@ -7929,6 +7929,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
@@ -10567,6 +10568,7 @@ fgfecw.rebelle.com
 fgfukd.sakazen.co.jp
 fgjfwz.legami.com
 fglrgt.ruggable.com
+fgn-plausible.serverable.com
 fgosob.unhcr.it
 fgqxcz.thehipstore.co.uk
 fhdnds.mrmarvis.com
@@ -13848,6 +13850,7 @@ jubbie.de
 jubilantcanyon.com
 jubilantglimmer.com
 jufhxk.audienhearing.com
+juiceblocks.com
 jujtcq.amnibus.com
 jumbo.zomato.com
 jumpstartinc.actonservice.com
@@ -18625,7 +18628,6 @@ mgdmqr.parfium.bg
 mgefhu.seiska.fi
 mggakg.littleblack.co.kr
 mgixgn.wittchen.com
-mgln.ai
 mgptul.finson.com
 mgt7.madeindesign.it
 mh9qqwotr890.koelewijn.nl
@@ -18840,6 +18842,7 @@ moorshoes.com
 more.groups.be
 more.socialflow.com
 more.spglobal.com
+morefriendly.com
 moreinfo.onnowdigital.com
 moreinfo.sdmyers.com
 morganfranklin.actonservice.com
@@ -20471,6 +20474,7 @@ plusavecmoins.adp.ca
 plv.geocomply.com
 plwfwc.teknozone.it
 pmazpg.legalzoom.com
+pmi.flowplayer.com
 pnekru6pxrum-a.akamaihd.net
 pnhesw.jtb.co.jp
 pnovfl.karaca.com
@@ -20484,6 +20488,7 @@ podbooth.martela.com
 podbooth.martela.no
 podbooth.martela.se
 podiumpresto.com
+poemprompt.com
 poeticpackage.com
 pointdigestion.com
 pointlesshour.com
@@ -22125,6 +22130,7 @@ scatteredheat.com
 scatteredquiver.com
 scatteredstream.com
 scenicapparel.com
+scenicdrops.com
 scheduling.qualifi.hr
 schinnerer.actonservice.com
 schwacke.autovistagroup.com
@@ -22589,6 +22595,8 @@ services.blackboard.com
 services.cairn.info
 services.eclerx.com
 services.edc.ca
+services.haaretz.co.il
+services.haaretz.com
 services.releasepoint.com
 servicing.business.hsbc.com
 servicing.unitedautocredit.net
@@ -26209,6 +26217,7 @@ springolive.com
 springsister.com
 springsnails.com
 sproutingbag.com
+sprtnd.com
 sprydelta.com
 spt.ahram.org.eg
 spuriousair.com
@@ -28646,6 +28655,7 @@ tdp1.vivabox.es
 tds1.vivabox.be
 tdzvm.pw
 teach.graduateprogram.org
+teacupbooks.com
 team.moxtra.com
 teamhodges.hodgesualumniandfriends.com
 teammate.arclogics.com
@@ -31395,6 +31405,7 @@ whatcounts.branch.rocks
 whatif.fr.adobe.com
 whatif.it.adobe.com
 whatif.nl.adobe.com
+whimsicalcanyon.com
 whimsicalgrove.com
 whineattempt.com
 whirlwealth.com
