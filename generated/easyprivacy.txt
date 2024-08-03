@@ -3803,6 +3803,7 @@ analyse.bcovery.com
 analyse.hinemos.info
 analysis.aws.locondo.jp
 analysis.fi
+analysis.prod.joyfru.jiji.com
 analyt.ir
 analytic.alabama.aaa.com
 analytic.americanfunds.com
@@ -11070,6 +11071,7 @@ gdm1.toner.fr
 gdmelqact.gartner.com
 gdqlno.weisshaus.de
 gdsngr.chainreactioncycles.com
+gdt.qq.com
 gea-exchange-03.net.jumia.ug
 gear.echovisuals.com
 gecfnc.foresight.jp
@@ -13003,7 +13005,6 @@ info.marugroup.net
 info.marumatchbox.com
 info.mccloudservices.com
 info.mdsol.com
-info.medtronicdiabetes.com
 info.membercoverage.com
 info.memberzone.com
 info.mergertech.com
@@ -15177,6 +15178,7 @@ log-api.cli.im
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
 log-pq.shopfully.cloud
+log-upload-os.hoyoverse.com
 log.adplex.co.kr
 log.aimtell.com
 log.bitauto.com
@@ -17214,6 +17216,7 @@ met.sewell.com
 met.vgwort.de
 met1.hp.com
 met2.hp.com
+metajaws.com
 metallic.actonservice.com
 metapack.actonservice.com
 metc.banfield.com
@@ -21214,6 +21217,7 @@ relay.fiverr.com
 relay.happ.social
 relay.information.maileva.com
 relay.velpa.pl
+releasepath.com
 reliable.elgas.com.au
 reloadphoto.com
 reltrd.peteralexander.com.au
@@ -22035,6 +22039,7 @@ sanalytics.wideroe.no
 sanalytics.yorkstatebank.com
 sandbox-connectlp.keysight.com
 sandbox-elq.keysight.com
+sandstrophies.com
 sanl.champssports.ca
 sanl.champssports.com
 sanl.eastbay.com
@@ -27738,6 +27743,7 @@ statss.smartdestinations.com
 statt-collect.herokuapp.com
 statuesquebrush.com
 status.acutx.org
+statwup.huya.com
 statystyki.panelek.com
 stay.lottehotel.com
 stayaction.com
@@ -30530,6 +30536,7 @@ ucmetrics.unicreditbanca.it
 ucmetrics.unicreditgroup.eu
 ucounter.ucoz.net
 ucppeo.silux.hr
+udblog.huya.com
 udgrbq.malwarebytes.com
 udicje.perrys.co.uk
 udmmdl.dudalina.com.br
