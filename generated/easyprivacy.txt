@@ -8413,6 +8413,7 @@ datanoticias.prisasd.com
 dataofpages.com
 datas.connectingthreads.com
 datas.knitpicks.com
+datas3ntinel.com
 datastoried.com
 datum.appfleet.com
 datum.jsdelivr.com
