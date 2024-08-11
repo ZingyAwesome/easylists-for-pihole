@@ -39,8 +39,6 @@ trafico.prensaiberica.es
 webinstaller.gartenplanze.de
 widget.marktjagd.de
 wm-space.youero.com
-2t3.alpin.de
-2t3.kicker.de
 a.zdg.de
 a3.zdg.de
 ad.dl.dewezet.de
@@ -48,7 +46,6 @@ ad.dslr-forum.de
 ad.games.ch
 as.chartsurfer.de
 banner.click-tt.de
-code.alpin.de
 code.bergsteigen.com
 hybrid-prd.ad-prd.s.joyn.de
 lad.sumikai.com
@@ -60,6 +57,7 @@ pear.focus.de
 plus.tourispo.com
 res.ki.de
 saas.valuetech.de
+vates.kicker.de
 wbbanner.mrn-news.de
 werbemanager.w24.at
 x.sumikai.com
