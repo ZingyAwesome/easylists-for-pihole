@@ -57,6 +57,7 @@ pear.focus.de
 plus.tourispo.com
 res.ki.de
 saas.valuetech.de
+vates.alpin.de
 vates.kicker.de
 wbbanner.mrn-news.de
 werbemanager.w24.at
