@@ -49,6 +49,8 @@ cmp.netzwelt.de
 cmp.nouvelobs.com
 cmp.parkers.co.uk
 cmp.playpilot.com
+cmp.springer.com
+cmp.springernature.com
 cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
