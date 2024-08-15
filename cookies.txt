@@ -51,7 +51,6 @@ cmp.parkers.co.uk
 cmp.playpilot.com
 cmp.springer.com
 cmp.springernature.com
-cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
 cmp.uniconsent.com
@@ -70,6 +69,9 @@ cookies.lmt.lv
 fuse.forbes.com
 gdpr-api.sharethis.com
 gdpr.internetbrands.com
+guce.engadget.com
+guce.rivals.com
+guce.techcrunch.com
 mms.cmpsky.com
 privacy.claytonhomes.com
 privacypolicy.trgr.be
