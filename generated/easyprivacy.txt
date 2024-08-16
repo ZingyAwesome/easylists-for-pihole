@@ -2978,7 +2978,6 @@ abacksoda.com
 abandonedaction.com
 abastur.ubmmexico.com
 abbqns.gowabi.com
-abc.pema.cl
 abcd.coderays.com
 abclegal.actonservice.com
 abdpac.williamsshoes.com.au
@@ -3849,7 +3848,6 @@ analytics-static.ugc.bazaarvoice.com
 analytics-tracking.meetup.com
 analytics-wcms.joins.net
 analytics-zone-1.api.leadfamly.com
-analytics.aasaam.com
 analytics.academy.com
 analytics.adam.page
 analytics.adfreetime.com
@@ -3959,7 +3957,6 @@ analytics.data.lloydsbankinggroup.com
 analytics.data.visenze.com
 analytics.designspiration.com
 analytics.dev.htmedia.in
-analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.digitalpfizer.com
 analytics.directenergy.ca
@@ -4056,7 +4053,6 @@ analytics.kerns.co
 analytics.kkb.com.tr
 analytics.klickly.com
 analytics.kongregate.io
-analytics.kooapp.com
 analytics.laregione.ch
 analytics.lasegunda.ecn.cl
 analytics.lemoolah.com
@@ -4064,7 +4060,6 @@ analytics.lendio.com
 analytics.lexisnexisrisk.com
 analytics.lifestyledemocracy.com
 analytics.littlekingdesigns.com
-analytics.live.com
 analytics.livesense.marketing
 analytics.livestream.com
 analytics.logsss.com
@@ -4080,7 +4075,6 @@ analytics.martinandosa.com
 analytics.massivwerthaus.at
 analytics.matchbin.com
 analytics.maxroll.gg
-analytics.mbga.jp
 analytics.meituan.net
 analytics.mercadolibre.com
 analytics.metro.be
@@ -4194,7 +4188,6 @@ analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.seagate.com
-analytics.send.cm
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shopncaasports.com
@@ -4224,9 +4217,7 @@ analytics.snidigital.com
 analytics.soluforce.com
 analytics.southpointcasino.com
 analytics.spark.co.nz
-analytics.springboardvideo.com
 analytics.spun.com.br
-analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.superstation.com
 analytics.superstructure.ai
@@ -4374,7 +4365,6 @@ annoyingacoustics.com
 annoyingclover.com
 annwwu.guitarcenter.com
 anon-stats.eff.org
-anonstat.pw
 ans.avast.com
 ans.avast.ru
 ans.milb.com
@@ -4448,7 +4438,6 @@ api.bunzlaucastle.com
 api.digitalpiloten.org
 api.elliehuxtable.com
 api.fuck.education
-api.privacyguides.net
 api.ryanyao.design
 api.wipmania.com
 apilog-web.acfun.cn
@@ -5557,7 +5546,6 @@ awaps.yandex.net
 awaps.yandex.ru
 awarealley.com
 awbkht.verktygsproffsen.se
-awesome.section.io
 awfzfs.kwantum.nl
 awggij.wplay.co
 awmonitor.com
@@ -5708,7 +5696,6 @@ bablace.com
 baccarat.abzorbagames.com
 backoffice.verintsystemsinc.com
 backupcat.com
-bacon.section.io
 badgeboat.com
 badgerabbit.com
 badgevolcano.com
@@ -5717,7 +5704,6 @@ bagbeam.com
 bagbgo.unitednude.eu
 bahrpo.dint.co.kr
 bahyei.himaraya.co.jp
-baiduccdn1.com
 baitbaseball.com
 bakercommunications.actonservice.com
 balancemailbox.com
@@ -5742,7 +5728,6 @@ baptisthealth.hrm.healthgrades.com
 barbarousbase.com
 barbarousnerve.com
 barium.cheezdev.com
-barnes.send.cm
 baseballbone.com
 basilfish.com
 basket.mondo.link
@@ -5761,7 +5746,6 @@ battlenet.openapp.link
 bavvgo.zingat.com
 bawdybalance.com
 bawdybeast.com
-bawdypets.com
 baxter.olx.org
 bayshoresystems.actonservice.com
 bazlny.homepal.it
@@ -5826,11 +5810,8 @@ beacon.shutterfly.com
 beacon.sina.com.cn
 beacon.sojern.com
 beacon.statful.com
-beacon.tingyun.com
-beacon.viewlift.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
-beacon2.indieclick.com
 beaconcdn.qq.com
 beaconhealthsystem.hrm.healthgrades.com
 beacons.mediamelon.com
@@ -5858,7 +5839,6 @@ beetleend.com
 beginnerpancake.com
 begintrain.com
 behave.sn.at
-behavior.tongdun.net
 belgium.wolterskluwer.com
 belong.curtin.edu.au
 beneficialbeef.com
@@ -6455,7 +6435,6 @@ cadsuta.net
 caf.actonservice.com
 cafirebreather.com
 cagkpu.suitdirect.co.uk
-cahf4eed.mooo.com
 cakesdrum.com
 cakmzz.schwab.de
 caknmq.rotita.com
@@ -6589,7 +6568,6 @@ cascadion.thermofisher.com
 cashbeet.com
 caspionlog.appspot.com
 cast.net.anwalt.de
-castcream.com
 castify-trk.playitviral.com
 catalogcake.com
 catalogdiscovery.com
@@ -6738,7 +6716,6 @@ chingovernment.com
 chinsnakes.com
 chipperisle.com
 chivalrouscord.com
-chmproxy.bid
 choose.adelaide.edu.au
 choose.nu.edu
 choymp.pooldawg.com
@@ -7026,7 +7003,6 @@ cnstats.cdev.eu
 cnt.iceporn.com
 cnt.iol.it
 cnt.logoslovo.ru
-cnt.mastorage.net
 cnt.nov.ru
 cnt.rambler.ru
 cnt.rate.ru
@@ -7092,7 +7068,6 @@ collection.saga.co.uk
 collections.equifax.com
 collector-api.frspecifics.com
 collector-px0py5pczn.octopart.com
-collector-soompi.viki.io
 collector.api.video
 collector.appconsent.io
 collector.automote.co.nz
@@ -7119,7 +7094,6 @@ collector.xhamster.com
 collector.xhamster.desi
 collector2c.zhihuishu.com
 collector5.zipy.ai
-collectorsvc.apac.vesta.io
 college.business.oregonstate.edu
 collegeauthority.actonservice.com
 colliers.actonservice.com
@@ -7673,7 +7647,6 @@ cratecamera.com
 craterbox.com
 crawford-industries.actonservice.com
 crawlclocks.com
-crayfish.thingelstad.com
 crayoncompetition.com
 create.encoreglobal.com
 creationagency.actonservice.com
@@ -7882,7 +7855,6 @@ d-snapshotapp.progressive.com
 d-staging.groc.press
 d10lpsik1i8c69.cloudfront.net
 d11bdev7tcn7wh.cloudfront.net
-d15kdaxu5c0hfw.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d1733r3id7jrw5.cloudfront.net
@@ -7919,7 +7891,6 @@ d23p9gffjvre9v.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d276.ourmidland.com
-d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
@@ -7928,7 +7899,6 @@ d2j1fszo1axgmp.cloudfront.net
 d2j74sjmqqyf26.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2lxqodqbpy7c2.cloudfront.net
-d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pozfvrp52dk4.cloudfront.net
@@ -7942,15 +7912,12 @@ d2wa5sea6guof0.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2z0bn1jv8xwtk.cloudfront.net
-d2zue0pgsssbc6.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34r8q7sht0t9k.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
-d36u3psykfwy91.cloudfront.net
 d39ion77s0ucuz.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
-d3bj8nkfly20uo.cloudfront.net
 d3bo67muzbfgtl.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
@@ -7964,9 +7931,7 @@ d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3or5d0jdz94or.cloudfront.net
-d3pi0tys5sdysl.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
-d3qztsm17pgxue.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
 d3sbxpiag177w8.cloudfront.net
@@ -8003,7 +7968,6 @@ danielsmoving.actonservice.com
 danv01ao0kdr2.cloudfront.net
 dapperdiscussion.com
 dapperfloor.com
-daq0d0aotgq0f.cloudfront.net
 dart.onjoyri.de
 dash.getsitecontrol.com
 dashboardbntest.branchcustom.xyz
@@ -8407,7 +8371,6 @@ data2.gosquared.com
 datacollector-dra.dt.hicloud.com
 datadog-service.mvfglobal.com
 datadome.maisonsdumonde.com
-datadome.patreon.com
 datafiletechnologies.actonservice.com
 datalayer.orange.fr
 datanoticias.prisasd.com
@@ -8494,7 +8457,6 @@ ddqwdh.sofastyle.jp
 ddsndt.azubiyo.de
 de-de.siemensplmevents.com
 de-go.experian.com
-de-nis-ner-mi-5.info
 deadpangate.com
 deafeningdock.com
 deafeningdowntown.com
@@ -8604,7 +8566,6 @@ deskdecision.com
 desuscripcion.phg.palladiumhotelgroup.com
 detailedglue.com
 detailedgovernment.com
-detailedkitten.com
 details.pella.com
 detectdinner.com
 detectdiscovery.com
@@ -8944,7 +8905,6 @@ discoverorg.actonservice.com
 discreetfield.com
 discreetquarter.com
 dispatchunique.com
-dispatchvegasplus.com
 dispensablestranger.com
 displaymaxmerchandising.actonservice.com
 distancefinger.com
@@ -9055,7 +9015,6 @@ dopljl.noleggiosemplice.it
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
 doppler-reporting.cbsivideo.com
-dot.nonolive.com
 dotvox.actonservice.com
 doubledefend.com
 doublestat.info
@@ -9135,7 +9094,6 @@ driver.dctaxi.com
 driver.jugnoo.in
 driverequest.com
 drivingdirt.com
-drlimmode9ddd.cloudfront.net
 drollwharf.com
 drugtest.questdiagnostics.com
 druzja.canmart.co.kr
@@ -9925,7 +9883,6 @@ enchantingmystique.com
 enchantingtundra.com
 enchantingvalley.com
 encompassreport.elliemae.com
-encourageidea.com
 encourageshock.com
 encouragingleaf.com
 encouragingthread.com
@@ -10047,7 +10004,6 @@ epm.mailperformance.com
 epnfoq.cyberpowersystem.co.uk
 epoisejobs.epoise.com
 epoisepreptest.epoise.com
-epro.sogou.com
 eproof.drudgereport.com
 epsilondelta.co
 epwa.europarl.europa.eu
@@ -10167,7 +10123,6 @@ evanescentedge.com
 evasivejar.com
 evelynn.landing.ni.com
 evenement.ricoh.fr
-event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
 event-collector.moviesanywhere.com
@@ -10215,7 +10170,6 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
-events-ingestion.services.gorgias.com
 events-logs.doctolib.com
 events-prod.autolist.com
 events-tracker.deliveroo.net
@@ -11049,7 +11003,6 @@ gatan.actonservice.com
 gateway.aimia.com
 gateway.foresee.com
 gaudyairplane.com
-gaudybeginner.com
 gay-hotvideo.net
 gba.kwm.com
 gbl.radware.com
@@ -11081,7 +11034,6 @@ gecfnc.foresight.jp
 geekactive.com
 gefkkw.cyberport.de
 gejzgq.gehaltsvergleich.com
-gemius.mgr.consensu.org
 generaleducation.graduateprogram.org
 generalprose.com
 generateoffice.com
@@ -11326,6 +11278,7 @@ gladysway.com
 glamhawk.com
 glamipixel.com
 glass.autovistagroup.com
+glassbox-hlx-igw.bankofamerica.com
 glassguide-au.autovistagroup.com
 glassmoni.researchgate.net
 glbgox.djoser.de
@@ -11442,7 +11395,6 @@ gotest.onecart.co.za
 gotest.onefc.com
 gotest.real.co
 gotest.taillight.com
-gotie.tunein.com
 goto.firsttechfed.com
 goto.heartlandpaymentsystems.com
 goto.nearlist.com
@@ -11908,7 +11860,6 @@ hpcduz.shoemall.com
 hphtjv.orellfuessli.ch
 hplrqg.interflora.fr
 hpninfo.hoopis.com
-hpr.outbrain.com
 hptechnology.arrow.com
 hpxsci.miista.com
 hqfthz.betterlifeuae.com
@@ -11930,7 +11881,6 @@ hsadspixel.net
 hsaxca.americatv.com.pe
 hsleadflows.net
 hslkll.psychic.de
-hspbotdetection.azurewebsites.net
 hssyje.theathletesfoot.com.au
 hst2-invite.ander.ai
 hstats.askmiso.com
@@ -12037,7 +11987,6 @@ iconmediapixel.com
 iconnode.com
 icslearn.actonsoftware.com
 ictrjw.barcastores.com
-icu.getstorybox.com
 id-ward.com
 id5-sync.com
 iddu1vvb7sk8-a.akamaihd.net
@@ -12617,7 +12566,6 @@ impossibleexpansion.com
 impossibleglue.com
 impossiblemove.com
 impress.vcita.com
-impression.clickinc.com
 impressions.svc.abillion.com
 improve.tempest.com
 improving.wuzhuiso.com
@@ -15170,7 +15118,6 @@ lnk2.patpat.com
 lnntnt.hsastore.com
 lntvby.banggood.com
 loader-cdn.azureedge.net
-loader.zeroform.com
 loadsurprise.com
 loans.rategenius.com
 loansales.cbre.com
@@ -15246,7 +15193,6 @@ logger.snackly.co
 logger.uol.com.br
 logger.yp.ca
 logging.api.intuit.com
-logging.carambo.la
 logging.pw.adn.cloud
 loggingapi.spingo.com
 loggychops.paulsmith.site
@@ -15268,7 +15214,6 @@ logs.naukri.com
 logs.netflix.com
 logs.openbank.com
 logs.spilgames.com
-logs.thebloggernetwork.com
 logs.theccaa.com
 logs.viavideo.digital
 logsbin.dantri.com.vn
@@ -15324,7 +15269,6 @@ lpfirw.kooding.com
 lpfsex.fabiboutique.com
 lpipua.kcar.com
 lps-info.arval.com
-lps.qantas.com
 lpuqtu.propertyfinder.bh
 lpygsq.dorita.se
 lpyxrp.thewodlife.com.au
@@ -17185,7 +17129,6 @@ megatron.igraal.com
 mellamanjorge.net.anwalt.de
 mellowhush.com
 mellowmailbox.com
-melodicminute.com
 melodiouscomposition.com
 meltmilk.com
 member-app.rightwayhealthcare.com
@@ -17670,7 +17613,6 @@ metrics.dollar.com
 metrics.dollargeneral.com
 metrics.donaldson.com
 metrics.doppiocdn.com
-metrics.doppiocdn.org
 metrics.doppiostreams.com
 metrics.dreamvacationweek.com
 metrics.drklein.de
@@ -19246,8 +19188,6 @@ noa0.compteczam.fr
 nocaadobefpc.optus.com.au
 nocturnalloom.com
 nocturnalmystique.com
-noeyeon.click
-noeyeon.com
 noflake-aggregator-http.narvar.com
 nogxjk.dackonline.se
 nohaxn.damattween.com
@@ -19600,7 +19540,6 @@ omniture.chip.de
 omniture.chip.eu
 omniture.corel.com
 omniture.direct.asda.com
-omniture.eaeurope.eu
 omniture.groceries.asda.com
 omniture.kcbd.com
 omniture.kennametal.com
@@ -19912,7 +19851,6 @@ ozkkuy.fabianafilippi.com
 oznlro.sanity.com.au
 ozvlyz.justmusic.de
 p16-tiktokcdn-com.akamaized.net.iberostar.com
-p2r14.com
 p2ro4u.trybawaryjny.pl
 p3tq.pandasuite.io
 p7cloud.net
@@ -20272,7 +20210,6 @@ pixel.facebook.com
 pixel.fohr.co
 pixel.homebook.pl
 pixel.honestjohn.co.uk
-pixel.inforsea.com
 pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
@@ -20286,7 +20223,6 @@ pixel.poptok.com
 pixel.redgifs.com
 pixel.roymorgan.com
 pixel.smartmedia.tj
-pixel.solvemedia.com
 pixel.sprinklr.com
 pixel.tuko.co.ke
 pixel.videohub.tv
@@ -20330,7 +20266,6 @@ pla.wigglepixel.nl
 placeframe.com
 placidactivity.com
 placidperson.com
-plainplayground.com
 plainrequest.com
 plan.devbyexample.com
 planebasin.com
@@ -20449,7 +20384,6 @@ plausible.yalepaprika.com
 plausible.zest.dev
 plausible.zorin.com
 plausiblecable.com
-plausiblecdn.co
 play.adtonos.com
 play.colorplay.fun
 play.fanslide.com
@@ -20751,7 +20685,6 @@ psychedelicarithmetic.com
 psychedelicchess.com
 ptlpel.tui.at
 ptmcos.beginning.kr
-ptracker.nurturehq.com
 ptrenx.vidaxl.com.au
 ptsc.shoplocal.com
 ptw-i.actonservice.com
@@ -21046,7 +20979,6 @@ rakuten.actonservice.com
 rambunctiousflock.com
 rambunctiousvoyage.com
 ramp.purch.com
-rand.com.ru
 randstad.epoise.com
 randstadtest.epoise.com
 rangecake.com
@@ -21060,7 +20992,6 @@ raresummer.com
 rarnational.raisingareader.org
 ras.yahoo.com
 raspnd.quadratec.com
-raspyteam.com
 rat.rakuten.co.jp
 ratings-events.standardandpoors.com
 rbat6ac0zzjd.www.terraform.com.ar
@@ -21105,7 +21036,6 @@ realestate.collinscu.org
 realize.goldenspiralmarketing.com
 realizedoor.com
 realizerecess.com
-realizevacation.com
 realogic.actonservice.com
 realogicinc.actonservice.com
 realsolutions.americanexpress.fr
@@ -21507,7 +21437,6 @@ roiscs.actonservice.com
 rollbar.actonservice.com
 rollconnection.com
 romotur.actonservice.com
-roofrelation.com
 rooms.itsme.cool
 rooms.itsme.video
 roomyreading.com
@@ -21579,7 +21508,6 @@ rum.azion.com
 rum.azioncdn.net
 rum.condenastdigital.com
 rum.corewebvitals.io
-rum.kobo.com
 rum.marquardmedia.hu
 rum.perfops.net
 rum.uptime.com
@@ -22490,7 +22418,6 @@ selftour.walk.in
 sellerapp.musely.com
 selphiu.com
 selvi.viessmann.com.tr
-sem.triboomedia.it
 send.merit.me
 send.preply.com
 sendgrid.employeelinkapp.com
@@ -22580,7 +22507,6 @@ sense.cliexa.com
 sensorsmile.com
 sentiment.icis.com
 sentinelp.com
-sentry.arc.io
 seoab.io
 separateshow.com
 separatesilver.com
@@ -22779,7 +22705,6 @@ sharkskids.com
 sharppatch.com
 shelbypublishing.actonservice.com
 shell-recharge.tupinambaenergia.com.br
-sheltercellar.com
 sheregesh-io.traveler.today
 shesubscriptions.com
 shhoix0fuonj0hz6.net.fidor.de
@@ -25827,7 +25752,6 @@ socialflow.branch.rocks
 socs.hagerty.com
 soejzg.efe.com.pe
 soelui.butosklep.pl
-sofa.bankofamerica.com
 sofire.bdstatic.com
 sofire.terabox.app
 soggysponge.com
@@ -26920,7 +26844,6 @@ stat.altalex.com
 stat.bankiros.ru
 stat.bdc.ca
 stat.bill.harding.blog
-stat.boredomtherapy.com
 stat.buyersedge.com.au
 stat.caijing.com.cn
 stat.carecredit.com
@@ -27046,7 +26969,6 @@ stats.administrarweb.es
 stats.adobe.com
 stats.adultswim.com
 stats.aerotime.aero
-stats.afrocave.com
 stats.agl.com.au
 stats.airfarewatchdog.co.uk
 stats.airfarewatchdog.com
@@ -27528,7 +27450,6 @@ stats.proff.no
 stats.profilehunt.net
 stats.profitablesignpricing.com
 stats.projectcongress.com
-stats.pstream.net
 stats.psychotherapieravensburg.de
 stats.pubfind.io
 stats.pusher.com
@@ -28820,7 +28741,6 @@ test.swa.info
 test.takedwn.ws
 test.thei.co
 test.thomsonreuters.com
-test.torrentfreak.com
 test.vast
 test2.majelan.com
 testa8wifi.dokoyorimo.com
@@ -29131,7 +29051,6 @@ track.contently.com
 track.cordial.io
 track.cornerstonebuildingbrands.com
 track.craudia.com
-track.dark.bz
 track.deloitte.com
 track.dictionary.com
 track.digitalriver.com
@@ -29293,7 +29212,6 @@ tracker.adbinead.com
 tracker.affiliate.iqbroker.com
 tracker.affirm.com
 tracker.ai.xiaomi.com
-tracker.arc.io
 tracker.azet.sk
 tracker.beezup.com
 tracker.bestshopping.com
@@ -29685,7 +29603,6 @@ tracking.max.co.il
 tracking.medicalcloud.janssen.com.tr
 tracking.mediwel.net
 tracking.mhealthintelligence.com
-tracking.mindshare.de
 tracking.mindshiftonline.com
 tracking.miui.com
 tracking.mizuhogroup.com
@@ -29891,7 +29808,6 @@ tracking.usj.es
 tracking.utas.edu.au
 tracking.ventingdirect.com
 tracking.ventingpipe.com
-tracking.venturify.at
 tracking.verisk.com
 tracking.veritas.com
 tracking.vertiv.com
@@ -31317,7 +31233,6 @@ webanalytics.logitechg.com
 webanalytics.logitechg.com.cn
 webanalytics.proff.no
 webanalyticsssl.websense.com
-webbc.fivecdm.com
 webcare.byside.com
 webcasts.de.ni.com
 webcasts.partnermcafee.com
@@ -31545,10 +31460,8 @@ wqfflc.hausgarten.net
 wqfflc.plantopedia.de
 wqudcv.finnishdesignshop.com
 wqytxm.kurly.com
-wranalytics.wildrocket.io
 wrapstretch.com
 wreckvolcano.com
-wren.condenastdigital.com
 wrhv.education.gouv.fr
 writewealth.com
 wrkbha.lyst.de
