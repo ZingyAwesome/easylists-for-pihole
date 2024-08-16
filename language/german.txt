@@ -47,6 +47,8 @@ ad.games.ch
 as.chartsurfer.de
 banner.click-tt.de
 code.bergsteigen.com
+es.alpin.de
+es.kicker.de
 hybrid-prd.ad-prd.s.joyn.de
 lad.sumikai.com
 network.gofeminin.de
@@ -57,8 +59,6 @@ pear.focus.de
 plus.tourispo.com
 res.ki.de
 saas.valuetech.de
-vates.alpin.de
-vates.kicker.de
 wbbanner.mrn-news.de
 werbemanager.w24.at
 x.sumikai.com
