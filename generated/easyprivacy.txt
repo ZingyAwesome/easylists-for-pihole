@@ -5789,7 +5789,6 @@ bdtestsendpulse.branch.rocks
 bdtheque.net.jumia.com.gh
 bdzcck.stadiumgoods.com
 be-go.experian.com
-beacon-v2.helpscout.net
 beacon.adelphic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
@@ -8145,6 +8144,7 @@ data.emails.metro.ro
 data.emails.ringcentral.com
 data.emails.vidacaixa.es
 data.emailservice.vattenfall.nl
+data.embeddables.com
 data.emdev.officedepot.com
 data.eml.wegmans.com
 data.employercomms.aware.com.au
@@ -19966,6 +19966,7 @@ panorama.wixapps.net
 panoramicbutter.com
 panoramicplane.com
 papemz.rcwilley.com
+papi.stylar.ai
 pappagallu.onefootball.com
 paqqlk.motatos.de
 paradoxfactor.com
@@ -20665,6 +20666,7 @@ proudprose.com
 providentcrm.actonservice.com
 prowareness.actonservice.com
 proxy.dzeio.com
+proxy.trysavvy.com
 prudential.distribution.team.prudential.co.uk
 prunas.openapp.link
 prvizg.shurgard.be
@@ -22543,6 +22545,7 @@ services.releasepoint.com
 servicing.business.hsbc.com
 servicing.unitedautocredit.net
 session.timecommerce.net
+sessions.embeddables.com
 setaram.actonservice.com
 setonhill.actonservice.com
 settleshoes.com
