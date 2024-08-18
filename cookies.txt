@@ -65,6 +65,7 @@ consent.stuff.tv
 consent.thecountrysmallholder.com
 consent.thegreatoutdoorsmag.com
 cookie-consent.festo.com
+cookies.giphy.com
 cookies.lmt.lv
 fuse.forbes.com
 gdpr-api.sharethis.com
