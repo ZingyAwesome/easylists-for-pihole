@@ -10137,6 +10137,7 @@ event-tracking.hellohealthgroup.com
 event.api.drift.com
 event.boozallen.com
 event.clubcorp.com
+event.collector.scopely.io
 event.csdn.net
 event.dnv.com
 event.grassicpas.com
@@ -10172,6 +10173,7 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
+events-endpoint.pointandplace.com
 events-logs.doctolib.com
 events-prod.autolist.com
 events-tracker.deliveroo.net
@@ -10202,6 +10204,7 @@ events.ferrari.com
 events.flagship.io
 events.forddirectdealers.com
 events.framer.com
+events.getmodemagic.com
 events.getsitectrl.com
 events.gogoair.com
 events.golubcapital.com
@@ -19402,6 +19405,7 @@ obrazy.dlabiznesu.pracuj.pl
 obrqts.hudforeclosed.com
 obscenesidewalk.com
 observantice.com
+observe-nexus.pointandplace.com
 observe.metarouter.io
 obtfhl.bellemaison.jp
 oca.microsoft.com
