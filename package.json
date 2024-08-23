@@ -31,12 +31,12 @@
     "homepage": "https://github.com/yoavain/easylists-for-pihole#readme",
     "engines": {
         "node": ">= 22",
-        "npm": ">= 9"
+        "npm": ">= 10"
     },
     "devDependencies": {
         "@tsconfig/node22": "22.0.0",
         "@types/jest": "29.5.12",
-        "@types/node": "20.16.1",
+        "@types/node": "22.5.0",
         "@typescript-eslint/eslint-plugin": "8.2.0",
         "@typescript-eslint/parser": "8.2.0",
         "eslint": "8.57.0",
