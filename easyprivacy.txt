@@ -39239,8 +39239,10 @@ h.n11.com
 hit.cnbce.com
 hstats.hepsiburada.com
 hstatstest.hepsiburada.com
+plausible.elbisebul.com
 stats.birgun.net
 tracker.blutv.com
+tracker.grupanya.com
 analytics.cosmonova.net
 counter.nv.ua
 counter.ukr.net
