@@ -22068,6 +22068,7 @@ sanl.footlocker.pl
 sanl.footlocker.pt
 sanl.footlocker.se
 sanmet.originenergy.com.au
+sapi.tremendous.com
 sapphire-api.target.com
 sappmetrics.sprint.com
 sasc.solidworks.com
