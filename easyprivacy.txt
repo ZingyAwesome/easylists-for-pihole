@@ -1392,7 +1392,6 @@ tracker.myyschool.xyz
 tracker.nitropay.com
 tracker.nocodelytics.com
 tracker.novage.com.ua
-tracker.openwebtorrent.com
 tracker.services.vaix.ai
 tracker.smartframe.io
 tracker.softcube.com
