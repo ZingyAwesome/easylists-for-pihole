@@ -4163,6 +4163,7 @@ analytics.pipelife.rs
 analytics.pipelife.se
 analytics.pipelife.si
 analytics.pixels.ai
+analytics.plasmic.app
 analytics.plex.tv
 analytics.plumbworld.co.uk
 analytics.pnc.com
@@ -6624,6 +6625,7 @@ cdn-rum.ngenix.net
 cdn.arcstudiopro.com
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
+cdn.ravm.tv
 cdn.usefathom.com
 cdn1.skrill.com
 cdn7.baunetz.de
@@ -10983,6 +10985,7 @@ g11885060100.co
 g12083144435.co
 g12281228770.co
 g1584674682.co
+g1584674684.co
 g1782759015.co
 g1782759016.co
 g1980843350.co
@@ -18970,7 +18973,6 @@ mwxema.galerieslafayette.com
 mx2.happ.social
 mxmwqo.biosante.com.br
 mxpdsu.bhv.fr
-mxpnl.com
 mxsvjc.hackers.ac
 my-go.experian.com
 my-staging.villa.ge
@@ -19233,6 +19235,7 @@ nnofmj.studiof.com.co
 nnqyed.laredoute.be
 nntgna.dmm.com
 nnvoia.closetworld.com
+no88kks.infinityscans.net
 no9pldds1lmn3.soundcloud.com
 noa.yahoo.com
 noa0.compteczam.fr
@@ -19486,7 +19489,6 @@ ojm4.palladiumhotelgroup.com
 ojmxro.yatsan.com
 ojufuk.vincecamuto.com
 ojvxtz.junonline.jp
-ok88okg.infinityscans.net
 okhwxl.rnainc.jp
 oksiqv.styletread.com.au
 okto1.spsglobal.com
@@ -22610,7 +22612,6 @@ services.cairn.info
 services.eclerx.com
 services.edc.ca
 services.haaretz.co.il
-services.haaretz.com
 services.releasepoint.com
 servicing.business.hsbc.com
 servicing.unitedautocredit.net
@@ -28332,6 +28333,7 @@ tag.lexer.io
 tag.minimaid.co.jp
 tag.mtrcs.samba.tv
 tag.myplay.com
+tag.pearldiver.io
 tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.statshop.fr
