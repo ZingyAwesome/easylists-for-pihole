@@ -16949,6 +16949,7 @@ mchtna.fashionplus.co.kr
 mckiey.thun.com
 mclaren-porthuron.hrm.healthgrades.com
 mcs-ie.tiktokw.eu
+mcs-va-useast2a.tiktokv.com
 mcs-va.tiktokv.com
 mcs.tiktokv.us
 mcs.tiktokw.us
@@ -22611,7 +22612,6 @@ services.blackboard.com
 services.cairn.info
 services.eclerx.com
 services.edc.ca
-services.haaretz.co.il
 services.releasepoint.com
 servicing.business.hsbc.com
 servicing.unitedautocredit.net
@@ -26989,6 +26989,7 @@ stat.stheadline.com
 stat.super.cz
 stat.suresmile.dentsplysirona.com
 stat.taxlive.nl
+stat.testme.cloud
 stat.thegeneral.com
 stat.tiara.daum.net
 stat.tiara.kakao.com
@@ -27902,6 +27903,7 @@ strangesink.com
 strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 strawberry.basf.com
+stream-log.dditscdn.com
 stream.corporatefinanceinstitute.com
 streams.cablecar.sph.com.sg
 streamstats.prd.dlive.tv
@@ -28725,6 +28727,7 @@ telemetry.adobe.io
 telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.boxt.co.uk
+telemetry.canva.com
 telemetry.chrobinson.com
 telemetry.commonspirit.org
 telemetry.dematic.com
