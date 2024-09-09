@@ -167,6 +167,7 @@
 9uim1pc4ej4n.ru.themoneytizer.com
 9ywl0cwf7e37m5yi.tapin.gg
 a-api.skz.dev
+a-da.invideo.io
 a-reporting.nytimes.com
 a-t.topya.com
 a10.nationalreview.com
@@ -3829,6 +3830,7 @@ analytics-cf.bigcrunch.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
 analytics-consent-manager-v2-prod.azureedge.net
+analytics-dataplane.invideo.io
 analytics-gw.games.wanmei.com
 analytics-lgs.corebridgefinancial.com
 analytics-nssl.bradyid.com
@@ -4169,6 +4171,7 @@ analytics.qogita.com
 analytics.qualcomm.com
 analytics.qualityquestions.co
 analytics.qualityunit.com
+analytics.qushad.com
 analytics.radiatemedia.com
 analytics.rambla.be
 analytics.ramiyer.io
@@ -10170,6 +10173,7 @@ events.attentivemobile.com
 events.audiate.me
 events.auth.gid.ru
 events.avaya.com
+events.baselime.io
 events.bendigotafe.edu.au
 events.blackboard.com
 events.brightline.tv
@@ -20213,6 +20217,7 @@ pixel.biano.cz
 pixel.biano.ro
 pixel.blivenyc.com
 pixel.byspotify.com
+pixel.clutter.com
 pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.convertize.io
