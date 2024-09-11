@@ -6,3 +6,4 @@ node_modules/**
 /*.raw.txt
 /temp/
 /raw/
+/tsconfig.tsbuildinfo
