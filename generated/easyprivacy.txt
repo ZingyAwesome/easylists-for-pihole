@@ -6767,6 +6767,7 @@ clamcelery.com
 clammychicken.com
 clammytree.com
 clanker-events.squarespace.com
+clanto.cloud
 clariant.actonservice.com
 clarice.streema.com
 clarifyverse.com
@@ -7726,6 +7727,7 @@ csvtu.bmolending.com
 csyqts.tmon.co.kr
 ct-dev.taskhuman.com
 ct5m.citadium.com
+cta-service-cms2.hubspot.com
 ctc.wolterskluwer.com
 ctd.drivescore.com
 ctdfm.ilgiornale.it
@@ -7983,6 +7985,7 @@ data.accenturemkt.adobesandbox.com
 data.accentureplcmkt.adobesandbox.com
 data.accionista.caixabank.com
 data.account.assurancewireless.com
+data.acierto.com
 data.adlermode.com
 data.ajodev.cbussuper.com.au
 data.ajopharmabeta.riteaid.com
@@ -18748,6 +18751,7 @@ mmobsz.edenviaggi.it
 mmulsx.comet.it
 mmz3.beinsports.com
 mnfqyj.corello.com.br
+mngusr.com
 mnrddc.journeys.com
 mnwljk.ibagy.com.br
 moa.mediaoutcast.com
@@ -21530,6 +21534,7 @@ rum.azion.com
 rum.azioncdn.net
 rum.condenastdigital.com
 rum.corewebvitals.io
+rum.hlx.page
 rum.marquardmedia.hu
 rum.perfops.net
 rum.uptime.com
@@ -27476,6 +27481,7 @@ stats.projectcongress.com
 stats.psychotherapieravensburg.de
 stats.pubfind.io
 stats.pusher.com
+stats.pushloop.io
 stats.qdq.com
 stats.qovery.com
 stats.quicksilvercre.com
@@ -28748,6 +28754,7 @@ test.findeck.link
 test.findplay.it
 test.go.provident.bank
 test.gogoinflight.com
+test.legitcode.ws
 test.links.emails.br.discoveryplus.com
 test.links.emails.ca.discoveryplus.com
 test.links.emails.discoveryplus.com
@@ -31106,6 +31113,7 @@ wcs.naver.com
 wct-2.com
 wddnff.bonprix.cz
 wdnyom.faces.com
+wds.weqs.me
 wdsgpy.lekarna.cz
 wdukge.midwayusa.com
 we-love-privacy.humane.club
