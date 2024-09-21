@@ -100,7 +100,6 @@ consens.conlabz.de
 consent-wrapper.jameda.de
 consent.berliner-kurier.de
 consent.gutefrage.net
-consent.perry-rhodan.net
 consent.werner-mertz.de
 consent2.rheinische-anzeigenblaetter.de
 consenttool.haendlerbund.de
