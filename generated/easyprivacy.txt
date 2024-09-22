@@ -4220,6 +4220,7 @@ analytics.snidigital.com
 analytics.soluforce.com
 analytics.southpointcasino.com
 analytics.spark.co.nz
+analytics.spearly.com
 analytics.spun.com.br
 analytics.strangeloopnetworks.com
 analytics.superstation.com
@@ -6876,6 +6877,7 @@ clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-analytics.mts.ru
 client-log.box.com
+client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
 client-metrics.chess.com
