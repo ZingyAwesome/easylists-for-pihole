@@ -6768,7 +6768,6 @@ clamcelery.com
 clammychicken.com
 clammytree.com
 clanker-events.squarespace.com
-clanto.cloud
 clariant.actonservice.com
 clarice.streema.com
 clarifyverse.com
@@ -16877,6 +16876,8 @@ materialplayground.com
 math.meistercody.com
 matheranalytics.com
 mathilde-ads.com
+mato.clanto.cloud
+matomo.clanto.cloud
 matrix.elecle.bike
 matrix.hbo.com
 matrix.itshboanytime.com
@@ -28832,7 +28833,6 @@ thanks.hubspaces.jp
 thanks.olivesitter.com
 thaqyl.mediamarkt.nl
 thatmonkeybites3.com
-the-ozone-project.com
 thebasiccompanies.actonservice.com
 thebdx.actonservice.com
 thecea.actonservice.com
