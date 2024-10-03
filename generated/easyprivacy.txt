@@ -6336,6 +6336,7 @@ bucketbean.com
 budibu.saksfifthavenue.com
 buf.lemonde.fr
 bugjyl.jkattire.co.uk
+bugsnag.shopbop.amazon.dev
 build.bildgta.ca
 buildingknife.com
 bulbbait.com
@@ -16863,6 +16864,7 @@ marshinsurance.actonservice.com
 marsupial.roleup.com
 martech.condenastdigital.com
 martech.wavenet.com.tw
+marty.zappos.com
 mas.hronboard.me
 mas.marsh.com
 mas.nth.ch
@@ -18841,6 +18843,7 @@ motionlessmeeting.com
 motista.actonservice.com
 motm.adp.ca
 motorsports.locktonaffinity.net
+motu-teamblue.services
 mountainouspear.com
 mousebusters.odencat.com
 move.azets.com
@@ -19354,6 +19357,7 @@ nvxlag.liligo.fr
 nwajdf.zakzak.co.jp
 nwbmvq.jockey.com
 nwfkjx.gadventures.com
+nwr.static.mmcdn.com
 nws.naltis.com
 nwvupz.cljoias.com.br
 nwwucx.palemoba.com
@@ -29238,6 +29242,7 @@ track.yfret.com
 track.yieldsoftware.com
 track.youniversalmedia.com
 track.zapimoveis.com.br
+track.zappos.com
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
@@ -30490,6 +30495,7 @@ uatshare.entertainment.com
 uawefo.guylook.co.kr
 ubdjfy.maje.com
 ubdsej.notino.pl
+ubiquitoussea.com
 ubiquitousyard.com
 ubmdob.connection.com
 ubmups.houseofindya.com
