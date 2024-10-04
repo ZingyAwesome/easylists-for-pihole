@@ -38868,6 +38868,7 @@ ams.lelong.com.my
 analytics-gw.games.wanmei.com
 analytics.163.com
 analytics.cnblogs.com
+analytics.ifanrusercontent.com
 analytics.oceanengine.com
 analytics.shop.hisense.com
 analytics.yicai.com
@@ -38876,6 +38877,7 @@ apiwmda.58.com.cn
 applog.yiche.com
 banana.le.com
 bc.qunar.com
+beacon.cdn.qq.com
 beacon.qq.com
 channel-analysis-js.gmw.cn
 cherry.le.com
@@ -38916,6 +38918,7 @@ log-upload-os.hoyoverse.com
 log.bitauto.com
 log.flight.qunar.com
 log.m.sm.cn
+log.mgtv.com
 log.mix.sina.com.cn
 log.sina.cn
 log.zongheng.com
