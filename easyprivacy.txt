@@ -160,6 +160,7 @@ gbqofs.com
 gcprivacy.com
 geoedge.be
 getdeviceinf.com
+getjan.io
 glamipixel.com
 glimr.io
 go-mpulse.net
@@ -2884,6 +2885,7 @@ content22.online.citi.com
 drfdisvc.walmart.com
 event.evtm.53.com
 idstatus.sky.com
+img2021.navyfederal.org
 imgs.signifyd.com
 qfp.intuit.com
 rba-screen.healthsafe-id.com
