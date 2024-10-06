@@ -11226,6 +11226,7 @@ getconnected.infor.com
 getdev.payso.ca
 getdeviceinf.com
 getinfo.fullsail.edu
+getjan.io
 getl4w.lookout.com
 getpxq.rivolishop.com
 gets.myoyster.mx
@@ -12535,6 +12536,7 @@ img.newsletter.mazda.co.jp
 img.response.digicert.com
 img.simply.bwin.com
 img.yemeksepeti.com
+img2021.navyfederal.org
 imgict.dwtcmarketing.com
 imginfo.insource.co.jp
 imgmail.mediasetpremium.it
