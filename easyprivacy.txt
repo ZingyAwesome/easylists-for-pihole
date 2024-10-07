@@ -2263,7 +2263,6 @@ analytics-wcms.joins.net
 analytics-zone-1.api.leadfamly.com
 analytics.3c5.com
 analytics.academy.com
-analytics.adfreetime.com
 analytics.archive.org
 analytics.brave.com
 analytics.chase.com
@@ -2304,7 +2303,6 @@ anon-stats.eff.org
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 appanalysis.banggood.com
-atrack.allposters.com
 ats.alot.com
 aurum.tirto.id
 b629.electronicdesign.com
@@ -2500,7 +2498,6 @@ hlogger.heraldcorp.com
 htrace.wetvinfo.com
 i.pokernews.com
 iam-rum-intake.datadoghq.com
-iedc.fitbit.com
 iguazu.doordash.com
 ih.newegg.com
 impressions.svc.abillion.com
@@ -2618,7 +2615,6 @@ pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 pixel.clutter.com
 pixel.convertize.io
 pixel.facebook.com
-pixel.honestjohn.co.uk
 pixel.ionos.com
 pixel.nine.com.au
 pixel.tuko.co.ke
@@ -2779,7 +2775,6 @@ target.nejm.org
 targeting.washpost.nile.works
 tc.geniusmonkey.com
 td.airdroid.com
-ted.dailymail.co.uk
 telegraph.prd.api.max.com
 telem.sre.gopuff.com
 telemetry.adobe.io
