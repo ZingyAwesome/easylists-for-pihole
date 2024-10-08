@@ -3854,7 +3854,6 @@ analytics-wcms.joins.net
 analytics-zone-1.api.leadfamly.com
 analytics.academy.com
 analytics.adam.page
-analytics.adfreetime.com
 analytics.adliners.de
 analytics.adobe.io
 analytics.adobe.ly
@@ -5464,7 +5463,6 @@ atlanticlabequipment.actonservice.com
 atlastravel.actonservice.com
 atlasworldusa.actonservice.com
 atlkse.aosom.it
-atrack.allposters.com
 ats.alot.com
 atsmetrics.adobe.com
 atsmobile.actonservice.com
@@ -12010,7 +12008,6 @@ idyllicjazz.com
 ie-business.vodafone.com
 ie-go.experian.com
 ie-mktg.vodafone.com
-iedc.fitbit.com
 ieeowa.marcjacobsbeauty.com
 iefiop.raizs.com.br
 ieg.intel.com
@@ -20253,7 +20250,6 @@ pixel.europapress.net
 pixel.facebook.com
 pixel.fohr.co
 pixel.homebook.pl
-pixel.honestjohn.co.uk
 pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
@@ -28672,7 +28668,6 @@ techpump.com
 techservices.trapptechnology.com
 techsupport.balluff.com
 teczbq.amicashop.com
-ted.dailymail.co.uk
 tediousbear.com
 tediousticket.com
 tedioustooth.com
