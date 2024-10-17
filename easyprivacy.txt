@@ -645,7 +645,6 @@ bi.medscape.com
 bmrg.reflected.net
 bonfire.spklw.com
 botdetection.hbrsd.com
-browser.covatic.io
 browser.pipe.aria.microsoft.com
 bs.yandex.ru
 c.amazinglybrilliant.com.au
@@ -1263,6 +1262,7 @@ stream-log.dditscdn.com
 streams.cablecar.sph.com.sg
 sts.eccmp.com
 sunlightmetrics.b-cdn.net
+surfshark.events
 survey.interquest.com
 svibeacon.onezapp.com
 sync.adap.tv
