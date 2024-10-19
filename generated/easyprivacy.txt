@@ -6883,6 +6883,7 @@ client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
 client-metrics.chess.com
+client.perimeterx.net
 client.trustaff.com
 clients.belairdirect.com
 clients.intact.ca
@@ -19301,6 +19302,7 @@ nqyuel589fq5.esgrounding.com
 nr-data.noelleeming.co.nz
 nra.locktonaffinity.net
 nrjcur.pomelofashion.com
+nrpukcsgboqr0gz2o8.www.bolighub.dk
 nrquff.supurgemarket.com
 nrstxi.envieshoes.gr
 nrtubi.sobrico.com
