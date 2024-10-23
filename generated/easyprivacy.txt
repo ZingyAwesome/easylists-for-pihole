@@ -7732,7 +7732,6 @@ csvtu.bmolending.com
 csyqts.tmon.co.kr
 ct-dev.taskhuman.com
 ct5m.citadium.com
-cta-service-cms2.hubspot.com
 ctc.wolterskluwer.com
 ctd.drivescore.com
 ctdfm.ilgiornale.it
@@ -22633,6 +22632,7 @@ sg-go.experian.com
 sg3.notarize.com
 sgali-mcs.byteoversea.com
 sggsbd.fonteyn.nl
+sgmntfy.com
 sgms.greatschools.org
 sgsb.aba.com
 sgstats.com
