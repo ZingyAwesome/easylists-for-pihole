@@ -4282,6 +4282,7 @@ analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
 analytics.vixcloud.co
+analytics.vortexscans.com
 analytics.warnertv.fr
 analytics.wavebox.io
 analytics.wayland.app
@@ -11735,6 +11736,7 @@ hitachi-hightech-as.actonservice.com
 hitmse.altinbas.com
 hits.dealer.com
 hits.getelevar.com
+hits.gokwik.co
 hits.guardian.co.uk
 hits.informer.com
 hits.letras.mus.br
@@ -20760,6 +20762,7 @@ pulsar.ebay.com
 pulsatingmeadow.com
 pulse.delta.com
 pulse.munsonhealthcare.org
+pulse.shopflo.com
 pumlmb.netcologne.de
 pumpedpancake.com
 pumpedpurpose.com
@@ -26234,6 +26237,7 @@ squirrel.cividi.ch
 squirrel.malaynahocker.com
 squirrelhands.com
 sr59t7wbx5.claricelin.com
+src.freshmarketer.in
 srd1-pdx.net.jumia.ci
 srepdata.app.com
 srepdata.armytimes.com
