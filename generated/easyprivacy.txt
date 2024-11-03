@@ -8520,6 +8520,7 @@ deeplinks.pebblebee.com
 deeplinks.twelve.dynamify.com
 deeplinktest.yooture.info
 deeplinkuat.upoker.net
+deeptack.com
 deerbeginner.com
 defeatedbadge.com
 defectivedress.com
@@ -15430,6 +15431,7 @@ magento-recs-sdk.adobe.net
 maggieeatstheangel.com
 magic.freetrade.io
 magicaljoin.com
+magicminibox.com
 magiczenith.com
 magnetairport.com
 magnificentmeasure.com
@@ -28983,7 +28985,6 @@ tms.hft.greenchef.com
 tms.hft.hellofresh.com
 tmt.intelligence.informa.com
 tmvasapp.fitnessyard.com
-tmx.bestbuy.com
 tmx.td.com
 tmxjdr.benaza.ro
 tmy8.madeindesign.ch
