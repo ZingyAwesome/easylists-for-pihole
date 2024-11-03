@@ -23,7 +23,6 @@ messaging.sourcepoint.com
 optanon.blob.core.windows.net
 plugin.management
 privacy-cdn.sixfifty.com
-privacy.digimedia.com
 ressource.gdpr-banner.awsmpsa.com
 smarteucookiebanner.upsell-apps.com
 sync-transcend-cdn.com
@@ -57,7 +56,6 @@ cmp.telerama.fr
 cmp.uniconsent.com
 cmpv2.pcworld.com
 consent.23g.io
-consent.amateurphotographer.co.uk
 consent.canalboat.co.uk
 consent.lifetouch.com
 consent.nationalworld.com
@@ -82,14 +80,10 @@ sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
 sourcepoint.avclub.com
 sourcepoint.deadspin.com
-sourcepoint.dexerto.com
-sourcepoint.gizmodo.com
 sourcepoint.jalopnik.com
 sourcepoint.theonion.com
 sourcepoint.theroot.com
-sourcepoint.thetakeout.com
 transcendcdn.eventbrite.com
-vg247-p2.vg247.com
 vg247-uk.vg247.com
 9jdq2a.poco.de
 cc.diewebsitemacherei.de
@@ -102,7 +96,6 @@ cmp.wetteronline.de
 consens.conlabz.de
 consent-wrapper.jameda.de
 consent.berliner-kurier.de
-consent.gutefrage.net
 consent.werner-mertz.de
 consent2.rheinische-anzeigenblaetter.de
 consenttool.haendlerbund.de
