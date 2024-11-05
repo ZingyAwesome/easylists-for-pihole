@@ -10034,6 +10034,7 @@ erraticreaction.com
 error-collector.ted.com
 error.videonow.ru
 errorreports.couponcabin.com
+errors.darkreader.app
 errors.snackly.co
 ert5.rmcsport.tv
 erutinmos.snagajob.com
@@ -27003,6 +27004,7 @@ statistic2.reichelt.de
 statisticplatform.com
 statistics.csob.cz
 statistics.daktilo.com
+statistics.darkreader.app
 statistics.fppressa.ru
 statistics.heatbeat.de
 statistics.jfmedier.dk
@@ -27159,6 +27161,7 @@ stats.cybersim.de
 stats.dailyposter.com
 stats.danestevens.dev
 stats.danielwolf.photography
+stats.darkreader.app
 stats.dashbit.co
 stats.datahjaelp.net
 stats.datamanie.cz
