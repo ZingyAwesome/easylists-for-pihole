@@ -6653,6 +6653,7 @@ cerionnano.actonservice.com
 certify.nasm.org
 cesa6.actonservice.com
 cesario.bt.no
+cf-pixelfront-analytics.widencdn.net
 cfa.fidelity.com
 cfaexam.quantresear.ch
 cfpwood.actonservice.com
