@@ -7076,6 +7076,7 @@ collect2.allianz.ch
 collection.saga.co.uk
 collections.equifax.com
 collector-api.frspecifics.com
+collector-direct.xhamster.com
 collector-px0py5pczn.octopart.com
 collector.api.video
 collector.appconsent.io
@@ -7101,6 +7102,7 @@ collector.wawlabs.com
 collector.xhaccess.com
 collector.xhamster.com
 collector.xhamster.desi
+collector.xhamsterporno.mx
 collector2c.zhihuishu.com
 collector5.zipy.ai
 college.business.oregonstate.edu
@@ -19789,6 +19791,7 @@ orbis.actonservice.com
 ordbng.extra.com.br
 ordpmx.victorianplumbing.co.uk
 oregonstate.actonservice.com
+organiccdn.io
 organizations.stratfor.com
 orhdev.com
 orientedargument.com
@@ -27388,6 +27391,7 @@ stats.lippeshirts.de
 stats.literacysomerset.org
 stats.literaturkreis.online
 stats.lmdsp.com
+stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
