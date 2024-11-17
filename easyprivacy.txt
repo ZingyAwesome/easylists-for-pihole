@@ -2008,6 +2008,7 @@ log.f-tra.com
 log.gs3.goo.ne.jp
 log.popin.cc
 logger.torimochi-ad.net
+logs.chatboost-cv.algoage.co.jp
 mail-count.matsui.co.jp
 metrics.streaks.jp
 omt.shinobi.jp
@@ -39132,6 +39133,7 @@ rtm-tracking.zozo.jp
 stats.nhk.or.jp
 sy.amebame.com
 sy.ameblo.jp
+t.rentio.jp
 t.syosetu.org
 temp.twicomi.com
 track.buyma.com
