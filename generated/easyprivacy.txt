@@ -9401,7 +9401,6 @@ elderlybean.com
 elderlyinsect.com
 elderlyscissors.com
 elderlytown.com
-ele26126.jscrambler.com
 electrifai.actonservice.com
 electronics.edm.globalsources.com
 electronics.tradeshow.globalsources.com
@@ -10201,6 +10200,7 @@ events.btw.so
 events.careallies.com
 events.centex.com
 events.chaordicsystems.com
+events.character.ai
 events.cigna.com
 events.coface.com
 events.demoup.com
@@ -20652,6 +20652,7 @@ prod.fennec.atp.fox
 prod.nitrosniffer.ottogroup.io
 prod.tracking.refinitiv.com
 proditor.sparda.de
+prodregistryv2.org
 producecopy.com
 producepickle.com
 product.cloud.travelport.com
