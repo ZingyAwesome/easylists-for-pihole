@@ -15215,6 +15215,7 @@ log.zongheng.com
 log000.goo.ne.jp
 log2.sina.cn
 logbak.hicloud.com
+logcollector.note.com
 logger.bzu.kr
 logger.kataweb.it
 logger.nerdwallet.com
