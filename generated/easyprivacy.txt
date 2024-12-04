@@ -3982,6 +3982,7 @@ analytics.eventbrite.com
 analytics.evo.co.uk
 analytics.faceitanalytics.com
 analytics.faprika.net
+analytics.fatmedia.io
 analytics.favcy.com
 analytics.ferguson.com
 analytics.firespring.com
