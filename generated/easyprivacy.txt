@@ -5824,6 +5824,7 @@ beacon.walmart.com
 beacon.watch.impress.co.jp
 beaconcdn.qq.com
 beaconhealthsystem.hrm.healthgrades.com
+beacons.digital.disneyadvertising.com
 beacons.mediamelon.com
 beadbears.com
 beafdf.restaupro.com
@@ -7010,6 +7011,7 @@ cnpxwl.cheapcaribbean.com
 cns-service.actonservice.com
 cnsecurity.actonservice.com
 cnstats.cdev.eu
+cnstrc.com
 cnt.iceporn.com
 cnt.iol.it
 cnt.logoslovo.ru
@@ -19250,6 +19252,7 @@ noa0.compteczam.fr
 nocaadobefpc.optus.com.au
 nocturnalloom.com
 nocturnalmystique.com
+nodethisweek.com
 noflake-aggregator-http.narvar.com
 nogxjk.dackonline.se
 nohaxn.damattween.com
@@ -19470,6 +19473,7 @@ offers.desertschools.org
 offers.hddistributors.com
 offers.jazelauto.com
 offers.storagepipe.com
+offshorecyclone.com
 ofkqiy.knowfashionstyle.com
 ofqkbk.proclipusa.com
 ofvosb.jumbo.com.tr
@@ -20305,6 +20309,7 @@ pixel6.wp.pl
 pixeledhub.com
 pixels.afcdn.com
 pixels.boxberry.ru
+pixelvariety.com
 pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
 pixmg.com
@@ -29320,6 +29325,7 @@ tracker.bt.uol.com.br
 tracker.cauly.co.kr
 tracker.cdnbye.com
 tracker.comagic.ru
+tracker.curama.jp
 tracker.decomworld.com
 tracker.digitalcamp.co.kr
 tracker.downdetector.com
