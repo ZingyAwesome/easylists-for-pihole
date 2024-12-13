@@ -6672,6 +6672,7 @@ cgqkhc.trendyol.com
 cgsisl.owllabs.com
 cgwebmetrics.capgroup.com
 ch0p.darty.com
+chademocharge.com
 chaireggnog.com
 chairscrack.com
 chairsdonkey.com
@@ -10261,7 +10262,6 @@ events.ricoh.ie
 events.santander.co.uk
 events.shareably.net
 events.sk.ht
-events.split.io
 events.squarespace.com
 events.storifyme.com
 events.tafensw.edu.au
@@ -11434,7 +11434,6 @@ governmentcloud.avaya.com
 govirtualoffice.actonservice.com
 gowestgroup.actonservice.com
 gowhiteowl.actonservice.com
-goya.rutube.ru
 gozncj.stealthangelsurvival.com
 gpiljd.thetiebar.com
 gpplus-app.hotdoc.com.au
