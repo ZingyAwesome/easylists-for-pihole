@@ -15245,6 +15245,7 @@ loglady.skypicker.com
 logql.yahoo.co.jp
 logs-api.shoprunner.com
 logs-partners.coupang.com
+logs.adplay.ru
 logs.animaapp.com
 logs.hotstar.com
 logs.mezmo.com
@@ -26951,6 +26952,7 @@ stat.dauc.cz
 stat.dbschenker.com
 stat.detelefoongids.nl
 stat.eagleplatform.com
+stat.fly.codes
 stat.funshion.net
 stat.glaze.ai
 stat.gomastercard.com.au
