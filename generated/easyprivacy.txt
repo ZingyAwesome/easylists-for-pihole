@@ -18719,6 +18719,7 @@ mittencattle.com
 mix-omniture.rbs.com
 mixedreading.com
 mixomniture.rbs.com
+mixpanel-proxy.coingecko.com
 mixpanel-proxy.ted.com
 mixxuo.sportys.gr
 mjca-yijws.global.ssl.fastly.net
