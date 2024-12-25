@@ -1275,6 +1275,7 @@ stats2.indianpornempire.com
 statsapi.screen9.com
 statscollector-1.agora.io
 statscollector.sd-rtn.com
+statsig.anthropic.com
 statsjs.klevu.com
 statt-collect.herokuapp.com
 stg-data-collector.playbuzz.com
@@ -2717,6 +2718,7 @@ rum.condenastdigital.com
 rvo-cohesion.healthline.com
 s.gofile.io
 s.infogram.com
+s.pie.org
 s.wayfair.com
 sa.uswitch.com
 saa.insideedition.com
@@ -39110,6 +39112,7 @@ track.tesiteca.it
 tracker.stileo.it
 tracking.gruppo.mps.it
 ad-platform.jmty.jp
+altema-log.com
 ana.3751chat.com
 ana.chat.shalove.net
 ana.luvul.net
