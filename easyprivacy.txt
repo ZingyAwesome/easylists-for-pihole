@@ -2932,6 +2932,7 @@ event.evtm.53.com
 idstatus.sky.com
 img2021.navyfederal.org
 imgs.signifyd.com
+log-185a61e7.bendigobank.com.au
 qfp.intuit.com
 rba-screen.healthsafe-id.com
 rsx.afterpay.com
@@ -2941,6 +2942,7 @@ tmetrix.my.chick-fil-a.com
 tmx.td.com
 u47.pnc.com
 w-profiling.simplii.com
+wup-185a61e7.bendigobank.com.au
 bup.bankofamerica.com
 cdn1.skrill.com
 d276.ourmidland.com
