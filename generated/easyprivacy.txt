@@ -7069,6 +7069,7 @@ collect.verify.lnearn.com
 collect2.allianz.ch
 collection.saga.co.uk
 collections.equifax.com
+collector-1.ex.co
 collector-api.frspecifics.com
 collector-direct.xhamster.com
 collector-px0py5pczn.octopart.com
@@ -11991,6 +11992,7 @@ ideadevice.actonservice.com
 ideas.nanawall.com
 identification.hotmart.com
 idg1.idgarages.com
+idhtm.bb.com.br
 idianw.warmteservice.nl
 idlqzb.puntoscolombia.com
 idm.api.autohome.com.cn
