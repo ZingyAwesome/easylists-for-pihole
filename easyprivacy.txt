@@ -2922,6 +2922,7 @@ gj.mmstat.com
 oneid.mmstat.com
 cfa.fidelity.com
 clear.wallapop.com
+content.canadiantire.ca
 content22.bmo.com
 content22.citibank.com.au
 content22.citibankonline.com
@@ -38660,6 +38661,7 @@ geoip.finanzen.net
 hokuspokus.tarnkappe.info
 llntrack.messe-duesseldorf.de
 lokalwerben.t-online.de
+lynx.gruender.de
 mat.ukraine-nachrichten.de
 metrics.n-tv.de
 navigation-timing.meinestadt.de
