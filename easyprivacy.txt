@@ -822,6 +822,7 @@ event.instiengage.com
 event.syndigo.cloud
 event.webcollage.net
 eventapi.libring.com
+eventcollector.mcf-prod.a.intuit.com
 eventgateway.soundcloud.com
 eventlog.chatlead.com
 eventlog.inspsearchapi.com
@@ -9915,8 +9916,6 @@ samc.zuerilaufcup.ch
 same.zkb.ch
 same.zkb.co.uk
 sametrics.finn.no
-sams.11freunde.de
-sams.spiegel.de
 samt.frankly.ch
 samt.swisscanto.com
 samt.zkb.ch
@@ -15174,7 +15173,6 @@ tt.ubs.com
 tt.ulsterbank.co.uk
 tt.ulsterbank.ie
 ttarget.eastwestbank.com
-ttmetrics.faz.net
 ttmetrics.jcpenney.com
 ucmetrics.hypovereinsbank.de
 ucmetrics.unicredit.it
