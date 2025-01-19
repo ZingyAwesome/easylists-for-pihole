@@ -3129,6 +3129,7 @@ abstractedamount.com
 abstractedauthority.com
 absurdapple.com
 absurdwater.com
+absys.web.de
 abt.bauhaus.es
 abt.bauhaus.info
 abt.nike.com
@@ -3887,6 +3888,7 @@ analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bgr.com
 analytics.bigfishgames.com
+analytics.bitchute.com
 analytics.bitrix.info
 analytics.blackboard.com
 analytics.bleacherreport.com
@@ -5466,6 +5468,7 @@ atlastravel.actonservice.com
 atlasworldusa.actonservice.com
 atlkse.aosom.it
 ats.alot.com
+ats.otto.de
 atsmetrics.adobe.com
 atsmobile.actonservice.com
 attend.motorcycleshows.com
@@ -7475,6 +7478,7 @@ content.recordpoint.com
 content.rightsourcemarketing.com
 content.sffirecu.org
 content.stage.mini.pix.style
+content.tab.com.au
 content.tacticalma.com
 content.tatatelebusiness.com
 content.timetogather.co.uk
@@ -9010,6 +9014,7 @@ dolrfm.fotoregistro.com.br
 domainbntest.branchcustom.xyz
 domino.flycl.ps
 domorewithless.adp.ca
+domself.de
 donjigrad.viessmann.rs
 donkeyleaf.com
 doorbrazil.com
@@ -10507,6 +10512,7 @@ feedback.avigilon.com
 feedback.campbellmetal.com
 feedback.imsmetals.com
 feedback.lifeguardarena.com
+feedten.com
 feignedfaucet.com
 femetrics.grammarly.io
 feppiu.systemaction.es
@@ -18856,6 +18862,7 @@ move.azets.no
 move.azets.se
 movemeal.com
 mowfruit.com
+mowgoats.com
 mowvra.idlookmall.com
 moxtra.actonservice.com
 mpakal.openapp.link
