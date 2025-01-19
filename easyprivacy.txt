@@ -95,6 +95,7 @@ dlxpix.net
 dm-event.net
 dmepyodjotcuks.com
 dmpxs.com
+domself.de
 doublestat.info
 dspx.tv
 dttrk.com
@@ -1712,6 +1713,7 @@ analytics.gameforge.de
 analytics.idfnet.net
 analytics.media-proweb.de
 artemis-cdn.ocdn.eu
+ats.otto.de
 beagle.prod.tda.link
 blacktri-a.akamaihd.net
 cgicounter.onlinehome.de
@@ -2288,6 +2290,7 @@ analytics.3c5.com
 analytics.academy.com
 analytics.ahrefs.dev
 analytics.archive.org
+analytics.bitchute.com
 analytics.brave.com
 analytics.chase.com
 analytics.cookiefirst.dev
@@ -2919,6 +2922,7 @@ oneid.mmstat.com
 cfa.fidelity.com
 clear.wallapop.com
 content.canadiantire.ca
+content.tab.com.au
 content22.bmo.com
 content22.citibank.com.au
 content22.citibankonline.com
@@ -38624,6 +38628,7 @@ zelle.odencat.com
 zombieslayer-alternate.kano.link
 zombieslayer.kano.link
 1438976156.recolution.de
+absys.web.de
 agnes.waz.de
 analytics.adliners.de
 analytics.daasrv.net
