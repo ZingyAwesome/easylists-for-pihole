@@ -672,6 +672,7 @@ castify-trk.playitviral.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
 cdn-channels-pixel.ex.co
+cdn.polarbyte.com
 cdn.ravm.tv
 cdns.brsrvr.com
 cf-pixelfront-analytics.widencdn.net
