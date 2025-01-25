@@ -6617,6 +6617,7 @@ cdn-rum.ngenix.net
 cdn.arcstudiopro.com
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
+cdn.polarbyte.com
 cdn.ravm.tv
 cdn.usefathom.com
 cdn1.skrill.com
