@@ -1275,7 +1275,6 @@ statsig.anthropic.com
 statsjs.klevu.com
 statt-collect.herokuapp.com
 stg-data-collector.playbuzz.com
-stk.px-cloud.net
 stream-log.dditscdn.com
 streams.cablecar.sph.com.sg
 sts.eccmp.com
@@ -2711,6 +2710,7 @@ rs.mail.ru
 rstat.rockmostbet.com
 rt.newswire.ca
 rt.prnewswire.com
+rt.whitebridge.ai
 rta.dailymail.co.uk
 rta2.inews.co.uk
 rta2.metro.co.uk
