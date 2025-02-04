@@ -4,6 +4,7 @@ adtech.vivimedia.it
 advx.esprimo.com
 affiliatetxt.nextmediaweb.com
 bannerpress.bps.plap.it
+limone.iltrovatore.it
 ad.jamba.it
 ad.missena.io
 adagiobanner.s3.amazonaws.com
