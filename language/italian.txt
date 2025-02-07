@@ -7,10 +7,8 @@ bannerpress.bps.plap.it
 d1yhzddoi8ev99.cloudfront.net
 d2moz0h55szev9.cloudfront.net
 d3f4nuq5dskrej.cloudfront.net
-limone.iltrovatore.it
 digitaladv.despar.it
-free.netsons.com
-iads.iltrovatore.it
+limone.iltrovatore.it
 middycdn-a.akamaihd.net
 mmvid.s3.amazonaws.com
 netrefer-a.akamaihd.net

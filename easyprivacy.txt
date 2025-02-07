@@ -1720,6 +1720,7 @@ analytics.idfnet.net
 analytics.media-proweb.de
 artemis-cdn.ocdn.eu
 ats.otto.de
+b.nativendo.de
 beagle.prod.tda.link
 blacktri-a.akamaihd.net
 cgicounter.onlinehome.de
