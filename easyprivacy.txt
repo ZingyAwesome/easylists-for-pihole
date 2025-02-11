@@ -899,6 +899,7 @@ geoip.instiengage.com
 geoip.nekudo.com
 geolocation.outreach.com
 geoservice.curse.com
+geotags.refinery89.com
 gi-client-tracking.goodgamestudios.com
 go.activengage.com
 green-griffin-860.appspot.com
@@ -37435,7 +37436,6 @@ link.truckerpath.com
 link.trycircle.com
 link.trymida.com
 link.trytaptab.com
-link.tubi.tv
 link.tul.io
 link.tumblbug.com
 link.tupinambaenergia.com.br
@@ -39110,6 +39110,7 @@ mklik.gazeta.pl
 p.gazeta.pl
 pixel.wp.pl
 rek.www.wp.pl
+ss.woodupp.pl
 stats.teledyski.info
 yctjw54slxrwwlh.trybawaryjny.pl
 audience-mostread.r7.com
