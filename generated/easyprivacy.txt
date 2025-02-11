@@ -14788,7 +14788,6 @@ link.truckerpath.com
 link.trycircle.com
 link.trymida.com
 link.trytaptab.com
-link.tubi.tv
 link.tul.io
 link.tumblbug.com
 link.tupinambaenergia.com.br
