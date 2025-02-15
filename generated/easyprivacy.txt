@@ -5101,7 +5101,6 @@ app.tagachi.io
 app.tajawal.com
 app.talksport.com
 app.task.io
-app.teachfx.com
 app.tech.pentontech.com
 app.test.elly.com
 app.texasperformingarts.org
