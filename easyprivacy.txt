@@ -1123,6 +1123,7 @@ processor.asccommunications.com
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
 prodregistryv2.org
+propsid.b-cdn.net
 proxy.dzeio.com
 proxy.trysavvy.com
 pt.crossmediaservices.com
@@ -35109,7 +35110,6 @@ app.tagachi.io
 app.tajawal.com
 app.talksport.com
 app.task.io
-app.teachfx.com
 app.test.elly.com
 app.th3rdwave.coffee
 app.theachieveapp.com
