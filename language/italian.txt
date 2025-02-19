@@ -12,8 +12,6 @@ limone.iltrovatore.it
 middycdn-a.akamaihd.net
 roi.ediscom.it
 unifiedads.magellanotech.it
-widget.promoqui.it
-widgets.shop.moda.it
 adserver.ilgazzettinovesuviano.com
 adv-img.edilportale.com
 banner.moscarossa.biz
