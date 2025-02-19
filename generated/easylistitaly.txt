@@ -17,5 +17,3 @@ roi.ediscom.it
 rtbuzz.net
 shoppydoo.com
 unifiedads.magellanotech.it
-widget.promoqui.it
-widgets.shop.moda.it
