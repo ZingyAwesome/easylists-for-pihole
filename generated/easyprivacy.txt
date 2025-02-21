@@ -7446,6 +7446,7 @@ content.ceriumnetworks.com
 content.commandc.com
 content.convio.com
 content.czarnowski.com
+content.discover.com
 content.distium.com
 content.eaton.com
 content.enlightiumacademy.com
