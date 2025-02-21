@@ -356,8 +356,11 @@ amuseer.com
 an.media-active.ru
 analytic.press
 anidublink.ru
+anilibriaz.ru
+animegofan.ru
 animesvost.ru
 annienne.com
+antiblockseries.ru
 api-keks.com
 api-marketolog.mts.ru
 api.smartadv.ru
@@ -1227,6 +1230,7 @@ searchfun.in
 seed.by
 seligers.ru
 senkevich-vk.net
+senpaianime.ru
 sergh34ds.com
 serveac.com
 server2034.ru

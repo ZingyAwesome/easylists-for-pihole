@@ -2933,6 +2933,7 @@ oneid.mmstat.com
 cfa.fidelity.com
 clear.wallapop.com
 content.canadiantire.ca
+content.discover.com
 content.tab.com.au
 content22.bmo.com
 content22.citibank.com.au
