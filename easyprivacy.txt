@@ -2849,6 +2849,7 @@ tms.hft.hellofresh.com
 tongji-res.meizu.com
 top.wn.com
 touch.myntra.com
+tr.api.fanbyte.com
 tr.clickstay.com
 tr.www.cloudflare.com
 track-visit.monday.com
