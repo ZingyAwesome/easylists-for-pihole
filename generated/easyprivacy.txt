@@ -18829,7 +18829,6 @@ monacobeatles.com
 money.clerkie.io
 monicaatron.com
 monitor-api.blackcrow.ai
-monitor.azure.com
 monitor.music.qq.com
 monitoring.iraiser.eu
 monorail-edge.shopifysvc.com
