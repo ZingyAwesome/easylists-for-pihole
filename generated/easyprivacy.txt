@@ -19213,7 +19213,6 @@ nl-go.experian.com
 nl-nl.coloplastcare.com
 nlbukc.babyworld.se
 nlgzhd.yoox.com
-nlog.naver.com
 nltihf.fashiondays.ro
 nltzqx.autodoc.co.uk
 nlvnht.miror.jp
@@ -27607,6 +27606,7 @@ stats.sebastiangale.ca
 stats.sec.telefonica.com
 stats.selectam.io
 stats.sendngnt.com
+stats.senty.com.au
 stats.servicedesignjobs.com
 stats.seva.rocks
 stats.sexemodel.com
