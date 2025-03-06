@@ -1895,7 +1895,6 @@ track.tomwx.net
 track.unidata.ai
 tracker-00.qvb.qcloud.com
 tracking.cat898.com
-tracklog.58.com
 trail.71baomu.com
 videostats.kakao.com
 web-trace.ksapisrv.com
@@ -2056,6 +2055,7 @@ tracker.durasite.net
 tracker.shanon-services.com
 tracker.smartseminar.jp
 trk.fensi.plus
+tver-metrics.streaks.jp
 uh.nakanohito.jp
 x9.shinobi.jp
 acelogger.heraldcorp.com
