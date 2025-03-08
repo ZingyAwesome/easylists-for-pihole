@@ -5753,7 +5753,6 @@ battlenet.openapp.link
 bavvgo.zingat.com
 bawdybalance.com
 bawdybeast.com
-baxter.olx.org
 bayshoresystems.actonservice.com
 bazlny.homepal.it
 bbagnw.sedaily.com
@@ -28767,6 +28766,7 @@ telemetry.stryker.com
 telemetry.stytch.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
+telemetry.transcend.io
 telemetry.vtex.com
 telemetry.webasto.com
 telephoneapparatus.com
