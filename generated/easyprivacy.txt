@@ -29359,7 +29359,6 @@ tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.nocodelytics.com
-tracker.novage.com.ua
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
