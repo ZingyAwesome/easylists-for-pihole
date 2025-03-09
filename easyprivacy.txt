@@ -627,7 +627,6 @@ b7tp47v2nb3x-a.akamaihd.net
 barium.cheezdev.com
 bat.bing.com
 bat.bing.net
-baxter.olx.org
 bc.marfeelcache.com
 beacon.adelphic.com
 beacon.affil.walmart.com
@@ -1355,6 +1354,7 @@ telemetry.reembed.com
 telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
+telemetry.transcend.io
 telemetry.vtex.com
 test.takedwn.ws
 timejs.game.163.com
@@ -1435,7 +1435,6 @@ tracker.myth.dev
 tracker.myyschool.xyz
 tracker.nitropay.com
 tracker.nocodelytics.com
-tracker.novage.com.ua
 tracker.prod.ams3.k8s.hyperia.sk
 tracker.services.vaix.ai
 tracker.smartframe.io
