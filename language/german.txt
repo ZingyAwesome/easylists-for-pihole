@@ -25,6 +25,7 @@ partner.fondsdiscount.de
 partner.maxxim.de
 partner.simplytel.de
 promotionmaterial.betacash.com
+qvid2.b-cdn.net
 rev.lapippa.com
 start.amateurcommunity.com
 start.sexpartnercommunity.com
