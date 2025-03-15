@@ -1014,6 +1014,7 @@ metrics.futureplc.engineering
 metrics.gs-chat.com
 metrics.kmsmep.com
 metrics.mdstrm.com
+metrics.nsureapi.com
 metrics.onshape.com
 metrics.pico.tools
 metrics.scribblelive.com
