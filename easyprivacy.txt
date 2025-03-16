@@ -2336,6 +2336,7 @@ analytics.synchrony.com
 analytics.tomato.gg
 analytics.tradedoubler.com
 analytics.vedantu.com
+analytics.viture.dev
 analytics.vortexscans.com
 analytics.wavebox.io
 analytics.yugen.to
