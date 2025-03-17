@@ -116,6 +116,7 @@ consent.t-mobile.cz
 kbyqzt.xxxlutz.cz
 me9ddf.moebelix.cz
 cmp.deondernemer.nl
+consent.marktplaats.nl
 cookie.vrt.be
 cookie.wieni.be
 cookies.jeugdjournaal.nl
