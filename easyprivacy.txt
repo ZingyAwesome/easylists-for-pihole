@@ -1570,6 +1570,7 @@ x.babe.today
 x.disq.us
 x.weather.com
 xp2023-pix.s3.amazonaws.com
+yotrack.cdn.ybn.io
 adsdk.yandex.ru
 analytics-api.samsunghealthcn.com
 analytics.mobile.yandex.net
