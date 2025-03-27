@@ -39119,7 +39119,6 @@ ad-log.dable.io
 adoffice.11st.co.kr
 aem-collector.daumkakao.io
 bizlog-gateway.myrealtrip.com
-cdp.yna.co.kr
 count.munhwa.com
 data-logdelivery.wconcept.co.kr
 hits.zdnet.co.kr
