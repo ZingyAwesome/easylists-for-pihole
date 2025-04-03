@@ -39102,6 +39102,7 @@ recv-jnn.tbs.co.jp
 recv.tbs.co.jp
 rtm-tracking.zozo.jp
 stats.nhk.or.jp
+sy.ameba.jp
 sy.amebame.com
 sy.ameblo.jp
 t.rentio.jp
