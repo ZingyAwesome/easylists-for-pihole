@@ -27,7 +27,6 @@ ressource.gdpr-banner.awsmpsa.com
 smarteucookiebanner.upsell-apps.com
 sync-transcend-cdn.com
 truyoproductionuscdn.truyo.com
-webcache-eu.datareporter.eu
 webcache.datareporter.eu
 widgets.openli.com
 banner.cookiescan.com
