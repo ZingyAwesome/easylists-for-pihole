@@ -3189,7 +3189,6 @@ acquisition.klm.com
 acridangle.com
 acridtwist.com
 acro.egghead.link
-acs.woolworths.com.au
 acsbapp.com
 act-on-marketing.advancedsolutionsplm.com
 act-on-marketing.asidesignsoftware.com
@@ -5360,6 +5359,7 @@ artemis-cdn.ocdn.eu
 artisan.actonservice.com
 artistchristinacarmel.ericksonbuilt.com
 artthevoid.com
+arubahello.com
 aruoyf.peterhahn.ch
 arvig.actonservice.com
 arvwwu.stepstone.be
@@ -26235,6 +26235,7 @@ sosc.hrs.com
 sosintl.actonservice.com
 sotelsystems.actonservice.com
 soubej.larebajavirtual.com
+soulclicking.com
 soundstocking.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
@@ -28060,6 +28061,7 @@ subscriptions.opentext.com
 subscriptions.outbound.luxair.lu
 subscriptions.reedpop.com
 subscriptionsbnk.wolterskluwerfs.com
+subseasecurity.com
 subsequentsand.com
 subsequentstew.com
 subsequentswim.com
@@ -29307,6 +29309,7 @@ track.kueez.com
 track.kyoads.com
 track.leady.cz
 track.lesmills.com
+track.livasoft.com.tr
 track.mailerlite.com
 track.marketingcube.com.au
 track.mentor.com
@@ -29432,6 +29435,7 @@ tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.nocodelytics.com
+tracker.personizely.net
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
@@ -32572,6 +32576,7 @@ zion.qbo.intuit.com
 zipperxray.com
 zippyfrog.co
 zippywind.com
+zipthelake.com
 ziuggw.archon.pl
 ziwewm.tecovas.com
 zjbfke.centerparcs.be
