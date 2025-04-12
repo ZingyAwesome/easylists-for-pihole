@@ -648,6 +648,7 @@ beam.mjhlifesciences.com
 beamanalytics.b-cdn.net
 bee.tc.easebar.com
 bento.agoda.com
+bi-metrics.aramuz.net
 bi.heyloyalty.com
 bi.medscape.com
 bmrg.reflected.net
@@ -1795,6 +1796,7 @@ tracking.webtradecenter.com
 trck.bdi-services.de
 trck.spoteffects.net
 trecker.aklamio.com
+tw.reppublika.com
 vtrtl.de
 webcounter.goweb.de
 x.bloggurat.net
