@@ -170,6 +170,7 @@ glamipixel.com
 glimr.io
 go-mpulse.net
 godiciardstia.com
+gsitrix.com
 gw-dv.vip
 hbiq.net
 hdmtools.com
@@ -213,6 +214,7 @@ logicanalytics.io
 logtail.com
 loopcybersec.com
 lordofthesuperfrogs.com
+lrkt-in.com
 lsdm.co
 lyfnh.io
 maggieeatstheangel.com
@@ -275,6 +277,7 @@ pjstat.com
 powerrobotflower.com
 prfct.co
 procroanalytics.com
+proftrafficcounter.com
 progmxs.com
 pushvisit.xyz
 pxlstat.com
@@ -802,6 +805,7 @@ doppler-reporting.cbsivideo.com
 dx.mountain.com
 dynamic.ziftsolutions.com
 e.channelexco.com
+e045f561.b-cdn.net
 ea.youmaker.com
 ec.walkme.com
 ecomm.events
@@ -1531,6 +1535,7 @@ ucounter.ucoz.net
 uid.mediacorp.sg
 uilogging.tcdevops.com
 umami.aigenerations.net
+umami.heroku.uk
 units.knotch.it
 us-central1-markuphero.cloudfunctions.net
 usaoptimizedby.increasingly.co
@@ -1941,6 +1946,7 @@ tags.hilabel.nl
 tr.mediafin.be
 trjs2.mediafin.be
 trkr.shoppingminds.net
+ubt-sgp.travix.com
 dnt-userreport.com
 tags.op-palvelut.fi
 analytics.palitra.ge
@@ -2250,6 +2256,7 @@ impression-tracker-service-5eimuebuhq-lz.a.run.app
 pixel.smartmedia.tj
 sal.isanook.com
 stat.matichon.co.th
+webpushstat.api.engagelab.cc
 0.myikas.com
 analitik.bik.gov.tr
 analytics.faprika.net
