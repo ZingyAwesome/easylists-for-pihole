@@ -2011,6 +2011,7 @@ analytics.partcommunity.com
 analytics.spearly.com
 analyzer51.fc2.com
 asumi.shinobi.jp
+b.clipkit.co
 b.sli-spark.com
 b0.yahoo.co.jp
 bidder.mediams.mb.softbank.jp
@@ -39519,6 +39520,7 @@ log-ads.r7.com
 logger.rm.uol.com.br
 logger.uol.com.br
 logsdk.kwai-pro.com
+master.cifraclub.com.br
 matt.mercadolivre.com.br
 metrics.uol.com.br
 strapi.clickjogos.com.br
