@@ -39579,6 +39579,7 @@ analytics.redlink.com.ar
 audiencies.ccma.cat
 coletor.terra.com
 compare.easyviajar.com
+data-ingest.xtralife.com
 data.acierto.com
 estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
