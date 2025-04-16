@@ -1057,6 +1057,7 @@ obseu.netgreencolumn.com
 oda.markitondemand.com
 olytics.omeda.com
 onespot-tracking.herokuapp.com
+oply.hearstapps.com
 optimeeze.appspot.com
 p.cquotient.com
 p.metrilo.com
@@ -1138,6 +1139,7 @@ pt.crossmediaservices.com
 pt.ispot.tv
 ptsc.shoplocal.com
 pub.sheknows.com
+pulse.ecmapps.com
 pulse.shopflo.com
 px.marchex.io
 px.mountain.com
@@ -1933,6 +1935,7 @@ log.ecgh.dk
 statistics.jfmedier.dk
 trckr.nordiskemedier.dk
 analytics.belgacom.be
+analytics.hatech.dev
 apm.tnet.nl
 ct.beslist.nl
 dmtgo.upc.biz
@@ -39335,16 +39338,21 @@ statistics.csob.cz
 analytics.rambla.be
 bc34.wijnvoordeel.nl
 c.vrt.be
+e428.tio.nl
 events.reclamefolder.nl
 log.rabobank.nl
 metrics.nu.nl
+metrics.pazzox.be
 r.kleertjes.com
 sat.sanoma.fi
+sst.babypark.nl
 statistiek.rijksoverheid.nl
 stats.fd.nl
+tagging.sliponline.nl
 topspin.npo.nl
 track.pexi.nl
 tracking.voordeeluitjes.nl
+two.tio.nl
 txrx.bol.com
 u299.libelle-lekker.be
 analytics.sanoma.fi
