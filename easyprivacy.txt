@@ -174,6 +174,7 @@ gsitrix.com
 gw-dv.vip
 hbiq.net
 hdmtools.com
+heap-api.com
 herbgreencolumn.com
 hirsung.de
 hs-analytics.net
@@ -341,6 +342,7 @@ tepatonol.com
 test.vast
 testingmetriksbre.ru
 thefontzone.com
+tjk-njk.com
 tkrconnector.com
 tncid.app
 track-selectmedia.com
@@ -785,6 +787,7 @@ data.gosquared.com
 data.minute.ly
 data.nexxt.com
 data.queryly.com
+data.replo.app
 data.woosmap.com
 data2.gosquared.com
 datadog-service.mvfglobal.com
@@ -2854,6 +2857,7 @@ target.nejm.org
 targeting.washpost.nile.works
 tc.geniusmonkey.com
 td.airdroid.com
+tealium-proxy.libertex.org
 telegraph.prd.api.max.com
 telem.sre.gopuff.com
 telemetry.adobe.io
