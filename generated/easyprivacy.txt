@@ -6710,6 +6710,7 @@ charscroll.com
 chartec.actonservice.com
 chat.forddirectdealers.com
 check.frbservices.org
+check3.tiaa.org
 checkpointcharlie.heizung.de
 cheerfulrange.com
 cheerycraze.com
@@ -8341,6 +8342,7 @@ data.qamailing.mcafee.com
 data.qamarketing.giftcards.com
 data.queryly.com
 data.reactandshare.com
+data.replo.app
 data.resources.ringcentral.com
 data.rewards.riteaid.com
 data.ricaud.com
@@ -11721,6 +11723,7 @@ healthcasts.actonservice.com
 healthgrades.actonservice.com
 healthier.aahs.org
 healthier.luminishealth.org
+heap-api.com
 heap.drop.com
 hearinglizards.com
 hearob.klix.ba
@@ -19572,7 +19575,6 @@ olytics.omeda.com
 olziko.maxmara.com
 om-ssl.consorsbank.de
 omadi.actonservice.com
-omappapi.com
 omcshw.pharmasi.it
 ometrics.ameds.com
 ometrics.netapp.com
@@ -28785,6 +28787,7 @@ tds1.vivabox.be
 tdzvm.pw
 teach.graduateprogram.org
 teacupbooks.com
+tealium-proxy.libertex.org
 tealjewel.com
 team.moxtra.com
 teamhodges.hodgesualumniandfriends.com
@@ -29074,6 +29077,7 @@ tivan.naver.com
 tivixv.nutribullet.com
 tjbhng.hemington.com.tr
 tjitde.dodo.it
+tjk-njk.com
 tjnffp.tilebar.com
 tjwpfr.unitrailer.de
 tjyrup.templeandwebster.com.au
