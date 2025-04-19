@@ -21,6 +21,7 @@ adspsp.com
 adstk.io
 adultium.com
 afrdtech.com
+aftership-pixel.com
 aggle.net
 agkn.com
 agma-analytics.de
@@ -1679,6 +1680,7 @@ d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
+d5yoctgpv4cpx.cloudfront.net
 d761erxl2qywg.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 danv01ao0kdr2.cloudfront.net
@@ -1875,6 +1877,7 @@ experiments.sparanoid.net
 fourier.taobao.com
 g.yccdn.com
 gdt.qq.com
+hacx60.com
 haostat.qihoo.com
 hyrankhit.meldingcloud.com
 ia.51.la
@@ -1959,6 +1962,7 @@ analytics.palitra.ge
 links.boom.ge
 event-tracker-library.mediaownerscloud.com
 stats-real-clients.zentech.gr
+tag.weezmo.com
 heartbeat.pmd.444.hu
 pixel.barion.com
 rum.marquardmedia.hu
@@ -2045,6 +2049,7 @@ metrics.streaks.jp
 omt.shinobi.jp
 panda.kasika.io
 ping.paidy.com
+pushd.netky.tech
 rcm.shinobi.jp
 reports-tsi.tangerine.io
 rlog.popin.cc
@@ -38674,6 +38679,7 @@ analytics.adliners.de
 analytics.daasrv.net
 analytics.deutscher-apotheker-verlag.de
 analytics.moviepilot.de
+analytics.refurbed.de
 as.mirapodo.de
 as.mytoys.de
 as.yomonda.de
@@ -38712,6 +38718,7 @@ pstt.mtb-news.de
 px.derstandard.at
 pxc.otto.de
 r.wz.de
+remp-beam.golem.de
 responder.wt.heise.de
 rt.bunte.de
 sgtm.tennis-point.de
@@ -39356,6 +39363,7 @@ stats.fd.nl
 tagging.sliponline.nl
 topspin.npo.nl
 track.pexi.nl
+tracking.gaslicht.com
 tracking.voordeeluitjes.nl
 two.tio.nl
 txrx.bol.com

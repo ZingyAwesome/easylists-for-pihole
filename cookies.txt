@@ -66,6 +66,7 @@ consent.thecountrysmallholder.com
 consent.thegreatoutdoorsmag.com
 cookie-consent.festo.com
 cookie.marsus.digital
+cookiebot.inkarnate.com
 cookies.giphy.com
 cookies.lmt.lv
 fuse.forbes.com
