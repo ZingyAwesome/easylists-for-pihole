@@ -39576,6 +39576,7 @@ log.rutube.ru
 metrika.kontur.ru
 ms.dzen.ru
 ms.vk.com
+mstat.mos.ru
 pixels.boxberry.ru
 radar.imgsmail.ru
 ssp.rambler.ru
