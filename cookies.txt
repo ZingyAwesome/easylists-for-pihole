@@ -8,6 +8,7 @@ consent.dadoslegais.com
 consent.digiapi.com
 consent.nitrocnct.com
 consent.prointernet.com
+consent.standardadmin.org
 cookie.consents.app
 cookie.pearshealthcyber.com
 cookieapi.incomit.dk
