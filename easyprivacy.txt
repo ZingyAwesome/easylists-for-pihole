@@ -1286,6 +1286,7 @@ stats.topofblogs.com
 stats.uscreen.io
 stats.varrando.com
 stats.viddler.com
+stats.vodlix.com
 stats.webs.com
 stats.wp.com
 stats.wpmucdn.com
