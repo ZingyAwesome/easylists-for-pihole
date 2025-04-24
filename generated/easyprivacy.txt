@@ -3978,6 +3978,7 @@ analytics.eggoffer.com
 analytics.eikko.ai
 analytics.eikondigital.it
 analytics.eip.telegraph.co.uk
+analytics.ekonsilio.io
 analytics.emol.com
 analytics.erepublic.com
 analytics.ericafischerphotography.com
@@ -5685,6 +5686,7 @@ axp.yourerie.com
 aydtkb.pikabu.ru
 aygccr.eonet.jp
 ayleaf.petersofkensington.com.au
+ayo.arredoitaliano.it
 az693360.vo.msecnd.net
 azbrtw.anydesk.com
 azcoct.bikkembergs.com
@@ -10590,6 +10592,7 @@ ffuodj.lanebryant.com
 ffyvsn.evisu.com
 fgfecw.rebelle.com
 fgfukd.sakazen.co.jp
+fgip.rosehosting.com
 fgjfwz.legami.com
 fglrgt.ruggable.com
 fgn-plausible.serverable.com
@@ -11480,6 +11483,7 @@ goto.zaful.com
 gotoaws.dresslily.com
 gotoaws.rosegal.com
 gotoaws.zaful.com
+gotoda.co
 gotoexp.dresslily.com
 gotpiu.regenbogen.com
 government.informaengage.com
@@ -18899,6 +18903,7 @@ monacobeatles.com
 money.clerkie.io
 monicaatron.com
 monitor-api.blackcrow.ai
+monitor.fraudblocker.com
 monitor.music.qq.com
 monitoring.iraiser.eu
 monorail-edge.shopifysvc.com
@@ -20601,6 +20606,7 @@ politicalflip.com
 politicalporter.com
 poll.pollinatepolls.com
 polypak.actonservice.com
+ponos.zeronaught.com
 ponyo.cheriefm.fr
 pool.onjoyri.de
 pool.onjoyride.com
@@ -21150,6 +21156,7 @@ ras.yahoo.com
 raspnd.quadratec.com
 rat.rakuten.co.jp
 ratings-events.standardandpoors.com
+raven.adeptmind.ai
 razzweb.com
 rbbgnn.hanshintigers.jp
 rbcore-wlc-3.net.jumia.co.ke
@@ -22666,6 +22673,7 @@ sense.cliexa.com
 sensorsmile.com
 sentiment.icis.com
 sentinelp.com
+sentry.siepomaga.pl
 seoab.io
 separateshow.com
 separatesilver.com
@@ -27813,6 +27821,7 @@ stats.vidbinge.com
 stats.viddler.com
 stats.vidyome.com
 stats.visions.ch
+stats.vodlix.com
 stats.voltimum.com
 stats.vulture.com
 stats.wachstum.at
@@ -28736,6 +28745,7 @@ targeting.focas.jp
 targeting.voxus.tv
 targeting.washpost.nile.works
 targetlr.adobe.com
+targetone-callback.chedraui.com.mx
 targetrecruitllc.actonservice.com
 targetsecure.kohler.com
 targetsoc.spela.svenskaspel.se
