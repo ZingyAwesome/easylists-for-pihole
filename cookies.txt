@@ -139,6 +139,7 @@ cookies.fakt.pl
 cookies.forbes.pl
 rodo.agora.pl
 zgody.infor.pl
+mfegestaocookies.cloud.itau.com.br
 cookies.teraz.sk
 cookies.unidadeditorial.es
 consent.dermogrup.com

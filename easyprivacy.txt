@@ -301,6 +301,7 @@ rfpx1.com
 rkdms.com
 robotflowermobile.com
 rtactivate.com
+rtgvwr.com
 rum-ingress-coralogix.com
 rumt-sg.com
 sbgsodufuosmmvsdf.info
@@ -2684,6 +2685,7 @@ noodle.backmarket.io
 nr-data.noelleeming.co.nz
 nr.noelleeming.co.nz
 observe.metarouter.io
+ocular.hotukdeals.com
 ohm-dot-hackster-io.appspot.com
 ophan.theguardian.com
 optimizely.techtarget.com
@@ -38693,6 +38695,7 @@ analytics.daasrv.net
 analytics.deutscher-apotheker-verlag.de
 analytics.moviepilot.de
 analytics.refurbed.de
+api.sae.systems
 as.mirapodo.de
 as.mytoys.de
 as.yomonda.de
@@ -39547,6 +39550,7 @@ ss.woodupp.pl
 stats.teledyski.info
 yctjw54slxrwwlh.trybawaryjny.pl
 audience-mostread.r7.com
+click.afiliados.uol.com.br
 click.uol.com.br
 csplog.kwai-pro.com
 dejavu.mercadolivre.com.br
@@ -39564,12 +39568,15 @@ logsdk.kwai-pro.com
 master.cifraclub.com.br
 matt.mercadolivre.com.br
 metrics.uol.com.br
+sdk-analytics-web.cloud.itau.com.br
 strapi.clickjogos.com.br
 tags.globo.com
 track.exame.com
+track.magazineluiza.com.br
 track.olx.com.br
 tracker.bt.uol.com.br
 tracker.publico.pt
+udr.uol.com.br
 unleash.livepix.gg
 analytics.okazii.ro
 views.b1tv.ro
