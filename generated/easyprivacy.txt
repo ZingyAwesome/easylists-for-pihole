@@ -4461,6 +4461,7 @@ api.elliehuxtable.com
 api.fuck.education
 api.june.so
 api.ryanyao.design
+api.sae.systems
 api.wipmania.com
 apilog-web.acfun.cn
 apisensor.actonservice.com
@@ -6826,6 +6827,7 @@ click-staging.getdreams.co
 click-testing.moselo.com
 click.aabacosmallbusiness.com
 click.aaptiv.com
+click.afiliados.uol.com.br
 click.alternate.de
 click.amazingfacts.org
 click.appinthestore.com
@@ -13360,6 +13362,7 @@ ingest.make.rvapps.io
 ingest.make.rvohealth.com
 ingredients.firmenich.com
 ingress.linktr.ee
+ingress.trendii.com
 inkubate.actonservice.com
 inmtuj.jobs.ie
 inmuzp.popsockets.com
@@ -21651,6 +21654,7 @@ rtds.progressive.com
 rtegbv.jmclaughlin.com
 rtek-link.shares.social
 rtg-adroute.focas.jp
+rtgvwr.com
 rtm-tracking.zozo.jp
 rtmugo.deindeal.ch
 rtneys.luuna.mx
@@ -22337,6 +22341,7 @@ sdc.meinebav.com
 sdc.risikolebensversicherungen.com
 sdcs.felissimo.co.jp
 sdjthl.tvguide.dk
+sdk-analytics-web.cloud.itau.com.br
 sdlmaf.bestsecret.at
 sdome.underarmour.co.jp
 sdpimt.lostgolfballs.com
@@ -22896,6 +22901,7 @@ shockingship.com
 shop.iwantclips.com
 shop.lids.ca
 shopbreakfast.com
+shopify-webhooks.sailthru.com
 shopmetric.rediff.com
 shoppers-test.instacartemail.com
 shoppers.instacartemail.com
@@ -29347,6 +29353,7 @@ track.kyoads.com
 track.leady.cz
 track.lesmills.com
 track.livasoft.com.tr
+track.magazineluiza.com.br
 track.mailerlite.com
 track.marketingcube.com.au
 track.mentor.com
@@ -30700,6 +30707,7 @@ udgrbq.malwarebytes.com
 udicje.perrys.co.uk
 udmmdl.dudalina.com.br
 udonjl.coopdeli.jp
+udr.uol.com.br
 udr9.livera.nl
 udrvvx.kabum.com.br
 udsgty.alkosto.com
