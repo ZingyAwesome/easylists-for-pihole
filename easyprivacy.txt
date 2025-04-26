@@ -37,6 +37,7 @@ apharponloun.com
 apxl.io
 as3.io
 aseads.com
+astarsbuilding.com
 australiarevival.com
 avads.net
 awmonitor.com
@@ -81,6 +82,7 @@ cntxtfl.com
 confiant-integrations.net
 convead.io
 convertlink.com
+counter247.live
 cpx.to
 cvlb.dev
 cybba.solutions
@@ -367,6 +369,7 @@ tvpixel.com
 tw.cx
 ugdturner.com
 uidapi.com
+uimarketpro.com
 uqd.io
 ustat.info
 venture-365-inspired.com
@@ -1647,6 +1650,7 @@ d21y75miwcfqoq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
+d24luoisenoi7j.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
@@ -1707,6 +1711,7 @@ dh0c1bz67fuho.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
 dkupaw9ae63a8.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
+dmxhgf4zuwdvu.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dniyppubkuut7.cloudfront.net
 dnn506yrbagrg.cloudfront.net
@@ -1823,6 +1828,7 @@ trck.bdi-services.de
 trck.spoteffects.net
 trecker.aklamio.com
 tw.reppublika.com
+umami.askrella.de
 vtrtl.de
 webcounter.goweb.de
 x.bloggurat.net
@@ -2136,6 +2142,7 @@ ar1.aza.io
 ave-caesar-mas.modivo.io
 cmp.dreamlab.pl
 dsg.interia.pl
+liquid.agora.pl
 pixel.homebook.pl
 pixel6.wp.pl
 px.wp.pl
@@ -2155,11 +2162,13 @@ analytics.spun.com.br
 collect.chaordicsystems.com
 events.chaordicsystems.com
 feature-flag-edge.live.clickbus.net
+gke.econodata.com.br
 hitserver.ibope.com.br
 lurker.olx.com.br
 nctrk.abmail.com.br
 neurotrack.neurolake.io
 pageviews.tray.com.br
+pixel.leadlovers.app
 sat.soluall.net
 segmentor.snowfox-ai.com
 statistic.audima.co
@@ -2597,6 +2606,7 @@ impressions.svc.abillion.com
 improve.tempest.com
 in.brilliant.org
 indmetric.rediff.com
+info.onwd.com
 ingest.coincodex.com
 ingest.make.rvohealth.com
 ingress.linktr.ee
@@ -2753,6 +2763,7 @@ r.apkpure.net
 r.bbci.co.uk
 rankhit.china.com
 ras.yahoo.com
+raw.vidyard.com
 react-admin-telemetry.marmelab.com
 rec.banggood.com
 relay.fiverr.com
@@ -2942,6 +2953,7 @@ trk.decido.io
 trk.tirto.id
 trx3.famousfix.com
 ts.delfi.lt
+two.cm.com
 ua.indianexpress.com
 ubuyanalytics.ubuy.com
 um.contentstudio.io
@@ -38724,6 +38736,7 @@ lokalwerben.t-online.de
 lynx.gruender.de
 mat.ukraine-nachrichten.de
 metrics.n-tv.de
+msboul.gruenwelt.de
 navigation-timing.meinestadt.de
 nct.ui-portal.de
 oxifwsabgd.nzz.ch
@@ -39370,14 +39383,20 @@ statistics.csob.cz
 analytics.rambla.be
 bc34.wijnvoordeel.nl
 c.vrt.be
+cpt.postnl.be
+cpt.postnl.nl
 e428.tio.nl
 events.reclamefolder.nl
+inzicht.cz.nl
 log.rabobank.nl
 metrics.nu.nl
 metrics.pazzox.be
 r.kleertjes.com
+raf.postnl.be
+raf.postnl.nl
 sat.sanoma.fi
 sst.babypark.nl
+sst.vrijopnaam.nl
 statistiek.rijksoverheid.nl
 stats.fd.nl
 tagging.sliponline.nl
@@ -39537,6 +39556,7 @@ stats.proff.no
 stm.komplett.no
 analytics.gazeta.pl
 collect.state.centrum24.pl
+cs.bankmillennium.pl
 entryhit.wp.pl
 eventstream.dodopizza.com
 kropka.onet.pl
@@ -39553,6 +39573,7 @@ audience-mostread.r7.com
 click.afiliados.uol.com.br
 click.uol.com.br
 csplog.kwai-pro.com
+data-events.uniplaces.com
 dejavu.mercadolivre.com.br
 dna.uol.com.br
 g.bit.pt
@@ -39569,6 +39590,7 @@ master.cifraclub.com.br
 matt.mercadolivre.com.br
 metrics.uol.com.br
 sdk-analytics-web.cloud.itau.com.br
+stats.uniplaces.com
 strapi.clickjogos.com.br
 tags.globo.com
 track.exame.com
@@ -39577,6 +39599,7 @@ track.olx.com.br
 tracker.bt.uol.com.br
 tracker.publico.pt
 udr.uol.com.br
+uni7.uniplaces.com
 unleash.livepix.gg
 analytics.okazii.ro
 views.b1tv.ro

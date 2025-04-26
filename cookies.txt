@@ -70,6 +70,7 @@ cookie.marsus.digital
 cookiebot.inkarnate.com
 cookies.giphy.com
 cookies.lmt.lv
+cscript-cdn-irl.abb.com
 fuse.forbes.com
 gdpr-api.sharethis.com
 gdpr.internetbrands.com
@@ -139,6 +140,8 @@ cookies.fakt.pl
 cookies.forbes.pl
 rodo.agora.pl
 zgody.infor.pl
+cookies.doutoresdaweb.com.br
+cookies.leavening.com
 mfegestaocookies.cloud.itau.com.br
 cookies.teraz.sk
 cookies.unidadeditorial.es
