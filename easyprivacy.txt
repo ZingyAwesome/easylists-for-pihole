@@ -320,6 +320,7 @@ site24x7rum.eu
 sitecounter.site
 sitedataprocessing.com
 sjpf.io
+smartmetrics.co.uk
 snptrk.com
 soapfighters.com
 solutionshindsight.net
@@ -354,6 +355,7 @@ tncid.app
 track-selectmedia.com
 trackclicks.info
 tracking24.net
+trakle01.online
 transmapp.com
 triplestat.online
 trk-maiorum.com
@@ -953,6 +955,7 @@ inbound-analytics.pixlee.co
 infinityid.condenastdigital.com
 informer.yandex.ru
 ingest.make.rvapps.io
+ingesteer.services-prod.nsvcs.net
 ingress.trendii.com
 ins.connatix.com
 insights.algolia.io
@@ -2271,6 +2274,7 @@ ctx.citiservi.es
 datanoticias.prisasd.com
 g-stats.openhost.es
 madrid.report.botm.transparentedge.io
+marker.konograma.com
 mat.socy.es
 pub.servidoresge.com
 rt.cdnmedia.tv
@@ -2983,6 +2987,7 @@ wapn1.flosports.tv
 weblog.flyasiana.com
 wh.ipaddress.com
 wstats.e-wok.tv
+xmetrics.camsoda.com
 yes88kks.infinityscans.net
 z.cdp-dev.cnn.com
 z737.thestar.com
@@ -2995,7 +3000,6 @@ oneid.mmstat.com
 cfa.fidelity.com
 check3.tiaa.org
 clear.wallapop.com
-content.canadiantire.ca
 content.discover.com
 content.tab.com.au
 content22.bmo.com
@@ -39610,6 +39614,7 @@ a.ria.ru
 ad7.bigmir.net
 affilate.hh.ru
 analytics.carambatv.ru
+api-metric.gosweb.gosuslugi.ru
 c.sibnet.ru
 clck.dzen.ru
 counter.drom.ru
@@ -39648,6 +39653,7 @@ tracker.azet.sk
 analytics.bolavip.com
 analytics.emol.com
 analytics.redlink.com.ar
+audiencies.3cat.cat
 audiencies.ccma.cat
 coletor.terra.com
 compare.easyviajar.com
