@@ -5442,6 +5442,7 @@ association.locktonaffinity.net
 assure360.actonservice.com
 ast-en.adp.ca
 ast-fr.adp.ca
+astarsbuilding.com
 astat.nikkei.com
 asteriaed.actonservice.com
 astonishingair.com
@@ -7666,6 +7667,8 @@ cpihrinfo.cpihr.com
 cploms.hipicon.com
 cppm-kc2.net.jumia.ci
 cpt.itv.com
+cpt.postnl.be
+cpt.postnl.nl
 cpx.golem.de
 cpx.smind.si
 cpx.to
@@ -7933,6 +7936,7 @@ d21y75miwcfqoq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
+d24luoisenoi7j.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d276.ourmidland.com
 d2cpw6kwpff7n5.cloudfront.net
@@ -8019,6 +8023,7 @@ dashingdirt.com
 dashingdrop.com
 dashingsweater.com
 dasych.drmartypets.com
+data-events.uniplaces.com
 data-ingest.xtralife.com
 data-logdelivery.wconcept.co.kr
 data-ssl.pnet.co.za
@@ -13101,6 +13106,7 @@ info.ochsner.org
 info.ohlogistics.com
 info.omep.org
 info.onlinetech.com
+info.onwd.com
 info.ortecfinance.com
 info.osiriseducational.co.uk
 info.osufoundation.org
@@ -13543,6 +13549,7 @@ invitejs.trustpilot.com
 invites.nospace.app
 invitesugar.com
 inx-corp.actonservice.com
+inzicht.cz.nl
 ioactiveinc.actonservice.com
 iob.imgur.com
 ioeczq.juno.co.uk
@@ -15145,6 +15152,7 @@ linkvet.insights.md
 linkvetdev.insights.md
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
+liquid.agora.pl
 listen.trakks.com
 listen.tunein.com
 lists.ccmbg.com
@@ -21137,6 +21145,8 @@ radiantlullaby.com
 radiateprose.com
 radio.moodybible.org
 radiometer.actonservice.com
+raf.postnl.be
+raf.postnl.nl
 railwayrainstorm.com
 railwayreason.com
 raintwig.com
@@ -21166,6 +21176,7 @@ raspnd.quadratec.com
 rat.rakuten.co.jp
 ratings-events.standardandpoors.com
 raven.adeptmind.ai
+raw.vidyard.com
 razzweb.com
 rbbgnn.hanshintigers.jp
 rbcore-wlc-3.net.jumia.co.ke
@@ -27815,6 +27826,7 @@ stats.tunt.lv
 stats.twhl.xyz
 stats.ubiwiz.com
 stats.ulixes.pl
+stats.uniplaces.com
 stats.unka.space
 stats.unusualtourist.com
 stats.urbanfinn.com
@@ -30636,6 +30648,7 @@ twjobq.sixt.de
 twjobq.sixt.es
 twjobq.sixt.fr
 twjobq.sixt.nl
+two.cm.com
 two.tio.nl
 twoeej.carrefour.fr
 twsdne.petenkoiratarvike.com
@@ -30754,6 +30767,7 @@ uijciz.gunze.jp
 uilogging.tcdevops.com
 uilwmi.coop.nl
 uim.tifbs.net
+uimarketpro.com
 uinpmz.iichi.com
 uiusqp.crowdcow.com
 uiwock.epantofi.ro
@@ -30810,6 +30824,7 @@ uncoveredexpert.com
 understoodocean.com
 unequalbrake.com
 unequaltrail.com
+uni7.uniplaces.com
 unicontainers.com
 unifiedwfo.verintsystemsinc.com
 unifilabs.actonservice.com
