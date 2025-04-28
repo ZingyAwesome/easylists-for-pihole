@@ -114,7 +114,6 @@ emailsnow.info
 entail-insights.com
 enterombacerick.com
 enthusiastgaming.net
-envato.market
 epsilondelta.co
 eqy.link
 etop.ro
@@ -1358,6 +1357,7 @@ t.spbx.app
 t.splicky.com
 t.spot.im
 t2.t2b.click
+ta.trs.cn
 tag-manager.playbuzz.com
 tag.atom.gamedistribution.com
 tag.aumago.com
@@ -1378,6 +1378,7 @@ tags.catapultx.com
 tags.dxmdp.com
 tags.fullcontact.com
 tags.master-perf-tools.com
+tags.pw.adn.cloud
 tagtracking.vibescm.com
 target.mixi.media
 telemetrics.klaviyo.com
@@ -2492,6 +2493,7 @@ d401.dollartree.com
 d712.theinformation.com
 dabu.askmediagroup.com
 data.allstate.com
+data.barry-callebaut.com
 data.guide.photobucket.com
 data.torry.io
 data.ublock-browser.com
@@ -39632,6 +39634,7 @@ metrika.kontur.ru
 ms.dzen.ru
 ms.vk.com
 mstat.mos.ru
+otel-collector.lenta.tech
 pixels.boxberry.ru
 radar.imgsmail.ru
 ssp.rambler.ru
@@ -39643,6 +39646,7 @@ stat.russianfood.com
 stat.stars.ru
 stats.mos.ru
 sync.rambler.ru
+t.sports.ru
 top-staging.mail.ru
 vstat.rtr-vesti.ru
 xray.mail.ru
