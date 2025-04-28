@@ -4451,6 +4451,7 @@ apharponloun.com
 api-analytics-prd.pelcro.com
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
+api-metric.gosweb.gosuslugi.ru
 api-visitor-analytics.intercom.com
 api-websystems.landing.ni.com
 api.apiok.net.iberostar.com
@@ -15592,6 +15593,7 @@ markedcrayon.com
 markedmeasure.com
 markedpail.com
 markentive.actonservice.com
+marker.konograma.com
 market-keyade.macif.fr
 market.bellelily.com
 marketing-ap.mmc.co.jp
@@ -19925,6 +19927,7 @@ ostrichesica.com
 osur.dell.com
 osuwzo.oyunfor.com
 osvdtm.theshopyohjiyamamoto.jp
+otel-collector.lenta.tech
 othanasis.openapp.link
 othisf.tagomago.pl
 otisxx.sullyn.com
@@ -23083,6 +23086,7 @@ smallbusiness.adpinfo.com
 smallershops.com
 smart-data-systems.com
 smart.boxtone.com
+smartmetrics.co.uk
 smartworksforme.actonservice.com
 smashquartz.com
 smashshoe.com
@@ -30172,6 +30176,7 @@ trail.thomsonreuters.in
 training.hager.co.uk
 training.indigobusiness.co.uk
 training.thunderhead.com
+trakle01.online
 tranquilamulet.com
 tranquilarchipelago.com
 tranquilcanyon.com
@@ -32327,6 +32332,7 @@ xljqqe.hsn.com
 xludzt.alfastrah.ru
 xlvvy4msxr.coolinastore.com
 xmcvqq.pinkpanda.ro
+xmetrics.camsoda.com
 xmfugv.tgn.co.jp
 xmohlh.melia.com
 xmyvhu.soxo.pl
