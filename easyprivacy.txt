@@ -1178,6 +1178,7 @@ recs.shareaholic.com
 refer.wordpress.com
 referrer.disqus.com
 removeads.workers.dev
+report.23video.com
 reporting-api.gannettinnovation.com
 reporting.cdndex.io
 reporting.singlefeed.com
@@ -1799,6 +1800,7 @@ pixel.poptok.com
 plausible.ams.to
 px.staticfiles.at
 retrack.q-divisioncdn.de
+rum.mauve.eu
 sp.data.funkedigital.de
 stat.clichehosting.de
 statistics.klicktel.de
@@ -38771,6 +38773,7 @@ subpixel.4players.de
 swmhdata.stuttgarter-nachrichten.de
 swmhdata.stuttgarter-zeitung.de
 t.wayfair.de
+t2.aboutyou.de
 tagm.eduscho.at
 tgw.gmx.ch
 tgw.gmx.net
