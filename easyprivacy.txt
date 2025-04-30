@@ -2480,6 +2480,7 @@ colvk.viki.io
 confiant.msn.com
 console-telemetry.oci.oraclecloud.com
 copilot-telemetry.githubusercontent.com
+count.all.biz
 count.darkreader.app
 count.rin.ru
 counter.darkreader.app
@@ -2856,6 +2857,7 @@ stats.wordpress.com
 stats.wwitv.com
 stats2.mytuner.mobi
 statsegg.cdngeek.com
+storage.lulu-row1.com
 stream.corporatefinanceinstitute.com
 streamstats.prd.dlive.tv
 szrpr.raen.com
@@ -2988,6 +2990,7 @@ wa.pjplace.com
 wa.sugarandjade.com
 wal.wolfram.com
 wapn1.flosports.tv
+webapi.3cx.com
 weblog.flyasiana.com
 wh.ipaddress.com
 wstats.e-wok.tv
@@ -38758,6 +38761,7 @@ r.wz.de
 remp-beam.golem.de
 responder.wt.heise.de
 rt.bunte.de
+s.eick.it
 sgtm.tennis-point.de
 sp.chip.de
 sqs.quoka.de
