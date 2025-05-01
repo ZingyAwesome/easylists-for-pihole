@@ -823,7 +823,6 @@ ea.youmaker.com
 ec.walkme.com
 ecomm.events
 ecommstats.s3.amazonaws.com
-edge.adobedc.net
 eel.transistor.fm
 enc-90128738.b-cdn.net
 eq.userneeds.com
@@ -39494,6 +39493,7 @@ beacon.radiko.jp
 beacon.watch.impress.co.jp
 beat.yourtv.jp
 count.upc.rakuten.co.jp
+counter.asobeans.jp
 ctr.po-kaki-to.com
 d-log.asahi.co.jp
 d-log.tv-asahi.co.jp
