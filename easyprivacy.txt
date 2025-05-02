@@ -8,6 +8,7 @@
 4251.tech
 46rtpw.ru
 a1webstrategy.com
+a47b.com
 a8723.com
 aaxwall.com
 acsbapp.com
@@ -580,6 +581,7 @@ analytics.recruitics.com
 analytics.reyrey.net
 analytics.rogersmedia.com
 analytics.salesanalytics.io
+analytics.scorpion.co
 analytics.shareaholic.com
 analytics.shorte.st
 analytics.shorthand.com
@@ -1374,6 +1376,7 @@ tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.statshop.fr
 tagger.opecloud.com
+tagging.shiftdigitalapps.io
 tags.catapultx.com
 tags.dxmdp.com
 tags.fullcontact.com
@@ -1577,6 +1580,7 @@ video-ad-stats.googlesyndication.com
 video-analytics-api.cloudinary.com
 videoevents.outbrain.com
 vortex.data.microsoft.com
+vplayeranalytics.vidgyor.com
 vst.sibnet.ru
 vstat.borderlessbd.com
 w4o7aea80ss3-a.akamaihd.net
@@ -2402,6 +2406,7 @@ api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 api-visitor-analytics.intercom.com
 appanalysis.banggood.com
+asanalytics.booking.com
 ats.alot.com
 aurum.tirto.id
 b629.electronicdesign.com
@@ -2824,6 +2829,7 @@ sst.shopware.com
 sstats.adobe.com
 st.sawlive.tv
 stan.xing.com
+stape.brascast.com
 stat.pubhtml5.com
 stat.tildacdn.com
 stat.turb.pw
@@ -2989,6 +2995,7 @@ wa.pjplace.com
 wa.sugarandjade.com
 wal.wolfram.com
 wapn1.flosports.tv
+web-perf.booking.com
 webapi.3cx.com
 weblog.flyasiana.com
 wh.ipaddress.com
