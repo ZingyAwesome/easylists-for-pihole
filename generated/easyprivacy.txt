@@ -7621,6 +7621,7 @@ count.vidsrc.pro
 count.xxxssk.com
 count.yandeg.ru
 count5.pconline.com.cn
+counter.asobeans.jp
 counter.blogoscoop.net
 counter.bloke.com
 counter.cnw.cz
@@ -9342,7 +9343,6 @@ edavbu.vittz.co.kr
 edeals.rbp.com
 edeals.rhymebiz.com
 edge-mobile-static.azureedge.net.iberostar.com
-edge.adobedc.net
 edge.afco.com
 edge.bell.ca
 edge.bigbrothercanada.ca
@@ -31455,6 +31455,7 @@ vpemsb.autocasion.com
 vpf4.euskaltelofertas.com
 vphsiv.gsshop.com
 vpivyf.meshki.com.au
+vplayeranalytics.vidgyor.com
 vpmdiq.propertyfinder.qa
 vppst.iltrovatore.it
 vpuuzj.schnullireich.de
