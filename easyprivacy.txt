@@ -206,6 +206,7 @@ jams.wiki
 jcpclick.com
 jubbie.de
 k5a.io
+klarinsights.net
 krxd.net
 kspotson.de
 ldgnrtn.com
@@ -673,6 +674,7 @@ bonfire.spklw.com
 botdetection.hbrsd.com
 browser.pipe.aria.microsoft.com
 bs.yandex.ru
+bundle.ppas.monster
 c.albss.com
 c.amazinglybrilliant.com.au
 c.bazo.io
@@ -1189,6 +1191,7 @@ reports.sdiapi.com
 res.rbl.ms
 rest.wildstar-online.com
 retargeting.newsmanapp.com
+rg-3tn.pages.dev
 rs.sinajs.cn
 rt.flix360.com
 rtc.multiscreensite.com
@@ -1296,6 +1299,7 @@ stats.sawlive.tv
 stats.screenresolution.org
 stats.senty.com.au
 stats.shopify.com
+stats.slashed.cloud
 stats.smartclip.net
 stats.tiktoker.win
 stats.topofblogs.com
@@ -1410,6 +1414,7 @@ tr.marsflag.com
 tr.outbrain.com
 tr.snapchat.com
 tr.standardadmin.org
+tr.thecontentserver.com
 tr.vitals.co
 tr.webantenna.info
 traccoon.intellectsoft.net
@@ -1561,6 +1566,7 @@ trx-cdn.zip.co
 trx.zip.co
 try.abtasty.com
 ts.tradetracker.net
+ubm.docu.info
 ucounter.ucoz.net
 uid.mediacorp.sg
 uilogging.tcdevops.com
@@ -1602,6 +1608,7 @@ ws.audioeye.com
 wsmcdn.audioeye.com
 wstats.slashed.cloud
 wt.viagogo.net
+wtb-tag.swaven.com
 wtbevents.pricespider.com
 wtr-digital-analytics.ew.r.appspot.com
 x.babe.today
@@ -1668,6 +1675,7 @@ d2j1fszo1axgmp.cloudfront.net
 d2j74sjmqqyf26.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2lxqodqbpy7c2.cloudfront.net
+d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pozfvrp52dk4.cloudfront.net
@@ -1707,6 +1715,7 @@ d3uvwl4wtkgzo1.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d5yoctgpv4cpx.cloudfront.net
+d6rak4b14t5gp.cloudfront.net
 d761erxl2qywg.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 danv01ao0kdr2.cloudfront.net
@@ -2219,6 +2228,7 @@ d.wi-fi.ru
 dbex-tracker-v2.driveback.ru
 error.videonow.ru
 events.auth.gid.ru
+events.plus.yandex.net
 g4p.redtram.com
 ga-tracker-dot-detmir-bonus.appspot.com
 ip.up66.ru
@@ -2662,6 +2672,7 @@ loglady.kiwi.com
 logs.hotstar.com
 logs.naukri.com
 logs.netflix.com
+logx-experimentation.iherb.com
 logx.optimizely.com
 ma.redhat.com
 marketing.alibaba.com
