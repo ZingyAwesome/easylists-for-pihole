@@ -2394,6 +2394,7 @@ a46268.actonservice.com
 a46300.actonservice.com
 a46303.actonservice.com
 a46306.actonservice.com
+a47b.com
 a7e.monnierfreres.de
 a8-kouten.kouten.work
 a8-wpxblog.secure.wpx.ne.jp
@@ -4200,6 +4201,7 @@ analytics.runpath.com
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
+analytics.scorpion.co
 analytics.seagate.com
 analytics.shareaholic.com
 analytics.shop.hisense.com
@@ -5371,6 +5373,7 @@ arvig.actonservice.com
 arvwwu.stepstone.be
 as3.io
 asamgd.rossmann.de
+asanalytics.booking.com
 asap-systems.actonservice.com
 asc.solidworks.com
 ascassociation.actonservice.com
@@ -6372,6 +6375,7 @@ bum7.bymycar.fr
 bumpermash.com
 bumpydevelopment.com
 bunchance.com
+bundle.ppas.monster
 buonasera.openapp.link
 buoypinger-app.sapsailing.com
 bup.bankofamerica.com
@@ -7950,6 +7954,7 @@ d2j1fszo1axgmp.cloudfront.net
 d2j74sjmqqyf26.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2lxqodqbpy7c2.cloudfront.net
+d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pozfvrp52dk4.cloudfront.net
@@ -7993,6 +7998,7 @@ d401.dollartree.com
 d4ax0r5detcsu.cloudfront.net
 d5yoctgpv4cpx.cloudfront.net
 d6ek.pandasuite.io
+d6rak4b14t5gp.cloudfront.net
 d712.theinformation.com
 d761erxl2qywg.cloudfront.net
 d810.mysanantonio.com
@@ -14039,6 +14045,7 @@ kkznoe.autouncle.it
 kkzpde.aboutyou.lt
 kl-branch-sandbox.thekono.com
 kl-branch.thekono.com
+klarinsights.net
 klhxyi.costakreuzfahrten.ch
 klktmc.parler.co.jp
 klmcorporate.americanexpress.nl
@@ -14047,6 +14054,7 @@ klwuhp.daehyuninside.com
 kmqghr.bristolshop.be
 kn81kivjwwc7.www.logology.co
 knapia.weightwatchers.com
+knewpenny.com
 knfjhy.echo.msk.ru
 knitstamp.com
 knlqeu.jewlr.com
@@ -21548,6 +21556,7 @@ rfjrih.skinceuticals.com
 rfk.biglots.com
 rfmfrg.yamap.com
 rfpx1.com
+rg-3tn.pages.dev
 rgb9uinh2dej9ri.jacobzhang.de
 rgiixp.sperry.com
 rgjeqr.europcar.fr
@@ -26977,6 +26986,7 @@ stanburns.actonservice.com
 standingnest.com
 standingsack.com
 standtrouble.com
+stape.brascast.com
 starchild.odencat.com
 starget.aircanada.com
 starget.airmiles.ca
@@ -27754,6 +27764,7 @@ stats.simzdarma.cz
 stats.sirdata.com
 stats.sixseven.at
 stats.ski.com
+stats.slashed.cloud
 stats.slicedthread.com
 stats.smartclip.net
 stats.smartdestinations.com
@@ -28500,6 +28511,7 @@ tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tagger.ope.scmp.com
 tagger.opecloud.com
+tagging.shiftdigitalapps.io
 tagging.sliponline.nl
 tagging.steelseries.com
 tagm.eduscho.at
@@ -30709,6 +30721,7 @@ ubdjfy.maje.com
 ubdsej.notino.pl
 ubiquitoussea.com
 ubiquitousyard.com
+ubm.docu.info
 ubmdob.connection.com
 ubmups.houseofindya.com
 ubmwua.maisonsetappartements.fr
@@ -31608,6 +31621,7 @@ wealth.informabi.com
 wealthcarecapital.actonservice.com
 wearbasin.com
 weare.ballymoregroup.com
+web-perf.booking.com
 web-trace.ksapisrv.com
 web-tracker.smsbump.com
 web.ajostg.cfs.com.au
@@ -32016,6 +32030,7 @@ wsuqzu.armani.com
 wsytyz.tts.ru
 wszwgs.cocopanda.fi
 wtaccesscontrol.com
+wtb-tag.swaven.com
 wtbevents.pricespider.com
 wtdpkq.tausendkind.de
 wtesqx.news.mynavi.jp
