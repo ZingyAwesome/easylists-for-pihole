@@ -50,7 +50,6 @@ bkrtx.com
 bluekai.com
 blueoyster.click
 bonne-terre-data-layer.com
-boomtrain.com
 bounceexchange.com
 bouncex.net
 bqstreamer.com
@@ -286,6 +285,7 @@ prfct.co
 procroanalytics.com
 proftrafficcounter.com
 progmxs.com
+purple-hit.com
 pushvisit.xyz
 pxlstat.com
 pzapi-ij.com
@@ -321,6 +321,7 @@ site24x7rum.eu
 sitecounter.site
 sitedataprocessing.com
 sjpf.io
+skcrtxr.com
 smartmetrics.co.uk
 snptrk.com
 soapfighters.com
@@ -831,6 +832,7 @@ eel.transistor.fm
 enc-90128738.b-cdn.net
 eq.userneeds.com
 era.easyvoyage.com
+error-analytics-sessions-production.shopifysvc.com
 errors.snackly.co
 et.educationdynamics.com
 etl.springbot.com
@@ -1194,6 +1196,7 @@ retargeting.newsmanapp.com
 rg-3tn.pages.dev
 rs.sinajs.cn
 rt.flix360.com
+rtb.prod.carbonatixaudio.com
 rtc.multiscreensite.com
 rtxpx-a.akamaihd.net
 rum.azion.com
@@ -2237,6 +2240,7 @@ logs.adplay.ru
 logs.viavideo.digital
 metrics.aviasales.ru
 piper.amocrm.ru
+pixel-storage.konnektu.ru
 s.agava.ru
 scnt.rambler.ru
 scounter.rambler.ru
@@ -2453,6 +2457,7 @@ cl.t3n.de
 clanker-events.squarespace.com
 clarice.streema.com
 click.nudevista.com
+clickins.slixa.com
 client-log.box.com
 client-metrics.chess.com
 clp-mms.cloudpro.co.uk
@@ -2534,6 +2539,7 @@ ec.thredup.com
 edge.staging.fullstory.com
 eec.crunchyroll.com
 effect.habr.com
+ei.monday.com
 ejlytics.editorji.com
 el.quizlet.com
 engagefront.meteomedia.com
@@ -38747,6 +38753,7 @@ cnt.wetteronline.de
 cpx.golem.de
 cpxl.golem.de
 d.rp-online.de
+data.openerotik.com
 data.sportdeutschland.tv
 dd.betano.com
 dv.chemie.de
@@ -39642,6 +39649,7 @@ ad7.bigmir.net
 affilate.hh.ru
 analytics.carambatv.ru
 api-metric.gosweb.gosuslugi.ru
+booster.osnova.io
 c.sibnet.ru
 clck.dzen.ru
 counter.drom.ru
