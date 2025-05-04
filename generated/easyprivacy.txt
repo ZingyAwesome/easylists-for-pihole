@@ -6074,7 +6074,6 @@ bonne-terre-data-layer.com
 book.londonsoundacademy.com
 booking.getwaitnot.com
 boomerang.dell.com
-boomtrain.com
 boostbehavior.com
 bopmkf.lolahome.es
 boredborder.com
@@ -10307,6 +10306,7 @@ events.ocdn.eu
 events.onet.pl
 events.paramount.tech
 events.pella.com
+events.plus.yandex.net
 events.practo.com
 events.prd.api.max.com
 events.privy.com
@@ -15338,6 +15338,7 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logtail.com
 logtake.weidian.com
+logx-experimentation.iherb.com
 logx.optimizely.com
 lonelybulb.com
 lonelyflavor.com
