@@ -6075,6 +6075,7 @@ book.londonsoundacademy.com
 booking.getwaitnot.com
 boomerang.dell.com
 boostbehavior.com
+booster.osnova.io
 bopmkf.lolahome.es
 boredborder.com
 boredcrown.com
@@ -6257,6 +6258,7 @@ breakerror.com
 breakfastboat.com
 breakthrough.kronos.com
 breasycarrental.eccocar.com
+breezybright.com
 breezygrove.com
 brespark.eccocar.com
 brevnet.eccocar.com
@@ -6889,6 +6891,7 @@ click360v2-ingest.azurewebsites.net
 clickatell.actonservice.com
 clickcount.cnool.net
 clicked.ebates.com
+clickins.slixa.com
 clicks.burgerking.co.uk
 clicks.dealer.com
 clicks.drizly.com
@@ -8345,6 +8348,7 @@ data.okay.be
 data.online.clubeextra.com.br
 data.online.paodeacucar.com
 data.onlyyou.palladiumhotelgroup.com
+data.openerotik.com
 data.orders.costco.com
 data.ouigo.com
 data.outbound.luxair.lu
@@ -10096,6 +10100,7 @@ eroar.lionsclubs.org
 erp.qwic.nl
 err.ifengcloud.ifeng.com
 erraticreaction.com
+error-analytics-sessions-production.shopifysvc.com
 error-collector.ted.com
 error.videonow.ru
 errorreports.couponcabin.com
@@ -20360,6 +20365,7 @@ pix.spot.im
 pix.telekom.com
 pix.telekom.de
 pixel-a.basis.net
+pixel-storage.konnektu.ru
 pixel-tracker.com
 pixel.ampry.com
 pixel.anyclip.com
@@ -20905,6 +20911,7 @@ pumpkin.abine.com
 punyplant.com
 puppytooth.com
 purchasesuggestion.com
+purple-hit.com
 purple.mongodb.com
 purpletalk.actonservice.com
 purpose.fressnapf.at
@@ -21680,6 +21687,7 @@ rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
 rtactivate.com
+rtb.prod.carbonatixaudio.com
 rtc.multiscreensite.com
 rtds.progressive.com
 rtegbv.jmclaughlin.com
@@ -23063,6 +23071,7 @@ sjyzsm.danjohn.com
 sk0.monnierfreres.eu
 skaffa.tidyapp.se
 skbnfa.filorga.com
+skcrtxr.com
 skf.actonservice.com
 ski1.skiset.com
 skillfuldrop.com
