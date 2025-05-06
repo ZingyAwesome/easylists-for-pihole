@@ -1983,6 +1983,7 @@ statistics.jfmedier.dk
 trckr.nordiskemedier.dk
 analytics.belgacom.be
 analytics.hatech.dev
+analytics.newsifier.nl
 apm.tnet.nl
 ct.beslist.nl
 dmtgo.upc.biz
