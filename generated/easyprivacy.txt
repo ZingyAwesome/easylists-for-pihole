@@ -4125,6 +4125,7 @@ analytics.ncaa.com
 analytics.neoogilvy.uy
 analytics.net.dz.jumia.com
 analytics.newscred.com
+analytics.newsifier.nl
 analytics.nike.com
 analytics.nordea.com
 analytics.nordea.dk
@@ -6057,6 +6058,7 @@ bnsmoi.valx.jp
 bnutnr.landandfarm.com
 bnvsjg.hometogo.de
 bnzkua.trussardi.com.br
+boatcodeapp.com
 boatsvest.com
 bob-a1at.mno.link
 bob.gitclear.com
@@ -6077,6 +6079,7 @@ bonne-terre-data-layer.com
 bonuscomplex.com
 book.londonsoundacademy.com
 booking.getwaitnot.com
+bookprobe.com
 boomerang.dell.com
 boostbehavior.com
 booster.osnova.io
@@ -6309,6 +6312,7 @@ bronxvanilla.openapp.link
 brooklynway.openapp.link
 brothersbucket.com
 brotherslocket.com
+brownboxgroup.com
 browser-intake-datadoghq.com
 browser-updater.yandex.net
 browser.covatic.io
@@ -7149,6 +7153,7 @@ collector5.zipy.ai
 college.business.oregonstate.edu
 collegeauthority.actonservice.com
 colliers.actonservice.com
+coloradoserves.com
 colorfulafterthought.com
 colors.chamoji.com
 colossalchance.com
@@ -7588,9 +7593,11 @@ copperchickens.com
 copycarpenter.com
 copyrightaccesscontrols.com
 copytitle.com
+copyvibes.com
 coralreverie.com
 cordcopper.com
 corgibeachday.com
+cornershirts.com
 corporate-klm.americanexpress.nl
 corporate-marketing.hrs.com
 corporate.americanexpress.it
@@ -9351,6 +9358,7 @@ econnect.actonservice.com
 economicadvantage.midamerican.com
 economicpizzas.com
 economies.adp.ca
+economysoil.com
 ecu.hagerty.com
 ecvmbusiness.mtn.co.za
 ed-sys.net
@@ -13927,6 +13935,7 @@ jubilantglimmer.com
 jubilanthush.com
 jubilantlagoon.com
 jubilantpinnacle.com
+jubilanttempest.com
 jubilantvista.com
 jubilantwhisper.com
 jufhxk.audienhearing.com
@@ -19404,6 +19413,7 @@ notifpush.com
 notify.eset.com
 notify.pray.com
 notifyglass.com
+noundictionary.com
 noushe.zevvle.com
 nova-healthcare.actonservice.com
 nova.dice.net
@@ -22255,6 +22265,7 @@ sats.spiegel.de
 save.salary.com.au
 save.smartsalary.com.au
 savings.adp.ca
+savoryink.com
 savoryorange.com
 savorystructure.com
 sawap.equifax.com
@@ -23004,6 +23015,7 @@ signaturepod.com
 signup.vovici.com
 sihoqd.sheridan.com.au
 silentcredit.com
+silentjackal.com
 silentwrench.com
 siliconslow.com
 silkysquirrel.com
@@ -23038,6 +23050,7 @@ simplisticstem.com
 simscale.actonservice.com
 simulateswing.com
 sincerebuffalo.com
+sincerepelican.com
 sinceresubstance.com
 sinfo.awrostamani.com
 sinfo.dtcidev.co
@@ -26022,6 +26035,7 @@ solarislabyrinth.com
 soleblinds.com
 solicitud.pacifico.com.pe
 solidscape.actonservice.com
+solidsub.com
 solmax.actonservice.com
 solucionesreales.americanexpress.es
 solution.resonac.com
@@ -26415,6 +26429,7 @@ spottedsmile.com
 spottedsnow.com
 spread.epoolers.com
 springaftermath.com
+springballet.com
 springboard.aon.com
 springolive.com
 springsister.com
@@ -28469,6 +28484,7 @@ sync.rambler.ru
 sync.shinobi.jp
 synonymousrule.com
 synonymoussticks.com
+synthesizescarecrow.com
 synthesizespoon.com
 syqhvv.vivense.com
 sys.hager.com
@@ -29103,6 +29119,7 @@ thaqyl.mediamarkt.nl
 thebasiccompanies.actonservice.com
 thebdx.actonservice.com
 thecea.actonservice.com
+thefishstops.com
 thefontzone.com
 thejavalane.com
 theme.echovisuals.com
@@ -29110,6 +29127,7 @@ thequickbooksteam.intuit.ca
 therapeuticcars.com
 theroot.black.news
 thesearchagency.actonservice.com
+thesoulbrand.com
 thesource.black.news
 thesuccessstars.actonservice.com
 thhesw.tre.it
@@ -30750,6 +30768,7 @@ u47.pnc.com
 u652.myplainview.com
 u927.sfgate.com
 uaaooa.stansberryresearch.com
+uaas.yandex.ru
 uaemarketing.sedgwick.com
 uarrdg.landsofamerica.com
 uasmdd.icaniwill.no
