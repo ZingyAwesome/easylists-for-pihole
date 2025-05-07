@@ -1568,6 +1568,7 @@ trx-cdn.zip.co
 trx.zip.co
 try.abtasty.com
 ts.tradetracker.net
+uaas.yandex.ru
 ubm.docu.info
 ucounter.ucoz.net
 uid.mediacorp.sg
@@ -2683,6 +2684,7 @@ logx.optimizely.com
 ma.redhat.com
 marketing.alibaba.com
 marketing.dropbox.com
+marketing.taskus.com
 marty.zappos.com
 mcc-tags.cisco.com
 mcs-ie.tiktokw.eu
