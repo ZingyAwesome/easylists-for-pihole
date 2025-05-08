@@ -492,6 +492,7 @@ analytic-client.chickgoddess.com
 analytic-client.panowars.com
 analytic.rollout.io
 analyticcdn.globalmailer.com
+analyticcdn.wlmediahub.com
 analytics-1.cavai.com
 analytics-api.klickly.com
 analytics-cf.bigcrunch.com
@@ -704,6 +705,7 @@ cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 cimage.adobe.com
 ck.connatix.com
+cl-pbr.cxr.skeepers.io
 click.appinthestore.com
 click360v2-ingest.azurewebsites.net
 clicks.dealer.com
@@ -938,6 +940,7 @@ hello.staticstuff.net
 hi.hellobar.com
 highway.cablecar.sph.com.sg
 hit.mybestpro.com
+hit.salesfire.co.uk
 hits.dealer.com
 hits.getelevar.com
 hits.gokwik.co
@@ -1459,6 +1462,7 @@ track.yfret.com
 track.yieldsoftware.com
 track.zappos.com
 tracker-dot-optimeeze.appspot.com
+tracker-server.high-cdn.com
 tracker-v4.gamedock.io
 tracker.affirm.com
 tracker.au.zitcha.app
@@ -2518,6 +2522,7 @@ dabu.askmediagroup.com
 data.allstate.com
 data.barry-callebaut.com
 data.guide.photobucket.com
+data.jerkmate.com
 data.torry.io
 data.ublock-browser.com
 data.younow.com
@@ -2617,6 +2622,7 @@ gg.vevor.com
 glassmoni.researchgate.net
 gmetrics.getbeamer.com
 go.pardot.com
+graylog.prod.cams.run
 grgnsht.nzxt.com
 gtm.lercio.it
 gtm.wise.com
@@ -3052,6 +3058,7 @@ rsx.afterpay.com
 svc2.sc.com
 tm-eps.neutrino.nu
 tmetrix.my.chick-fil-a.com
+tmx.bestbuy.com
 tmx.td.com
 u47.pnc.com
 w-profiling.simplii.com
