@@ -787,6 +787,7 @@ csp-collector.appspot.com
 csp-reporting.cloudflare.com
 csp.secureserver.net
 csr.onet.pl
+ct-errs.cartrawler.com
 ct.capterra.com
 ct.corpusapp.com
 ct.needlive.com
@@ -928,6 +929,7 @@ geolocation.outreach.com
 geoservice.curse.com
 geotags.refinery89.com
 gi-client-tracking.goodgamestudios.com
+globale-analytics-sdk.global-e.com
 go.activengage.com
 green-griffin-860.appspot.com
 gsp1.baidu.com
@@ -1976,6 +1978,7 @@ hit.skrz.cz
 i.imedia.cz
 log.cpex.cz
 log.idnes.cz
+m.1gr.cz
 mer.stdout.cz
 pixel.biano.cz
 pixel.cpex.cz
@@ -2009,6 +2012,7 @@ tags.op-palvelut.fi
 analytics.palitra.ge
 links.boom.ge
 event-tracker-library.mediaownerscloud.com
+metrics.find.gr
 stats-real-clients.zentech.gr
 tag.weezmo.com
 heartbeat.pmd.444.hu
@@ -2348,6 +2352,7 @@ tracking.aita.gov.vn
 tracking3.vnncdn.net
 za.zalo.me
 za.zdn.vn
+1rer.hummel.net
 a-da.invideo.io
 a-reporting.nytimes.com
 a.electerious.com
@@ -2439,6 +2444,7 @@ beacon.shutterfly.com
 beacon.walmart.com
 beacon.wikia-services.com
 beacons.digital.disneyadvertising.com
+beoecomapim.bang-olufsen.com
 bfp.capitalone.com
 bi.banggood.com
 bicp-analytics.postscript.io
@@ -39425,7 +39431,9 @@ zhihu-web-analytics.zhihu.com
 zio.xcar.com.cn
 zz.bdstatic.com
 cc.dalten.cz
+insights.triad.sk
 jslog.post.cz
+logapi.alza.cz
 sa.kolik.cz
 stat.super.cz
 statistics.csob.cz
@@ -39648,6 +39656,7 @@ track.magazineluiza.com.br
 track.olx.com.br
 tracker.bt.uol.com.br
 tracker.publico.pt
+trackid.globoid.globo.com
 udr.uol.com.br
 uni7.uniplaces.com
 unleash.livepix.gg

@@ -118,6 +118,8 @@ privacy.letemps.ch
 cookie-consent.etisalat.ae
 cmp.vizus.cz
 consent.t-mobile.cz
+consent.triad.sk
+cookies.giant.cz
 kbyqzt.xxxlutz.cz
 me9ddf.moebelix.cz
 cmp.deondernemer.nl
