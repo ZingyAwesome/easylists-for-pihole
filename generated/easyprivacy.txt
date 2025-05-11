@@ -13548,6 +13548,7 @@ insights.openfieldx.com
 insights.partnerwithfacet.com
 insights.prophet.com
 insights.squintopera.com
+insights.triad.sk
 insights.zinio.com
 insightseries.redbull.racing
 insitez.blob.core.windows.net
@@ -15430,6 +15431,7 @@ log.zdnet.co.kr
 log.zongheng.com
 log000.goo.ne.jp
 log2.sina.cn
+logapi.alza.cz
 logbak.hicloud.com
 logcollector.note.com
 logger.bzu.kr
