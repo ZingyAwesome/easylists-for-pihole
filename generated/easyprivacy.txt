@@ -7813,6 +7813,7 @@ csm.magnetintell.com
 csmetrics.wilton.com
 csp-collector.appspot.com
 csp-reporting.cloudflare.com
+csp.godaddy.com
 csp.secureserver.net
 csp.yandex.net
 cspmkl.gruppal.com
