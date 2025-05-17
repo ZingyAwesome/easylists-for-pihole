@@ -20942,7 +20942,6 @@ prod.fennec.atp.fox
 prod.nitrosniffer.ottogroup.io
 prod.tracking.refinitiv.com
 proditor.sparda.de
-prodregistryv2.org
 producecopy.com
 producepickle.com
 product.cloud.travelport.com
@@ -27706,6 +27705,7 @@ stats.hayu.com
 stats.headhunted.com.au
 stats.healthydirections.com
 stats.henkverlinde.com
+stats.hexa.watch
 stats.heyoya.com
 stats.homestow.com
 stats.honeywell.com
