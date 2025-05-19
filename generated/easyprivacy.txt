@@ -8356,6 +8356,7 @@ dax.yle.fi
 daymodern.com
 dazdmx.cobra.fr
 dazzlingbook.com
+db7q4jg5rkhk8.cloudfront.net
 dba4.pandasuite.io
 dbbest.actonservice.com
 dbex-tracker-v2.driveback.ru
@@ -9026,6 +9027,7 @@ dqqfrs.qatarairways.com
 dqs.actonservice.com
 dqs3.darjeeling.fr
 dqsfil.pikolinos.com
+dr6vcclmzwk74.cloudfront.net
 drainpaste.com
 dramaticdirection.com
 drau.viessmann.si
@@ -20180,6 +20182,7 @@ pixel6.wp.pl
 pixeledhub.com
 pixels.afcdn.com
 pixels.boxberry.ru
+pixels.zalify.com
 pixeltrouble.com
 pixelvariety.com
 pixelzirkus.gameforge.com
