@@ -21957,7 +21957,6 @@ sanl.footlocker.pt
 sanl.footlocker.se
 sanmet.originenergy.com.au
 sapi.tremendous.com
-sapphire-api.target.com
 sappmetrics.sprint.com
 sasc.solidworks.com
 sat.sanoma.fi
@@ -25395,6 +25394,7 @@ smetrics.usopen.org
 smetrics.utilityanalyticsweek.com
 smetrics.valumart.ca
 smetrics.vangraaf.com
+smetrics.vanguard.com
 smetrics.vans.co.nz
 smetrics.vans.com.au
 smetrics.variis.com
@@ -27372,6 +27372,7 @@ stats.photographer.com.au
 stats.pinoymusicstation.com
 stats.piplette.co
 stats.pitstone.co.uk
+stats.pixeldrain.com
 stats.plainsending.com
 stats.planxti.com
 stats.poesieundgenuss.com
