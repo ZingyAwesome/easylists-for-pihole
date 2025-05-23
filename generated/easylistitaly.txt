@@ -17,4 +17,5 @@ roi.ediscom.it
 rtbuzz.net
 shoppydoo.com
 unifiedads.magellanotech.it
+vzbl.eu
 widgets.shop.moda.it

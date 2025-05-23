@@ -10762,6 +10762,7 @@ freezeassets.com
 freezingbuilding.com
 frenchgerleman.actonservice.com
 frequentflesh.com
+freshatl.azurewebsites.net
 fresnel-events.vimeocdn.com
 fridaymarketing.actonservice.com
 friedone.com
@@ -11867,6 +11868,7 @@ hystericalfinger.com
 hyxvec.michaelpage.co.jp
 hyybul.kaskus.co.id
 hzeetn.natalie.mu
+hzstats.com
 hzuheh.palcloset.jp
 hzvsld.fr.filorga.com
 hzymxd.nocibe.fr
@@ -15040,6 +15042,7 @@ lnk.welthee.com
 lnk2.patpat.com
 lnntnt.hsastore.com
 lntvby.banggood.com
+load.nootiz.com
 loader-cdn.azureedge.net
 loadsurprise.com
 loans.rategenius.com
@@ -27458,6 +27461,7 @@ stats.sebastiandombrowski.de
 stats.sebastiangale.ca
 stats.sec.telefonica.com
 stats.selectam.io
+stats.sender.net
 stats.sendngnt.com
 stats.senty.com.au
 stats.servicedesignjobs.com
@@ -27501,7 +27505,6 @@ stats.streamhub.io
 stats.studypages.com
 stats.stylight.it
 stats.sublimesecurity.com
-stats.suedtirolerjobs.it
 stats.suenicholls.com
 stats.sumikai.com
 stats.suniboy.com
