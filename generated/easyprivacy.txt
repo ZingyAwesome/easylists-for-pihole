@@ -7575,6 +7575,7 @@ counter.yadro.ru
 counter2.blog.livedoor.com
 counter247.live
 counters.freewebs.com
+counters.libertaddigital.com
 courageousbaby.com
 covenant.psjhealth.org
 coverlayer.com
@@ -22359,6 +22360,7 @@ seespice.com
 sefkal.openapp.link
 seg.sharethis.com
 segment-api.inrix.com
+segment.lalr.co
 segra.actonservice.com
 sejdfu.coeur.de
 sekaopi.nocre.jp
@@ -26452,6 +26454,7 @@ sspkbf.ragtag.jp
 ssr.streamrail.net
 ssrlot.lotoquebec.com
 sst.babypark.nl
+sst.bwt.com
 sst.colemanfurniture.com
 sst.cooperativa.cl
 sst.shopware.com
