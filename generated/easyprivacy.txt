@@ -10180,6 +10180,7 @@ events.ricoh.de
 events.ricoh.ie
 events.santander.co.uk
 events.shareably.net
+events.shoplift.ai
 events.sk.ht
 events.squarespace.com
 events.storifyme.com
