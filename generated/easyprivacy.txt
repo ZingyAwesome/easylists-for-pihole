@@ -4150,6 +4150,7 @@ analytics.pointdrive.linkedin.com
 analytics.pollardwater.com
 analytics.prezly.com
 analytics.productreview.com.au
+analytics.propensity.com
 analytics.pyksid.com
 analytics.qogita.com
 analytics.qualcomm.com
@@ -10069,6 +10070,7 @@ event.platform.tunein.com
 event.seatradecruiseevents.com
 event.seatradecruiseglobal.com
 event.spektare.com
+event.syftdata.com
 event.syndigo.cloud
 event.tagtoo.co
 event.thermofisher.com
