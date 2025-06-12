@@ -3822,6 +3822,7 @@ analytics-ssl.bradyid.com
 analytics-ssl.seton.co.uk
 analytics-stamp.confi.com.vc
 analytics-static.ugc.bazaarvoice.com
+analytics-tracker.thescore.com
 analytics-tracking.meetup.com
 analytics-wcms.joins.net
 analytics-zone-1.api.leadfamly.com
@@ -5449,6 +5450,7 @@ atlanticlabequipment.actonservice.com
 atlastravel.actonservice.com
 atlasworldusa.actonservice.com
 atlkse.aosom.it
+atmtd.com
 ats.alot.com
 ats.otto.de
 atsmetrics.adobe.com
@@ -27849,6 +27851,7 @@ subscriptions.opentext.com
 subscriptions.outbound.luxair.lu
 subscriptions.reedpop.com
 subscriptionsbnk.wolterskluwerfs.com
+subseaagent.com
 subseacare.com
 subseasecurity.com
 subsequentstew.com
@@ -28927,6 +28930,7 @@ touristfuel.com
 towerfcu.actonservice.com
 townhouses.woodlea.com.au
 townsquareinteractive.actonservice.com
+toysbasics.com
 toytakeover.com
 tpe.theparticipanteffect.com
 tpfrro.justlease.nl
