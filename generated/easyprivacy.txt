@@ -11902,6 +11902,7 @@ icas.ikea.com
 icas.ikea.net
 icaubf.casamundo.de
 icfckg.myft.com.br
+icg-in.com
 icharts.actonservice.com
 icoktb.onygo.com
 iconmediapixel.com
@@ -19171,6 +19172,7 @@ nossl.aafpfoundation.org
 nossl.basco.com
 nostalgicknot.com
 nostalgicneed.com
+notcardboard.com
 notconscious.com
 nothingmethod.com
 notice-tmo.notice.assurancewireless.com
