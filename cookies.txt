@@ -28,7 +28,6 @@ ressource.gdpr-banner.awsmpsa.com
 smarteucookiebanner.upsell-apps.com
 sync-transcend-cdn.com
 truyoproductionuscdn.truyo.com
-webcache.datareporter.eu
 widgets.openli.com
 banner.cookiescan.com
 cb-mms.carbuyer.co.uk
@@ -88,6 +87,9 @@ sourcepoint.theonion.com
 sourcepoint.theroot.com
 transcendcdn.eventbrite.com
 vg247-uk.vg247.com
+hc.bonprix.hu
+hc.bonprix.ro
+hc.bonprix.sk
 9jdq2a.poco.de
 cc.diewebsitemacherei.de
 cc.labu24.de
@@ -134,10 +136,15 @@ voorkeuren.tvgids.nl
 cmp.tori.fi
 cmp.soundis.gr
 tp.triple.co.il
+ccm19.mindpark.at
+consent.gardena.net
 cookie.aerostatonet.it
+cookies.ae-webdesign.com
+cookies.bakehouse.at
 cookies.gardena.net
 cookiescript.cloud.provincia.tn.it
 privacyportal.fatergroup.com
+widget.brand-fresh.it
 cmp.impress.co.jp
 gdpr.api.bcdn.jp
 gdpr.laxd.com
