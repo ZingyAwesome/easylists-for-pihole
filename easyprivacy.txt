@@ -728,6 +728,7 @@ cimage.adobe.com
 ck.connatix.com
 cl-pbr.cxr.skeepers.io
 click.appinthestore.com
+click.rypr.ru
 click360v2-ingest.azurewebsites.net
 clicks.dealer.com
 clicks.tyuwq.com
@@ -2751,6 +2752,7 @@ logs.naukri.com
 logs.netflix.com
 logx-experimentation.iherb.com
 logx.optimizely.com
+love.vidora.su
 ma.redhat.com
 marketing.alibaba.com
 marketing.dropbox.com
@@ -3067,6 +3069,7 @@ two.cm.com
 ua.indianexpress.com
 ubuyanalytics.ubuy.com
 um.contentstudio.io
+umami.vidfast.pro
 umami.wakarimasen.moe
 unl1zvy2zuyn.franchiseplus.nl
 urs.metacritic.com
