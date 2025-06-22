@@ -1118,6 +1118,7 @@ p.cquotient.com
 p.metrilo.com
 p.placed.com
 p.skimresources.com
+p.tryretool.com
 p.yotpo.com
 page-events-ustats.udemy.com
 pages-stats.rbl.ms
