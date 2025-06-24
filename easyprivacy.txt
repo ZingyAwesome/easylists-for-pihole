@@ -175,7 +175,6 @@ getdeviceinf.com
 getjan.io
 glamipixel.com
 glimr.io
-go-mpulse.net
 godiciardstia.com
 gotoda.co
 greencolumnhealth.com
@@ -2921,7 +2920,6 @@ ss.esade.edu
 ss.photospecialist.co.uk
 sst.bwt.com
 sst.shopware.com
-sstats.adobe.com
 st.sawlive.tv
 stan.xing.com
 stape.brascast.com
