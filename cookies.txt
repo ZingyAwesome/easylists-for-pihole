@@ -51,7 +51,6 @@ cmp.parkers.co.uk
 cmp.playpilot.com
 cmp.springer.com
 cmp.springernature.com
-cmp.tek.no
 cmp.telerama.fr
 cmp.uniconsent.com
 cmpv2.pcworld.com
