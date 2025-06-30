@@ -55,6 +55,7 @@ cmp.springernature.com
 cmp.telerama.fr
 cmp.uniconsent.com
 cmpv2.pcworld.com
+consent-manager.thenextweb.com
 consent.23g.io
 consent.canalboat.co.uk
 consent.lifetouch.com
