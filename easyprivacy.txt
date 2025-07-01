@@ -2126,7 +2126,6 @@ analytics.liveact.cri-mw.jp
 analytics.livesense.marketing
 analytics.partcommunity.com
 analytics.spearly.com
-analyzer51.fc2.com
 asumi.shinobi.jp
 b.clipkit.co
 b.sli-spark.com
@@ -2462,6 +2461,7 @@ analytics.global.sky.com
 analytics.hashnode.com
 analytics.inquisitr.com
 analytics.kaggle.io
+analytics.komiku.org
 analytics.makeitmeme.com
 analytics.maxroll.gg
 analytics.ml.homedepot.ca
