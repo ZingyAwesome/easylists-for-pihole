@@ -9213,6 +9213,7 @@ ecn-analytics-nssl.emc.com
 ecn-analytics.emc.com
 ecn-ldr.de
 ecomm.events
+ecommerce-events.adscale.com
 econnect.actonservice.com
 economicadvantage.midamerican.com
 economies.adp.ca
@@ -10968,6 +10969,7 @@ generalprose.com
 generateoffice.com
 genesis.malwarebytes.com
 gentian-frd.hjapi.com
+geo.bdg.com
 geo.brobible.com
 geo.emol.cl
 geo.ertya.com
