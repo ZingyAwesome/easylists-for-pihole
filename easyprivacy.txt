@@ -947,6 +947,7 @@ ga.webdigi.co.uk
 ganon.yahoo.com
 gateway.foresee.com
 genesis.malwarebytes.com
+geo.bdg.com
 geo.ertya.com
 geo.gorillanation.com
 geo.mezr.com
