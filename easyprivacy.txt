@@ -1055,6 +1055,7 @@ loggingapi.spingo.com
 loglady.skypicker.com
 logs-api.shoprunner.com
 logs.animaapp.com
+logs.dynamicauth.com
 logs.mezmo.com
 logs.spilgames.com
 lucid.mjhassoc.com
