@@ -15156,6 +15156,7 @@ logs-api.shoprunner.com
 logs-partners.coupang.com
 logs.adplay.ru
 logs.animaapp.com
+logs.dynamicauth.com
 logs.hotstar.com
 logs.mezmo.com
 logs.naukri.com
@@ -27604,6 +27605,7 @@ stats.vdsnow.ru
 stats.vican.me
 stats.vidbinge.com
 stats.viddler.com
+stats.videasy.net
 stats.vidyome.com
 stats.visions.ch
 stats.vodlix.com
