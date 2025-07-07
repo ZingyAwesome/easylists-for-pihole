@@ -328,6 +328,7 @@ seoab.io
 sf-insights.io
 sgmntfy.com
 sgstats.com
+shdid.me
 shgcdn3.com
 site24x7rum.eu
 sitecounter.site
@@ -1113,6 +1114,7 @@ nr.static.mmcdn.com
 ns.rvmkitt.com
 nwr.static.mmcdn.com
 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
+obs.jollyoutdoorjogger.com
 obs.system1onesource.com
 observe-nexus.pointandplace.com
 observer.ip-label.net
