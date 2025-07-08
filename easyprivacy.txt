@@ -2386,6 +2386,7 @@ collector.schibsted.io
 evt-api.ntm.eu
 impression-tracker-service-5eimuebuhq-lz.a.run.app
 pixel.smartmedia.tj
+roibest-report-sdk.qiliangjia.com
 sal.isanook.com
 stat.matichon.co.th
 webpushstat.api.engagelab.cc
@@ -39604,8 +39605,10 @@ e428.tio.nl
 events.reclamefolder.nl
 inzicht.cz.nl
 log.rabobank.nl
+log.willie.nl
 metrics.nu.nl
 metrics.pazzox.be
+pipeline.nachtkastje.nl
 r.kleertjes.com
 raf.postnl.be
 raf.postnl.nl
