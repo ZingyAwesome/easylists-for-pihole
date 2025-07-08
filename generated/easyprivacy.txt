@@ -15123,6 +15123,7 @@ log.tagtic.cn
 log.targetpush.co.kr
 log.tossinvest.com
 log.webnovel.com
+log.willie.nl
 log.zdnet.co.kr
 log.zongheng.com
 log000.goo.ne.jp
@@ -19338,6 +19339,7 @@ obooom.robinmaybag.com
 obqvss.debameubelen.be
 obrazy.dlabiznesu.pracuj.pl
 obrqts.hudforeclosed.com
+obs.jollyoutdoorjogger.com
 obscenesidewalk.com
 observe-nexus.pointandplace.com
 observe.metarouter.io
@@ -20130,6 +20132,7 @@ pinptg.milleni.com.tr
 pint-dev-branch.airship.com
 pipe-collect.ebu.io
 pipedream.wistia.com
+pipeline.nachtkastje.nl
 pipelinepub.actonservice.com
 piper.amocrm.ru
 pippio.com
@@ -21408,6 +21411,7 @@ rockagainst.com
 rockpebbles.com
 rockstarwriter.com
 roedwy.imidapeptide.com
+roibest-report-sdk.qiliangjia.com
 roinjg.mkluzkoviny.cz
 roiscs.actonservice.com
 rollbar.actonservice.com
@@ -22681,6 +22685,7 @@ sharelink.oppvenuz.com
 sharen.oyorooms.com
 sharing.kptncook.com
 sharkskids.com
+shdid.me
 sheideal.com
 shelbypublishing.actonservice.com
 shell-recharge.tupinambaenergia.com.br
