@@ -821,6 +821,8 @@ ct.corpusapp.com
 ct.needlive.com
 ct.pinterest.com
 curated.fieldtest.cc
+customers.edgetag.io
+customers.xray-superpixel.com
 customfingerprints.bablosoft.com
 cws.conviva.com
 d.shareaholic.com
@@ -925,6 +927,8 @@ evt.houzz.com
 experience.contextly.com
 f-log-at.grammarly.io
 f-log-test.grammarly.io
+fallback.attntags.com
+fallback.emtag.net
 fcmatch.google.com
 fcmatch.youtube.com
 fgip.rosehosting.com
@@ -2174,6 +2178,7 @@ stlog.d.dmkt-sp.jp
 stlog.dmarket.docomo.ne.jp
 sync.shinobi.jp
 sysmon.kakaku.com
+t.adclr.jp
 t.adlpo.com
 t.blog.livedoor.jp
 t.seesaa.net
