@@ -7774,6 +7774,7 @@ customer.newsflare.com
 customercare.aircycle.com
 customerexperience.verintsystemsinc.com
 customerrelations.theinstitutes.org
+customers.edgetag.io
 customersucceed.nanophase.com
 customfingerprints.bablosoft.com
 customize.titanfactorydirect.com
@@ -10358,6 +10359,8 @@ fairytaleflame.com
 faithrowold.com
 fakexa-post.mno.link
 fallaciousfifth.com
+fallback.attntags.com
+fallback.emtag.net
 falseframe.com
 falsesight.com
 familiarrod.com
@@ -14126,6 +14129,7 @@ lemonpackage.com
 lemonpi.io
 lemonsandjoy.com
 lenpmh.francoisesaget.com
+lessonsnetwork.com
 let1.devialet.com
 lets-dev.irl.com
 lets.go.haymarketmedicalnetwork.com
@@ -20057,6 +20061,7 @@ peqvwk.notino.at
 perceivequarter.com
 perf.hsforms.com
 perf.mouser.com
+perfectfetch.com
 performance-logger.minted.com
 performanceplay.co.kr
 performantcorp.actonservice.com
@@ -21775,6 +21780,7 @@ sales.texturacorp.com
 sales.virtualpbx.com
 salesandmarketing.aitcfis.com
 saleslists.inform.equifax.com
+salmonfin.com
 salsacartel.com
 salto.freeto.jp
 saltsabar.openapp.link
@@ -22837,6 +22843,7 @@ skcrtxr.com
 sketchpals.com
 skf.actonservice.com
 ski1.skiset.com
+skilledview.com
 skillfuldrop.com
 skillshouse.actonservice.com
 skillsresults.com
@@ -28790,6 +28797,7 @@ thefontzone.com
 thejavalane.com
 theme.echovisuals.com
 themepicker.com
+thepowerstones.com
 thequickbooksteam.intuit.ca
 therapeuticcars.com
 theroot.black.news
@@ -31387,6 +31395,7 @@ wats.gogoinflight.com
 watson.microsoft.com
 wave.getonthewave.com
 waveinverter.com
+wavesmachine.com
 wavrlh.cedok.cz
 wavzlt.michaelstars.com
 waxsirens.com
