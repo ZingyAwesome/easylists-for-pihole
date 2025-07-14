@@ -841,6 +841,7 @@ data.woosmap.com
 data2.gosquared.com
 datadog-service.mvfglobal.com
 dcinfos-cache.abtasty.com
+dd.garena.com
 dep.hmgroup.com
 dfanalytics.dealerfire.com
 dgcollector.evidon.com
@@ -39936,6 +39937,7 @@ analytics.cosmonova.net
 counter.nv.ua
 counter.ukr.net
 remp.nv.ua
+stats.itc.ua
 target.ukr.net
 analytics.aita.gov.vn
 log.ttbc-hcm.gov.vn
