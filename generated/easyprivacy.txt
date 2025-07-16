@@ -10269,6 +10269,7 @@ experienceplatform.avaya.com
 experiences.cibc.com
 experiences.simplii.com
 experiencia.coopecaja.fi.cr
+experiments.parsely.com
 experiments.sparanoid.net
 expertise.logarithmicsolutions.com
 experts.actonservice.com
@@ -28986,6 +28987,7 @@ tqtedm.kosmetik.at
 tqvacq.intrend.it
 tqxpnv.bauhaus.info
 tr-business.vodafone.com
+tr-experiments.parsely.com
 tr-ms.profilo.com
 tr-op.datatrics.com
 tr1.kaspersky.ca
@@ -29820,6 +29822,7 @@ tracking.umms.org
 tracking.unisabana.edu.co
 tracking.univtec.com
 tracking.unrealengine.com
+tracking.upfluence.co
 tracking.usj.es
 tracking.utas.edu.au
 tracking.ventingdirect.com
