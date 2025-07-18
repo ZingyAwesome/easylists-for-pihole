@@ -3549,6 +3549,7 @@ afficv.lettuce.co.jp
 affilate.hh.ru
 affiliate-api.raptive.com
 affiliate.kgcshop.jp
+affiliate.kinguin.net
 affiliate.logitravel.com
 affiliate.ouchi.coop
 affiliate.petitwedding.com
@@ -4041,6 +4042,7 @@ analytics.kkb.com.tr
 analytics.klickly.com
 analytics.komiku.org
 analytics.kongregate.io
+analytics.kurocore.com
 analytics.laregione.ch
 analytics.lasegunda.ecn.cl
 analytics.lemoolah.com
@@ -26142,6 +26144,7 @@ spookystitch.com
 spoonsilk.com
 sportsnearby.com
 sportyforum.com
+spotlersearchanalytics.com
 spotlessstamp.com
 spottednoise.com
 spread.epoolers.com
