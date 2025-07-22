@@ -1365,6 +1365,7 @@ stats.senty.com.au
 stats.shopify.com
 stats.slashed.cloud
 stats.smartclip.net
+stats.spreadsimple.com
 stats.tiktoker.win
 stats.topofblogs.com
 stats.uscreen.io
@@ -1451,6 +1452,7 @@ tags.dxmdp.com
 tags.fullcontact.com
 tags.master-perf-tools.com
 tags.pw.adn.cloud
+tagservice.maximus.mobkoi.com
 tagtracking.vibescm.com
 target.mixi.media
 td.doubleclick.net
@@ -14282,7 +14284,6 @@ sstats.backcountry.com
 sstats.bbt.com
 sstats.belgiantrain.be
 sstats.bever.nl
-sstats.bitdefender.com
 sstats.bnpparibasfortis.be
 sstats.bonappetit.com
 sstats.bookhostels.com
