@@ -6858,6 +6858,7 @@ clicks.tyuwq.com
 clicks.variis.com
 clicks2.hqo.co
 clickserver.libero.it
+clickstream.sberbank.ru
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-analytics.mts.ru
@@ -8939,6 +8940,7 @@ dmcnyf.nevzatonay.com
 dmdgdu.atmosphera.com
 dmepyodjotcuks.com
 dmkt.solutions.cas.org
+dmndfrcstng.com
 dmp.citynews.ovh
 dmpmetrics.rcsmetrics.it
 dmpxs.com
@@ -26535,7 +26537,6 @@ sstats.backcountry.com
 sstats.bbt.com
 sstats.belgiantrain.be
 sstats.bever.nl
-sstats.bitdefender.com
 sstats.bnpparibasfortis.be
 sstats.bonappetit.com
 sstats.bookhostels.com
@@ -27550,6 +27551,7 @@ stats.southernphone.com.au
 stats.spark.co.nz
 stats.sparkloop.app
 stats.splinder.com
+stats.spreadsimple.com
 stats.spreadtheworld.net
 stats.sprune.com
 stats.sqlteam.com
@@ -28290,6 +28292,7 @@ tags.klove.com
 tags.pw.adn.cloud
 tags.soloway.ru
 tags.stepstone.com
+tagservice.maximus.mobkoi.com
 tagtracking.vibescm.com
 takigx.tourneau.com
 takingbackjuly.com
