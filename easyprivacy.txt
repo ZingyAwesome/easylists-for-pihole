@@ -103,6 +103,7 @@ dkotrack.com
 dlxpix.net
 dm-event.net
 dmepyodjotcuks.com
+dmndfrcstng.com
 dmpxs.com
 domself.de
 doublestat.info
@@ -1136,6 +1137,7 @@ onespot-tracking.herokuapp.com
 oply.hearstapps.com
 optimeeze.appspot.com
 p.cquotient.com
+p.jmlp.app
 p.metrilo.com
 p.placed.com
 p.skimresources.com
@@ -1902,6 +1904,7 @@ stats.digital-natives.de
 stats.frankfurterneuepresse.de
 stats.united-domains.de
 stats.urban-media.com
+t.cpurls.net
 t.etraveli.com
 t.nativendo.de
 t.quisma.com
@@ -2300,6 +2303,7 @@ banstat.nadavi.net
 browser-updater.yandex.net
 c.bigmir.net
 cdn-rum.ngenix.net
+clickstream.sberbank.ru
 client-analytics.mts.ru
 cnstats.cdev.eu
 cnt.logoslovo.ru
@@ -38920,6 +38924,7 @@ tagm.eduscho.at
 tgw.gmx.ch
 tgw.gmx.net
 tgw.web.de
+time.aktion-mensch.de
 timing.uhrforum.de
 tm.swp.de
 tr.wbstraining.de
