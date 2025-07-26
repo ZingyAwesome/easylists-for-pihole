@@ -4,8 +4,7 @@ const config: Config.InitialOptions = {
     clearMocks: true,
     transform: {
         "^.+\\.ts$": ["ts-jest", {
-            tsconfig: "tsconfig.jest.json",
-            isolatedModules: true
+            tsconfig: "tsconfig.json"
         }]
     },
     testRegex: "(test|test-generated)/.*.test.ts$",

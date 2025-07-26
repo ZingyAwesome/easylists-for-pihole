@@ -1,5 +1,5 @@
 {
-    "extends": "./node_modules/@tsconfig/node22/tsconfig.json",
+    "extends": "@tsconfig/node22",
     "compilerOptions": {
         "strict": false,
         "verbatimModuleSyntax": false,
@@ -10,7 +10,9 @@
             "~src/*": ["src/*"],
             "~test/*": ["test/*"],
             "~resources/*": ["resources/*"]
-        }
+        },
+        "forceConsistentCasingInFileNames": true,
+        "isolatedModules": true
     },
     "include": ["./src/**/*", "./test/**/*", "./test-generated/**/*", "./resources/**/*", "./*.ts"]
 }

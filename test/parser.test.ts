@@ -91,7 +91,7 @@ describe("Test parser", () => {
         });
         it("Should handle all inputs", async () => {
             const stats: Stats = await parse();
-            expect(mockWriteFile).toBeCalledTimes(6); // 2 generated + 4 raw
+            expect(mockWriteFile).toHaveBeenCalledTimes(6); // 2 generated + 4 raw
             expect(mockWriteFile.mock.calls[4]).toEqual([
                 "../generated/target1.txt",
                 [
