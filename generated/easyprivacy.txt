@@ -5386,6 +5386,7 @@ ask.antalis.pt
 ask.antalis.ro
 ask.antalis.se
 ask.wearelistening.co.nz
+askdriver.com
 asnjih.apatchy.co.uk
 asoewk.jaanuu.com
 asp.taishokunext.com
@@ -10690,6 +10691,7 @@ fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
 fpadga.mcruises.ru
 fpapi.io
+fpaudience.com
 fpb8.esce.fr
 fpc.acpinternist.org
 fpc.acpjournals.org
