@@ -140,6 +140,7 @@ ffe390afd658c19dcbf707e0597b846d.de
 fn-pz.com
 fourtimessmelly.com
 fpapi.io
+fpaudience.com
 fpcdn.io
 fptls.com
 fptls2.com
@@ -584,6 +585,7 @@ analytics.klickly.com
 analytics.kongregate.io
 analytics.lemoolah.com
 analytics.livestream.com
+analytics.loadweb.com
 analytics.logsss.com
 analytics.lunaweb.cloud
 analytics.m7g.twitch.tv
@@ -649,6 +651,7 @@ analytics.ynap.biz
 analytics.yola.net
 analytics.yolacdn.net
 analytics.yollamedia.com
+analytics.yyggames.com
 analytics.ziftsolutions.com
 analytics1.vdo.ai
 analyticsehnwe.servicebus.windows.net
@@ -728,6 +731,7 @@ castify-trk.playitviral.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
 cdn-channels-pixel.ex.co
+cdn-eu.usefathom.com
 cdn.polarbyte.com
 cdn.ravm.tv
 cdns.brsrvr.com
@@ -1639,7 +1643,6 @@ trx-cdn.zip.co
 trx.zip.co
 try.abtasty.com
 ts.tradetracker.net
-tzm.px-cloud.net
 uaas.yandex.ru
 ubm.docu.info
 ucounter.ucoz.net
@@ -1731,6 +1734,7 @@ d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1tbj6eaenapdy.cloudfront.net
+d1tqsoh7s4xjz9.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
@@ -2280,6 +2284,7 @@ neurotrack.neurolake.io
 pageviews.tray.com.br
 pixel.leadlovers.app
 sat.soluall.net
+scripts.dadata.com.br
 segmentor.snowfox-ai.com
 statistic.audima.co
 stats.gridmidia.com.br
@@ -3013,6 +3018,7 @@ t.ionos.com
 t.jossandmain.com
 t.kck.st
 t.nypost.com
+t.optiwizehealth.com
 t.pagesix.com
 t.perigold.com
 t.poki.io
