@@ -1533,6 +1533,7 @@ track.zappos.com
 tracker-dot-optimeeze.appspot.com
 tracker-server.high-cdn.com
 tracker-v4.gamedock.io
+tracker.3dissue.com
 tracker.affirm.com
 tracker.au.zitcha.app
 tracker.beezup.com
@@ -3053,6 +3054,7 @@ telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.canva.com
 telemetry.firez.one
+telemetry.proton.me
 telemetry.tradingview.com
 tgt.maep.ibm.com
 thtk.temu.com
@@ -39874,7 +39876,6 @@ cs42.pikabu.ru
 cs43.pikabu.ru
 cvt1.sibnet.ru
 data.glamour.ru
-ga.finam.ru
 link.subscribe.ru
 log.dzen.ru
 log.ren.tv
