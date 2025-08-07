@@ -778,6 +778,7 @@ collector.automote.co.nz
 collector.clareity.net
 collector.getyourguide.com
 collector.mazeberry.com
+collector.net-logger.com
 collector.sspinc.io
 collector5.zipy.ai
 commerce.bing.com
@@ -877,6 +878,7 @@ eel.transistor.fm
 enc-90128738.b-cdn.net
 eq.userneeds.com
 era.easyvoyage.com
+error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 errors.snackly.co
 et.educationdynamics.com
