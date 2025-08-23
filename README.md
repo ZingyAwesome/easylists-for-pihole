@@ -19,7 +19,6 @@ The following lists are included:
 - [EasyList Spanish](https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/spanish.txt)
 
 ## Usage instructions
-[!IMPORTANT]
 Use the raw URLs when adding lists. You can copy them from  above or open the list you want, click the **Raw** button and copy the URL.
 
 <details>
@@ -44,6 +43,4 @@ Use the raw URLs when adding lists. You can copy them from  above or open the li
 </details>
 
 ## List requests
-To request a list to be added, create an issue on [Codeberg](https://codeberg.org/ZingyAwesome/easylists-for-pihole/issues/new) (preferred) or [GitHub](https://github.com/ZingyAwesome/easylists-for-pihole/issues/new). Include the URL of the list and whether it is language-specific.
-[!IMPORTANT]
-Only requests for EasyList-related lists will be considered.
+To request a list to be added, create an issue on [Codeberg](https://codeberg.org/ZingyAwesome/easylists-for-pihole/issues/new) (preferred) or [GitHub](https://github.com/ZingyAwesome/easylists-for-pihole/issues/new). Include the URL of the list and whether it is language-specific. **Only requests for EasyList-related lists will be considered**.
