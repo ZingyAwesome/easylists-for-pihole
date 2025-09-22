@@ -1,6 +1,7 @@
 rtbuzz.net
 shoppydoo.com
 ad.citynews.it
+adsystem.pages.dev
 adtech.vivimedia.it
 advx.esprimo.com
 affiliatetxt.nextmediaweb.com
