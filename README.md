@@ -15,6 +15,7 @@ The following lists are included:
 - [EasyList German](https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/german.txt)
 - [EasyList Hebrew](https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/hebrew.txt)
 - [EasyList Italian](https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/italian.txt)
+- [EasyList Lithuanian](https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/lithuanian.txt)
 - [EasyList Russian](https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/russian.txt)
 - [EasyList Spanish](https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/spanish.txt)
 
