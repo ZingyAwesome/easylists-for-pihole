@@ -5718,6 +5718,7 @@ pub.nyu-nyu.com
 reclame.lequipement.fr
 regie.hiwit.org
 regie.story-fr.com
+regie.tendancehotellerie.fr
 sbx.pagesjaunes.fr
 securite.01net.com
 shoppingbox.liberation.fr
