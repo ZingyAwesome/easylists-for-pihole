@@ -9,6 +9,7 @@ consent.digiapi.com
 consent.nitrocnct.com
 consent.prointernet.com
 consent.standardadmin.org
+cookie-bar.conversionbear.com
 cookie.consents.app
 cookie.pearshealthcyber.com
 cookieapi.incomit.dk
