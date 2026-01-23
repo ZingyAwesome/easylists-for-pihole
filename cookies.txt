@@ -24,6 +24,7 @@ macaron-cookie-data.decms.eu
 messaging.sourcepoint.com
 optanon.blob.core.windows.net
 plugin.management
+privacy-api-eu1.clym.io
 privacy-cdn.sixfifty.com
 ressource.gdpr-banner.awsmpsa.com
 smarteucookiebanner.upsell-apps.com
@@ -67,6 +68,7 @@ consent.shutterfly.com
 consent.stuff.tv
 consent.thecountrysmallholder.com
 consent.thegreatoutdoorsmag.com
+consent.wegotthiscovered.com
 cookie-consent.festo.com
 cookie.marsus.digital
 cookiebot.inkarnate.com
