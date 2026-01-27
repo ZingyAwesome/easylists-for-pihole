@@ -958,6 +958,7 @@ ecommerce-events.adscale.com
 ecommstats.s3.amazonaws.com
 eel.transistor.fm
 enc-90128738.b-cdn.net
+epsilon.6sense.com
 eq.userneeds.com
 era.easyvoyage.com
 error-analytics-production.shopifysvc.com
@@ -1761,6 +1762,7 @@ tracking.wisepops.com
 tracking1.brandmentions.com
 tracking2.channeladvisor.com
 trackla.stackla.com
+traction.technologyadvice.com
 traffic.acwebconnecting.com
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
