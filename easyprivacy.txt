@@ -432,7 +432,6 @@ tw.cx
 ugdturner.com
 uidapi.com
 uimarketpro.com
-unidays.world
 uqd.io
 usrpubtrk.com
 ustat.info
@@ -1151,6 +1150,7 @@ literally-analytics.appspot.com
 livecounter.theyosh.nl
 livestats.kaltura.com
 lma.npaw.com
+loader.mantis-intelligence.com
 log-pq.shopfully.cloud
 log.aimtell.com
 log.cookieyes.com
@@ -3215,6 +3215,7 @@ stats.videasy.net
 stats.vk-portal.net
 stats.wordpress.com
 stats.wwitv.com
+stats2.helpmonks.com
 stats2.mytuner.mobi
 statsegg.cdngeek.com
 storage.lulu-row1.com
