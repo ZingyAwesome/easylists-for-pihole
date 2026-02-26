@@ -102,7 +102,6 @@ convertlink.com
 counter247.live
 cpx.to
 cr-relay.com
-crcldu.com
 crossengage.io
 cvlb.dev
 cybba.solutions
@@ -1063,6 +1062,7 @@ fp-cdn.azureedge.net
 fp-flame.vercel.app
 frog.editorx.com
 fs-client-logger.herokuapp.com
+fst-ec.perimeterx.net
 ftm.fluencyinc.co
 future-fie-assets.co.uk
 future-price.co.uk
