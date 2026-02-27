@@ -1430,6 +1430,7 @@ session.timecommerce.net
 sessions.embeddables.com
 sftrack.searchforce.net
 sgali-mcs.byteoversea.com
+sgm-w.jd.com
 shared.65twenty.com
 shopify-webhooks.sailthru.com
 slackb.com
@@ -2065,6 +2066,7 @@ events.onet.pl
 fd.bawag.at
 geo.mtvnn.com
 geo.xcel.io
+grafana-agent.cuboxx.io
 hbx.df-srv.de
 live.cxo.name
 liveviewer.ez.no
@@ -2771,6 +2773,7 @@ c.vogue.com
 c.wired.com
 c.wort-suche.com
 c.xbox.com
+cactus.joybuy.com
 cdapi.collegedunia.com
 chloro.trip.com
 chronicle.medal.tv
@@ -2782,6 +2785,7 @@ click.nudevista.com
 clickins.slixa.com
 client-log.box.com
 client-metrics.chess.com
+clk-m.joybuy.com
 clp-mms.cloudpro.co.uk
 cm-mms.coachmag.co.uk
 cm.nordvpn.com
@@ -2962,6 +2966,7 @@ gtreus.aliexpress.com
 gurgle.pcmag.com
 gurgle.spiceworks.com
 h031.familydollar.com
+h5log.joybuy.com
 health-metrics-api.setapp.com
 heap.drop.com
 hlogger.heraldcorp.com
@@ -39255,6 +39260,7 @@ tracking.tsladies.de
 tracking.zaertlicheladies.de
 tracking.zierlicheladies.de
 tracksrv.zdf.de
+ud.galaxus.de
 vfd2dyn.vodafone.de
 wa.gmx.ch
 wa.gmx.net
