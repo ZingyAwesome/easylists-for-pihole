@@ -872,6 +872,7 @@ collector5.zipy.ai
 commerce.bing.com
 commercial-analytics-collector.news.co.uk
 conan.screencast-o-matic.com
+conduit.redfast.com
 confiant-integrations.global.ssl.fastly.net
 connect.idocdn.com
 connext-cdn.azureedge.net
@@ -960,6 +961,7 @@ dl.episerver.net
 doh.cq0.co
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
+doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dx.mountain.com
 dynamic.ziftsolutions.com
@@ -1647,6 +1649,7 @@ tr.standardadmin.org
 tr.thecontentserver.com
 tr.vitals.co
 tr.webantenna.info
+tr6.snapchat.com
 traccoon.intellectsoft.net
 trace.swaven.com
 track-dark-bz.b-cdn.net
@@ -1835,6 +1838,7 @@ vortex.data.microsoft.com
 vplayeranalytics.vidgyor.com
 vst.sibnet.ru
 vstat.borderlessbd.com
+vtrk.dv.tech
 w4o7aea80ss3-a.akamaihd.net
 watchtower.graindata.com
 wco.crownpeak.com
@@ -3209,6 +3213,7 @@ sp.cargurus.co.uk
 sp.ecosia.org
 sp.justwatch.com
 sp.pcoptimum.ca
+sp.pluto.tv
 sp.welcometothejungle.com
 spaning.creavite.co
 spectrum.gettyimages.com
@@ -15706,7 +15711,6 @@ ut.iggroup.com
 ut.upmc.com
 value.register.com
 vdmwntw1of9t8xgd.edge41.testandtarget.omniture.com
-visit.asb.co.nz
 visitor.novartisoncology.us
 visualscience.external.bbc.co.uk
 vs.target.com
