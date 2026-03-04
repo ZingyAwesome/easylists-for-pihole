@@ -1836,6 +1836,7 @@ video-analytics-api.cloudinary.com
 video-intel.pixels.ai
 videoevents.outbrain.com
 vitals.flyingpress.com
+vm.target-video.com
 vortex.data.microsoft.com
 vplayeranalytics.vidgyor.com
 vst.sibnet.ru
@@ -14153,6 +14154,7 @@ somni.sundancecatalog.com
 somni.suntrust.com
 somni.superonline.net
 somni.syf.com
+somni.syfpayments.com
 somni.synchrony.com
 somni.synchronybank.com
 somni.synchronybusiness.com
@@ -37285,7 +37287,6 @@ join.step.com
 join.stuypend.com
 join.talker.network
 join.thekrishi.com
-join.tlon.io
 join.travelxp.com
 join.vibely.io
 join.vtail.co
