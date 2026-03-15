@@ -7,6 +7,7 @@ cmp.setupcmp.com
 consent.dadoslegais.com
 consent.digiapi.com
 consent.nitrocnct.com
+consent.preference-center.com
 consent.prointernet.com
 consent.standardadmin.org
 cookie-bar.conversionbear.com
