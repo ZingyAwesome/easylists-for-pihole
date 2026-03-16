@@ -1370,6 +1370,7 @@ px.owneriq.net
 pylon.micstatic.com
 qubitanalytics.appspot.com
 query1.petametrics.com
+r.sdiapi.net
 r.skimresources.com
 r.winf.site
 ramp.purch.com
@@ -1599,6 +1600,7 @@ tag.brandcdn.com
 tag.digops.sincro.io
 tag.elevaate.io
 tag.flagship.io
+tag.gendiscover.com
 tag.getamigo.io
 tag.imagino.com
 tag.lexer.io
