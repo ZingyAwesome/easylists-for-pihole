@@ -3001,8 +3001,6 @@ intent.macworld.co.uk
 intent.pcworld.idg.com.au
 intent.techadvisor.com
 internal-analytics.odoo.com
-internal-e.posthog.com
-internal-t.posthog.com
 intg.snapchat.com
 intuitvisitorid.api.intuit.com
 ip.cliphunter.com
@@ -3117,6 +3115,7 @@ pac.thetimes.com
 papi.stylar.ai
 pappagallu.onefootball.com
 pcp.coupert.com
+pepin.padlet.com
 perf.mouser.com
 performance-logger.minted.com
 perr.hola.org
