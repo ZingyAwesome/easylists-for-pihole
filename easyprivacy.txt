@@ -756,6 +756,7 @@ az.nzn.io
 az693360.vo.msecnd.net
 b.bedop.com
 b7tp47v2nb3x-a.akamaihd.net
+banner.appsflyersdk.com
 barium.cheezdev.com
 bat.bing.com
 bat.bing.net
@@ -1070,6 +1071,7 @@ fst-ec.perimeterx.net
 ftm.fluencyinc.co
 future-fie-assets.co.uk
 future-price.co.uk
+fvalid.appsflyersdk.com
 g.msn.com
 g2insights-cdn.azureedge.net
 ga-beacon.appspot.com
@@ -1268,6 +1270,7 @@ observer.ip-label.net
 obseu.netgreencolumn.com
 oda.markitondemand.com
 olytics.omeda.com
+onelinksmartscript.appsflyersdk.com
 onespot-tracking.herokuapp.com
 oply.hearstapps.com
 optimeeze.appspot.com
@@ -1847,6 +1850,7 @@ vst.sibnet.ru
 vstat.borderlessbd.com
 vtrk.dv.tech
 w4o7aea80ss3-a.akamaihd.net
+wa.appsflyersdk.com
 watchtower.graindata.com
 wco.crownpeak.com
 wds.weqs.me
@@ -1855,6 +1859,7 @@ web-tracker.smsbump.com
 web-vitals-script.leaderint.workers.dev
 web1.51.la
 websdk.appsflyer.com
+websdk.appsflyersdk.com
 webservices.websitepros.com
 webstats.thaindian.com
 webtrack.chd01.com
