@@ -1166,6 +1166,7 @@ leads.whatboxdigital.com
 leadtracking.plumvoice.com
 lh.bigcrunch.com
 lift.acquia.com
+link.bhvr.com
 link.informer.com
 links.voyeurweb.com
 lit.connatix.com
@@ -1419,6 +1420,7 @@ rum.perfops.net
 rum.uptime.com
 rumstat.cdnvideo.ru
 rw.marchex.io
+rybbit.sg-app.com
 s.autopilotapp.com
 s.axon.ai
 s.beop.io
@@ -1578,6 +1580,7 @@ t.ghostboard.io
 t.greenbids.ai
 t.irtyc.com
 t.jobsyn.org
+t.ltiquery.com
 t.menepe.com
 t.metrilo.com
 t.mydialoginsight.com
@@ -2688,6 +2691,7 @@ amplitude.chess.com
 ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
+anal.billingserv.com
 anal.doubledouble.top
 analytics-batch.blitz.gg
 analytics-dataplane.invideo.io
@@ -2726,6 +2730,7 @@ analytics.maxroll.gg
 analytics.ml.homedepot.ca
 analytics.morphe.software
 analytics.mouthshut.com
+analytics.netralex.com
 analytics.nike.com
 analytics.ovh.com
 analytics.oyorooms.com
@@ -3105,6 +3110,7 @@ nr.noelleeming.co.nz
 observe.metarouter.io
 ocular.hotukdeals.com
 ohm-dot-hackster-io.appspot.com
+op.dragonfru.it
 ophan.theguardian.com
 optimizely.techtarget.com
 otel-mobile.doordash.com
@@ -3407,6 +3413,7 @@ trk.tirto.id
 trx3.famousfix.com
 ts.delfi.lt
 two.cm.com
+u.strike.bz
 u1sdata.webullfintech.com
 ua.indianexpress.com
 ubuyanalytics.ubuy.com
@@ -40214,6 +40221,7 @@ sync.rambler.ru
 t.sports.ru
 telemetry.dzen.ru
 top-staging.mail.ru
+traces.youdo.com
 vstat.rtr-vesti.ru
 xray.mail.ru
 yast.rutube.ru
