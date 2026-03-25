@@ -2323,6 +2323,7 @@ analytics2-meride-tv.akamaized.net
 audit.shaa.it
 click.kataweb.it
 cnt.iol.it
+collector-ovp.streamcloud.it
 dmp.citynews.ovh
 dmpcdn.el-mundo.net
 dmpmetrics.rcsmetrics.it
@@ -2967,6 +2968,7 @@ g.pcmag.com
 ga.nsimg.net
 gak.webtoons.com
 gct.americanexpress.com
+gdpr.netralex.com
 geo.brobible.com
 geo.nbcsports.com
 geo.yahoo.com
@@ -40210,6 +40212,7 @@ otel-collector.lenta.tech
 pixels.boxberry.ru
 radar.imgsmail.ru
 ssp.rambler.ru
+st.nic.ru
 stat.5-tv.ru
 stat.api.2gis.ru
 stat.bankiros.ru
