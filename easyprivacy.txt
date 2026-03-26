@@ -1017,6 +1017,7 @@ events.attentivemobile.com
 events.audiate.me
 events.brightline.tv
 events.btw.so
+events.codainfra.com
 events.demoup.com
 events.devcycle.com
 events.elev.io
@@ -3296,6 +3297,7 @@ szrpr.raen.com
 t.9gag.com
 t.airasia.com
 t.allmodern.com
+t.almayadeen.net
 t.appsflyer.com
 t.av.st
 t.birchlane.com
@@ -39724,6 +39726,7 @@ dd.leboncoin.fr
 dd.seloger-bureaux-commerces.com
 dd.seloger.com
 dd.selogerneuf.com
+ddm.frandroid.com
 e.legalstart.fr
 events-logs.doctolib.com
 events.verifymy.io
