@@ -1368,6 +1368,7 @@ pt.ispot.tv
 ptsc.shoplocal.com
 pub.sheknows.com
 public.9gtb.com
+public.profitwell.com
 pulse.ecmapps.com
 pulse.shopflo.com
 px.marchex.io
@@ -2118,6 +2119,7 @@ stats.frankfurterneuepresse.de
 stats.united-domains.de
 stats.urban-media.com
 t.cpurls.net
+t.elitedomains.de
 t.etraveli.com
 t.nativendo.de
 t.quisma.com
@@ -2654,6 +2656,7 @@ sayac.kapital.com.tr
 statistics.daktilo.com
 stats.vidyome.com
 track.livasoft.com.tr
+tracker.adcluster.com.tr
 traffic.wdc.center
 informers.sinoptik.ua
 tracker.multisearch.io
