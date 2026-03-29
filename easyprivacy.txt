@@ -1128,6 +1128,7 @@ identification.hotmart.com
 ihi.flowplayer.com
 imp.pvnsolutions.com
 impress.vcita.com
+impression.appsflyer.com
 inbound-analytics.pixlee.co
 infinityid.condenastdigital.com
 informer.yandex.ru
@@ -1273,6 +1274,7 @@ observer.ip-label.net
 obseu.netgreencolumn.com
 oda.markitondemand.com
 olytics.omeda.com
+onelinksmartscript.appsflyer.com
 onelinksmartscript.appsflyersdk.com
 onespot-tracking.herokuapp.com
 oply.hearstapps.com
@@ -1435,6 +1437,7 @@ sa.scorpion.co
 science.ctf.gg
 scripts.psyma.com
 sd-tagging.azurefd.net
+sdk.appsflyer.com
 sdrive.skoda-auto.com
 sdtagging.azureedge.net
 secure-stats.pingdom.com
