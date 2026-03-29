@@ -75,6 +75,7 @@ cookie.marsus.digital
 cookiebot.inkarnate.com
 cookies.giphy.com
 cookies.lmt.lv
+cp.insideevs.com
 cscript-cdn-irl.abb.com
 fuse.forbes.com
 gdpr-api.sharethis.com
