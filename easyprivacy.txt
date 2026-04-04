@@ -894,6 +894,7 @@ count.carrierzone.com
 count.me.uk
 count.paycounter.com
 count.xxxssk.com
+counter-growthbook.minute-ly.com
 counter.bloke.com
 counter.cam-content.com
 counter.hyipexplorer.com
@@ -1144,7 +1145,6 @@ insitez.blob.core.windows.net
 intake-analytics.wikimedia.org
 invite.leanlab.co
 invitejs.trustpilot.com
-ip-check-perf.radar.cloudflare.com
 ip.lovely-app.com
 ip.momentummedia.com.au
 iq.sixaxisllc.com
@@ -1965,6 +1965,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2lyx5ly60ksu3.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
+d2o9p5vky89u4e.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
@@ -2808,6 +2809,7 @@ c.wort-suche.com
 c.xbox.com
 cactus.joybuy.com
 cdapi.collegedunia.com
+cdn.eaec.fpfis.tech.ec.europa.eu
 chloro.trip.com
 chronicle.medal.tv
 cl.canva.com
@@ -3211,6 +3213,7 @@ relay.fiverr.com
 reports.tunein.com
 rfk.biglots.com
 ring.staticmoly.me
+roas-service.store-services-prod.remarkable.com
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
 rs.mail.ru
@@ -39252,6 +39255,7 @@ t.wayfair.de
 t2.aboutyou.de
 tagm.eduscho.at
 tapi.kaufda.de
+telemetry.portal.voltdeutschland.org
 tgw.gmx.ch
 tgw.gmx.net
 tgw.web.de
