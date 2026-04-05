@@ -828,6 +828,7 @@ cdns.brsrvr.com
 cf-pixelfront-analytics.widencdn.net
 cf.api.instant.one
 cf.overblog.com
+cfapi.upstackdata.io
 cgicounter.oneandone.co.uk
 cgicounter.puretec.de
 chanalytics.merchantadvantage.com
@@ -987,6 +988,7 @@ eq.userneeds.com
 era.easyvoyage.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
+error-tracker.pages.dev
 errors.snackly.co
 essential-apps-analytics.herokuapp.com
 et.educationdynamics.com
