@@ -3083,6 +3083,7 @@ megatron.igraal.com
 metis.truecaller.com
 metrics.audius.co
 metrics.camsoda.com
+metrics.documentfoundation.org
 metrics.freemake.com
 metrics.hackerrank.com
 metrics.hyperliquid.xyz
