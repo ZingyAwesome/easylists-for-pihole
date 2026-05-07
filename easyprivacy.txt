@@ -991,6 +991,7 @@ direct-collect.dy-api.eu
 direct-events-collector.spot.im
 distillery.wistia.com
 dl.episerver.net
+dmg-libs.anm.co.uk
 doh.cq0.co
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
@@ -32846,7 +32847,6 @@ ad.aim-universe.co.jp
 ad.aucfan.com
 ad.aucview.com
 ad.autorace.jp
-ad.kddi-fs.com
 ad.ordersuit.info
 ad.takasu.co.jp
 ad.tempstaff.co.jp
