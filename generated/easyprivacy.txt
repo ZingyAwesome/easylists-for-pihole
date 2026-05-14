@@ -10207,6 +10207,7 @@ esca-test.mno.link
 esca.mno.link
 eschsupply.actonservice.com
 eservices.lubetech.com
+esoterictools.com
 espaniapizza.openapp.link
 espressoroom.openapp.link
 espy.boehs.org
@@ -10581,6 +10582,7 @@ f928.pandasuite.io
 fabcharting.com
 fabledsoul.com
 fabryczna.viessmann.pl
+fabulousbooking.com
 fac.fanucamerica.com
 face2.ishoppingapp.com
 facetwealth.actonservice.com
@@ -15533,6 +15535,7 @@ logx-experimentation.iherb.com
 logx.optimizely.com
 lonelyflavor.com
 longingtrees.com
+longloops.com
 loobmf.hardloop.fr
 look-ahead.nurturemarketing.com
 loopcybersec.com
@@ -18955,6 +18958,7 @@ microsite.standardandpoors.com
 microsoft.eventionapp.com
 microware.actonservice.com
 midas.chase.com
+midnightmead.com
 mie-solutions.actonservice.com
 miexgq.forevernew.co.nz
 mightyspiders.com
@@ -20492,6 +20496,7 @@ pdsgaj.piquadro.com
 pduwvp.chanti.dk
 pdzutf.sftworks.jp
 peacefullimit.com
+peakcreator.com
 peards.zevvle.com
 pearpouch.com
 pedropanther.com
@@ -29297,7 +29302,6 @@ test.open.ggwpacademy.com
 test.openapp.link
 test.paradyz.com
 test.pooler.io
-test.showvid.ws
 test.siriusdecisions.com
 test.smrtp.link
 test.spenn.com
