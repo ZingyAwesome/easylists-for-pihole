@@ -35,6 +35,7 @@ wm-space.youero.com
 1t2.kicker.de
 a.zdg.de
 a3.zdg.de
+acdn.literatur-couch.de
 ad.dl.dewezet.de
 ad.dslr-forum.de
 ad.games.ch
