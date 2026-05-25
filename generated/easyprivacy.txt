@@ -10351,6 +10351,7 @@ event-service.letslinc.com
 event-store.sitebehaviour.com
 event-stream.spot.im
 event-tracker-library.mediaownerscloud.com
+event-tracker.inditex.com
 event-tracking.hellohealthgroup.com
 event.api.drift.com
 event.api.instant.one
@@ -31131,6 +31132,7 @@ tugngs.tui.com
 tumbleicicle.com
 tune.sckmediatv.com
 tuneupcoffee.com
+tuplebar.com
 turboeagle.co
 turbolion.io
 turtleface.net
