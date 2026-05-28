@@ -3784,6 +3784,7 @@ amplitude.chess.com
 ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
+ampscamp.net
 ams.lelong.com.my
 ams.oraclecloud.com
 amsunsolar.actonservice.com
@@ -11469,7 +11470,6 @@ glamhawk.com
 glamipixel.com
 glass.autovistagroup.com
 glassbox-hlx-igw.bankofamerica.com
-glasscoyote.com
 glassguide-au.autovistagroup.com
 glassmoni.researchgate.net
 glbgox.djoser.de
@@ -28272,6 +28272,7 @@ stracking.trutv.com
 strackingvanrental.vanrental.de
 straightnest.com
 straindrinks.com
+strandedgame.com
 strangeclocks.com
 strapi.clickjogos.com.br
 strategycompanion.actonservice.com
@@ -29518,6 +29519,7 @@ track.abrdnifn.com
 track.abrdnjapan.co.uk
 track.abrdnnewindia.co.uk
 track.abrdnpit.co.uk
+track.addevent.com
 track.aimroas.com
 track.americansongwriter.com
 track.asiadragontrust.co.uk
