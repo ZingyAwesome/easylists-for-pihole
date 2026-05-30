@@ -1,4 +1,5 @@
 analytics-consent-manager.azureedge.net
+api.consentjs.datagrail.io
 cc.anytrack.de
 ccpa-script.psg.nexstardigital.net
 ccpa.sp-prod.net
