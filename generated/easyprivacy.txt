@@ -3709,6 +3709,7 @@ allinsurance.allinsure.ca
 allnewhost.com
 alloutdubstep.com
 alloy-web.zvuk.com
+alloytitans.com
 allreach.actonservice.com
 allrisks.actonservice.com
 allstarfg.actonservice.com
@@ -5813,6 +5814,7 @@ bat.bing.net
 bat.maydream.com
 baton.cuetv.online
 bats.video.yahoo.com
+battleburst.com
 battlekite.com
 battlenet.openapp.link
 bavvgo.zingat.com
@@ -30891,6 +30893,7 @@ try.tableausoftware.com
 tryzens-analytics.com
 ts-analysis.shoalter.com
 tsa.taxslayer.com
+tsa.webex.com
 tsbkht.puritan.com
 tsbmkf.zonnebrillen.com
 tse.telerama.fr
