@@ -10737,6 +10737,7 @@ financialservices.nada.org
 financialservices.teranet.ca
 find.api.micloud.xiaomi.net.iberostar.com
 findthetruth.allergyai.com
+findyourdelight.com
 findyourinfluence.actonservice.com
 fingerprinter-production.herokuapp.com
 finley.fecinc.com
@@ -11583,7 +11584,6 @@ golfersrow.com
 gomerchant.groupon.com
 gondolagnome.com
 gone.pronhub.fun
-goodbark.com
 google-analytics-cn.com
 googleoptimize-cn.com
 googleoptimize.com
