@@ -6512,6 +6512,7 @@ bzr.openai.com
 bzrcdn.openai.com
 bzuaqh.roan.nl
 c-c-l.actonservice.com
+c-stat.eu
 c-t.topya.com
 c0012.brsimg.com
 c0i.ckoi.com
@@ -13970,6 +13971,7 @@ joinb.rune.ai
 joinsai.securitiesamerica.com
 joinus.holidayseniorliving.com
 joqawz.snipes.nl
+joshpaintings.com
 joskgw.sewingmachinesplus.com
 journey.cisco.com
 journeys.journeyed.com
@@ -27715,6 +27717,7 @@ stats.jdheyburn.co.uk
 stats.jerickson.net
 stats.jhsheridan.com
 stats.jjude.com
+stats.jkdesa.com
 stats.joaopedro.dev
 stats.jsbible.com
 stats.jtrees.io
