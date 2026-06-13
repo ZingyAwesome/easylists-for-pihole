@@ -4179,6 +4179,7 @@ analytics.pgncs.notion.so
 analytics.phn.com
 analytics.picknrg.com
 analytics.piksel.com
+analytics.pingaja.com
 analytics.pipelife.at
 analytics.pipelife.bg
 analytics.pipelife.com
@@ -15251,7 +15252,6 @@ links.teladoc.com
 links.thedyrt.com
 links.theinfatuation.com
 links.thephoenix.org
-links.thriveglobal.com
 links.tlc.com
 links.travelchannel.com
 links.tribe.fitness
@@ -17119,6 +17119,7 @@ mas.marsh.com
 mas.nth.ch
 massivemark.com
 master.cifraclub.com.br
+masterenter.com
 masternaut.actonservice.com
 mastertag.kpcustomer.de
 mat.lgdisplay.com
@@ -19800,6 +19801,7 @@ olziko.maxmara.com
 om-ssl.consorsbank.de
 omadi.actonservice.com
 omcshw.pharmasi.it
+omegaroutes.com
 ometrics.ameds.com
 ometrics.netapp.com
 ometrics.warnerbros.com
@@ -23003,6 +23005,7 @@ sgmntfy.com
 sgms.greatschools.org
 sgsb.aba.com
 sgstats.com
+sgtm.cmoa.jp
 sgtm.tagmanageritalia.it
 sgw-analytics.panasonic.com
 sgwhvw.alura.com.br
@@ -27178,7 +27181,6 @@ staging-go.getsquire.com
 staging-link-ccontact.focuscura.com
 staging-link.docyt.com
 staging-link.kol.store
-staging-links.thriveglobal.com
 staging-pt.ispot.tv
 staging-refer.rooam.co
 staging.findeck.link
@@ -27828,6 +27830,7 @@ stats.newslit.co
 stats.newsweek.com
 stats.nexagon.dk
 stats.nhk.or.jp
+stats.nkkk.de
 stats.nodewood.com
 stats.nonprofit.foundation
 stats.nortonhealthcare.com
@@ -28078,6 +28081,7 @@ stats.varrando.com
 stats.vattenfall.nl
 stats.vattenfall.se
 stats.vdsnow.ru
+stats.velarium.cc
 stats.vican.me
 stats.vidbinge.com
 stats.viddler.com
@@ -28302,6 +28306,7 @@ strongercity.com
 sts.authramp.com
 sts.eccmp.com
 sts.eliasjarzombek.com
+sts.marketingsuite.jp
 sts.papyrs.com
 stscs.ditzo.nl
 stt.bupa.com.au
@@ -29902,8 +29907,6 @@ tracking.care.muschealth.org
 tracking.care.salinasvalleyhealth.com
 tracking.carsales.com.au
 tracking.cdiscount.com
-tracking.cds.dmm.co.jp
-tracking.cds.dmm.com
 tracking.cengage.com
 tracking.cenomicenters.com
 tracking.cerdmann.com
