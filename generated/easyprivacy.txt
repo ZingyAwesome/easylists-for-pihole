@@ -20518,6 +20518,7 @@ pingjs.qq.com
 pingo.staticmoly.me
 pings.conviva.com
 pings.vidpulse.com
+pingsurvey.com
 pinptg.milleni.com.tr
 pint-dev-branch.airship.com
 pipe-collect.ebu.io
@@ -20642,6 +20643,7 @@ plan.devbyexample.com
 planebasin.com
 plans.ceteraretirement.com
 plans.fundtherebuild.com
+plantcourse.com
 plas.imfeld.dev
 platform.iteratehq.com
 platformsolutions.shutterstock.com
