@@ -7205,6 +7205,7 @@ collector.cint.com
 collector.clareity.net
 collector.dgnet.ltd.uk
 collector.ex.co
+collector.feedzop.com
 collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
@@ -7215,11 +7216,13 @@ collector.megaxh.com
 collector.pi.spectrum.net
 collector.pmc.com
 collector.quillbot.com
+collector.quizzop.com
 collector.schibsted.io
 collector.spankbang.party
 collector.sspinc.io
 collector.taoxh.life
 collector.theconversation.com
+collector.umogames.com
 collector.xhaccess.com
 collector.xhamster.com
 collector.xhamster.desi
@@ -7681,6 +7684,7 @@ corporatemrguide.americanexpress.co.uk
 corporatemrguide.americanexpress.de
 corporatepages.proximus.com
 corporateplatino.americanexpress.it
+correctedcode.com
 cortellisconnections.thomsonreuters.com
 cosme.caseepo.jp
 cosmicsculptor.com
