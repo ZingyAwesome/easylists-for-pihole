@@ -11868,6 +11868,7 @@ hearthow.com
 heatmaps.lcisoft.it
 heavydetail.com
 heavyplayground.com
+heimdall.hearstapps.com
 hej.henriksommerfeld.se
 hekhnn.turnkeyvr.com
 helens.actonservice.com
@@ -30920,6 +30921,7 @@ try.tableau.com
 try.tableausoftware.com
 tryzens-analytics.com
 ts-analysis.shoalter.com
+tsa-f.webex.com
 tsa.taxslayer.com
 tsa.webex.com
 tsbkht.puritan.com
