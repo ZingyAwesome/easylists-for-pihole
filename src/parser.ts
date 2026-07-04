@@ -1,5 +1,9 @@
 import type { InputType } from "~resources/input";
 import { getInput } from "~resources/input";
+// Using `got` instead of Node's native fetch (undici): fetch crashes with a libuv assertion
+// on Windows for Node 23.x/24.x - see https://github.com/nodejs/node/issues/56645 (open, unfixed;
+// fix pending in https://github.com/nodejs/node/pull/61999). Revisit native fetch once that lands.
+import got from "got";
 import * as path from "path";
 import { writeFile } from "fs/promises";
 
@@ -17,8 +21,7 @@ const getUniqueLinesSorted = (input: string | string[]): string[] => {
 
 const fetchAllDomainsForSingleTarget = async (targetFile: string, inputUrls: string[], stats?: Stats): Promise<string> => {
     const domains: string[] = await Promise.all(inputUrls.map(async (inputUrl: string, index:number): Promise<string> => {
-        const response: Response = await fetch(inputUrl);
-        const text: string = await response.text();
+        const text: string = await got.get(inputUrl).text();
         const rawFilePath: string = path.join(__dirname, "..", "raw", `${targetFile}-input${index}.txt`);
         await writeFile(rawFilePath, text, { encoding: "utf8" });
         const filteredDomains: string[] = filterDomains(text);
