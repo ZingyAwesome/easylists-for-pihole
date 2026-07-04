@@ -5,7 +5,10 @@
         "verbatimModuleSyntax": false,
         "allowJs": true,
         "noEmit": true,
+        "ignoreDeprecations": "6.0",
         "baseUrl": ".",
+        "rootDir": ".",
+        "types": ["node", "jest"],
         "paths": {
             "~src/*": ["src/*"],
             "~test/*": ["test/*"],
