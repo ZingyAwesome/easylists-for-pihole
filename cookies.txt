@@ -35,6 +35,7 @@ truyoproductionuscdn.truyo.com
 widgets.openli.com
 banner.cookiescan.com
 cb-mms.carbuyer.co.uk
+cdntranscend.eventbrite.com
 cmp-static.nature.com
 cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
