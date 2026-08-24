@@ -84,6 +84,7 @@ gdpr-api.sharethis.com
 gdpr.internetbrands.com
 mms.cmpsky.com
 privacy.claytonhomes.com
+privacy.fcbcookies.cat
 privacypolicy.trgr.be
 sm-sp.followfollow.com
 sourcepoint-mms.aetv.com
