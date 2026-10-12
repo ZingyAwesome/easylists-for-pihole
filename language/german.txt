@@ -43,6 +43,7 @@ as.chartsurfer.de
 banner.click-tt.de
 code.alpin.de
 code.bergsteigen.com
+dnbl.literatur-couch.de
 generic.gmx.net
 generic.web.de
 hybrid-prd.ad-prd.s.joyn.de
