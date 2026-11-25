@@ -3790,6 +3790,7 @@ qfp.intuit.com
 rba-screen.healthsafe-id.com
 rsx.afterpay.com
 svc2.sc.com
+tips.delt.io
 tm-eps.neutrino.nu
 tmetrix.my.chick-fil-a.com
 tmx.bestbuy.com
